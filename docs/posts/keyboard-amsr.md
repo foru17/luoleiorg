@@ -1,17 +1,18 @@
 ---
-title: "2000元 vs 1000元 vs 300元 | 不同价位键盘声音对比"
-date: "2020-05-26"
-categories: 
-  - "tech"
-  - "zuoluotv"
-tags: 
-  - "vlog"
-  - "zuoluotv"
+categories:
+- tech
+- zuoluotv
+cover: https://static.is26.com/vlog/vlog65.jpg
+date: '2020-05-26'
+tags:
+- vlog
+- zuoluotv
+title: 2000元 vs 1000元 vs 300元 | 不同价位键盘声音对比
 ---
 
 ## 在线视频
 
-https://www.youtube.com/watch?v=GnC7dURiFDw
+![](https://static.is26.com/vlog/vlog65.jpg)
 
 - [Bilibili:2000元 vs 1000元 vs 300元 | 不同价位键盘声音对比 | 从入坑到退烧，差别有多大？| AMSR](https://www.bilibili.com/video/BV1ke411W7u3)
 - [YouTube: 2000元 vs 1000元 vs 300元 | 不同价位键盘声音对比 | 从入坑到退烧，差别有多大？| AMSR](https://www.youtube.com/watch?v=GnC7dURiFDw)

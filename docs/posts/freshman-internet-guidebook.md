@@ -1,8 +1,9 @@
 ---
-title: "写给大学新生的数字指南"
-date: "2020-08-15"
-tags: 
-  - "internet"
+cover: https://c2.llyz.xyz/blog/2020/08/guide/g1.JPG
+date: '2020-08-15'
+tags:
+- internet
+title: 写给大学新生的数字指南
 ---
 
 高考，对于大多数年轻的朋友来说是一道门，跨过了这道门，意味着离开封闭的高中，离开了父母和家庭，开始了相对来说更独立的生活。
@@ -69,7 +70,7 @@ tags:
 
 在现实工作生活中，常见有人在注册、联络填写诸如 10242048@qq.com ，18010242048@139.com 之类暴露QQ或者手机号码的邮箱地址。建议使用其他的字母ID替代邮箱账号，避免其他人能够通过邮箱暴露的QQ号或者手机号，找到你的个人信息造成隐私泄露隐患。
 
-![](https://static.is26.com/blog/2020/08/guide/g1.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/guide/g1.JPG)
 
 #### **3.选择合适的邮箱ID**
 
@@ -123,17 +124,17 @@ tags:
 - ID尽量通俗易懂或者有趣
 - 保护隐私则采用反向操作
 
-![](https://static.is26.com/blog/2020/08/guide/g2.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/guide/g2.JPG)
 
 ## 四.微信、QQ隐私设置
 
 现在越来越多人会在朋友圈分享个人生活，不少人过去QQ空间里也存在许多照片，建议大家花上一点时间，修改一下QQ，微信的隐私设置。
 
-![](https://static.is26.com/blog/2020/08/guide/g5.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/guide/g5.JPG)
 
 建议QQ把所有权限都改为「仅自己可见」或者「仅好友可见」
 
-![](https://static.is26.com/blog/2020/08/guide/g4.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/guide/g4.JPG)
 
 微信则关闭「通过手机号添加好友」，朋友圈权限限制在半年或者更短，尤其是女生，你肯定不希望有人拿着你的照片在其他地方骗人。
 
@@ -151,7 +152,7 @@ tags:
 - .me / .co / .io  / .im 等常见域名也可以，如果无法满足上一条，也可以选择这些国别和小众域名，有些价格也不会太贵
 - 域名尽量有特点，个人姓名双拼、多拼，或者中英组合。
 
-![](https://static.is26.com/blog/2020/08/guide/g3.JPG?ver=1)
+![](https://c2.llyz.xyz/blog/2020/08/guide/g3.JPG?ver=1)
 
 ## 六.密码和账号安全管理
 

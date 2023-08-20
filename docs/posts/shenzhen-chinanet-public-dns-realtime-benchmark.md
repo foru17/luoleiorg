@@ -1,8 +1,9 @@
 ---
-title: "深圳电信宽带 / 常用公共 DNS、VPS / 性能 & 稳定性 / 实时监控数据"
-date: "2020-03-17"
-categories: 
-  - "code"
+categories:
+- code
+cover: https://ping.gz.is26.com/ChinaDNS/ChinaNet1_mini.png
+date: '2020-03-17'
+title: 深圳电信宽带 / 常用公共 DNS、VPS / 性能 & 稳定性 / 实时监控数据
 ---
 
 最近优化了下家里的网络，在家里 NAS 里用 docker 部署了一个 [smokeping](https://oss.oetiker.ch/smokeping/) 网络性能测试工具，监控家里网络，到境内外常见 DNS，以及几个自用云服务器的延迟、稳定性。

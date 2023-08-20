@@ -1,13 +1,14 @@
 ---
-title: "摄影师必备的7个小设备 | VLOG14"
-date: "2018-07-22"
-categories: 
-  - "tech"
-  - "zuoluotv"
-tags: 
-  - "zuoluotv"
-  - "photography"
-  - "travel"
+categories:
+- tech
+- zuoluotv
+cover: https://c2.llyz.xyz/default.cover.jpg
+date: '2018-07-22'
+tags:
+- zuoluotv
+- photography
+- travel
+title: 摄影师必备的7个小设备 | VLOG14
 ---
 
 #### 视频

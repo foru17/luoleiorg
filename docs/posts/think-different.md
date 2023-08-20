@@ -1,9 +1,10 @@
 ---
-title: "Think Different"
-date: "2011-10-06"
+cover: https://c2.llyz.xyz/wp-image/2011/10/think-different.jpg "think different"
+date: '2011-10-06'
+title: Think Different
 ---
 
-[![](https://static.is26.com/wp-image/2011/10/think-different-1024x576.jpg "think different")](https://static.is26.com/wp-image/2011/10/think-different.jpg "think different")
+![](https://c2.llyz.xyz/wp-image/2011/10/think-different-1024x576.jpg )
 
 北京时间2011年10月6日，昨晚熬夜的我11点才起床。
 

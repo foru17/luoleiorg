@@ -1,10 +1,11 @@
 ---
-title: "iMac 2015 5K 版外接 USB3.0 硬盘盒+SSD 系统加速体验"
-date: "2015-11-17"
-categories: 
-  - "tech"
-tags: 
-  - "e7a1ace4bbb6"
+categories:
+- tech
+cover: https://c2.llyz.xyz/blog/2015/11/ssd/show.jpg
+date: '2015-11-17'
+tags:
+- e7a1ace4bbb6
+title: iMac 2015 5K 版外接 USB3.0 硬盘盒+SSD 系统加速体验
 ---
 
 公司新配置的电脑是2015版的retina 5k iMac 27\`标准版。全新的机器，刚刚到手的时候还惊喜，想着纳尼公司这么豪配这么高端的Mac，以前在猎豹工作，我们UX部门也只是配2K屏幕的iMac27，前一家公司开发的员工配的是定制的21.5寸的iMac。
@@ -49,7 +50,7 @@ iMac 5k这配置短板效应十分明显，一周体验下来，可以感觉到�
 
 最终，在硬件上，趁着双十一奶茶东搞活动特价，弄了`OCZ ARÇ 100固态硬盘240G`和`世特力 CSS25U3BK6G-7mm特薄移动硬盘盒`的组合方案。
 
-![full-img ](https://static.is26.com/blog/2015/11/ssd/show.jpg)
+![full-img ](https://c2.llyz.xyz/blog/2015/11/ssd/show.jpg)
 
 **注意：外接硬盘盒和SSD需要均支持`UASP`协议，对于系统性能有较大帮助。**
 
@@ -69,19 +70,19 @@ iMac 5k这配置短板效应十分明显，一周体验下来，可以感觉到�
 
 [Carbon Copy Cloner](https://bombich.com/)最新的版本是 4.1.4 ，支持最新的`OS X El Capitan`系统，这是一个收费软件，但是有30天的免费试用期，对于我们这种用一次的用户来说，完全足够了。
 
-![full-img ](https://static.is26.com/blog/2015/11/ssd/clone.png)
+![full-img ](https://c2.llyz.xyz/blog/2015/11/ssd/clone.png)
 
 软件的操作十分简单，在Source选择iMac本身的机械硬盘，Destination选择SSD硬盘即可，还可以选择源硬盘的文件，选择性地备份，我懒得选了，想着全部数据也不多才100多G，就直接开始拷贝了。
 
 > 然而，由于，我的磁盘里有大量的碎小文件。整个拷贝过程大概花费了6-10个小时 ╮(╯\_╰)╭
 
-![full-img ](https://static.is26.com/blog/2015/11/ssd/finish.png)
+![full-img ](https://c2.llyz.xyz/blog/2015/11/ssd/finish.png)
 
 第二天来上班，已经拷贝好了，好像还可以设置任务在完成的时候自动发邮件提示。
 
 #### 五.切换到SSD
 
-![full-img ](https://static.is26.com/blog/2015/11/ssd/start.png)
+![full-img ](https://c2.llyz.xyz/blog/2015/11/ssd/start.png)
 
 进入系统设置，选择`启动磁盘`，这个时候应该可以看到SSD的盘符也亮了，按左下角的钥匙开启管理员模式，更换到SSD，再按重新启动。这个时候，电脑就开始重启了。
 
@@ -95,23 +96,23 @@ iMac 5k这配置短板效应十分明显，一周体验下来，可以感觉到�
 
 不急，这个时候，我们看下关于本机。
 
-![full-img ](https://static.is26.com/blog/2015/11/ssd/sys1.png)
+![full-img ](https://c2.llyz.xyz/blog/2015/11/ssd/sys1.png)
 
 启动磁盘已经提示是`OCZ`我的外接SSD硬盘了。
 
-![full-img ](https://static.is26.com/blog/2015/11/ssd/sys2.png)
+![full-img ](https://c2.llyz.xyz/blog/2015/11/ssd/sys2.png)
 
 储存信息里默认的也已经成了外接USB硬盘。整个系统，跟原来的系统，一模一样！APP没变，登录记忆信息没变，唯一变的，就是下面要说的速度。
 
 #### 六.速度测试
 
-![full-img ](https://static.is26.com/blog/2015/11/ssd/hd-spped.png)
+![full-img ](https://c2.llyz.xyz/blog/2015/11/ssd/hd-spped.png)
 
 首先上一张iMac原生Funsion Driver的硬盘读写数据，在关闭其他所有软件的情况下，写入速度约104.5MB/s，读取速度约126.6MB/s，真的是，很不好看。
 
 换了USB3.0硬盘盒+SSD之后，现在的速度怎么样呢。
 
-![full-img ](https://static.is26.com/blog/2015/11/ssd/ssd-spped.png)
+![full-img ](https://c2.llyz.xyz/blog/2015/11/ssd/ssd-spped.png)
 
 写入速度360.6MB/s,读取速度323.3MB/s，提升了约三倍。跟Mac内置SSD读写相比肯定还是有差距，但是对于我们日常开发来说，已经没问题了。
 
@@ -127,7 +128,7 @@ iMac从早上10点一直开到了晚上7点，中间系统一直很稳定，没�
 
 有人说要小心碰到后面的USB线，如果断掉了，系统肯定崩，这算一个风险吧。
 
-![full-img ](https://static.is26.com/blog/2015/11/ssd/usb.jpg)
+![full-img ](https://c2.llyz.xyz/blog/2015/11/ssd/usb.jpg)
 
 拔插线的时候还是得小心点。另外USB供电的稳定性、USB硬盘盒的质量，都会影响系统稳定性，如果有担忧，建议大家还是养成良好的习惯定时TM备份。
 

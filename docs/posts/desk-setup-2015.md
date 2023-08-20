@@ -1,11 +1,12 @@
 ---
-title: "每个程序员都应该有张木桌"
-date: "2015-10-07"
-tags: 
-  - "life"
+cover: https://c2.llyz.xyz/blog/2015/10/des.jpg
+date: '2015-10-07'
+tags:
+- life
+title: 每个程序员都应该有张木桌
 ---
 
-![cover](https://static.is26.com/blog/2015/10/des.jpg)
+![cover](https://c2.llyz.xyz/blog/2015/10/des.jpg)
 
 程序员有三大件：椅子、桌子、键盘，由于Macbook的触摸板实在是太好用了，鼠标倒变得不那么关键、乃至有必要。
 
@@ -24,41 +25,41 @@ tags:
 
 在上海逐渐安稳下来，想着家里还是得放个正经的办公桌干活（妹纸是设计师，也需要），遂也淘了个北京室友同款的桌子， 625的原价+75的物流共700 ，另外还有60元的上门到付费用，卡车送到了楼下，2号就到了上海，结果国庆物流放了6天假不送货。
 
-![full-img ](https://static.is26.com/blog/2015/10/desk6.JPG)
+![full-img ](https://c2.llyz.xyz/blog/2015/10/desk6.JPG)
 
 物流走的是佳吉快运，拿木框包着的，拆钉子挺烦的，扭得我手酸，扭钉子的时候，突然想要是有个电钻就好了，克制，克制，不能再剁手了。
 
-![full-img ](https://static.is26.com/blog/2015/10/desk7.JPG)
+![full-img ](https://c2.llyz.xyz/blog/2015/10/desk7.JPG)
 
 桌板和桌脚是分开两件装的，终于拆开了桌板，熟悉的纹理，又不一样的纹理。个人还是很喜欢这种深木色。
 
-![full-img ](https://static.is26.com/blog/2015/10/desk4.JPG)
+![full-img ](https://c2.llyz.xyz/blog/2015/10/desk4.JPG)
 
 买的是`160*70*76`规格的桌板，有点后悔了，如果家里空间够大的话，应该至少买`180`长的，放两个显示器加一个笔记本肯定没问题。
 
-![full-img ](https://static.is26.com/blog/2015/10/desk2.JPG)
+![full-img ](https://c2.llyz.xyz/blog/2015/10/desk2.JPG)
 
 跟着店家发给我的视频组装教程，折腾了一个多小时，终于安装好了两个桌角，北京室友说当时是上门安装，10分钟就搞定了，难道是因为我太笨了，说来也惭愧，爷爷就是木匠，我难道隔代都技能遗忘了。扭螺丝麻烦，要是有电动工具的话，肯定还是方便多了，组装完成后，在日光下看起来效果还是不错的。
 
-![full-img ](https://static.is26.com/blog/2015/10/desk10.jpg)
+![full-img ](https://c2.llyz.xyz/blog/2015/10/desk10.jpg)
 
 再这里强烈建议居家或者整租的朋友弄一套维修工具箱，遇到一些小问题，对于那些找人上门有点大事小做，自己动手能cover到的小事（什么螺丝松了、床和家具钉子掉了）的情况，还是可以很方便地解决的，一套工具也就百来块，搬家的话随带随走。
 
-![full-img ](https://static.is26.com/blog/2015/10/desk5.JPG)
+![full-img ](https://c2.llyz.xyz/blog/2015/10/desk5.JPG)
 
 把桌子搬到了客厅的一角，抹了抹，布置了一下，窗帘拉起来，台灯亮起来，终于开始有点味道了。椅子是通过Chiphell优惠购买的[Ergomax Commander](http://www.chiphell.com/thread-1164359-1-1.html)，双背面，扶手可调，最近半年工作，公司配的是垃圾办公椅，每天坐得我肩疼，有一阵都想买一个椅子带公司去了。
 
 台灯是淘宝买的「戴草帽的小女孩」，100多人民币，配的是E27的黄色光源灯泡，过去四年先后买了三个这个台灯。
 
-![full-img ](https://static.is26.com/blog/2015/10/desk1.JPG)
+![full-img ](https://c2.llyz.xyz/blog/2015/10/desk1.JPG)
 
 侧面看，空间刚好，把原来的小柜子放在右手边，还能当个置物的平台。
 
-![full-img ](https://static.is26.com/blog/2015/10/desk3.JPG)
+![full-img ](https://c2.llyz.xyz/blog/2015/10/desk3.JPG)
 
 把SoundLink放在显示器下头，比Macbook自带的音响音质要好多了，还能随时移动。
 
-![full-img ](https://static.is26.com/blog/2015/10/desk8.JPG)
+![full-img ](https://c2.llyz.xyz/blog/2015/10/desk8.JPG)
 
 不喜欢用机械键盘+Macbook触摸板的组合，还是配了了一个罗技的G502鼠标，便宜好用，蓝光在夜晚十分漂亮。
 
@@ -70,7 +71,7 @@ tags:
 
 淘宝链接:[smesenro 碳化实木升降桌绘图桌 怀旧办公电脑桌复古实木家具简约](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.dGYnFB&id=38567284824&_u=71cp24j53f3)
 
-![full-img ](https://static.is26.com/blog/2015/10/fuli.jpg)
+![full-img ](https://c2.llyz.xyz/blog/2015/10/fuli.jpg)
 
 针对 @罗罗磊磊 介绍的客户和 V2EX 坛友的回馈 :
 

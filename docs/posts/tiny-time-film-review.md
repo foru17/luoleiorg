@@ -1,13 +1,14 @@
 ---
-title: "【不是影评】我对不起你，小时代"
-date: "2013-08-10"
-tags: 
-  - "movies"
+cover: https://c2.llyz.xyz/wp-image/2013/08/tiny-fool-time.jpg
+date: '2013-08-10'
+tags:
+- movies
+title: 【不是影评】我对不起你，小时代
 ---
 
-![tiny-fool-time](https://static.is26.com/wp-image/2013/08/tiny-fool-time.jpg)
+![tiny-fool-time](https://c2.llyz.xyz/wp-image/2013/08/tiny-fool-time.jpg)
 
-今天中午的时候看自己的[豆瓣](http://www.douban.com/people/foru17/)，发现已经mark「看过的电影」有399部了，没想到这还挺有点纪念意义的第400部电影，居然是这么一部让我一半时间起鸡皮疙瘩，一半时间用我颤抖的手抹平鸡皮疙瘩，关键是最后我还没看懂的电影，这，倒也是个符合情理的理由让我写这篇博文.
+今天中午的时候看自己的[豆瓣](https://www.douban.com/people/foru17/)，发现已经mark「看过的电影」有399部了，没想到这还挺有点纪念意义的第400部电影，居然是这么一部让我一半时间起鸡皮疙瘩，一半时间用我颤抖的手抹平鸡皮疙瘩，关键是最后我还没看懂的电影，这，倒也是个符合情理的理由让我写这篇博文.
 
 也怪不得谁，能怪8月暑期档的进口电影「环太平洋」么？能怪紧跟世界潮流，去年就已经在人人影视、迅雷离线、免费上映的高清带双语字幕的「速度与激情6」么？能怪同档期挑不起哥胃口的其他国产电影么？
 

@@ -1,15 +1,16 @@
 ---
-title: "CUniq UK:一卡中英港三号，能在大陆漫游的英国手机卡"
-date: "2019-02-16"
-categories: 
-  - "zuoluotv"
-tags: 
-  - "手机卡"
+categories:
+- zuoluotv
+cover: https://c2.llyz.xyz/blog/2019/02/cuniq/s-4.jpg)
+date: '2019-02-16'
+tags:
+- 手机卡
+title: CUniq UK:一卡中英港三号，能在大陆漫游的英国手机卡
 ---
 
 #### 视频
 
-https://www.youtube.com/watch?v=bRLWDQ4UhDU
+<https://www.youtube.com/watch?v=bRLWDQ4UhDU>
 
 - [Bilibili:最低0月租，搞到这张SIM卡，就能合法拥有英国、香港、大陆三个手机号 | VLOG33](https://www.bilibili.com/video/av44469943/) : 推荐大陆用户观看。
 - [YOUTUBE:最低0月租，就能合法拥有英国、香港、大陆三个手机号，居然还支持中国漫游 | CUNIQ UK SIM CARD |VLOG33](https://www.youtube.com/watch?v=bRLWDQ4UhDU) : 推荐海外用户观看
@@ -46,35 +47,37 @@ https://www.youtube.com/watch?v=bRLWDQ4UhDU
 
 **提示:官网支持中文，直接右上角切换即可。在线客服也中英粤三语支持。**
 
-![](https://static.is26.com/blog/2019/02/cuniq/s-4.jpg) **目前申请领这张卡是免费，优惠期到2019年12月31日**，默认套餐是**British students promotional voice data package(英国留学生促销语音数据套餐)**，月租为0，有30分钟英国本地通话和300MB漫游流量，若激活香港或者大陆号码，赠送30分钟香港大陆通话，300MB中港数据流量。
+![](https://c2.llyz.xyz/blog/2019/02/cuniq/s-4.jpg)
+
+ **目前申请领这张卡是免费，优惠期到2019年12月31日**，默认套餐是**British students promotional voice data package(英国留学生促销语音数据套餐)**，月租为0，有30分钟英国本地通话和300MB漫游流量，若激活香港或者大陆号码，赠送30分钟香港大陆通话，300MB中港数据流量。
 
 第一栏 Add-ons 这里可以勾选是否要香港和大陆号码。在这里说明一下，不管你勾不勾选，勾选哪个，**最终都只会送一张SIM卡过来**，一卡3选2号，根据你所在地区的位置自动切换。我就附加了一个香港的手机号，每个月3英镑(约人民币26元)。
 
 第二栏 Data Package 这里可以选择上网套餐，大陆和香港地区漫游是1加2(free)共3G流量，每个月10英镑（约人民币87元)，算下来29元/G。亚太地区(Australia, Korea, Macao, Malaysia, Singapore, Taiwan, Thailand)是10英镑/G，略贵。也有美国、欧洲国家的上网套餐。
 
-![](https://static.is26.com/blog/2019/02/cuniq/s-5.jpg) 物流方面，支持全球配送，比较让我吃惊的是支持配送到大陆。如果配送大陆，地址信息里**可以填写中文地址**。
+![](https://c2.llyz.xyz/blog/2019/02/cuniq/s-5.jpg) 物流方面，支持全球配送，比较让我吃惊的是支持配送到大陆。如果配送大陆，地址信息里**可以填写中文地址**。
 
 **2019年2月19日补充更新**:可能是我这篇文章发出后，大量中国用户申请这卡，2月18日晚间，此卡申请页面进行了短暂系统维护，后经过群友反馈，**若配送大陆地址，物流费增加到2英镑**，算是防羊毛党的措施吧。
 
-![](https://static.is26.com/blog/2019/02/cuniq/s-8.jpg)
+![](https://c2.llyz.xyz/blog/2019/02/cuniq/s-8.jpg)
 
 下单后，**支持微信、支付宝支付**，英镑自动换成人民币扣款，不用信用卡也能充值，这一点算是降低了很多人的门槛。
 
-![](https://static.is26.com/blog/2019/02/cuniq/s-0.jpg) 下单成功后，会邮件告诉你订单号，发货后会邮件通知你快递号，我这个是EMS配送，从深圳发的，隔天就送到了。
+![](https://c2.llyz.xyz/blog/2019/02/cuniq/s-0.jpg) 下单成功后，会邮件告诉你订单号，发货后会邮件通知你快递号，我这个是EMS配送，从深圳发的，隔天就送到了。
 
 **上车友情提示**:目前这卡在线申请，如果不选香港号码、不加数据流量，可以0元下单，只要你填写正确的地址，一样会给你配送。****不验证身份，又不用钱，意味着这卡有极大的可能性成为羊毛党的目标****，然而，官方上面有说明**数量有限，换完即止。**大家酌情申请吧。
 
 #### 实体卡
 
-![](https://static.is26.com/blog/2019/02/cuniq/uk-1.jpg) ![](https://static.is26.com/blog/2019/02/cuniq/uk-2.jpg) ![](https://static.is26.com/blog/2019/02/cuniq/uk-4.jpg) 收到的就是这个卡。卡上面有简单的激活说明、客服电话等等，也直接印上了英国的号码。
+![](https://c2.llyz.xyz/blog/2019/02/cuniq/uk-1.jpg) ![](https://c2.llyz.xyz/blog/2019/02/cuniq/uk-2.jpg) ![](https://c2.llyz.xyz/blog/2019/02/cuniq/uk-4.jpg) 收到的就是这个卡。卡上面有简单的激活说明、客服电话等等，也直接印上了英国的号码。
 
 #### 激活步骤
 
-![](https://static.is26.com/blog/2019/02/cuniq/s-7.jpg)
+![](https://c2.llyz.xyz/blog/2019/02/cuniq/s-7.jpg)
 
 激活也比较简单，直接插卡到手机里，过一会就能搜到信号了，使用Net Monitor查看蜂窝网络数据，MCC/MNC显示是 460 01，对应中国联通的LTE 4G网络。可以直接打电话出去给中国的手机号，来电显示是英国44开头的号码。
 
-![](https://static.is26.com/blog/2019/02/cuniq/s-3.jpg) 等一会收到了激活确认短信，会告知你一个6位数的密码，登录[官网CUniq UK](https://www.cuniq.com/uk/)使用手机号 + 这个6位密码就可以激活。我用这个号码注册个新的TG号码，也正常收到了短信验证码。
+![](https://c2.llyz.xyz/blog/2019/02/cuniq/s-3.jpg) 等一会收到了激活确认短信，会告知你一个6位数的密码，登录[官网CUniq UK](https://www.cuniq.com/uk/)使用手机号 + 这个6位密码就可以激活。我用这个号码注册个新的TG号码，也正常收到了短信验证码。
 
 - **注意**:官网登录，手机号不需要44国别号码，直接写44后面的10位就好了。
 - 登录后可以绑定邮箱。
@@ -85,7 +88,7 @@ https://www.youtube.com/watch?v=bRLWDQ4UhDU
 
 在[My ccount](https://www.cuniq.com/ss)可以查询号码信息和余额。
 
-![](https://static.is26.com/blog/2019/02/cuniq/s-6.jpg)
+![](https://c2.llyz.xyz/blog/2019/02/cuniq/s-6.jpg)
 
 还是挺简单明了的，会显示你当前的话费余额，你的剩余语音时长、数据流量等等。大家可以看到我的流量共3G。
 
@@ -96,7 +99,7 @@ https://www.youtube.com/watch?v=bRLWDQ4UhDU
 - **iPhone**:设置>蜂窝移动网络>蜂窝移动数据选项>开启数据漫游:APN处设置3gnet
 - **Android**(以一加6为例):设置>WLAN和互联网>SIM卡和移动网络>双卡管理(选择UK卡)>开启漫游:APN里添加3gnet
 
-![](https://static.is26.com/blog/2019/02/cuniq/s-2.jpg)
+![](https://c2.llyz.xyz/blog/2019/02/cuniq/s-2.jpg)
 
 漫游开启后，信号栏上面就变成了4G信号，但是多了一个子母R，应该是被限速的标志，表示漫游 Romaing 状态。
 
@@ -104,7 +107,7 @@ https://www.youtube.com/watch?v=bRLWDQ4UhDU
 
 下载速度大概在10Mbps到18Mbps/s波动，上传在0.53Mbps到4Mbps/s波动，的确是被限速了。
 
-![](https://static.is26.com/blog/2019/02/cuniq/s-1.jpg) 手机关掉所有代理，直接漫游，访问Twitter、IG、Youtube均没有问题，Youtube 720P流畅，1080P勉强播放，如果只刷刷推、收收Gmail、上上网什么的，这种网速完全够用了。
+![](https://c2.llyz.xyz/blog/2019/02/cuniq/s-1.jpg) 手机关掉所有代理，直接漫游，访问Twitter、IG、Youtube均没有问题，Youtube 720P流畅，1080P勉强播放，如果只刷刷推、收收Gmail、上上网什么的，这种网速完全够用了。
 
 #### 总结
 
@@ -130,4 +133,4 @@ https://www.youtube.com/watch?v=bRLWDQ4UhDU
 
 **Q1:关于号码有效期和能否长期使用？**
 
-这是群友咨询CUniq客服的结论，通过充值延长有效期，0元基本套餐也可以长期使用，充值一次可延长90天，最少充值5镑。 ![](https://static.is26.com/blog/2019/02/cuniq/s-9.jpg)
+这是群友咨询CUniq客服的结论，通过充值延长有效期，0元基本套餐也可以长期使用，充值一次可延长90天，最少充值5镑。 ![](https://c2.llyz.xyz/blog/2019/02/cuniq/s-9.jpg)

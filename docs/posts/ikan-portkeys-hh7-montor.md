@@ -1,19 +1,20 @@
 ---
-title: "每个UP主都应该有个监视器 | 艾肯HH7 | ZUOLUOTV"
-date: "2018-11-22"
-categories: 
-  - "zuoluotv"
-tags: 
-  - "zuoluotv"
-  - "kai-xiang"
-  - "e8af84e6b58b"
+categories:
+- zuoluotv
+cover: https://c2.llyz.xyz/blog/2018/11/ikan/ikan.jpg
+date: '2018-11-22'
+tags:
+- zuoluotv
+- kai-xiang
+- e8af84e6b58b
+title: 每个UP主都应该有个监视器 | 艾肯HH7 | ZUOLUOTV
 ---
 
-![cover](https://static.is26.com/blog/2018/11/ikan/ikan.jpg)
+![cover](https://c2.llyz.xyz/blog/2018/11/ikan/ikan.jpg)
 
 #### 视频
 
-- [Bilibili: 每个UP主都应该有个监视器 | 艾肯HH7监视器 | ZUOLUOTV | VLOG21](http://space.bilibili.com/7388950?) : 推荐大陆用户观看。
+- [Bilibili: 每个UP主都应该有个监视器 | 艾肯HH7监视器 | ZUOLUOTV | VLOG21](https://space.bilibili.com/7388950?) : 推荐大陆用户观看。
 - [YOUTUBE:每个摄影师都应该有个监视器 | 艾肯 PortKeys HH7 LUT Monitor | ZUOLUOTV](https://www.youtube.com/watch?v=5YsrEabLE6Q&t=166s) : 推荐海外用户观看
 
 #### 购买地址

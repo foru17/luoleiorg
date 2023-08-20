@@ -1,89 +1,90 @@
 ---
-title: "【我在用什么？】Chrome拓展插件篇"
-date: "2012-12-14"
-tags: 
-  - "chrome"
+cover: https://c2.llyz.xyz/wp-image/2012/12/what-i-use.jpg
+date: '2012-12-14'
+tags:
+- chrome
+title: 【我在用什么？】Chrome拓展插件篇
 ---
 
-![what-i-use](https://static.is26.com/wp-image/2012/12/what-i-use.jpg)
+![what-i-use](https://c2.llyz.xyz/wp-image/2012/12/what-i-use.jpg)
 
 曾经 有人问我是不是「工具控」？自己虽然口头上没承认，但是后来想想，自己不断尝试各种「工具」或者「工具类」app，崇尚「工欲善其事，必先利其器」的哲学，信奉「优秀的工具提高效率、效率节省时间、省下来的时间享受生活」，实际上倒也算是某种意义上的「工具控」。
 
 今儿开始写【我在用什么？】系列博文，分享一下自己平时使用的一些硬件、软件，以及在各个平台使用的一些软件、app、拓展，也算是分享一下自己的学习、工作、生活方式。
 
-这篇博文，就从我最常用的浏览器说起。不管是PC还是mac，我的主浏览器均是谷歌chrome，以前也写过文章[《Chrome，更好吃，更好用》](http://luolei.org/2011/07/chrome-best/)推荐之。
+这篇博文，就从我最常用的浏览器说起。不管是PC还是mac，我的主浏览器均是谷歌chrome，以前也写过文章[《Chrome，更好吃，更好用》](https://luolei.org/2011/07/chrome-best/)推荐之。
 
 有些人喜欢原生chrome，有些人则喜欢安装各种拓展丰富chrome的功能。我算得上是后者，好了，言归正传，下面就说说我目前常用的chrome extension，并且直接附上chrome store的安装地址。
 
 **[1.Any.Do （任务管理，GTD）](https://chrome.google.com/webstore/detail/kdadialhpiikehpdeejjeiikopddkjem)**
 
-![any.do](https://static.is26.com/wp-image/2012/12/屏幕快照-2012-12-15-上午12.41.29.png)
+![any.do](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午12.41.29.png)
 
 十分简洁的一款GTD拓展，在IOS和android上均有app，可同步。
 
 **[2.Fawave（社交应用:微博、人人、twitter、等管理）](https://chrome.google.com/webstore/detail/fawave/aicelmgbddfgmpieedjiggifabdpcnln)**
 
-![fawave](https://static.is26.com/wp-image/2012/12/fawave.jpg)
+![fawave](https://c2.llyz.xyz/wp-image/2012/12/fawave.jpg)
 
-**[3.Adblock（广告屏蔽）](http://userscripts.org/scripts/show/120679)**
+**[3.Adblock（广告屏蔽）](https://userscripts.org/scripts/show/120679)**
 
-![](https://static.is26.com/wp-image/2012/12/屏幕快照-2012-12-15-上午12.47.04.png)
+![](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午12.47.04.png)
 
 屏蔽各种乱七八糟的广告，支持自定义页面广告屏蔽。
 
-[**4.OpenGG.Clean.Player（专门屏蔽优酷网和土豆的广告）**](http://userscripts.org/scripts/show/120679)
+[**4.OpenGG.Clean.Player（专门屏蔽优酷网和土豆的广告）**](https://userscripts.org/scripts/show/120679)
 
-[http://userscripts.org/scripts/show/120679](http://userscripts.org/scripts/show/120679)
+[https://userscripts.org/scripts/show/120679](https://userscripts.org/scripts/show/120679)
 
 国人开发，不用再忍受优酷土豆那45秒的片头了。
 
 **[5.Gestures for Chrome(TM)（鼠标手势插件）](https://chrome.google.com/webstore/detail/gestures-for-chrometm/jpkfjicglakibpenojifdiepckckakgk)**
 
-![](https://static.is26.com/wp-image/2012/08/gesture-chrome-title.jpg)
+![](https://c2.llyz.xyz/wp-image/2012/08/gesture-chrome-title.jpg)
 
-详情见我以前写的博文[《Gestures for Chrome:鼠标手势增强,让Chrome飞》](http://luolei.org/2012/08/gestures-for-chrome-tips/)，熟悉后可以很快提高chrome效率。
+详情见我以前写的博文[《Gestures for Chrome:鼠标手势增强,让Chrome飞》](https://luolei.org/2012/08/gestures-for-chrome-tips/)，熟悉后可以很快提高chrome效率。
 
 **[6.LastPass（密码管理）](https://chrome.google.com/webstore/detail/lastpass/hdokiejnpimakedhajhdlcegeplioahd)**
 
-![lastpass](https://static.is26.com/wp-image/2012/12/lastpass.jpg)
+![lastpass](https://c2.llyz.xyz/wp-image/2012/12/lastpass.jpg)
 
 谁用谁知道，管理所有的密码，自动填写，并且，很安全。
 
-**[7.Google SSL Privacy Real Link（Google搜索去跳转防屏蔽）](http://userscripts.org/scripts/show/145014)**
+**[7.Google SSL Privacy Real Link（Google搜索去跳转防屏蔽）](https://userscripts.org/scripts/show/145014)**
 
 由于众所周知的原因，谷歌搜索跳转的那个服务，被GFW干扰，导致有时候无法正常打开搜索结果，这个插件解决了这个问题。
 
 **[8.Highlight to Search（页面选择关键字自动显示搜索按钮，懒人必备）](https://chrome.google.com/webstore/detail/search-by-image-by-google/dajedkncpodkggklbegccjpmnglmnflm)**
 
-![屏幕快照 2012-12-15 上午12.59.26](https://static.is26.com/wp-image/2012/12/屏幕快照-2012-12-15-上午12.59.26.png)
+![屏幕快照 2012-12-15 上午12.59.26](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午12.59.26.png)
 
 **[9.Scroll To Top Button（返回网页顶部）](https://chrome.google.com/webstore/detail/scroll-to-top-button/chiikmhgllekggjhdfjhajkfdkcngplp)**
 
-![屏幕快照 2012-12-15 上午1.00.32](https://static.is26.com/wp-image/2012/12/屏幕快照-2012-12-15-上午1.00.32.png)
+![屏幕快照 2012-12-15 上午1.00.32](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.00.32.png)
 
 在网页（可以自定义按钮大小、位置）显示返回顶部的按钮。
 
 **[10.Search by Image (by Google)（谷歌官方的图片搜索插件）](https://chrome.google.com/webstore/detail/search-by-image-by-google/dajedkncpodkggklbegccjpmnglmnflm)**
 
-![pic-search](https://static.is26.com/wp-image/2012/12/pic-search.jpg)
+![pic-search](https://c2.llyz.xyz/wp-image/2012/12/pic-search.jpg)
 
 在网页上见到某图，可以直接右键谷歌图片搜索找相关资料（找图片出处、类似图片、大图神马的最方便了）。
 
 **[11.SearchPreview（谷歌搜索结果页显示网页缩略图）](https://chrome.google.com/webstore/detail/searchpreview/hcjdanpjacpeeppdjkppebobilhaglfo)**
 
-![屏幕快照 2012-12-15 上午1.04.58](https://static.is26.com/wp-image/2012/12/屏幕快照-2012-12-15-上午1.04.58.png)
+![屏幕快照 2012-12-15 上午1.04.58](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.04.58.png)
 
 **[12.Stash（暂存某次浏览的所有标签页面，下次一键打开）](https://chrome.google.com/webstore/detail/stash/bnhjedgfogckebfhnlicnkbdjlmpibck)**
 
-![屏幕快照 2012-12-15 上午1.06.58](https://static.is26.com/wp-image/2012/12/屏幕快照-2012-12-15-上午1.06.58.png)
+![屏幕快照 2012-12-15 上午1.06.58](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.06.58.png)
 
 本人工作的时候，经常要搜资料，开10多个标签神马的情况很常见，阶段工作完了，想明儿再做，可以把目前的所有标签都缓存到这个葫芦里（其实就是关闭标签，不占内存），下次一键全部重新打开。
 
-[**13.Stylish（自定义页面样式）**](http://userstyles.org/)
+[**13.Stylish（自定义页面样式）**](https://userstyles.org/)
 
 Stylish 是一款用户样式管理器，可让您调整网页的样式。它可让您轻松地为 Google、Facebook、YouTube、Orkut 和其他许多网站安装主题背景和皮肤。
 
-[http://userstyles.org/](http://userstyles.org/)
+[https://userstyles.org/](https://userstyles.org/)
 
 **[14.网页截图:注释&批注（网页截图）](https://chrome.google.com/webstore/detail/awesome-screenshot-captur/alelhddbbhepgpmgidjdcjakblofbmce)**
 
@@ -93,7 +94,7 @@ Stylish 是一款用户样式管理器，可让您调整网页的样式。它可
 
 嵌入网页版豆瓣FM(douban.fm)页面内,列举出豆瓣FM已播放的歌曲信息,并提供歌曲下载,更有单曲循环,红心歌曲和批量下载脚本等功能
 
-![屏幕快照 2012-12-15 上午1.12.11](https://static.is26.com/wp-image/2012/12/屏幕快照-2012-12-15-上午1.12.11.png)
+![屏幕快照 2012-12-15 上午1.12.11](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.12.11.png)
 
 豆瓣电台粉丝的福音，可以直接下载豆瓣fm的mp3。
 
@@ -101,7 +102,7 @@ Stylish 是一款用户样式管理器，可让您调整网页的样式。它可
 
 在豆瓣电影页面显示下载及字幕链接
 
-![douban-movie](https://static.is26.com/wp-image/2012/12/douban-movie.jpg)
+![douban-movie](https://c2.llyz.xyz/wp-image/2012/12/douban-movie.jpg)
 
 [**17.迅雷、快车、旋风专用链自动破解**](https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E3%80%81%E5%BF%AB%E8%BD%A6%E3%80%81%E6%97%8B%E9%A3%8E%E4%B8%93%E7%94%A8%E9%93%BE%E8%87%AA%E5%8A%A8%E7%A0%B4%E8%A7%A3/gmpllenfapkfpdkahamlbmbichihpmmg)
 
@@ -123,7 +124,7 @@ Stylish 是一款用户样式管理器，可让您调整网页的样式。它可
 
 使用 印象笔记 扩展程序将你在网络上看到的内容保存至你的 印象笔记 帐户。它甚至允许你搜索笔记。
 
-![屏幕快照 2012-12-15 上午1.23.41](https://static.is26.com/wp-image/2012/12/屏幕快照-2012-12-15-上午1.23.41.png)
+![屏幕快照 2012-12-15 上午1.23.41](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.23.41.png)
 
 Evernote的官方插件（同时支持国内和国际版）。
 
@@ -131,7 +132,7 @@ Evernote的官方插件（同时支持国内和国际版）。
 
 “悦读”可使博文、文章和网页变得简明而又易于阅读。将其保存至印象笔记以便随时随地阅读。
 
-![](https://static.is26.com/wp-image/2012/04/clearlyshow.jpg)
+![](https://c2.llyz.xyz/wp-image/2012/04/clearlyshow.jpg)
 
 在这个资讯爆炸，广告乱飞，弹窗不断的时代，学会专注是一种重要的能力。
 
@@ -139,7 +140,7 @@ Evernote的官方插件（同时支持国内和国际版）。
 
 【网易出品】在购物网站的商品页面，自动显示京东、卓越、当当等各大网上商城报价，帮你找到最低价。目前已经支持数码、家电、图书三大类产品。
 
-![huihui](https://static.is26.com/wp-image/2012/12/huihui.jpg)
+![huihui](https://c2.llyz.xyz/wp-image/2012/12/huihui.jpg)
 
 经常网购的盆友必备。
 
@@ -151,27 +152,27 @@ Evernote的官方插件（同时支持国内和国际版）。
 
 更好地查看您的历史记录。为查看您的历史记录带来最好的搜索体验，最清晰的界面和最有帮助的筛选。
 
-![屏幕快照 2012-12-15 上午1.35.07](https://static.is26.com/wp-image/2012/12/屏幕快照-2012-12-15-上午1.35.07.png)
+![屏幕快照 2012-12-15 上午1.35.07](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.35.07.png)
 
 #### 前端开发辅助类拓展
 
-**[1.Web Developer（网页开发相关工具）](http://chrispederick.com/work/web-developer/)**
+**[1.Web Developer（网页开发相关工具）](https://chrispederick.com/work/web-developer/)**
 
-![屏幕快照 2012-12-15 上午1.18.25](https://static.is26.com/wp-image/2012/12/屏幕快照-2012-12-15-上午1.18.25.png)
+![屏幕快照 2012-12-15 上午1.18.25](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.18.25.png)
 
 功能太多了，见图。
 
 **[2.PrettyPrint（格式化显示JavaScript 和CSS源码）](https://chrome.google.com/webstore/detail/prettyprint/nipdlgebaanapcphbcidpmmmkcecpkhg)**
 
-**[3.WhatFont（快速查看网页字体样式font-family）](http://chengyinliu.com/whatfont.html)**
+**[3.WhatFont（快速查看网页字体样式font-family）](https://chengyinliu.com/whatfont.html)**
 
-![屏幕快照 2012-12-15 上午1.21.55](https://static.is26.com/wp-image/2012/12/屏幕快照-2012-12-15-上午1.21.55.png)
+![屏幕快照 2012-12-15 上午1.21.55](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.21.55.png)
 
 有时候懒得右键「审查元素」，就直接用这个插件看网页使用的字体。
 
 **[4.JSONView（格式化Json）](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)**
 
-![json](https://static.is26.com/wp-image/2012/12/json.jpg)
+![json](https://c2.llyz.xyz/wp-image/2012/12/json.jpg)
 
 **[5.LiveReload（调试html、css、js，网页自动刷新）](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei)**
 
@@ -179,4 +180,4 @@ Evernote的官方插件（同时支持国内和国际版）。
 
 一口气介绍完自己正在使用的chrome插件，仅供各位朋友参考，大家如果有其他优秀的插件推荐，不妨也可以分享出来。
 
-**【我在用什么？】**系列博文下一篇，将介绍一下我在mac下使用的一些app，大家有兴趣可以关注我的博客[「罗磊的独立博客」](http://luolei.org/)，我的微博[@罗罗磊磊](http://weibo.com/foru17)
+**【我在用什么？】**系列博文下一篇，将介绍一下我在mac下使用的一些app，大家有兴趣可以关注我的博客[「罗磊的独立博客」](https://luolei.org/)，我的微博[@罗罗磊磊](https://weibo.com/foru17)

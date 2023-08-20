@@ -1,9 +1,10 @@
 ---
-title: "CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡"
-date: "2020-04-21"
-categories: 
-  - "tech"
-  - "travel"
+categories:
+- tech
+- travel
+cover: https://c2.llyz.xyz/blog/2020/04/cmlink/c1.jpg
+date: '2020-04-21'
+title: 'CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡'
 ---
 
 ## 在线视频
@@ -47,17 +48,17 @@ CMLINK 是中国移动的子公司，主要负责中国移动公司的海外业�
 - 手机APP:「CMlink」，中文名也叫「全球数据卡」
 - 微信公众号:CMLinkGlobal
 
-![](https://static.is26.com/blog/2020/04/cmlink/c1.jpg)
+![](https://c2.llyz.xyz/blog/2020/04/cmlink/c1.jpg)
 
 4月16日，CMLink 官方微博也有文章推送，专门介绍了这张卡，对着这张卡的特点，也都专门做了强调和说明。
 
-![](https://static.is26.com/blog/2020/04/cmlink/c2.jpg)
+![](https://c2.llyz.xyz/blog/2020/04/cmlink/c2.jpg)
 
 在 CMLink APP中，在「中国」区域的套餐里，也能看到「大中华30天（留学生网课卡）」的购买入口，支持支付宝、微信和银联卡支付。
 
 #### 激活
 
-![](https://static.is26.com/blog/2020/04/cmlink/c3.jpg)
+![](https://c2.llyz.xyz/blog/2020/04/cmlink/c3.jpg)
 
 收到卡后，在APP里添加卡片，然后选择相应的套餐激活就可以了。我的 CMLINK 数据库是半年多前购买的，直接在APP里购买了「留学生网课卡」套餐后，直接就激活了。
 
@@ -65,11 +66,11 @@ CMLINK 是中国移动的子公司，主要负责中国移动公司的海外业�
 
 #### 漫游体验
 
-![](https://static.is26.com/blog/2020/04/cmlink/c4.jpg)
+![](https://c2.llyz.xyz/blog/2020/04/cmlink/c4.jpg)
 
 经过测试，留学生网课卡，使用的是 CMHK 中国移动香港的网络，漫游IP为香港IP，比较让我惊讶的是支持5G漫游，在5G网络下，能跑到100Mbps的下行。超过500M的单日用量后，带宽限制在 8Mbps 左右，我在白天、晚上多个时间段测试过，还是挺稳定的。
 
-![](https://static.is26.com/blog/2020/04/cmlink/c5.jpg)
+![](https://c2.llyz.xyz/blog/2020/04/cmlink/c5.jpg)
 
 漫游状态下，能无障碍访问Google，YouTube等网站，YouTube 1080P无压力，并且能看 Netflix 港区，8Mbps的最低带宽，对于网课、视频聊天这类的需求，自然也是没有太大压力，**支持开热点，可以共享给其他设备**，可以说的确是名副其实的「网课卡」。
 

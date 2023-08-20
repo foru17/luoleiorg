@@ -1,15 +1,16 @@
 ---
-title: "视频 | 遇见,日本:东京・仙台 Travel Film"
-date: "2016-07-03"
-categories: 
-  - "photography"
-  - "travel"
-  - "zuoluotv"
-tags: 
-  - "travel"
+categories:
+- photography
+- travel
+- zuoluotv
+cover: https://c2.llyz.xyz/blog/2016/06/japan/blog-cover.jpg
+date: '2016-07-03'
+tags:
+- travel
+title: 视频 | 遇见,日本:东京・仙台 Travel Film
 ---
 
-![cover](https://static.is26.com/blog/2016/06/japan/blog-cover.jpg)
+![cover](https://c2.llyz.xyz/blog/2016/06/japan/blog-cover.jpg)
 
 2016年6月底，跟杨左第一次去日本，在东京、仙台、松岛和白石游玩了五天。行程虽匆忙，也体会到了日本这个国家的文化和文明。
 
@@ -19,7 +20,7 @@ tags:
 
 https://www.youtube.com/watch?v=gR\_jg1cYPbQ
 
-- [优酷网:左罗日志 | 遇见,日本 | 东京-仙台-松岛-白石 五日行](http://v.youku.com/v_show/id_XMTYzMDI5OTU4OA==.html) : 推荐大陆用户观看。
+- [优酷网:左罗日志 | 遇见,日本 | 东京-仙台-松岛-白石 五日行](https://v.youku.com/v_show/id_XMTYzMDI5OTU4OA==.html) : 推荐大陆用户观看。
 - [Youtube:Travel in Japan - | SONY A7S2 & Yi Camera 4K & DJI Phantom 3](https://www.youtube.com/watch?v=gR_jg1cYPbQ) : 推荐海外用户观看
 
 #### 设备 && 剪辑
@@ -36,9 +37,9 @@ https://www.youtube.com/watch?v=gR\_jg1cYPbQ
 
 欢迎各位点击下面的链接关注我们的视频频道或者社交网络:
 
-- [【优酷自频道】:左罗TV](http://i.youku.com/i/UMjQyNzQ2NTA4)
+- [【优酷自频道】:左罗TV](https://i.youku.com/i/UMjQyNzQ2NTA4)
 - [【Youtube Channel】:ZuoluoTv](https://www.youtube.com/channel/UCFCs9KNL6f2ZMKsoU7rjbkg)
-- [新浪微博:@罗罗磊磊](http://weibo.com/foru17)
-- [新浪微博:@杨杨左左](http://www.weibo.com/809033993?is_all=1)
+- [新浪微博:@罗罗磊磊](https://weibo.com/foru17)
+- [新浪微博:@杨杨左左](https://www.weibo.com/809033993?is_all=1)
 - [Instagram:@foru17](https://www.instagram.com/foru17/)
 - [Instagram:@zoelccc](https://www.instagram.com/zoelccc/)

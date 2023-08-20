@@ -1,16 +1,17 @@
 ---
-title: "我最喜欢的一台相机,今天被车压碎了 | RICOH GR | VLOG54"
-date: "2019-07-05"
-categories: 
-  - "photography"
-  - "tech"
-  - "zuoluotv"
-tags: 
-  - "vlog"
-  - "zuoluotv"
-  - "photography"
-  - "ricohgr"
-  - "视频"
+categories:
+- photography
+- tech
+- zuoluotv
+cover: https://c2.llyz.xyz/blog/2019/07/ricoh/gr-6.jpg
+date: '2019-07-05'
+tags:
+- vlog
+- zuoluotv
+- photography
+- ricohgr
+- 视频
+title: 我最喜欢的一台相机,今天被车压碎了 | RICOH GR | VLOG54
 ---
 
 #### 在线视频
@@ -26,10 +27,10 @@ https://www.youtube.com/watch?v=uq7kaxSTcbs
 
 #### **过去的照片**
 
-- [数字尾巴:理光 GR+GW-3 广角：一路拍你，与女友一年半影像记录](http://bbs.dgtle.com/thread-346462-1-1.html)
+- [数字尾巴:理光 GR+GW-3 广角：一路拍你，与女友一年半影像记录](https://bbs.dgtle.com/thread-346462-1-1.html)
 
 #### 最后一组照片
 
 顺便分享一下GR出车祸前最后一组照片。这么多年了，理光GR依旧是一台好机器。RIP.
 
-![](https://static.is26.com/blog/2019/07/ricoh/gr-1.jpg)![](https://static.is26.com/blog/2019/07/ricoh/gr-2.jpg)![](https://static.is26.com/blog/2019/07/ricoh/gr-3.jpg)![](https://static.is26.com/blog/2019/07/ricoh/gr-8.jpg)![](https://static.is26.com/blog/2019/07/ricoh/gr-6.jpg)
+![](https://c2.llyz.xyz/blog/2019/07/ricoh/gr-1.jpg)![](https://c2.llyz.xyz/blog/2019/07/ricoh/gr-2.jpg)![](https://c2.llyz.xyz/blog/2019/07/ricoh/gr-3.jpg)![](https://c2.llyz.xyz/blog/2019/07/ricoh/gr-8.jpg)![](https://c2.llyz.xyz/blog/2019/07/ricoh/gr-6.jpg)

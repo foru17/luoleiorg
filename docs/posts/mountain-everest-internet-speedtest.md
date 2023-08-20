@@ -1,11 +1,12 @@
 ---
-title: "中国网络基建有多厉害？我在珠峰测网速"
-date: "2020-07-31"
-categories: 
-  - "zuoluotv"
+categories:
+- zuoluotv
+cover: https://static.is26.com/vlog/vlog66.jpg
+date: '2020-07-31'
+title: 中国网络基建有多厉害？我在珠峰测网速
 ---
 
-https://www.youtube.com/watch?v=xg7ZrgOb8Ik
+![cover](<https://static.is26.com/vlog/vlog66.jpg>)
 
 - [Bilibili:中国网络基建有多厉害？我在珠峰测网速 | ZUOLUOTV](https://www.bilibili.com/video/BV1Gz4y1Q7Mz)
 - [YouTube:中国网络基建有多厉害？我在珠峰测网速 | ZUOLUOTV](https://www.youtube.com/watch?v=xg7ZrgOb8Ik)

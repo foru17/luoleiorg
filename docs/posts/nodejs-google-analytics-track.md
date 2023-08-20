@@ -1,11 +1,12 @@
 ---
-title: "NodeJS + Google Analytics追踪渠道页面浏览量"
-date: "2015-09-12"
-tags: 
-  - "develop"
+cover: https://c2.llyz.xyz/tmp/images/track3.jpg
+date: '2015-09-12'
+tags:
+- develop
+title: NodeJS + Google Analytics追踪渠道页面浏览量
 ---
 
-![cover](https://static.is26.com/tmp/images/track3.jpg)
+![cover](https://c2.llyz.xyz/tmp/images/track3.jpg)
 
 前两天正要下班，突然北京的同事来了一个数据统计的需求。具体就是我们的市场同事要要做地推，地面商家有若干家，分别要统计不同的商家谷歌扫码二维码访问某网页的人数量。
 
@@ -16,8 +17,8 @@ tags:
 举个栗子:
 
 ```javascript
-http://luolei.org/store.html?uid=beijing
-http://luolei.org/store.html?uid=shanghai
+https://luolei.org/store.html?uid=beijing
+https://luolei.org/store.html?uid=shanghai
 ```
 
 如果是多页面，那就多搞几个页面呗。
@@ -25,7 +26,7 @@ http://luolei.org/store.html?uid=shanghai
 再举个栗子:
 
 ```javascript
-http://luolei.org/store1.html
+https://luolei.org/store1.html
 html://luolei.org/store2.html
 ```
 
@@ -115,13 +116,13 @@ app.listen(3000);
 app.get("/test", function(req, res) {
    visitor.pageview("/somepage", "测试页面", "https://luolei.org").send();
    visitor.event("事件类别", "事件行为", "事件标签", 42).send();
-   res.redirect("http://this.is26.com");
+   res.redirect("https://this.is26.com");
 });
 ```
 
-试着访问一些`localhost:3000/test`页面，网页直接跳转到`http://this.is26.com`网站，同时在谷歌统计的实时后台，我们收到了一个`/somepage`的`pageview`和实时事件。
+试着访问一些`localhost:3000/test`页面，网页直接跳转到`https://this.is26.com`网站，同时在谷歌统计的实时后台，我们收到了一个`/somepage`的`pageview`和实时事件。
 
-![full-img](https://static.is26.com/blog/2015/09/ga/track2.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/09/ga/track2.jpg)
 
 这时，市场的同事说，要统计**很多**渠道的数据。这个时候，我们干脆就做成接口的形式，让运营和市场的同事直接自己修改URL生成他们所需要的URL吧。
 
@@ -137,10 +138,10 @@ app.get("/redirection", function(req, res) {
 
 我们通过区分URL中的`query`值参数的形式，来区分渠道来源、目标地址，同时增加一个`&url=`的参数，通过`encodeURIComponent`需要跳转的地址，来自定义跳转的URL。
 
-举个栗子，这个时候，同事老王需要统计我们在上海新天地某酒吧，扫二维码访问我们的粗粮商城`http://store.is26.com/`的人数，那么他只需要给出如下URL即可:
+举个栗子，这个时候，同事老王需要统计我们在上海新天地某酒吧，扫二维码访问我们的粗粮商城`https://store.is26.com/`的人数，那么他只需要给出如下URL即可:
 
 ```javascript
-http://this.is26.com/redirection?dest=粗粮商城&tid=新天地&url=http%3A%2F%2Fstore.is26.com
+https://this.is26.com/redirection?dest=粗粮商城&tid=新天地&url=http%3A%2F%2Fstore.is26.com
 ```
 
 根据这样定制，就可以十分方便地在GA后台，查看到渠道的效果啦。

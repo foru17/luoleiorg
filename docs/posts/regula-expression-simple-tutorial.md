@@ -1,21 +1,22 @@
 ---
-title: "正则表达式简要入门"
-date: "2013-09-17"
-categories: 
-  - "code"
-tags: 
-  - "develop"
-  - "tutorial"
+categories:
+- code
+cover: https://c2.llyz.xyz/wp-image/2013/09/regual-4.png
+date: '2013-09-17'
+tags:
+- develop
+- tutorial
+title: 正则表达式简要入门
 ---
 
 第一次接触**正则表达式**是在今年四月的腾讯笔试，当时是一道选择题问如何判断输入的是否是 QQ 号码（即纯数字），当时是蒙了一个答案，菜鸟不会嘛 。事后自己倒专门学习了正则表达式，还做了笔记，可是平时开发倒的确是用得少，最近倒也忘了，近来又是校招的季节，自己就重新整理一篇简要入门，分享给大家的同时，自己也复习复习。
 
 #### 资源推荐
 
-1. [《正则表达式30分钟入门教程》](http://deerchao.net/tutorials/regex/regex.htm) :请忽略这个「30分钟」，哥反正到头来还是得不断查表。
-2. ["Regular Expressions: Up and Running""](https://tutsplus.com/course/regular-expressions-up-and-running/) : 这个是 **tutsplus** 的正则表达式付费教程，由浅入深，很不错。咳咳，当年哥付费搞过一个月会员，至于这个[百度盘](http://pan.baidu.com/share/link?shareid=2178296042&uk=1577447122)里是什么视频嘛，咳咳，我神马都不知道。
-3. [《正则表达式语言 - 快速参考》](http://msdn.microsoft.com/zh-cn/library/vstudio/az24scfc.aspx) : 微软 MSDN 的手册，适合参考。
-4. [《正则表达式教程》](http://see.xidian.edu.cn/cpp/u/zhengze/) 参考文档，推荐。
+1. [《正则表达式30分钟入门教程》](https://deerchao.net/tutorials/regex/regex.htm) :请忽略这个「30分钟」，哥反正到头来还是得不断查表。
+2. ["Regular Expressions: Up and Running""](https://tutsplus.com/course/regular-expressions-up-and-running/) : 这个是 **tutsplus** 的正则表达式付费教程，由浅入深，很不错。咳咳，当年哥付费搞过一个月会员，至于这个[百度盘](https://pan.baidu.com/share/link?shareid=2178296042&uk=1577447122)里是什么视频嘛，咳咳，我神马都不知道。
+3. [《正则表达式语言 - 快速参考》](https://msdn.microsoft.com/zh-cn/library/vstudio/az24scfc.aspx) : 微软 MSDN 的手册，适合参考。
+4. [《正则表达式教程》](https://see.xidian.edu.cn/cpp/u/zhengze/) 参考文档，推荐。
 
 #### 什么是正则表达式
 
@@ -48,7 +49,7 @@ tags:
 
 ###### 元字符
 
-元字符是正则表达式的关键，常用的元字符可以参考[附录【所有元字符】](http://see.xidian.edu.cn/cpp/html/1427.html)一表。
+元字符是正则表达式的关键，常用的元字符可以参考[附录【所有元字符】](https://see.xidian.edu.cn/cpp/html/1427.html)一表。
 
 最常见的比如
 
@@ -88,7 +89,7 @@ $   匹配字符串的结束
 
 此时，我们试一试使用正则表达式`QQ:\d{5,12}$`，哟，匹配了，这里的`{5,12}`，是正则表达式的**限定符**，表示重复的次数不少于5次，不多于12次，这里我们怎么理解呢？
 
-![](https://static.is26.com/wp-image/2013/09/regual-4.png)
+![](https://c2.llyz.xyz/wp-image/2013/09/regual-4.png)
 
 `QQ:`表示的是我们在数据中寻找符合`QQ:`的字段，找到了白富美、捣乱的白富美、富白美三都留了 QQ，接着我们要匹配的是数字`\d`，所以富白美开头是字母 abc 就排除了，我们还剩下两个白富美，接着我们开始寻找接下来重复了超过5次数字、但是又不超过12次数字的数据，而`$`则意味着必须匹配到结尾。常用的限定符有：
 
@@ -109,7 +110,7 @@ $   匹配字符串的结束
 
 比如说`QQ:\d[123567890]+$`就是匹配不包含数字4妹纸的QQ。至于这段正则的含义，想必你定能悟出，有了前面的基础，只要你能理解这段正则中`+$`的含义就好。（注意：同样的，利用**反义**，我们可以通过`QQ:\d[^4]{5,12}$`实现一样的效果）。
 
-![](https://static.is26.com/wp-image/2013/09/regual-2.png)
+![](https://c2.llyz.xyz/wp-image/2013/09/regual-2.png)
 
 ###### #分组`( )`和分支`|`
 
@@ -137,7 +138,7 @@ if(6>5||3>5){
 
 我们观察到，有些区号是诸如`(010)`用`(`开头，那么我们就做一个判断`(?`，开头的数字的是一个0那我们就先来个`0`，可是我们后面的区号就是2个数字或者3个数，此时我们就用到分支和分组，`(\d{2}|\d{3})`接下来就用`)`右括弧又有`-`横杆，由于是特殊符号，我们想起了前面提到过的`[]`**字符组**方括号，来搞一个`[(-]?`，接下来我们知道妹纸的座机是7位或者8位的，那就再添加一个`(\d{7}|\d{8})`，还有一个别忘了，记得匹配到结尾哦，添加一个`$`,最后我们结合起来就是`(?0(\d{2}|\d{3})[)-]?(\d{8}|\d{7})$`，
 
-![](https://static.is26.com/wp-image/2013/09/regual-3.png)
+![](https://c2.llyz.xyz/wp-image/2013/09/regual-3.png)
 
 看看是不是很神奇，就这么把妹纸的座机号码给抓到了。
 
@@ -145,4 +146,4 @@ if(6>5||3>5){
 
 今天这篇分享给大家的博文，主要还是为了自己复习，正则表达式还有许多高级用法，鉴于博主水平和时间，在这里就不班门弄斧误导各位了，主要还是介绍这么一个东西给大家，让大家平时在工作、学习中遇到某些问题的时候，能够有思路怎么解决，当然，如果你真的能掌握得炉火纯青，那依旧要佩服佩服，至于到时候真的需要解决复杂的解决需求嘛，我的建议还是1.分析字符数据结构 2.查找（文档） 3.尝试。
 
-在这里再推荐一篇从开发实例解析的正则教程[《跟我学正则表达式》](http://searun.iteye.com/category/61451)，比如说[**反向引用**](http://searun.iteye.com/blog/389186)那篇就很实用。
+在这里再推荐一篇从开发实例解析的正则教程[《跟我学正则表达式》](https://searun.iteye.com/category/61451)，比如说[**反向引用**](https://searun.iteye.com/blog/389186)那篇就很实用。

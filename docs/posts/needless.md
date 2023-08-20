@@ -1,9 +1,10 @@
 ---
-title: "不带套，狠狠操"
-date: "2013-06-16"
+cover: https://c2.llyz.xyz/wp-image/2014/10/mac-cool.jpg
+date: '2013-06-16'
+title: 不带套，狠狠操
 ---
 
-![](https://static.is26.com/wp-image/2014/10/mac-cool.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/10/mac-cool.jpg)
 
 请原谅我这回当了个淫秽的标题党员，这篇文章跟你第一眼看到、所想到的没多大关系，今天我要说的是一种消费文化。
 

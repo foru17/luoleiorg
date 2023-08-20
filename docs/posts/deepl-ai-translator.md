@@ -1,11 +1,12 @@
 ---
-title: "DeepL | 从日本火到中国，据说这是一款碾压谷歌的 AI 翻译工具"
-date: "2020-04-09"
-categories: 
-  - "tech"
-  - "zuoluotv"
-tags: 
-  - "vlog"
+categories:
+- tech
+- zuoluotv
+cover: https://c2.llyz.xyz/default.cover.jpg
+date: '2020-04-09'
+tags:
+- vlog
+title: DeepL | 从日本火到中国，据说这是一款碾压谷歌的 AI 翻译工具
 ---
 
 #### 在线视频
@@ -20,7 +21,7 @@ https://www.youtube.com/watch?v=Cg\_an934Unc
 - [DeepL 翻译](https://www.deepl.com/)
 - [谷歌翻译](https://translate.google.com/?hl=zh-CN)
 - [微软必应翻译](https://www.bing.com/translator)
-- [有道翻译](http://fanyi.youdao.com/)
+- [有道翻译](https://fanyi.youdao.com/)
 - [百度翻译](https://fanyi.baidu.com/)
 - [彩云小译](https://fanyi.caiyunapp.com/#/)
 

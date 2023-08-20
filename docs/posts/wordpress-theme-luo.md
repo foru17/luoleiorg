@@ -1,9 +1,10 @@
 ---
-title: "原创WP清新主题"
-date: "2012-10-17"
+cover: https://c2.llyz.xyz/wp-image/2012/10/luolei-web-design-e1368433947572.jpg
+date: '2012-10-17'
+title: 原创WP清新主题
 ---
 
-![](https://static.is26.com/wp-image/2012/10/luolei-web-design-e1368433947572.jpg)
+![](https://c2.llyz.xyz/wp-image/2012/10/luolei-web-design-e1368433947572.jpg)
 
 今天（星期四）零点收到女朋友信息，祝我生日快乐，倒让我不免一惊，一直记成自己的生日是这个星期五。原本还想星期四赶回广州，周五就能陪女朋友一起过一下生日，这下今天就得走了。
 

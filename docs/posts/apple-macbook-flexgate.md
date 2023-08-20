@@ -1,19 +1,20 @@
 ---
-title: "背光门 | 苹果 MacBook 即将爆发的下一个质量问题 ? | Flexgate | 持续更新"
-date: "2019-06-27"
-categories: 
-  - "tech"
-  - "zuoluotv"
-tags: 
-  - "vlog"
-  - "digital"
+categories:
+- tech
+- zuoluotv
+cover: https://c2.llyz.xyz/blog/2019/06/flexgate/flexgate-1.jpg
+date: '2019-06-27'
+tags:
+- vlog
+- digital
+title: 背光门 | 苹果 MacBook 即将爆发的下一个质量问题 ? | Flexgate | 持续更新
 ---
 
 如果你目前使用的是 2016 或者2017 款的 MacBook，建议你最好关注一下苹果笔记本，可能要爆发的下一个屏幕质量问题，否则你要付出的，也许是高达6000人民币的维修费用。
 
 #### 视频
 
-https://www.youtube.com/watch?v=GTmUV\_tnS4c
+<https://www.youtube.com/watch?v=GTmUV\_tnS4c>
 
 - [哔哩哔哩:背光门 | 苹果 MacBook 即将爆发的下一个质量问题 ? | Flexgate | ZUOLUOTV | VLOG51](https://www.bilibili.com/video/av55704329) : 推荐大陆用户观看。
 - [YOUTUBE:MacBook "背光门" | 苹果笔记本即将爆发的下一个质量问题? | Flexgate | ZUOLUOTV | VLOG51](https://www.youtube.com/watch?v=GTmUV_tnS4c) : 推荐海外用户观看
@@ -37,15 +38,15 @@ https://www.youtube.com/watch?v=GTmUV\_tnS4c
 
 ###### 中文媒体报道
 
-- [凤凰网:苹果悄悄修复MacBook Pro屏幕背光门问题：仅限2018款用户](http://tech.ifeng.com/a/20190305/45324359_0.shtml)
+- [凤凰网:苹果悄悄修复MacBook Pro屏幕背光门问题：仅限2018款用户](https://tech.ifeng.com/a/20190305/45324359_0.shtml)
 - [极果网:苹果再曝大范围故障！近三年设备都受影响，快看看有没有你？](https://www.jiguo.com/article/article/73018.html)
-- [中关村在线:苹果修复MBP背光门漏洞：一直未承认问题](http://news.zol.com.cn/711/7111273.html)
+- [中关村在线:苹果修复MBP背光门漏洞：一直未承认问题](https://news.zol.com.cn/711/7111273.html)
 
 大概结论就是:Macbook Pro （从 2016 款到 2018 款、13 和 15 寸均有这个隐患），由于屏幕排线设计问题（采用了软性排线），会容易老化损坏，导致屏幕闪烁、黑屏、显示不正常等在内的故障。
 
 国外有人在 Change.org 发起了征集，要求 Apple 正视这个问题，已经有近 2 万人联名请愿。
 
-- [Fix all MacBook Pro 2016 and later with stage light effect or backlight shutdown #flexgate](t)
+- [Fix all MacBook Pro 2016 and later with stage light effect or backlight shutdown #flexgate](https://www.change.org/p/apple-fix-all-macbook-pro-2016-and-later-with-stage-light-effect-or-backlight-shutdown-flexgate)
 
 个人感觉，随着 2016 年款 Macbook 的用户开始过保，这个问题也会逐渐爆发。
 
@@ -53,7 +54,7 @@ https://www.youtube.com/watch?v=GTmUV\_tnS4c
 
 预约了去深圳益田广场Apple Store 天才吧检测，官方的检测报告如下，确认是背光问题。
 
-![](https://static.is26.com/blog/2019/06/flexgate/flexgate-1.jpg)
+![](https://c2.llyz.xyz/blog/2019/06/flexgate/flexgate-1.jpg)
 
 ```javascript
 问题说明/诊断
@@ -82,7 +83,7 @@ https://www.youtube.com/watch?v=GTmUV\_tnS4c
 
 自己淘宝购买显示器排线，自行替换，硬件成本在￥ 30 人民币以内。
 
-![](https://static.is26.com/share/flexgate.jpg)
+![](https://c2.llyz.xyz/share/flexgate.jpg)
 
 如果自行去外面市场修理，朋友帮我咨询的维修价格，也挺贵的。
 
@@ -100,7 +101,7 @@ https://www.youtube.com/watch?v=GTmUV\_tnS4c
 
 #### 更新:2019年6月26日
 
-我前几天将该情况投诉到[上海市消费者权益保护委员会](http://www.315.sh.cn/)，经过三日等待，有了回复。
+我前几天将该情况投诉到[上海市消费者权益保护委员会](https://www.315.sh.cn/)，经过三日等待，有了回复。
 
 ##### 苹果官方解决回复
 
@@ -125,8 +126,6 @@ https://www.youtube.com/watch?v=GTmUV\_tnS4c
 - 建议我去国家质量监督局投诉，让质监局给出权威证据，逼迫苹果承认问题，召回或者提供服务计划。
 
 最后上海消保协会的大姐跟我说「苹果的产品又贵，质量也不好，以后你还是别买了」\[污\] 哈哈哈，我最后都忍不住录音了。 ​​​​
-
- 
 
 #### 更新:2019年7月
 

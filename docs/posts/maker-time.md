@@ -1,11 +1,12 @@
 ---
-title: "数字时代工匠:创客"
-date: "2013-06-15"
-tags: 
-  - "e7a1ace4bbb6"
+cover: https://c2.llyz.xyz/wp-image/2013/06/maker-time-1024x576.jpg
+date: '2013-06-15'
+tags:
+- e7a1ace4bbb6
+title: 数字时代工匠:创客
 ---
 
-![maker-time](https://static.is26.com/wp-image/2013/06/maker-time-1024x576.jpg)
+![maker-time](https://c2.llyz.xyz/wp-image/2013/06/maker-time-1024x576.jpg)
 
 工业社会一个特征就是社会分工，每个人专职于某一个领域，现在这个时代，中国有强大和廉价的制造业，加上对于个人来说挺不低的时间成本，没有多少人会再自己去「亲手」做什么东西：家具是家具城买的，自行车不是美利达就是捷安特的整车，家庭数码产品是各种品牌，不知道大家已经多久没用过螺丝、钜子、钻子这些工具了。
 

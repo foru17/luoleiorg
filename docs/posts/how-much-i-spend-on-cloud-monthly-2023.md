@@ -1,8 +1,9 @@
 ---
-title: "我的云账单:2023年"
-date: "2023-01-07"
-categories: 
-  - "code"
+categories:
+- code
+cover: https://c2.llyz.xyz/blog/2023/01/cloud/cloud-1.JPG
+date: '2023-01-07'
+title: 我的云账单:2023年
 ---
 
 我在2015、2017、2020年，分别写了三篇有关「云账单」的文章，记录我在各种云服务、订阅上所花的钱:
@@ -17,7 +18,7 @@ categories:
 
 今天这篇文章，除了介绍我的订阅账单，也会穿插介绍一些自己的一些精简思路，供各位参考。
 
-![](https://static.is26.com/blog/2023/01/cloud/cloud-1.JPG)
+![](https://c2.llyz.xyz/blog/2023/01/cloud/cloud-1.JPG)
 
 **相比2020年月均¥1161的总开销，2023年我的订阅月均总花销下降到¥613元，下降比例47%。**
 

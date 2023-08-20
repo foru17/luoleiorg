@@ -1,17 +1,18 @@
 ---
-title: "菲律宾 | DAY1:马尼拉"
-date: "2016-10-09"
-categories: 
-  - "photography"
-  - "travel"
-tags: 
-  - "photography"
-  - "travel"
-  - "philippines"
-  - "ma-ni-la"
+categories:
+- photography
+- travel
+cover: https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06973.jpg
+date: '2016-10-09'
+tags:
+- photography
+- travel
+- philippines
+- ma-ni-la
+title: 菲律宾 | DAY1:马尼拉
 ---
 
-![cover](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06973.jpg)
+![cover](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06973.jpg)
 
 #### 导航
 
@@ -33,11 +34,9 @@ tags:
 
 起点改造的项目我的工作算是顺利结束，我主要负责项目改造的前端架构设计和实现。
 
-作为一个拥有十多年历史的老站，这一次[起点中文网](http://www.qidian.com/)的改造为阅文技术栈的现代化改造打下了一个基础。
-
 团队的前端开发也走向了工程化、自动化的开发流程，利用koajs写的业务框架机，进行前后端分离。
 
-这半年，我主要的工作，一个是本地前端构建工具的开发，另一个就是用Koajs写了一套前端框架服务。现在你访问[起点中文网](http://www.qidian.com/)或者其他以[\*.qidian.com](www.qidian.com)域名所支撑业务，背后的架构和服务，应该都是这半年我写的代码所承载的。想到这里，心里还有点小嘚瑟的。
+这半年，我主要的工作，一个是本地前端构建工具的开发，另一个就是用Koajs写了一套前端框架服务。现在你访问[起点中文网](https://www.qidian.com/)或者其他以[\*.qidian.com](https://www.qidian.com)域名所支撑业务，背后的架构和服务，应该都是这半年我写的代码所承载的。想到这里，心里还有点小嘚瑟的。
 
 从HTML+CSS到服务端NodeJS，对于我来说，也是新的领域，新的挑战，跳了不少坑，也发现了不少业务和技术栈方面的不足，整个过程还是特别有趣的。
 
@@ -47,63 +46,63 @@ tags:
 
 这是我和杨左第一次去真正意义上的海岛，现在想起来，时间虽不长，但是整个旅行的体验却特别好，下面，就开始我们的旅行吧。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06851.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06851.jpg)
 
 提前几个月买的机票，上海到长滩岛需要在马尼拉转机，这一次乘坐的是菲律宾航空的航班，下午四点的航班，请了半天假，叫了一辆专车，前往浦东机场，人不多。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06858.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06858.jpg)
 
 上海的天阴沉沉的，入秋了，略有一点闷。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06862-A.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06862-A.jpg)
 
 候机的时候，看到一架加拿大航空的客机降落进场，据说加拿大航空的服务特别糟糕。没体验过。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06866.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06866.jpg)
 
 下午4点，准点登机了，这一次去菲律宾没办签证，直接用的美签出境，值机的时候地勤跟我确认了一下美签，上海边检什么都不问就放行了。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06888.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06888.jpg)
 
 这段时间上海一直阴雨，稍微延误了半个多小时，飞机慢慢地开始滑行了。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06897.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06897.jpg)
 
 在浦东机场乘机也不少了，延误个三十分钟以上是常见的，飞机在跑道绕来绕去，看到一辆前面的航班。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/manila-0.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/manila-0.jpg)
 
 从上海到马尼拉的航班约三个小时
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06907.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06907.jpg)
 
 飞行到半途中，正好是落日时分，也算是幸运，在飞机上见证了一场光影和云霞的盛宴。好丰富的颜色。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06915.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06915.jpg)
 
 太阳逐渐下山，天空逐渐变成了暖黄色。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06925.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06925.jpg)
 
 我拿着相机，靠着机舱窗户咔咔咔，实在是太美了。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06929.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06929.jpg)
 
 太阳落到了云层下面去，整个天空变成了一片紫色。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06936.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06936.jpg)
 
 随着太阳慢慢地消失，天空的颜色也越来越暗，原本漫天的彩色也逐渐变成灰白。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06965.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06965.jpg)
 
 终于，黑色降临，只剩下云海一线的霞光。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06973.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06973.jpg)
 
 入夜，终于飞临马尼拉上空，马尼拉是一座海滨城市，从天上看的夜景还是挺壮观的，密密麻麻一片光。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06996.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06996.jpg)
 
 下了飞机，出了阿基诺国际机场，这一次菲律宾出行，不像前几次出行准备得充分，实际上并没有什么攻略，下了飞机，连上WIFI，去ATM取了约等于2000人民币的菲律宾比索，买了一个汉堡换了一点零钱，就打车去酒店了。
 
@@ -115,35 +114,35 @@ tags:
 
 所谓的人是一个国家的形象，虽然说菲律宾是一个有小费习惯的国家，但警察这样的公然要小费，也的确是让人叹为观止了。在这里还是得提醒一下，对于这种明显不不合适的小费要求，要不就只给1块、5块的硬币（不到人民币1块钱)，不能随便纵容。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-06999.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06999.jpg)
 
 马尼拉的出租车有几种颜色，黑色、黄色、白色，白色的一般不打表，黄色的比较正规，上车的时候有一个工作人员会写上你的目的地，给司机，上车打表走人。从机场开往酒店的路上，见到不少吉普尼，由各种老旧车辆改装的公交车，花花绿绿的还是挺有特色的，也很有发展国家的特色，归根到底还是穷嘛。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-07002.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-07002.jpg)
 
-九点多的马尼拉，还遇到了堵车，10多公里的路程，也差不多开了一个小时才到达酒店，今晚入住的是[Hotel H2O水都大酒店](http://www.mafengwo.cn/hotel/81389.html)。
+九点多的马尼拉，还遇到了堵车，10多公里的路程，也差不多开了一个小时才到达酒店，今晚入住的是[Hotel H2O水都大酒店](https://www.mafengwo.cn/hotel/81389.html)。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/manila-1.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/manila-1.jpg)
 
 酒店位于马尼拉湾畔，属于马尼拉比较高端的酒店了，硬件条件还不错。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-07032.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-07032.jpg)
 
 由于我们Checkin的时间比较晚了，原来订的大床房已经没了，只有双床房，酒店跟国内假日差不多规格，比较有特色的是有一大面的落地窗，窗外就是马尼拉湾，100%的海景房，视觉观感还是很不错的。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-07014.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-07014.jpg)
 
 从房间里拍了一个窗外的湾景长曝光，有一艘游船在海面停着。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-07036.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-07036.jpg)
 
 酒店的介绍卡片放在桌子上。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-07039.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-07039.jpg)
 
 床头柜的小摆牌，从这些细节还是可以看出这是一个还不错的酒店，价格也不贵。
 
-![full-img](https://static.is26.com/blog/2016/09/pilipinas/day1/A7S2-D1-07046.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-07046.jpg)
 
 这一次出行，租了一个随身WIFI，用的应该是Globalme的全球WIFI解决方案，机器显示的是菲律宾当地电信Globe的信号，可能由于我们的位置比较偏，信号也很弱，这个WIFI信号很不好，尝试连接酒店的WIFI，速度也很感人，相比日韩这种信息产业发达的地区，菲律宾这种发展中国家的基建的差距就暴露出来了。
 

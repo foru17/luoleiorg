@@ -1,8 +1,9 @@
 ---
-title: "深圳联通10M宽带用户评测"
-date: "2013-09-07"
-tags: 
-  - "e8af84e6b58b"
+cover: https://c2.llyz.xyz/wp-image/2013/09/Unicom-360-test.jpg
+date: '2013-09-07'
+tags:
+- e8af84e6b58b
+title: 深圳联通10M宽带用户评测
 ---
 
 去年家里签了深圳电信的 E8套餐，4m的 ADSL+2m 的 IPTV （送一个挺不好用的机顶盒），赠送一个包含50话费的固定座机，每年1860元。今年九月一年的套餐到期了，八月暑期档，深圳电信搞活动，20M 宽带是1980一年，100M 宽带只要加一个电信手机，一年也只需要1200一年，可蛋疼的是我们这栋楼还是铜缆，最高只有12M 的宽带，一年居然也还要1980，想着真不爽，我妈看到小区里联通搞活动，一年10M的宽带+一个高清机顶盒才1200。考虑了一下，就退了深圳电信，签了深圳联通。
@@ -15,45 +16,45 @@ tags:
 
 **1.360宽带测速**
 
-![Unicom-360-test](https://static.is26.com/wp-image/2013/09/Unicom-360-test.jpg)
+![Unicom-360-test](https://c2.llyz.xyz/wp-image/2013/09/Unicom-360-test.jpg)
 
 到联通服务器大概是900kb/s，到电信服务器大概是800kb/s，测了几次，上下100kb的波动，应该还算是正常吧。(update:9月中旬这几天白天又测试了一下，能稳定到1.5mb/s，360自动更新补丁更新软件速度都很快）。
 
-**2.迅雷离线下载**![xunlei-1](https://static.is26.com/wp-image/2013/09/xunlei-1.jpg)
+**2.迅雷离线下载**![xunlei-1](https://c2.llyz.xyz/wp-image/2013/09/xunlei-1.jpg)
 
 是迅雷 VIP，离线下载了最近比较火的美剧「新闻编辑室」，开启高速通道，一开始500kb/s，后来慢慢上升到800kb-1mb/s（这个不一定是网络的原因，可能是我 pc 机客户端的原因）。
 
-![unicom](https://static.is26.com/wp-image/2013/09/unicom-1024x577.png)
+![unicom](https://c2.llyz.xyz/wp-image/2013/09/unicom-1024x577.png)
 
 可是我直接用我路由器的 aria2离线下载，速度直接稳定到1m/s（电信下也是这种情况，我严重怀疑是不是pc 客户端的问题）
 
 **3.QQ旋风**
 
-![qqxuanfeng-1](https://static.is26.com/wp-image/2013/09/qqxuanfeng-1.jpg)
+![qqxuanfeng-1](https://c2.llyz.xyz/wp-image/2013/09/qqxuanfeng-1.jpg)
 
 再试一下 QQ 旋风离线，开始下载最近的电影《僵尸世界大战》，速度就没迅雷那么好了，稳定在500-800kb/s，没飙到1mb 以上过。
 
 **4.浏览器下载**
 
-![baidu-download-brower](https://static.is26.com/wp-image/2013/09/baidu-download-brower.png)
+![baidu-download-brower](https://c2.llyz.xyz/wp-image/2013/09/baidu-download-brower.png)
 
 首先在太平洋 pconline.com.cn 的 下载站随便下了一个 软件，我擦，居然速度只有20-50kb/s飘动。
 
-![baidu-xunlei-download](https://static.is26.com/wp-image/2013/09/baidu-xunlei-download.jpg)
+![baidu-xunlei-download](https://c2.llyz.xyz/wp-image/2013/09/baidu-xunlei-download.jpg)
 
 再试一下用迅雷直接下载刚刚那个文件，这下子速度飙到700kb+/s 了，以上结果，供大家自己参考。
 
 **5.百度云盘**
 
-![Screen Shot 2013-09-08 at 12.03.08 AM](https://static.is26.com/wp-image/2013/09/Screen-Shot-2013-09-08-at-12.03.08-AM.png)再试一下从百度云盘随便下载一个热门的视频，浏览器里下载速度又只有60+kb/s 了。
+![Screen Shot 2013-09-08 at 12.03.08 AM](https://c2.llyz.xyz/wp-image/2013/09/Screen-Shot-2013-09-08-at-12.03.08-AM.png)再试一下从百度云盘随便下载一个热门的视频，浏览器里下载速度又只有60+kb/s 了。
 
 #### 上传速度测试（惨不忍睹！！！！）
 
-![Screen Shot 2013-09-08 at 12.09.06 AM](https://static.is26.com/wp-image/2013/09/Screen-Shot-2013-09-08-at-12.09.06-AM.png)
+![Screen Shot 2013-09-08 at 12.09.06 AM](https://c2.llyz.xyz/wp-image/2013/09/Screen-Shot-2013-09-08-at-12.09.06-AM.png)
 
 首先上下 Speedtest 的测试，下载基本都能到达10M，上传那0.4m 表示是真的。下面这个是我在 QQ 邮箱里上传一个文件时的速度，基本就是这个样子的速度，我写这篇博文的时候上传截图，明显速度比在电信8M ADSL下要慢。明儿要去跟客服投诉下，要不这上传速度，push 一个代码就是浪费生命啊。
 
-![qq-mail-upload](https://static.is26.com/wp-image/2013/09/qq-mail-upload.jpg)
+![qq-mail-upload](https://c2.llyz.xyz/wp-image/2013/09/qq-mail-upload.jpg)
 
 #### 其他体验
 
@@ -61,15 +62,15 @@ tags:
 
 对了，联通还送了一个 android 机顶盒，
 
-![IMG_20130907_234229](https://static.is26.com/wp-image/2013/09/IMG_20130907_234229-1024x576.jpg)
+![IMG_20130907_234229](https://c2.llyz.xyz/wp-image/2013/09/IMG_20130907_234229-1024x576.jpg)
 
 一个机顶盒，带HDMI 线口， SD 卡槽，两个 USB 孔，附送一个 无线网卡，还有一个遥控器。其实跟市面上两百来块钱的那种 android 机顶盒差不多，走的还是10M 的网络，不是单独的。
 
-![IMG_20130907_234314](https://static.is26.com/wp-image/2013/09/IMG_20130907_234314-1024x576.jpg)
+![IMG_20130907_234314](https://c2.llyz.xyz/wp-image/2013/09/IMG_20130907_234314-1024x576.jpg)
 
 给大家看一张图，资源尚好，清晰度尚好，电视直播不是高清的，效果一般般。值得一说的是，我上网搜了一下，发现通过进入「在线视频」可以安装 apk，于是就安装了一个「兔子 TV 桌面」，立马，体验直线上升，10M 网络下，看奇艺、优酷等等都挺爽的，资源也丰富，立马山寨变小米了。
 
-![tuzi-tv](https://static.is26.com/wp-image/2013/09/tuzi-tv-1024x1024.jpg)
+![tuzi-tv](https://c2.llyz.xyz/wp-image/2013/09/tuzi-tv-1024x1024.jpg)
 
 #### 总评
 

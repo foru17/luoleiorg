@@ -1,13 +1,14 @@
 ---
-title: "左罗TV | 遇见,东极岛:夏季舟山团建视频节目"
-date: "2016-07-24"
-tags: 
-  - "travel"
+cover: https://c2.llyz.xyz/blog/2016/07/dongji/dongji-island.jpg
+date: '2016-07-24'
+tags:
+- travel
+title: 左罗TV | 遇见,东极岛:夏季舟山团建视频节目
 ---
 
-![cover](https://static.is26.com/blog/2016/07/dongji/dongji-island.jpg)
+![cover](https://c2.llyz.xyz/blog/2016/07/dongji/dongji-island.jpg)
 
-2016年春节后回来，就进去了公司五楼的小黑屋进行起点改造的封闭开发，前后忙活了小半年，[起点中文网新版](http://i.qidian.com/)(2016.07.24注:当前对登陆用户开放)终于上线，从UI、交互、性能、后台架构方面都有了质的飞跃，后续我也会在博客进行技术方面的分享（毕竟也是KPI的一个考核项目），要不我的博客就真的沦陷成晒妻博客了。
+2016年春节后回来，就进去了公司五楼的小黑屋进行起点改造的封闭开发，前后忙活了小半年，[起点中文网新版](https://i.qidian.com/)(2016.07.24注:当前对登陆用户开放)终于上线，从UI、交互、性能、后台架构方面都有了质的飞跃，后续我也会在博客进行技术方面的分享（毕竟也是KPI的一个考核项目），要不我的博客就真的沦陷成晒妻博客了。
 
 7月中旬，项目主要开发任务终于告一段落，团建的计划早几个月就被大家所讨论，这一次，我们的团建目的地，选择的是:
 
@@ -27,7 +28,7 @@ tags:
 
 #### 观看地址:
 
-- [优酷网:遇见,东极岛|去大陆最东的岛屿团建是什么体验](http://v.youku.com/v_show/id_XMTY1NTY5NDI4OA==.html) : 推荐大陆用户观看。
+- [优酷网:遇见,东极岛|去大陆最东的岛屿团建是什么体验](https://v.youku.com/v_show/id_XMTY1NTY5NDI4OA==.html) : 推荐大陆用户观看。
 - [Youtube:Travel to the East End of China | Dongji Island | SONY A7S2 & Yi Camera 4K & DJI Phantom 3](https://www.youtube.com/watch?v=GIcWco3KEfk) : 推荐海外用户观看
 
 #### 在线视频
@@ -48,9 +49,9 @@ tags:
 
 欢迎各位点击下面的链接关注我们的视频频道或者社交网络:
 
-- [【优酷自频道】:左罗TV](http://i.youku.com/i/UMjQyNzQ2NTA4)
+- [【优酷自频道】:左罗TV](https://i.youku.com/i/UMjQyNzQ2NTA4)
 - [【Youtube Channel】:ZuoluoTv](https://www.youtube.com/channel/UCFCs9KNL6f2ZMKsoU7rjbkg)
-- [新浪微博:@罗罗磊磊](http://weibo.com/foru17)
-- [新浪微博:@杨杨左左](http://www.weibo.com/809033993?is_all=1)
+- [新浪微博:@罗罗磊磊](https://weibo.com/foru17)
+- [新浪微博:@杨杨左左](https://www.weibo.com/809033993?is_all=1)
 - [Instagram:@foru17](https://www.instagram.com/foru17/)
 - [Instagram:@zoelccc](https://www.instagram.com/zoelccc/)

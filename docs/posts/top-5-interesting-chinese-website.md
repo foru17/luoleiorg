@@ -1,10 +1,11 @@
 ---
-title: "我最常访问的五个小众中文网站 | VLOG38"
-date: "2019-04-09"
-categories: 
-  - "zuoluotv"
-tags: 
-  - "zuoluotv"
+categories:
+- zuoluotv
+cover: https://c2.llyz.xyz/default.cover.jpg
+date: '2019-04-09'
+tags:
+- zuoluotv
+title: 我最常访问的五个小众中文网站 | VLOG38
 ---
 
 #### 视频
@@ -18,6 +19,6 @@ https://www.youtube.com/watch?v=Voj40REC68Y
 
 - [V2ex](https://www.v2ex.com/)
 - [Chiphell](https://www.chiphell.com/)
-- [数字尾巴](http://www.dgtle.com/)
+- [数字尾巴](https://www.dgtle.com/)
 - [Mobile01](https://www.mobile01.com/)
 - [少数派](https://sspai.com/)

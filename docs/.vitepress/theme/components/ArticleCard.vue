@@ -1,0 +1,100 @@
+<script setup lang="ts">
+  import { data as posts } from "../posts.data.js";
+  import Date from "./Date.vue";
+  import { useData } from "vitepress";
+  import { withBase } from "vitepress";
+  const { frontmatter } = useData();
+  import { watch, nextTick, ref, onMounted } from "vue";
+  const props = defineProps<{
+    url: string;
+    title: string;
+    cover: string;
+    date: string | Date;
+  }>();
+
+  const imageLoaded = ref(false);
+  const imageError = ref(false);
+
+  const onImageLoad = () => {
+    imageError.value = false;
+    imageLoaded.value = true;
+  };
+
+  const onImageError = () => {
+    imageError.value = true;
+    imageLoaded.value = true; // 也设置图片为已加载，隐藏加载动画
+  };
+
+  onMounted(() => {
+    // Artalk.loadCountWidget({
+    //   server: "https://artalk.is26.com/",
+    //   site: "罗磊的独立博客",
+    //   pvEl: "#ArtalkPV",
+    //   countEl: "#ArtalkCount",
+    // });
+  });
+</script>
+
+<template>
+  <div class="w-full md:w-1/4 p-3 flex flex-col flex-grow flex-shrink h-80">
+    <div
+      class="flex-1 bg-white rounded-t overflow-hidden h-64 shadow-lg ease-in-out hover:shadow-2xl duration-300">
+      <a
+        :href="withBase(url)"
+        class="flex flex-wrap no-underline hover:no-underline">
+        <div class="overflow-hidden w-full h-40 relative bg-zinc-100">
+          <img
+            loading="lazy"
+            :src="cover"
+            @load="onImageLoad"
+            @error="onImageError"
+            :class="{
+              'opacity-0': !imageLoaded,
+              'opacity-100': imageLoaded && !imageError,
+              'opacity-0 delay-0': imageLoaded && imageError,
+            }"
+            class="absolute top-0 left-0 h-full w-full object-cover rounded-t hover:scale-105 ease-in duration-300" />
+          <div
+            v-if="!imageLoaded || imageError"
+            :class="{ 'animate-pulse': !imageLoaded }"
+            class="flex space-x-4 mt-6 p-2">
+            <span v-if="!imageError" class="relative flex h-10 w-10">
+              <span
+                class="animate-ping absolute inline-flex h-full w-full rounded-full bg-sky-100 opacity-75"></span>
+              <span
+                class="relative inline-flex rounded-full h-10 w-10 bg-slate-200"></span>
+            </span>
+
+            <div
+              v-if="imageError"
+              class="w-0 h-0 mt-1 border-l-[20px] border-l-transparent border-t-[30px] border-t-slate-200 border-r-[20px] border-r-transparent"></div>
+            <div class="flex-1 space-y-6 py-1">
+              <div class="h-4 bg-slate-200 rounded"></div>
+              <div class="space-y-3">
+                <div class="grid grid-cols-3 gap-4">
+                  <div class="h-4 bg-slate-200 rounded col-span-2"></div>
+                  <div class="h-4 bg-slate-200 rounded col-span-1"></div>
+                </div>
+                <div class="h-4 bg-slate-200 rounded"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="w-full px-6 mt-5">
+          <p
+            class="font-medium break-normal text-lg text-gray-900 line-clamp-2">
+            {{ title }}
+          </p>
+        </div>
+      </a>
+    </div>
+    <div
+      class="flex-none mt-auto bg-white rounded-b rounded-t-none overflow-hidden shadow-lg p-6 h-16">
+      <div class="flex items-center justify-between">
+        <p class="text-gray-400 text-xs md:text-sm">
+          {{ date.formatShowDate }}
+        </p>
+      </div>
+    </div>
+  </div>
+</template>

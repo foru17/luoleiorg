@@ -1,15 +1,16 @@
 ---
-title: "【骑行去西藏.壹】谈死亡"
-date: "2012-04-15"
-categories: 
-  - "lifestyle"
-tags: 
-  - "travel"
-  - "tibet"
-  - "e9aa91e8a18c"
+categories:
+- lifestyle
+cover: https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg "biketotibet"
+date: '2012-04-15'
+tags:
+- travel
+- tibet
+- e9aa91e8a18c
+title: 【骑行去西藏.壹】谈死亡
 ---
 
-![biketotibet](https://static.is26.com/wp-image/2012/04/biketotibet.jpg "biketotibet")
+![biketotibet](https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg "biketotibet")
 
 > 有些事现在不做，一辈子都不会做了
 
@@ -47,7 +48,7 @@ tags:
 
 我倒不相信自己会RP那么好，成为每年死在路上的那两位数的人中的一位。
 
-\[caption id="attachment\_491" align="alignnone" width="723"\]![](https://static.is26.com/wp-image/2012/04/72guai.jpg "72guai") 川藏线上著名的72拐\[/caption\]
+\[caption id="attachment\_491" align="alignnone" width="723"\]![](https://c2.llyz.xyz/wp-image/2012/04/72guai.jpg "72guai") 川藏线上著名的72拐\[/caption\]
 
 杞人尚忧天，何况我即将面对的是一条写满「血泪汗」的「天路」呢？我会想一些问题，我也会恐惧一些东西。
 

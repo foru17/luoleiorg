@@ -1,8 +1,9 @@
 ---
-title: "腾讯出品的良心境外上网卡WeSim | VLOG30"
-date: "2019-03-27"
-categories: 
-  - "zuoluotv"
+categories:
+- zuoluotv
+cover: https://c2.llyz.xyz/default.cover.jpg
+date: '2019-03-27'
+title: 腾讯出品的良心境外上网卡WeSim | VLOG30
 ---
 
 #### 视频

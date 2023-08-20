@@ -1,15 +1,16 @@
 ---
-title: "你有几张「云」账单？"
-date: "2015-10-04"
+cover: https://c2.llyz.xyz/blog/2015/10/bill.jpg
+date: '2015-10-04'
+title: 你有几张「云」账单？
 ---
 
-![full-img](https://static.is26.com/blog/2015/10/bill.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/10/bill.jpg)
 
-今天看到台湾开发者[@ingramchen](https://twitter.com/ingramchen)的博文[《你有幾張雲端帳單？》](http://ingramchen.io/blog/2015/03/cloud_invoice.html)，想一想，自己每个月花在「云」上的钱也不少，干脆也写一篇博文，记录下自己每个月的钱都跑到哪片云上了。
+今天看到台湾开发者[@ingramchen](https://twitter.com/ingramchen)的博文[《你有幾張雲端帳單？》](https://ingramchen.io/blog/2015/03/cloud_invoice.html)，想一想，自己每个月花在「云」上的钱也不少，干脆也写一篇博文，记录下自己每个月的钱都跑到哪片云上了。
 
 #### 1.Linode
 
-![full-img](https://static.is26.com/blog/2015/10/lionde1.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/10/lionde1.jpg)
 
 从虚拟机到VPS，折腾的过程中换了不少国外的小众VPS，最后还是决定选择著名的Linode，机房选的是LA fremont，国内到美国西海岸，除了延时高了点，速度不错。除此之外，Linode的客服系统也挺好，几次与客服沟通，邮件基本都是在半个之内就回复了。
 
@@ -23,15 +24,15 @@ date: "2015-10-04"
 
 #### 2.阿里云
 
-![full-img](https://static.is26.com/blog/2015/10/aliyun.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/10/aliyun.jpg)
 
 从2014年9月开始使用阿里云，当时的入门套餐是****￥49.50****元每月，带看1Mbps，单核CPU，512MB内存。实例放在青岛节点，之所以购买阿里云，是为了备案域名，我有一个`is26.com`的域名就是在国内备案的了。当时还是在深圳通过阿里云的流程备案，可以说还是特别方便的，直接去阿里云指定的拍摄点拍照、上传备案的表格就好了。
 
-阿里云这台机器性能不咋地，但是好在在国内，适合对稳定性要求比较高的服务，于是把微信公众号的机器人和我自己的测试Git仓库都放在了上面。后来阿里云开放了按照[流量计费](http://help.aliyun.com/knowledge_detail/5974991.html)的政策，鉴于这台机器上没有什么Web服务也没有什么资源，果断换了套餐，改成****￥28.80****元的最低配置套餐，100Mbps的最高流量，1G/0.8元。
+阿里云这台机器性能不咋地，但是好在在国内，适合对稳定性要求比较高的服务，于是把微信公众号的机器人和我自己的测试Git仓库都放在了上面。后来阿里云开放了按照[流量计费](https://help.aliyun.com/knowledge_detail/5974991.html)的政策，鉴于这台机器上没有什么Web服务也没有什么资源，果断换了套餐，改成****￥28.80****元的最低配置套餐，100Mbps的最高流量，1G/0.8元。
 
 阿里云这台机器现在也负责爬梯子国内跳板机的作用，参考我以前的博文[《极路由Shadowsocks家庭无痛翻墙实践》](https://luolei.org/hiwifi-shadowsocks/)，通过Client<>阿里云青岛<>日本Linode的方式，平时在家看Youtube都自动给我1080P高清播放了，大大降低了接触国外信息的门槛，没事就拿着iPad给妹纸看油管好玩的视频。
 
-![full-img](https://static.is26.com/blog/2015/10/aliyun2.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/10/aliyun2.jpg)
 
 阿里云每小时会根据过去一小时的流量扣款一次，每次都是几毛几毛的扣（根据你的实际使用情况）。
 
@@ -41,7 +42,7 @@ date: "2015-10-04"
 
 #### 3.DigitalOcean
 
-![full-img](https://static.is26.com/blog/2015/10/digitialocean.png)
+![full-img](https://c2.llyz.xyz/blog/2015/10/digitialocean.png)
 
 开始用DigitalOcean，是因为2013年底的时候，DO搞活动，一次性送了50美元的代金券（如图最下），加上最低每个月仅需****$5****美元的套餐，对于穷学生来说，真可是天大的便宜，差不多意味着免费用一年。DO在业内的口碑还不错，性价比高，机房线路的质量还行，我的机房实在三藩，512MB内存，20G的硬盘。由于在美国西海岸相比东京延迟有点高（被Linode东京给惯坏了），现在DO这台机器基本上闲置了，就养着当备用，部署了VPN、SS，有时候切换美国IP爬梯子用，听听Pandora神马的。
 
@@ -51,11 +52,11 @@ date: "2015-10-04"
 
 #### 4.印象笔记
 
-![full-img](https://static.is26.com/blog/2015/10/evernote.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/10/evernote.jpg)
 
 在[《非程序员别点:Geek Style开发思维、技巧、工具》](https://luolei.org/code-like-a-geek/)，我专门介绍了常用的笔记软件印象笔记。
 
-![full-img](https://static.is26.com/blog/2015/02/yxbj2.png)
+![full-img](https://c2.llyz.xyz/blog/2015/02/yxbj2.png)
 
 我是印象笔记的重度用户，很早就开始系统地收集、整理资料，平时的工作、生活中经常用到查阅的功能。
 
@@ -71,11 +72,11 @@ date: "2015-10-04"
 
 #### 5.迅雷VIP
 
-![full-img](https://static.is26.com/blog/2015/10/xunlei.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/10/xunlei.jpg)
 
 之所以买迅雷VIP，无非就是图省事和快，不得不说，迅雷离线还是解决了中国网民的不少问题，不得不说，用迅雷下载有些影视资源，速度还是很感人的。每个月15块钱，原来一个好几G的文件，下载速度节稳定地提高了五倍，节省了好几个小时的时间，何乐而不为呢。
 
-买迅雷离线会员的一个其他的原因是因为家里有一个荣耀路由和树莓派，带了迅雷离线的功能，USB外接硬盘，在家直接通过[迅雷远程下载](yuancheng.xunlei.com)把文件下载到硬盘中，回到家直接LAN访问就可以读取了。
+买迅雷离线会员的一个其他的原因是因为家里有一个荣耀路由和树莓派，带了迅雷离线的功能，USB外接硬盘，在家直接通过[迅雷远程下载](https://yuancheng.xunlei.com)把文件下载到硬盘中，回到家直接LAN访问就可以读取了。
 
 上个月一次性买了一年的会员，以前都是断断续续地上淘宝买，中间还买过子帐号。
 
@@ -83,7 +84,7 @@ date: "2015-10-04"
 
 #### 6.iCloud
 
-![full-img](https://static.is26.com/blog/2015/10/icloud.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/10/icloud.jpg)
 
 之所以买iCloud，倒有点是被苹果逼着赎身的意思，有一台64G的iPhone6，没拍多久照片，原先的5G空间就不够用了，于是就买了每个月****￥5****元20G容量的最低月租套餐，没过多久，又不够用了，幸亏iOS9苹果大发良心，5元的套餐自动升级到50G的容量。
 
@@ -91,7 +92,7 @@ date: "2015-10-04"
 
 #### 7.网易云音乐畅听流量包
 
-![full-img](https://static.is26.com/blog/2015/10/music.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/10/music.jpg)
 
 以前经常喜欢拿着手机听歌，可是人又懒，基本没有下载歌曲在本地的习惯，又费时间又费空间，想听新歌还得删除原来的，一想都觉得麻烦，还在广东的时候，就先后买了多米云音乐、QQ音乐流量包，最后等到网易云音乐跟联通合作，立马转投网易云音乐，每个月9块钱，3G、4G网路下任意畅听，平时出门旅游，跑步，想听什么歌，就直接live steam了，也喜欢听着电台，探索新的音乐。
 
@@ -99,7 +100,7 @@ date: "2015-10-04"
 
 ## 其他花销
 
-列了清单，每个月花在服务器上的最低固定开销约****$10.00**** + ****$5.00**** + ****￥28.80****约123元，加上阿里云流量计费约150元。
+列了清单，每个月花在服务器上的最低固定开销约****$10.00****+ ****$5.00****+ ****￥28.80****约123元，加上阿里云流量计费约150元。
 
 其他诸如印象笔记、迅雷、iCloud、云音乐结算下来，月均差不多也是40-60人民币的样子。
 

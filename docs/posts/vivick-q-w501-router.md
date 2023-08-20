@@ -1,15 +1,16 @@
 ---
-title: "贵的不一定好，便宜也不一定差:vivick迷你路由器Q-W501简单评测"
-date: "2012-10-09"
-tags: 
-  - "e8af84e6b58b"
+cover: https://c2.llyz.xyz/wp-image/2012/10/jingdong.png "jingdong"
+date: '2012-10-09'
+tags:
+- e8af84e6b58b
+title: 贵的不一定好，便宜也不一定差:vivick迷你路由器Q-W501简单评测
 ---
 
 说到消费者知道的路由器品牌，大多就是Tp-link，D-Link、华为之类的大牌和名牌，高端点的有linksys、华硕之类。
 
-#### 路由器一：[TP-link TL-WR841N 300M](http://www.360buy.com/products/670-699-700.html)
+#### 路由器一：[TP-link TL-WR841N 300M](https://www.360buy.com/products/670-699-700.html)
 
-这段时间，买了两个路由器，家里的无线设备多，好几台电脑，原来老的54M的路由器实在是吃不消，于是欲图换一个![jingdong](https://static.is26.com/wp-image/2012/10/jingdong.png "jingdong")稳定的、300M的家用路由器，不想折腾那么十几块钱的差距，直接上京东商城看了看，发现销量第二的TL-WR841N这款路由器貌似还不错，外观还算漂亮，Tp-link也算大牌，质量应该有保证，价格130也不算太贵，也懒得比较什么性能了（家庭用，无所谓），直接下单。京东速度也快，9月18号晚上下的单，9月19号下午就送到了。
+这段时间，买了两个路由器，家里的无线设备多，好几台电脑，原来老的54M的路由器实在是吃不消，于是欲图换一个![jingdong](https://c2.llyz.xyz/wp-image/2012/10/jingdong.png "jingdong")稳定的、300M的家用路由器，不想折腾那么十几块钱的差距，直接上京东商城看了看，发现销量第二的TL-WR841N这款路由器貌似还不错，外观还算漂亮，Tp-link也算大牌，质量应该有保证，价格130也不算太贵，也懒得比较什么性能了（家庭用，无所谓），直接下单。京东速度也快，9月18号晚上下的单，9月19号下午就送到了。
 
 装上，配置好ADSL，就这么用着，一开始两周，尚好。家庭用嘛，也不折腾，也没有什么大数据流。
 
@@ -35,7 +36,7 @@ tags:
 
 #### 路由器二：vivick Q-501 迷你路由器
 
-![vivick Q-501](https://static.is26.com/wp-image/2012/10/SI_00335758_2.jpg "vivick Q-501")
+![vivick Q-501](https://c2.llyz.xyz/wp-image/2012/10/SI_00335758_2.jpg "vivick Q-501")
 
 经常往学校图书馆跑，无奈图书馆电源口多，网线口少，而图书馆自己的公共wifi速度实在是惨不忍睹。遂生自己买一个迷你路由器的想法（平时去宾馆酒店，上网的话也方便）。
 
@@ -43,7 +44,7 @@ tags:
 
 上淘宝一搜，发现右边广告栏中有一个「Vivick」的迷你路由器，一体式设计（包含电源插头，省去另外的电源线）包装精美、设计也时尚，价格才40不到，算上邮费也不到50。
 
-搜索了一下这个Vivick，在[卓越亚马逊](http://www.amazon.cn/%E8%81%94%E6%83%B3-VIVICK-150M-%E8%BF%B7%E4%BD%A0%E6%97%A0%E7%BA%BF%E8%B7%AF%E7%94%B1%E5%99%A8Q-W501-%E4%B8%8E%E8%8B%B9%E6%9E%9C%E5%90%8C%E8%8A%AF-%E4%BE%BF%E6%90%BA%E5%BC%8F%E6%97%A0%E7%BA%BF%E8%B7%AF%E7%94%B1%E5%99%A8/dp/B008S6SA2S)（话说卓越上这款路由器卖68呢）看到介绍：「加拿大著名的电子配件品牌VIVICK，苹果配件专业设计师， 目前已在北美、南美，欧洲和亚太多个城市设有分销机构，是一家以精致的设计和高于客户满足感为己任的电子配件品牌。多年来，其苹果配件系列配件产品获得了多方好评。 VIVICK正是IPHONE苹果产品的专属时尚设计师 。」
+搜索了一下这个Vivick，在[卓越亚马逊](https://www.amazon.cn/%E8%81%94%E6%83%B3-VIVICK-150M-%E8%BF%B7%E4%BD%A0%E6%97%A0%E7%BA%BF%E8%B7%AF%E7%94%B1%E5%99%A8Q-W501-%E4%B8%8E%E8%8B%B9%E6%9E%9C%E5%90%8C%E8%8A%AF-%E4%BE%BF%E6%90%BA%E5%BC%8F%E6%97%A0%E7%BA%BF%E8%B7%AF%E7%94%B1%E5%99%A8/dp/B008S6SA2S)（话说卓越上这款路由器卖68呢）看到介绍：「加拿大著名的电子配件品牌VIVICK，苹果配件专业设计师， 目前已在北美、南美，欧洲和亚太多个城市设有分销机构，是一家以精致的设计和高于客户满足感为己任的电子配件品牌。多年来，其苹果配件系列配件产品获得了多方好评。 VIVICK正是IPHONE苹果产品的专属时尚设计师 。」
 
 欧美的牌子，看样子这款路由器是OEM贴牌产品，再继续搜索（品牌小众，搜索的结果多为淘宝，资料较少），在一个淘宝评价下面，发现有人说「刷腾达A5固件升级成功」。
 
@@ -53,27 +54,27 @@ tags:
 
 这款路由器接连上有线网络，转换成独立的无线网络。现在我在图书馆。插上墙上的网线，自动转换成无线信号，测试成功。
 
-连接上无线之后，使用WifiInspector 无线监测软件，看到Vendor下显示的是「Teanda technology」腾达科技，看样子果然是腾达的产品。![router-tenda](https://static.is26.com/wp-image/2012/10/router-tenda.png "router-tenda")
+连接上无线之后，使用WifiInspector 无线监测软件，看到Vendor下显示的是「Teanda technology」腾达科技，看样子果然是腾达的产品。![router-tenda](https://c2.llyz.xyz/wp-image/2012/10/router-tenda.png "router-tenda")
 
 在浏览器输入192.168.2.1进入路由器界面，如下。
 
-![vivick-router](https://static.is26.com/wp-image/2012/10/vivick-router1.png "vivick-router")
+![vivick-router](https://c2.llyz.xyz/wp-image/2012/10/vivick-router1.png "vivick-router")
 
 在系统工具>升级 里查看固件信息为V5.07.21\_cn\_DFC
 
-![router-sys](https://static.is26.com/wp-image/2012/10/router-sys.png "router-sys")
+![router-sys](https://c2.llyz.xyz/wp-image/2012/10/router-sys.png "router-sys")
 
-登陆腾达官方网站 [http://www.tenda.com.cn/tendacn/DownLoads/show.aspx?downid=738](http://www.tenda.com.cn/tendacn/DownLoads/show.aspx?downid=738)
+登陆腾达官方网站 [https://www.tenda.com.cn/tendacn/DownLoads/show.aspx?downid=738](https://www.tenda.com.cn/tendacn/DownLoads/show.aspx?downid=738)
 
-下载最新的A5固件  [下载地址](http://www.tenda.com.cn/uploadfile/downloads/uploadfile/201207/V5.07.33_cn.rar) 。
+下载最新的A5固件  [下载地址](https://www.tenda.com.cn/uploadfile/downloads/uploadfile/201207/V5.07.33_cn.rar) 。
 
 解压之后，在路由器里升级，提示「升级ing」后重启。原来的信息均保存，logo由vivick换成了腾达，升级成功。
 
-![tenda-sys](https://static.is26.com/wp-image/2012/10/tenda-sys6.png "tenda-sys")
+![tenda-sys](https://c2.llyz.xyz/wp-image/2012/10/tenda-sys6.png "tenda-sys")
 
 至于其他的性能，设置评测，在这里发一个淘宝「试用中心」的腾达A5评测。
 
-[http://try.taobao.com/item.htm?id=1487720](http://try.taobao.com/item.htm?id=1487720)
+[https://try.taobao.com/item.htm?id=1487720](https://try.taobao.com/item.htm?id=1487720)
 
 刚刚短时间地测试了一下，联想y450（2009年的老机器了）连接这款路由器网络，从旋风下载，稳定在1M+的速度（图书馆是校园网，速度挺快的），其他详细的评测有需要的同学可以看看上面评测资料。我这里就不多说了。
 

@@ -1,9 +1,10 @@
 ---
-title: "Nginx反向代理部署Node.js应用配置方法"
-date: "2013-08-13"
+cover: https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-13-at-6.58.12-PM.png
+date: '2013-08-13'
+title: Nginx反向代理部署Node.js应用配置方法
 ---
 
-![nodejs-nginx-proxy](https://static.is26.com/wp-image/2013/08/Screen-Shot-2013-08-13-at-6.58.12-PM.png)
+![nodejs-nginx-proxy](https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-13-at-6.58.12-PM.png)
 
 这篇文章仅仅是Mark，供自己以后使用。
 
@@ -29,7 +30,7 @@ proxy_set_header X-Real-IP $remote_addr;
 proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
 proxy_set_header Host $http_host;
 proxy_set_header X-NginX-Proxy true;
-proxy_pass http://127.0.0.1:1337/;
+proxy_pass https://127.0.0.1:1337/;
 proxy_redirect off;
 }
 }

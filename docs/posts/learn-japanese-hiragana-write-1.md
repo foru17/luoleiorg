@@ -1,9 +1,10 @@
 ---
-title: "日语学习入门　ひらがな 书写（壹）"
-date: "2014-06-06"
+cover: https://c2.llyz.xyz/wp-image/2014/06/learn-japanese1.jpg
+date: '2014-06-06'
+title: 日语学习入门　ひらがな 书写（壹）
 ---
 
-![](https://static.is26.com/wp-image/2014/06/learn-japanese1.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/06/learn-japanese1.jpg)
 
 最近开始学习日语，发现国内外不少优秀的学习资源，自己也将在博客记录下自己的学习过程，也当做是自己的一个学习笔记，分享给大家。
 
@@ -11,7 +12,7 @@ date: "2014-06-06"
 
 日语学习，如同英语学习你必须先学会　abc　到　z　二十六个字母表和发音一样，日语学习的基础也就是 Hiragana 平假名，这也是日语的一个基础。
 
-![](https://static.is26.com/wp-image/2014/06/aiueo-hiragana-small.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/06/aiueo-hiragana-small.jpg)
 
 上面这个图，就是日语的五十音图萌版，是从谷歌图搜找到的，哈哈，是不是很可爱。原始大图在可以(戳这里)下载。
 

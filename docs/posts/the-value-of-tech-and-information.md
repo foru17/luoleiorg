@@ -1,11 +1,12 @@
 ---
-title: "对信息和技术的一些看法"
-date: "2016-01-09"
-tags: 
-  - "internet"
+cover: https://c2.llyz.xyz/blog/2016/01/info.jpg
+date: '2016-01-09'
+tags:
+- internet
+title: 对信息和技术的一些看法
 ---
 
-![cover](https://static.is26.com/blog/2016/01/info.jpg)
+![cover](https://c2.llyz.xyz/blog/2016/01/info.jpg)
 
 这两天，一场官司在网界可谓是闹得满界风雨，[快播](https://zh.wikipedia.org/wiki/%E5%BF%AB%E6%92%AD)涉嫌传播淫秽物品牟利案公开审理，新浪微博直播、腾讯文字直播、Bilibili视频直播，让我们见识到了天朝上国的首都，这个中国最发达的城市，可以算得上是这个国家最高司法水平代表的法院和一众司法界的人员，是如何审理案件，可惜的是，一场审判成了一场可笑的演出。
 
@@ -27,11 +28,11 @@ tags:
 
 我跟这个墙，算得上是颇有渊源，某种程度上，是墙让我开始了折腾技术的路。
 
-南方周末2013年曾经有过一篇报道[《方滨兴的墙内墙外》](http://www.infzm.com/content/92480)，当时也算是一个IT界的话题。
+南方周末2013年曾经有过一篇报道[《方滨兴的墙内墙外》](https://www.infzm.com/content/92480)，当时也算是一个IT界的话题。
 
-![cover](https://static.is26.com/blog/2016/01/fbx.jpg)
+![cover](https://c2.llyz.xyz/blog/2016/01/fbx.jpg)
 
-![full-img](https://static.is26.com/blog/2016/01/fbx.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/01/fbx.jpg)
 
 文章中有一段：
 

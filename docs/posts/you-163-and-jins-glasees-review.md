@@ -1,13 +1,14 @@
 ---
-title: "299元的网易严选 VS 900元的 JINS | 第一次在线配近视眼镜 | ZUOLUOTV"
-date: "2018-12-24"
-categories: 
-  - "lifestyle"
-  - "zuoluotv"
-tags: 
-  - "zuoluotv"
-  - "kai-xiang"
-  - "e8af84e6b58b"
+categories:
+- lifestyle
+- zuoluotv
+cover: https://c2.llyz.xyz/blog/2018/12/glasses/g-3.jpg
+date: '2018-12-24'
+tags:
+- zuoluotv
+- kai-xiang
+- e8af84e6b58b
+title: 299元的网易严选 VS 900元的 JINS | 第一次在线配近视眼镜 | ZUOLUOTV
 ---
 
 #### 视频
@@ -25,27 +26,27 @@ https://www.youtube.com/watch?v=70Hu1z5kn5w&t=1s
 
 上周，我在网易严选上配了一副近视眼镜，做一个简单的开箱，分享给大家，也拍了一个视频，更加直观，分享一下关于配眼镜的一些经验。
 
-![](https://static.is26.com/blog/2018/12/glasses/g-3.jpg) 这是我第一次在线配镜，之前戴的是JINS的眼镜，JINS的那个花了将近900块钱，网易这个选的是20克TR材质全框镜架，镜片选的是1.67防蓝光，总价是299，用了优惠券减了20，实际是279，应该是我配过的最便宜的眼镜了。
+![](https://c2.llyz.xyz/blog/2018/12/glasses/g-3.jpg) 这是我第一次在线配镜，之前戴的是JINS的眼镜，JINS的那个花了将近900块钱，网易这个选的是20克TR材质全框镜架，镜片选的是1.67防蓝光，总价是299，用了优惠券减了20，实际是279，应该是我配过的最便宜的眼镜了。
 
-![](https://static.is26.com/blog/2018/12/glasses/g-4.jpg) 网易严选出品，目前我的袜子，内裤都买的严选，当耗品来用，眼镜其实对于我来说也是耗品，镜片磨花了也就换了。
+![](https://c2.llyz.xyz/blog/2018/12/glasses/g-4.jpg) 网易严选出品，目前我的袜子，内裤都买的严选，当耗品来用，眼镜其实对于我来说也是耗品，镜片磨花了也就换了。
 
-![](https://static.is26.com/blog/2018/12/glasses/g-5.jpg) 打开包装后，里面除了配货单，就是这三样东西，一个严选的卡片说明书，一个眼镜布，一个眼镜袋。
+![](https://c2.llyz.xyz/blog/2018/12/glasses/g-5.jpg) 打开包装后，里面除了配货单，就是这三样东西，一个严选的卡片说明书，一个眼镜布，一个眼镜袋。
 
-![](https://static.is26.com/blog/2018/12/glasses/g-2.jpg) 这就是眼镜本身，我从圆框又换回了黑框，适合年轻人。
+![](https://c2.llyz.xyz/blog/2018/12/glasses/g-2.jpg) 这就是眼镜本身，我从圆框又换回了黑框，适合年轻人。
 
-![](https://static.is26.com/blog/2018/12/glasses/g-6.jpg) 我之前买过的大多眼镜价格都是500到1000的价位，网易这个299一套，说实话跟我以前配的贵的没太大区别，做工和质感挺好的。
+![](https://c2.llyz.xyz/blog/2018/12/glasses/g-6.jpg) 我之前买过的大多眼镜价格都是500到1000的价位，网易这个299一套，说实话跟我以前配的贵的没太大区别，做工和质感挺好的。
 
 眼镜店配眼镜，属于暴利行业了，大多钱都是cover店铺房租和人力了，而且基本就是一次性生意，说什么终生清洗的，我戴眼镜这么多年，路过眼镜店都懒得进去洗眼镜。
 
-![](https://static.is26.com/blog/2018/12/glasses/g-7.jpg) ![](https://static.is26.com/blog/2018/12/glasses/g-8.jpg) TR材质属于比较轻的镜架，也是最常见的镜架，像我小时候戴金属的压弯过，戴板材的压断过，后来换了TR省心多了，有时候睡觉压着了，第二天起来直接戴就好，也没有什么变型什么的。
+![](https://c2.llyz.xyz/blog/2018/12/glasses/g-7.jpg) ![](https://c2.llyz.xyz/blog/2018/12/glasses/g-8.jpg) TR材质属于比较轻的镜架，也是最常见的镜架，像我小时候戴金属的压弯过，戴板材的压断过，后来换了TR省心多了，有时候睡觉压着了，第二天起来直接戴就好，也没有什么变型什么的。
 
-![](https://static.is26.com/blog/2018/12/glasses/g-9.jpg) ![](https://static.is26.com/blog/2018/12/glasses/g-10.jpg) ![](https://static.is26.com/blog/2018/12/glasses/g-13.jpg) 一些细节做工，感觉比我900的JINS还要好点。
+![](https://c2.llyz.xyz/blog/2018/12/glasses/g-9.jpg) ![](https://c2.llyz.xyz/blog/2018/12/glasses/g-10.jpg) ![](https://c2.llyz.xyz/blog/2018/12/glasses/g-13.jpg) 一些细节做工，感觉比我900的JINS还要好点。
 
-![](https://static.is26.com/blog/2018/12/glasses/g-11.jpg) 由于选择的是防蓝光的镜片，镜片只能选择1.67的，没有办法选择1.74的，失策了，我近视600度，算比较深的近视了，镜片略厚，超过了边框，我JINS是1.74的镜片，镜框就刚好可以包着镜片，在视频里有展示。
+![](https://c2.llyz.xyz/blog/2018/12/glasses/g-11.jpg) 由于选择的是防蓝光的镜片，镜片只能选择1.67的，没有办法选择1.74的，失策了，我近视600度，算比较深的近视了，镜片略厚，超过了边框，我JINS是1.74的镜片，镜框就刚好可以包着镜片，在视频里有展示。
 
-![](https://static.is26.com/blog/2018/12/glasses/g-12.jpg) 镜片表面有一层绿色镀膜，这是我第一次配防蓝光的眼镜，感觉这些防辐射，防蓝光都是玄学，我敲代码这么多年，就戴普通眼镜，也没感觉有什么。
+![](https://c2.llyz.xyz/blog/2018/12/glasses/g-12.jpg) 镜片表面有一层绿色镀膜，这是我第一次配防蓝光的眼镜，感觉这些防辐射，防蓝光都是玄学，我敲代码这么多年，就戴普通眼镜，也没感觉有什么。
 
-![](https://static.is26.com/blog/2018/12/glasses/g-1.jpg) 299的严选和900的JINS合个影，在这里还是吐槽JINS一下，我JINS这副眼镜配了才半年不到，镜架就脱皮和起皱了，上网搜了一下说TR材质表面有一层涂层，如果质量和做工不好的话，就容易掉皮那些，哎，900的JINS也就这样，算是智商税了。
+![](https://c2.llyz.xyz/blog/2018/12/glasses/g-1.jpg) 299的严选和900的JINS合个影，在这里还是吐槽JINS一下，我JINS这副眼镜配了才半年不到，镜架就脱皮和起皱了，上网搜了一下说TR材质表面有一层涂层，如果质量和做工不好的话，就容易掉皮那些，哎，900的JINS也就这样，算是智商税了。
 
 #### 总结
 

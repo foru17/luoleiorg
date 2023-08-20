@@ -1,8 +1,9 @@
 ---
-title: "6月计划"
-date: "2011-05-31"
-tags: 
-  - "life"
+cover: https://luolei.org/wp-content/uploads/2011/05/luoleired1.jpg "luoleired"
+date: '2011-05-31'
+tags:
+- life
+title: 6月计划
 ---
 
 28号考完BEC，一颗心终于还是放了下来，可以专心弄技术方面的东西了。
@@ -41,4 +42,4 @@ VPS这个月把VPN，SSH什么的都搞一遍先，wordpress主题方面，我�
 
 杂七杂八地先写下6月的一些模糊计划，哥应该还要再仔细地研究一下GTD，好好地规划一下。
 
-[![](http://luolei.org/wp-content/uploads/2011/05/luoleired1.jpg "luoleired")](http://luolei.org/wp-content/uploads/2011/05/luoleired1.jpg "luoleired")
+![](https://luolei.org/wp-content/uploads/2011/05/luoleired1.jpg )

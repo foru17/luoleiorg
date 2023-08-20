@@ -1,11 +1,12 @@
 ---
-title: "注册成了苹果开发者"
-date: "2015-03-09"
-tags: 
-  - "apple"
+cover: https://c2.llyz.xyz/blog/2015/02/apple-bg2.jpg
+date: '2015-03-09'
+tags:
+- apple
+title: 注册成了苹果开发者
 ---
 
-![full-img](https://static.is26.com/blog/2015/02/apple-bg2.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/02/apple-bg2.jpg)
 
 2010年，购买了人生的第一台苹果设备iPad，2012年，购买了第一台Macbook Air，2014年，购买了一台iPad Mini，2015年一月，卖肾买了一台iPhone 6。
 
@@ -13,7 +14,7 @@ tags:
 
 688元一年的注册费，差不多一部国产手机了，想想应该是买过的最贵的网络服务了(Linode 每个月20刀想想每年240刀也挺贵的)。
 
-注册非心血来潮，一是测试需求，开发接触到[cordova](http://cordova.apache.org/)，Hybird应用调试，需要用到Xcode，二是这段时间写了点后端，可以拼拼凑凑自己写个API搭个后端，有一个App的点子，原型也已经想好了，iOS8和iPhone5以上经过测试，目测流畅性与Native无差太多，准备通过Hybird的方式实现。
+注册非心血来潮，一是测试需求，开发接触到[cordova](https://cordova.apache.org/)，Hybird应用调试，需要用到Xcode，二是这段时间写了点后端，可以拼拼凑凑自己写个API搭个后端，有一个App的点子，原型也已经想好了，iOS8和iPhone5以上经过测试，目测流畅性与Native无差太多，准备通过Hybird的方式实现。
 
 #### 在哪注册
 

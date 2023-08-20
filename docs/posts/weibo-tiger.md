@@ -1,8 +1,9 @@
 ---
-title: "围脖猛于虎"
-date: "2011-06-05"
-tags: 
-  - "internet"
+cover: https://c2.llyz.xyz/wp-image/2011/06/2.jpg "2"
+date: '2011-06-05'
+tags:
+- internet
+title: 围脖猛于虎
 ---
 
 > _两只老虎，两只老虎，跑得快，跑得快，一只没有眼睛，一只没有耳朵，真奇怪，真奇怪。_
@@ -17,11 +18,11 @@ tags:
 
 刚刚看一个朋友的微博发现她貌似同一个人在争什么，好奇就点了进去，发现还真是在吵架，当事人还很激动。
 
-[![](https://static.is26.com/wp-image/2011/06/2.jpg "2")](https://static.is26.com/wp-image/2011/06/2.jpg "2")
+![](https://c2.llyz.xyz/wp-image/2011/06/2.jpg )
 
 这些争论来源自一个微博。
 
-[![](https://static.is26.com/wp-image/2011/06/3.jpg "3")](https://static.is26.com/wp-image/2011/06/3.jpg "3")
+![](https://c2.llyz.xyz/wp-image/2011/06/3.jpg )
 
 ”**色狼，偷拍，女厕，变态**“，这几个关键字出来，想必大家一定大概知道整件事情的大概。
 
@@ -45,7 +46,7 @@ tags:
 
 有人会觉得网络自诞生以来就存在这种缺陷，过去的BBS、博客，都有可能出现虚假不实消息，的确，可是相比BBS和博客的影响力，微博做为一个具有”指数增长传播效应”的媒体，其信息传播的速度和影响力远非传统媒体能及，尤其微博往往是同社交网络联系在一起的，你所关注的不少人都是自己身边的同事、同学，社交网络之内的信息传播更加具有杀伤力和影响力。
 
-[![](https://static.is26.com/wp-image/2011/06/weibo.jpg "weibo")](https://static.is26.com/wp-image/2011/06/weibo.jpg "weibo")
+![](https://c2.llyz.xyz/wp-image/2011/06/weibo.jpg )
 
 **两只老虎**
 
@@ -57,17 +58,17 @@ tags:
 
 第一个就是很有名的“金庸被去世”，中国新闻周刊官方微博发布金庸去世的消息，被大量转发（尤其是被不少知名用户转发），该事件已经成了年度假新闻之一。
 
-[![](https://static.is26.com/wp-image/2011/06/jinyong.png "jinyong")](https://static.is26.com/wp-image/2011/06/jinyong.png "jinyong")
+![](https://c2.llyz.xyz/wp-image/2011/06/jinyong.png )
 
 第二个也是一个传播甚广的微博,关于指甲油的腐蚀，被转发了超过28000次。
 
-[![](https://static.is26.com/wp-image/2011/06/zhijia.jpg "zhijia")](https://static.is26.com/wp-image/2011/06/zhijia.jpg "zhijia")
+![](https://c2.llyz.xyz/wp-image/2011/06/zhijia.jpg )
 
 这条微博是关于指甲油的腐蚀的，引起了很多人对指甲油对人体伤害的恐惧，这个微博可以用两个字来形容，就是“扯蛋”，在这对这个广告商强烈鄙视，虚假宣传来网推cosmay这个品牌的指甲油。
 
 实际上：泡沫塑料被指甲油里的有机溶剂溶解的结果。指甲油能溶解泡沫塑料，并不代表它会“腐蚀”指甲，指甲表面是角蛋白，他既不溶于水也不溶于油；如果厚一点，溶剂分子想要从缝隙偷溜过去都很难。“指甲油能腐蚀泡沫塑料就能腐蚀指甲”完全是无稽之谈。
 
-本人特意搜索了相关资料，详情大家可以参考著名网站果壳网的报道《[“腐蚀”泡沫塑料的指甲油](http://www.guokr.com/article/21103/)》
+本人特意搜索了相关资料，详情大家可以参考著名网站果壳网的报道《[“腐蚀”泡沫塑料的指甲油](https://www.guokr.com/article/21103/)》
 
 除了以上这两个例子，日本震后的核辐射扩散、盐危机，都能很好地说明了不负责任的信息发布者的危害。
 
@@ -87,7 +88,7 @@ tags:
 
 回到这次色狼事件的起源微博：
 
-[![](https://static.is26.com/wp-image/2011/06/4.jpg "4")](https://static.is26.com/wp-image/2011/06/4.jpg "4")
+![](https://c2.llyz.xyz/wp-image/2011/06/4.jpg )
 
 看看微博的语气，其中还颇有意思地加上了”如果他不是的话，呃呃呃，就当给他增加人气吧“。
 
@@ -119,10 +120,10 @@ tags:
 
 而对于其他的类似“指甲油腐蚀”的消息，既然这条消息可能会影响到你，让你不再使用指甲油，让你不能再给你的手增色，你不凡就简单地花可能一分钟都不到，百度一下，google一下，网上资料这么多，搜索引擎这么方便，你转发之前搜一下又能怎样呢！
 
-文章均为[罗磊](http://luolei.org)原创，转载请注明出处，谢谢。
+文章均为[罗磊](https://luolei.org)原创，转载请注明出处，谢谢。
 
-本文地址：[http://luolei.org/2011/06/weibo-tiger/](http://luolei.org/2011/06/weibo-tiger/)
+本文地址：[https://luolei.org/2011/06/weibo-tiger/](https://luolei.org/2011/06/weibo-tiger/)
 
-我的新浪微博:[@罗罗磊磊](http://weibo.com/foru17/)
+我的新浪微博:[@罗罗磊磊](https://weibo.com/foru17/)
 
-我的twitter:[@foru17](http://twitter.com/#!/foru17)
+我的twitter:[@foru17](https://twitter.com/#!/foru17)

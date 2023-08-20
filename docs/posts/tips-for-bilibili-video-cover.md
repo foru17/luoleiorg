@@ -1,11 +1,12 @@
 ---
-title: "告别B站魔性封面，UP主只需要10秒就能学会的创作技巧 | ZUOLUOTV | VLOG27"
-date: "2019-01-12"
-categories: 
-  - "zuoluotv"
-tags: 
-  - "vlog"
-  - "zuoluotv"
+categories:
+- zuoluotv
+cover: https://c2.llyz.xyz/default.cover.jpg
+date: '2019-01-12'
+tags:
+- vlog
+- zuoluotv
+title: 告别B站魔性封面，UP主只需要10秒就能学会的创作技巧 | ZUOLUOTV | VLOG27
 ---
 
 #### 视频

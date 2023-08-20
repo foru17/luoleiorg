@@ -1,9 +1,10 @@
 ---
-title: "【WP原创主题】愿望盒子V1"
-date: "2013-05-12"
+cover: https://c2.llyz.xyz/wp-image/2013/05/will-box-theme-1024x621.png
+date: '2013-05-12'
+title: 【WP原创主题】愿望盒子V1
 ---
 
-![will-box-theme](https://static.is26.com/wp-image/2013/05/will-box-theme-1024x621.png)
+![will-box-theme](https://c2.llyz.xyz/wp-image/2013/05/will-box-theme-1024x621.png)
 
 好久没有写博客了，四月，五月又过去了一个月，用一个字来形容我的这两个月，就是「忙」。
 
@@ -17,9 +18,9 @@ date: "2013-05-12"
 
 #### 功能
 
-本主题基于HTML5基础主题Bones( [http://themble.com/bones/](http://themble.com/bones/) )而成（其实这也算是一个html5主题:自己特别注意了语义化写结构）。
+本主题基于HTML5基础主题Bones( [https://themble.com/bones/](https://themble.com/bones/) )而成（其实这也算是一个html5主题:自己特别注意了语义化写结构）。
 
-采用最流行的前端模板 html5 Boilerplate，响应式布局，CSS用LESS写的（另支持SASS），图标使用的是一淘UX团队的[icon-font](http://ux.etao.com/fonts)，内置 jquery, mansory, normailze.css等
+采用最流行的前端模板 html5 Boilerplate，响应式布局，CSS用LESS写的（另支持SASS），图标使用的是一淘UX团队的[icon-font](https://ux.etao.com/fonts)，内置 jquery, mansory, normailze.css等
 
 1.瀑布流+readability:
 
@@ -71,7 +72,7 @@ e.优化:删除了head一堆无用的请求，优化了加载速度，其他大�
 
 反正都这么晚了，这周在图书馆呆了好多天，基本是中午去（不好意思我现在都是中午才起来），闭馆才回，每天10+h呆在图书馆，code+看书，不断地接触前端的各种技术，顺便补基础。
 
-上个月的腾讯实习生，面试被刷，[前端观察](http://www.qianduan.net/)的博主神飞是我的面试官，第一次笔试，第一次技术面，结果都谈不上遗憾，自己的差距在那里，一起去面试的人有不少强人，用朋友的话来说「腾讯又不是收容站」，自己也的确看到了自己的差距，一是基础差，二是项目经历。
+上个月的腾讯实习生，面试被刷，[前端观察](https://www.qianduan.net/)的博主神飞是我的面试官，第一次笔试，第一次技术面，结果都谈不上遗憾，自己的差距在那里，一起去面试的人有不少强人，用朋友的话来说「腾讯又不是收容站」，自己也的确看到了自己的差距，一是基础差，二是项目经历。
 
 有了几位面试官的点评和鼓励，自己倒也是清晰了不少未来这半年和一年的规划，「沉下来&深进去」。
 

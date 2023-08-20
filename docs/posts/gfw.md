@@ -1,9 +1,10 @@
 ---
-title: "GFW之父方滨兴讲座后杂想"
-date: "2013-04-27"
+cover: https://c2.llyz.xyz/wp-image/2014/10/fbx1.jpg
+date: '2013-04-27'
+title: GFW之父方滨兴讲座后杂想
 ---
 
-![cover](https://static.is26.com/wp-image/2014/10/fbx1.jpg)
+![cover](https://c2.llyz.xyz/wp-image/2014/10/fbx1.jpg)
 
 今天上午，被称为“网络防火墙之父”的中科院院士、北京邮电大学校长方滨兴在我们暨大管理学院会议厅进行了主题为《漫谈网络安全和国家安全战略》的讲座。趁着今天没课，写一篇文章，说一下自己关于今天讲座的一些思考。
 
@@ -11,17 +12,17 @@ date: "2013-04-27"
 
 在互联网这个世界，有人不断被人提起是因为他们在这个领域叱咤风云，马化腾、马云之类，也有人不断被提起是因为娱乐，芙蓉姐姐、凤姐和五条杠队长，而方滨兴到底是谁？他没有身家显赫、也跟娱乐沾不上什么边，但为什么他总是被人提起？
 
-![](https://static.is26.com/wp-image/2014/10/fbx1.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/10/fbx1.jpg)
 
 谁是方滨兴？一个科研成果丰硕的院士？一个中国重点大学的校长？还是？在这里，先附上维基百科
 
-[http://zh.wikipedia.org/wiki/%E6%96%B9%E6%BB%A8%E5%85%B4](http://zh.wikipedia.org/wiki/%E6%96%B9%E6%BB%A8%E5%85%B4) ，这里有着这个传奇人物的详细资料。
+[https://zh.wikipedia.org/wiki/%E6%96%B9%E6%BB%A8%E5%85%B4](https://zh.wikipedia.org/wiki/%E6%96%B9%E6%BB%A8%E5%85%B4) ，这里有着这个传奇人物的详细资料。
 
 中国网络防火墙之父，只要你上网，你就或多或少被这个人影响，twitter和facebook的屏蔽，google服务的被干扰，搜索“胡萝卜”时屏幕上冰冷的“该页无法显示”,无一例外与这个人和他所取得的工作成果有着不可分割的关系。
 
 由于众所周知的原因，我们的政府对互联网进行了内容审核和过滤，感谢方校长们的辛勤努力，我们中国毋庸置疑地在“网络内容审核和过滤系统”方面取得了世界领军者的地位，我们的Great firewall技术绝对令“美帝”也佩服，成为埃及、突尼斯、利比亚之流网络监管部门学习的好榜样，比较尴尬地是这几个国家没学好，还是挂了。
 
-![](https://static.is26.com/wp-image/2014/10/fbx2.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/10/fbx2.jpg)
 
 说实话，讲座的质量不高，近三个小时的讲座，中途离场的人不少，睡着的人也不少，方滨兴的主要内容主要都是在漫谈一些基础的网络安全技术，恐怕不小心走错门的同学还以为这是在上课，技术层面的东西太多，较为枯燥，亮点是他现场演示了入侵一个普通用户的计算机，监控这个无辜用户的摄像头、还把他的文件夹翻了个遍。
 
@@ -35,21 +36,21 @@ twiiter被封的时候，我没什么反应，因为当时要高考也少上网�
 
 之前一直觉得能忍就忍，每年花一百多买翻墙用的账号也罢了，就当学技术的学费，心想：“中国现在在改革期，转型期，需要稳定，这些过滤和屏蔽措施还是必要的”，心想自己总是能有办法解决这些问题，翻墙，代理服务器什么的，上有政策，我有对策，可是后来愈发严厉的审核和屏蔽，已经很严重地影响我的一些方面，最后，在这里，先说一下fuck GFW。
 
-![](https://static.is26.com/wp-image/2014/10/fbx3.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/10/fbx3.jpg)
 
 今天讲座的时候，我特意带上了本本，找了一个有电源的位置，通过wifi上网，顺便挂着SSH翻墙，上面方滨兴提到什么，我都会立马利用google搜索相关资料，验证真实性，在这里还得感谢一下暨大的网络还真给力。并且开着麦库记录自己的随想，当然，还有上twitter（真想刺激一下方校长）。
 
-![](https://static.is26.com/wp-image/2014/10/fbx4.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/10/fbx4.jpg)
 
 **国外的系统和我们的系统**
 
-方在最后半个小时，终于谈到了网络审核，他屡次提到了建立审核过滤系统的合理性，方言：“我们现在的审核过滤系统是合理并且必要的，我们特意做过调查，google在180个国家都有过滤系统（期间方演示了google德国搜索“希特勒”的一个[寒蝉效应](http://baike.baidu.com/view/1013452.htm)案例”）,他们也对内容进行审核”，另外还提到绿坝，说除了中国，韩国，澳大利亚，德国也有绿坝类似的软件”，不难看出，他的推理逻辑为：“因为国外也有，所以我们有是正常的、合理的”。
+方在最后半个小时，终于谈到了网络审核，他屡次提到了建立审核过滤系统的合理性，方言：“我们现在的审核过滤系统是合理并且必要的，我们特意做过调查，google在180个国家都有过滤系统（期间方演示了google德国搜索“希特勒”的一个[寒蝉效应](https://baike.baidu.com/view/1013452.htm)案例”）,他们也对内容进行审核”，另外还提到绿坝，说除了中国，韩国，澳大利亚，德国也有绿坝类似的软件”，不难看出，他的推理逻辑为：“因为国外也有，所以我们有是正常的、合理的”。
 
 这里方这种观点存在推理错误，即“窃取论点”和“偷换论题”，他需要说明的中国的审核系统是否**合理**，而不是**应不应该有**审核系统，方要通过证据证明其中国“审核系统是合理的”观点，他却先假定国外“审核系统是合理的”，然后通过结论证明了假设。再说人家那系统跟你这系统是一样么！！！！？
 
 的确，google在180多个国家都有过滤系统，可是人家要过滤什么，是有法步骤，有程序，不像我们，二话不说，出现敏感词，直接封杀。google在大多数国家，对于色情信息，种族歧视，明显的犯罪信息都有过滤，说到这，我还纳闷google搜一些日本女性爱情动作片演员的名字都不行，神马波多野结衣啊，松岛枫啊，苍井空啊我都不知道，逼着我用百度。
 
-在这里说一下方教授提出得google [寒蝉效应组织](http://chillingeffects.org/)，误解人家就不说了，请不要诬蔑人家。大家英文理解下面这段寒蝉组织官方声明应该没问题，就不翻译了。
+在这里说一下方教授提出得google [寒蝉效应组织](https://chillingeffects.org/)，误解人家就不说了，请不要诬蔑人家。大家英文理解下面这段寒蝉组织官方声明应该没问题，就不翻译了。
 
 > Chilling Effects aims to help you understand the protections that the First Amendment and intellectual property laws give to your online activities. We are excited about the new opportunities the Internet offers individuals to express their views, parody politicians, celebrate their favorite movie stars, or criticize businesses. But we’ve noticed that not everyone feels the same way. Anecdotal evidence suggests that some individuals and corporations are using intellectual property and other laws to silence other online users. Chilling Effects encourages respect for intellectual property law, while frowning on its misuse to "chill" legitimate activity.
 
@@ -57,7 +58,7 @@ twiiter被封的时候，我没什么反应，因为当时要高考也少上网�
 
 方滨兴今天在讲座上再次提到利比亚，其在这个话题上的观点早已经引起争议。
 
-请看方滨兴在北京邮电大学2011届毕业会上的演讲[《寄语研究生：常怀爱国之心 常抒爱国之情》（点击可以打开）。](http://www.univs.cn/newweb/channels/campus2009/2011-03-31/1301534837d972507.html)
+请看方滨兴在北京邮电大学2011届毕业会上的演讲[《寄语研究生：常怀爱国之心 常抒爱国之情》（点击可以打开）。](https://www.univs.cn/newweb/channels/campus2009/2011-03-31/1301534837d972507.html)
 
 其观点，无非也就是“西方亡华之心不死，资本主义罪恶”的较为经典的《环球时报》思想。认为西方别有用心，阴谋论，什么事都有有预谋有计划的。
 
@@ -65,7 +66,7 @@ twiiter被封的时候，我没什么反应，因为当时要高考也少上网�
 
 对于利比亚，CCTV这次的报道还算客气，如果北约南联盟那时期是90分反面宣传，伊拉克战争是80分反面宣传，这次算得上是60分反面宣传了，一个国际舆论在那里，中国也不敢明着支持卡扎菲，感谢新媒体，让更多人知道了不少真想，政府想再单方面宣传也不敢随便了，卡扎菲过去的行径就不说了，2011年就对国内民众的一些言论，就值得进行推翻。
 
-在这里提及一个概念，在国际法中，有一个R2P法则，即[Responisiblity to protect](http://www.responsibilitytoprotect.org/)，国家保护责任，当某国政府明显地让民众受到反人类罪行的威胁，而本国的民众没有力量对这种威胁进行反抗的时候，其他国家有责任进行干涉。
+在这里提及一个概念，在国际法中，有一个R2P法则，即[Responisiblity to protect](https://www.responsibilitytoprotect.org/)，国家保护责任，当某国政府明显地让民众受到反人类罪行的威胁，而本国的民众没有力量对这种威胁进行反抗的时候，其他国家有责任进行干涉。
 
 今天方滨兴还说到这实际是利比亚国内的部族冲突，属于内政，不应干涉，对于那些持“这是他们国家的内政，其他国家不应该干涉”的人，我想再说一下，1994年发生在非洲卢旺达的部族冲突，胡图族对图西族及胡图族温和派有组织的种族灭绝大屠杀共造成80万至100万人死亡。20年不到啊，同学，你当年也就4、5岁啊，同学（对于90后），不少跟你一样大的图西族小孩，就直接被砍刀给砍死了，同学！当然，这依旧是他们的内政，那一次，联合国“政治正确”选择了消极态度，西方选择了不干涉，结果是什么？近100万条生命啊！！！这是人类“文明社会”的耻辱。
 
@@ -81,11 +82,11 @@ twiiter被封的时候，我没什么反应，因为当时要高考也少上网�
 
 **我们是否需要F\*ck 方？**
 
-![](hsttp://luoleiorg.b0.upaiyun.com/wp-image/2014/10/fbx7.jpg)
+![](https://luoleiorg.b0.upaiyun.com/wp-image/2014/10/fbx7.jpg)
 
 讲座途中，我发了一条微博：
 
-> 其实我觉得[#方滨兴#](http://t.sina.com.cn/k/%25E6%2596%25B9%25E6%25BB%25A8%25E5%2585%25B4&refer=miniblog_jing)也挺无辜的，一个搞科研的，成为一个令人反感系统的代言人，众矢之的，背上骂名，但是我想这些搞科研的是不是应该要有点[#科研伦理#](http://t.sina.com.cn/k/%25E7%25A7%2591%25E7%25A0%2594%25E4%25BC%25A6%25E7%2590%2586&refer=miniblog_jing)，也许方校长的境界很高，我们这些人体会不到，人在江湖，身不由己。
+> 其实我觉得[#方滨兴#](https://t.sina.com.cn/k/%25E6%2596%25B9%25E6%25BB%25A8%25E5%2585%25B4&refer=miniblog_jing)也挺无辜的，一个搞科研的，成为一个令人反感系统的代言人，众矢之的，背上骂名，但是我想这些搞科研的是不是应该要有点[#科研伦理#](https://t.sina.com.cn/k/%25E7%25A7%2591%25E7%25A0%2594%25E4%25BC%25A6%25E7%2590%2586&refer=miniblog_jing)，也许方校长的境界很高，我们这些人体会不到，人在江湖，身不由己。
 
 古龙的小说浓缩起来就是“人在江湖，身不由己”，大江大湖，中国这个江湖是混乱的，从曾经混乱走向逐步的秩序和法制，我无法体会方院长站在他那个高度所想的东西，科学研究本是中立，是个清水衙门，负责网络的部门也是按照上面某部的指示进行工作。
 
@@ -119,16 +120,16 @@ twiiter被封的时候，我没什么反应，因为当时要高考也少上网�
 
 附上一个小tips给暨大的同学，可以稳定地使用google的服务
 
-[http://note.sdo.com/my#/my/notedetail/uPUSw~jr5OKFnM01I00Ajn](http://note.sdo.com/my#/my/notedetail/uPUSw~jr5OKFnM01I00Ajn)
+[https://note.sdo.com/my#/my/notedetail/uPUSw~jr5OKFnM01I00Ajn](https://note.sdo.com/my#/my/notedetail/uPUSw~jr5OKFnM01I00Ajn)
 
 如果你有兴趣翻墙，可以提供技术协助。
 
-我的twiter [@foru17](http://twitter.com/#!/foru17)
+我的twiter [@foru17](https://twitter.com/#!/foru17)
 
-我的新浪微博: [@罗罗磊磊](http://t.sina.com.cn/foru17)
+我的新浪微博: [@罗罗磊磊](https://t.sina.com.cn/foru17)
 
 汶川地震三周年，我们的孩子死去的那片校舍废墟已经被推为平地，不知道这群孩子的亡灵会不会知道有个人用书包堆了一座墙来纪念他们。同样是墙，一个是以思想为代价，一个是以生命为代价。
 
 发一个”魔“给大家。不知道这个”魔“什么时候会成为敏感词。
 
-![](https://static.is26.com/wp-image/2014/10/fbx6.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/10/fbx6.jpg)

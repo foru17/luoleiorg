@@ -1,11 +1,12 @@
 ---
-title: "成为什么样的人？"
-date: "2016-02-19"
-tags: 
-  - "ispeakl"
+cover: https://c2.llyz.xyz/blog/2016/02/2016v.jpg
+date: '2016-02-19'
+tags:
+- ispeakl
+title: 成为什么样的人？
 ---
 
-![cover](https://static.is26.com/blog/2016/02/2016v.jpg)
+![cover](https://c2.llyz.xyz/blog/2016/02/2016v.jpg)
 
 今天看了一个TED的一个视频[古樂朋(Nicholas Christakis): 人際關係的潛在影響](https://www.ted.com/talks/nicholas_christakis_the_hidden_influence_of_social_networks?language=zh-tw#t-1071333)，主讲人通过长时间的研究和数据积累，用可视化的方式，讲到了一个人的社交网络对其本身的影响。
 
@@ -150,7 +151,7 @@ X:本来还想再多介绍几位，结果翻了翻通讯录，哈佛、斯坦福
 
 #### 后记
 
-这篇博文写在年前，断断续续中断了一个月今天才结尾，春节假期，读了几本有关中国改革后民营企业发展史的书，[《激荡30年》](http://book.douban.com/subject/3151575/)·[《大败局》](http://book.douban.com/subject/1072438/)、[《万物生长》](http://book.douban.com/subject/2348372/)等等，回看这批企业家的发家史，也是一部充满了灰色的挣扎史。
+这篇博文写在年前，断断续续中断了一个月今天才结尾，春节假期，读了几本有关中国改革后民营企业发展史的书，[《激荡30年》](https://book.douban.com/subject/3151575/)·[《大败局》](https://book.douban.com/subject/1072438/)、[《万物生长》](https://book.douban.com/subject/2348372/)等等，回看这批企业家的发家史，也是一部充满了灰色的挣扎史。
 
 2015年下半年健身减少，加上晚上没控制饮食，体重一下子增长到160斤，春节有意控制饮食，倒又降低了5斤多。
 

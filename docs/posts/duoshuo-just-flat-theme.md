@@ -1,9 +1,10 @@
 ---
-title: "Justflat:多说评论扁平化主题"
-date: "2013-09-04"
+cover: https://c2.llyz.xyz/wp-image/2013/09/Screen-Shot-2013-09-05-at-4.16.26-AM.png
+date: '2013-09-04'
+title: Justflat:多说评论扁平化主题
 ---
 
-![Screen Shot 2013-09-05 at 4.16.26 AM](https://static.is26.com/wp-image/2013/09/Screen-Shot-2013-09-05-at-4.16.26-AM.png)
+![Screen Shot 2013-09-05 at 4.16.26 AM](https://c2.llyz.xyz/wp-image/2013/09/Screen-Shot-2013-09-05-at-4.16.26-AM.png)
 
 主题:Just flat
 

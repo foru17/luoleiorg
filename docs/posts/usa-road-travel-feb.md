@@ -1,13 +1,14 @@
 ---
-title: "美国  | 美西6000里:一趟旅行，女友成了前女友"
-date: "2018-03-10"
-categories: 
-  - "photography"
-  - "travel"
-tags: 
-  - "photography"
-  - "travel"
-  - "usa"
+categories:
+- photography
+- travel
+cover: https://c2.llyz.xyz/blog/2018/03/usa-feb/road-book.jpg
+date: '2018-03-10'
+tags:
+- photography
+- travel
+- usa
+title: 美国  | 美西6000里:一趟旅行，女友成了前女友
 ---
 
 这是一篇迟来的游记。2017年，回头看看自己写的文章，大多是数码、科技开箱类居多，俨然从一个旅行博主变成了科技博主。有不少朋友私下问我是不是不发「游记」了。
@@ -30,13 +31,13 @@ tags:
 
 #### 行程 & GEAR
 
-![](https://static.is26.com/blog/2018/03/usa-feb/road-book.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/road-book.jpg)
 
-首先放行程单，这一次全程自驾，具体的酒店地址，可以下载PDF直接点击酒店名称查看具体描述。[下载:美西行程-ZUOLUOTV](https://static.is26.com/blog/2018/03/usa-feb/%E7%BE%8E%E8%A5%BF%E8%87%AA%E9%A9%BE%E8%A1%8C%E7%A8%8B-ZUOLUOTV.pdf)。
+首先放行程单，这一次全程自驾，具体的酒店地址，可以下载PDF直接点击酒店名称查看具体描述。[下载:美西行程-ZUOLUOTV](https://c2.llyz.xyz/blog/2018/03/usa-feb/%E7%BE%8E%E8%A5%BF%E8%87%AA%E9%A9%BE%E8%A1%8C%E7%A8%8B-ZUOLUOTV.pdf)。
 
 这一次，基本就是[Booking](https://zuoluo.tv/booking)和[Airbnb](https://zuoluo.tv/airbnb)预定的住宿，推荐国外旅行用着两个平台吧，新手注册一般会有优20刀30美元的优惠，还是挺划算的。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/gear.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/gear.jpg)
 
 这一次出行带的装备，由于是自驾，基本就不考虑负重了。
 
@@ -50,177 +51,177 @@ tags:
 
 #### 正片
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-25.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-25.jpg)
 
 从浦东国际机场出发，本来是要到西雅图中转，由于超售，给我们改到了东航直飞旧金山，提前了四个多小时，赚了半天玩乐时间。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-26.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-26.jpg)
 
 到达旧金山还是早上，拿了车之后，先去 Airbnb 睡了几个小时倒时差，我一个人支开妹纸，去附近的一个联邦快递仓库取一个神秘快递。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-28.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-28.jpg)
 
 提前了半天，也没什么安排，开车在旧金山逛了逛，旧金山的街道的陡，应该是这个城市的一个特色了。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-29.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-29.jpg)
 
 开车上了双子峰，双子峰是旧金山的一个制高点，可以看到整个城市的景观。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-30.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-30.jpg)
 
 远处的城区，密密麻麻的高楼，也有不少正在修建的高楼。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-32.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-32.jpg)
 
 远处的金门大桥，今天的天气有点雾蒙蒙的，不算通透。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-34.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-34.jpg)
 
 太阳落山了，整个山头都沐浴在暖黄色的阳光下。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-35.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-35.jpg)
 
 用FE70200拍的这张照片，出动了SONY的Playmemorry APP，大家可以猜猜WIFI控制有效距离是多少，反正最后我还是放弃了WIFI，让路人帮我按快门了。背后就是太平洋。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-36.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-36.jpg)
 
 下山吃了个饭，晚上又开车上山看夜景，风大，很冷。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-37.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-37.jpg)
 
 远处市中心的高楼，也算是灯火通明吧。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-38.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-38.jpg)
 
 第二天去城区逛逛，大巴有点落后，跟国内的没法比，毕竟人家主要通勤是私人汽车。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-39.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-39.jpg)
 
 天空视角。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-40.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-40.jpg)
 
 路上的行人并不多，在城区里停车是一个特别麻烦的事情，难找停车位，咪表半个小时5美元。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-42.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-42.jpg)
 
 给妹纸街拍一张。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-43.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-43.jpg)
 
 在建的一栋高楼，今天天气不错，天很蓝。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-44.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-44.jpg)
 
 下午时分，去金门大桥南侧的 Torpedo Wharf 鱼雷码头，Google地图搜就到了。一艘游轮正在通过桥底，这么近距离看到这种万吨巨轮，也挺震撼的。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-47.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-47.jpg)
 
 远处的金门大桥，一座百年传奇之桥了。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-46.jpg) 码头上有不少海鸥。
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-46.jpg) 码头上有不少海鸥。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-45.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-45.jpg)
 
 摆了一个机位，跟妹纸拍了一张合照。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-50.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-50.jpg)
 
 日落了，由于上桥需要收费，加上工作日交通拥堵，这一次并没有开车经过大桥，也算留下一个小遗憾吧。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-52.jpg) 刚好有朋友在Facebook工作，这一次也进去了 Facebook 总部，算是很多程序员的梦想公司了吧。
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-52.jpg) 刚好有朋友在Facebook工作，这一次也进去了 Facebook 总部，算是很多程序员的梦想公司了吧。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-55.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-55.jpg)
 
 纪念品商店的一张地图，上面的图钉密密麻麻记录了全世界不同的来客。中国的不少。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-54.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-54.jpg)
 
 来一张自拍。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-58.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-58.jpg)
 
 Facebook的办公室是开放式办公，参观者也能深入其中。基本都是标配 Macbook 和Dell 双屏，园区内所有的饮料食物都免费，而且随处可见食物。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-59.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-59.jpg)
 
 办公室窗外场景，周围是一片湿地，湾区环境还是挺好的，大多数人都是开车上下班，也无所谓远近了。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-62.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-62.jpg)
 
 从Facebook出来，去不远的斯坦福大学。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-60.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-60.jpg)
 
 校园里的骑行者和跑者。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-61.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-61.jpg)
 
 斯坦福是一大片区域，教学楼、民居、公司都混在其中，这是校园门口的穿梭巴士。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-63.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-63.jpg)
 
 校园里的宣传栏，各式各样的海报和招贴都有，既有兴趣社团，也有工作招聘，也有不便讨论。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-64.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-64.jpg)
 
 校园内的一座「故事屋」，不知道里面是做什么的？
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-67.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-67.jpg)
 
 离开旧金山，踏上了1号公路的旅途，1号公号称美国最漂亮的一条公路。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/dji-1.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/dji-1.jpg)
 
 由于美国城市里无人机管制还挺严格的，出了城才飞了无人机，太平洋的海浪还挺大的。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-65.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-65.jpg)
 
 公路沿岸而建，旁边就是太平洋，双车道，中途不能随便停车，但是隔一段，就有专门的停车观景点。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/dji-3.jpg) ![](https://static.is26.com/blog/2018/03/usa-feb/dji-4.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/dji-3.jpg) ![](https://c2.llyz.xyz/blog/2018/03/usa-feb/dji-4.jpg)
 
 一号公路航拍，初春的加州并不冷。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-68.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-68.jpg)
 
 日落了，距离蒙特雷还有好几个小时的路程，一号公路一路都很美，可以安排3天在路上，2天走完有点太赶了，晚上开车看不到什么，也比较危险。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-69.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-69.jpg)
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-70.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-70.jpg)
 
 晚上住在蒙特雷，这是我住过的最有特色的一家的Airbnb，主人夫妇两人，都是艺术从业者，房间布置得特别有特色，碰巧女主人今天生日，跟妹纸的生日（北京时间）同一天。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-71.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-71.jpg)
 
 早晨的蒙特雷，蒙特雷也是一座海滨城市，港口里很多游船，这里有一个著名的水族馆，还可以出海观鲸。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-72.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-72.jpg)
 
 一号公路上著名的「17 Miles」，这17英里属于私人领地，非当地居民开车经过的话要给钱，这里的居民非富即贵，去了里面的一个高尔夫球场，拍下这张照片，推荐路过的朋友可以在这里停两三个小时逛逛，很不错。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-73.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-73.jpg)
 
 高尔夫球场上的一只鸟，草坪正在休整，本来想去海边看看，被保安人员叫住了。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-74.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-74.jpg)
 
 一号公路上著名的比克斯比大桥，建于1932年，也是 Instagram 上的网红打卡地点。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/dji-8.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/dji-8.jpg)
 
 到达时刻正是正午，阳光很硬。在这里有不少游客，四部无人机在天上飞，我和另外一个飞无人机的小哥相视一笑，然后我图传就被干扰了。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/dji-6.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/dji-6.jpg)
 
 飞到桥上俯拍一张，快100多年的大桥了，也是可以感慨美国历史的强大。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/dji-9.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/dji-9.jpg)
 
 下午的一号公路，草地上大多也是私人农场，很多牛。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-75.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-75.jpg)
 
 本来是想一路沿着一号公路到洛杉矶，结果到大苏尔走了一段，发现封路了，没办法只能掉头返回蒙特雷，再中转到高速，由于导航错了路，还走了一段加州的山路，开着迈锐宝在山路狂飙，不要太刺激。
 
@@ -228,141 +229,141 @@ Facebook的办公室是开放式办公，参观者也能深入其中。基本都
 
 1月28日，是妹纸的23岁生日，也是我准备搞大事的日子。最后结果嘛，女友成了前女友。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-76.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-76.jpg)
 
 在66号公路的尽头，阿甘正传里阿甘跑步到太平洋的尽头，这座栈桥上，23点55分，单膝跪地，掏出藏了一路的戒指，跟妹纸求婚。本来还摆了相机录制视频，结果弄错对焦模式，跑焦了！
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-77.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-77.jpg)
 
 戒指找到女主人了。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-27.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-27.jpg)
 
 Bluenile订的钻戒，关于这颗戒指，我有专门写过一篇文章[我的求婚钻戒](https://mp.weixin.qq.com/s/uywpyzU9lsD6peLYChKWAw)。戒指嘛，就是一个意思，反正后来一直吃灰，心意到了就差不多了。妹纸后来跟我说，还不如把这戒指钱省下来，再去一次美国。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-79.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-79.jpg)
 
 第二天起得晚，下午时分，在洛杉矶里转了半圈，开车去格里菲斯天文台，背后那虚化了的山，就是著名的好莱坞标志。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-80.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-80.jpg)
 
 日落了，洛杉矶的城实夜景。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-81.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-81.jpg)
 
 洛杉矶的市中心，长曝光几秒，天空上刚好有一架飞机飞过，留下一条光影。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-82.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-82.jpg)
 
 爱乐之城 LaLa land 火了后，这里也应该成了许多洛杉矶游客必来的地方。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-83.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-83.jpg)
 
 从天文台下来，去吃了一个「南加州小肥羊」，人均20多美元的自助，不由感慨下美国人民的水深火热，放在魔都，120多人民币的自助实在是没法比呀。晚上路过星光大道，这张照片就是著名的TCL中国剧院，也算是打卡吧，来都来了。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-84.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-84.jpg)
 
 从洛杉矶前往拉斯维加斯的路上，在路边放无人机。由于非法停车，被警察叔叔抓了。切记，高速路边不能停车。我以为这就是普通的公路，弄错了，警察叔叔警告后，放过我了。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-85.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-85.jpg)
 
 女朋友都没了，为了庆祝下，在拉斯维加斯住的著名的永利Wynn，房间很大，很豪华，价格不便宜，但是比旧金山和洛杉矶的普通酒店还是划算多了。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-87.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-87.jpg)
 
 酒店下面的赌场，我和妹纸对这个都不感兴趣，每到周末，很多美国人都会开车过来都城，所有周末房价贵，建议大家可以错峰安排，工作日酒店的价格会便宜很多很多。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-89.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-89.jpg)
 
 永利酒店内部走廊。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-88.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-88.jpg)
 
 拉斯维加斯大街，著名的巴黎酒店，一点都不贵，也算是Vegas的一个标志了吧。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-86.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-86.jpg)
 
 之前看高晓松说太阳马戏团的秀是世界最好的，这一次在Vegas，终于满足了这个愿望，票价一千多，位置在第三排，震撼！太让人感动的秀了，真是太精彩了。在剧场外拍了一张大厅。秀全程禁止拍照，为了强调这个，「禁止拍照」都专门演了一出，有一个乱拍照的小哥（也是演员）就坐在我旁边，被台上演员打了，然后被扔了出去，当时我其实是有点懵逼的。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-1.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-1.jpg)
 
 离开Vegas，前往大峡谷路上，著名的胡佛大坝，处在亚利桑那州和内华达州的交界处。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-2.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-2.jpg)
 
 从洲界桥上俯拍大坝，还是很震撼的。开车下去溜了一圈。由于在这里呆得有点久，后面到达大峡谷是凌晨1点，也算是体验到，真正的「一条路，开到黑」，方向盘基本没转过，脚一直踩着油门，美西真是一个神奇的地方。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-3.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-3.jpg)
 
 到达大峡谷，每一步就是一百万年。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-4.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-4.jpg)
 
 摆好三脚架，跟前女友合照一张。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-5.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-5.jpg)
 
 亿万年的岁月痕迹。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-6.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-6.jpg)
 
 国家公园里的积雪，雪很厚，但是白天阳光照射下，并不冷，穿一件薄外套就可以了。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-7.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-7.jpg)
 
 大峡谷国家公园里有免费的穿梭巴士，会在几个徒步点之间循环运行，来大峡谷，可以选择不同难度的徒步，时间从几个小时到几天不等。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-8.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-8.jpg)
 
 离开大峡谷，前往佩吉，也是我们这一次美西自驾最北端的路上，这辆迈锐宝，我们拿到的时候才开了200多英里，算是一辆新车吧。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-9.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-9.jpg)
 
 佩吉是一个只有7000多人口的小城，但是这里有两个世界著名的景观，马蹄湾真是这片大地一个神奇的存在。也是一个Instagram的网红打卡地吧。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-10.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-10.jpg)
 
 当然，之所以来佩吉，我们的重头还是羚羊谷。这一次我们去的是下羚羊谷，报的是65美元一人的「摄影团」，参团必须有专业相机和三脚架（这也是我为什么要带那个佳能相机的原因），全程2个小时，有专门的导游，想在哪拍就在哪拍，导游会帮我们挡住普通团的游客（不允许用三脚架）。
 
 羚羊谷是被水流切割的一段小小的河道，十分狭窄，这就是入口，忘记把广角的遮光罩取下来，拍下这张照片还有点意思。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-11.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-11.jpg)
 
 由于大多情况是长曝光，没有用HDR，高光溢出了，算是一个失误，下面的这些图，都是索尼A7S2搭配1635拍摄的，由于河道内很多细灰和沙子，强烈不建议在里面换镜头，1635广角镜头能够覆盖大多需求，如果有中长焦需求，请务必另外准备一台机器。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-16.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-16.jpg)
 
 导游帮我摆的一个经典构图，山脉和天空。在里面两个小时，一点都不觉得久，时刻都能感受到大自然的神奇之处。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-15.jpg) ![](https://static.is26.com/blog/2018/03/usa-feb/usa-14.jpg) ![](https://static.is26.com/blog/2018/03/usa-feb/usa-17.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-15.jpg) ![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-14.jpg) ![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-17.jpg)
 
 真的是随便拍，都能出壁纸级别的大片。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-18.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-18.jpg)
 
 据说这里封印一个印第安酋长的灵魂。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-12.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-12.jpg)
 
 导游帮我们拍了一张合照，进入谷里建议还是多穿几件衣服，有点凉。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-20.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-20.jpg)
 
 结束了我们在佩吉的行程，这一次美西自驾的旅行也进入尾声，接下来就是一路向南，回到拉斯维加斯，再去洛杉矶。中途经过锡安国家公园，在门口拍了几张照片。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/dji-12.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/dji-12.jpg)
 
 日落时分，满地的白雪。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-21.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-21.jpg)
 
 回到拉斯维加斯已经是晚上9点多，开了五个多小时车，当这一片光海映入眼帘，一个个关键字，这种从荒茫回归文明的触动，也算是一种不一样的体验吧。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-23.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-23.jpg)
 
 由于这一天是工作日，住的LINQ酒店，就在拉斯维加斯大街，套房才500一晚。第二天起床，窗外的拉斯维加斯。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/usa-24.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-24.jpg)
 
 最后一天，在拉斯维加斯奥特莱斯购物，买了好几双鞋子，拖到晚上6点才开车往洛杉矶出发，等到了洛杉矶，已经是凌晨3点，第二天早晨8点的飞机回上海，这一晚住的是洛杉矶国际机场福朋喜来登酒店，含税将近1000一晚的价格，还不能免费停车，只睡了3个小时，真是这次旅行中，最亏的一晚，事后我想，为啥不凑合一下直接睡车里。
 
@@ -372,7 +373,7 @@ Bluenile订的钻戒，关于这颗戒指，我有专门写过一篇文章[我�
 
 这是我和妹纸第一次去美国，也是第一次这么长时间的自驾。沿着旧金山、洛杉矶、Vegas，这条经典路线走了一圈，也算是初感美国的魅力，并且种下了一颗种子。
 
-![](https://static.is26.com/blog/2018/03/usa-feb/map.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa-feb/map.jpg)
 
 小小的一个美西，山川湖海，已经有如此之多的壮美景色，关键是，这些地方离人口密集区域并不远。生活在加州，开个车，半个小时就能去冲浪，三四个小时就能去滑雪。
 
@@ -388,4 +389,4 @@ Bluenile订的钻戒，关于这颗戒指，我有专门写过一篇文章[我�
 
 最后放两张照片，是的，我现在是持证晒妻。
 
-![](https://static.is26.com/blog/2017/02/wechat-we.png) ![](https://static.is26.com/blog/2018/03/usa-feb/marry.jpg)
+![](https://c2.llyz.xyz/blog/2017/02/wechat-we.png) ![](https://c2.llyz.xyz/blog/2018/03/usa-feb/marry.jpg)

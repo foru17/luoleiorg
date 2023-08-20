@@ -1,15 +1,16 @@
 ---
-title: "当我添加广告的时候我在想什么"
-date: "2011-05-26"
+cover: https://www.nuffnang.com.cn/wp-content/themes/nuffnang-3.0.0/uploadedstuff/nn3/founders_img.png
+date: '2011-05-26'
+title: 当我添加广告的时候我在想什么
 ---
 
-在google reader的订阅里看到卢松松博客写了篇关于[拿福能广告联盟](http://www.nuffnang.com.cn)的博客，最近这个拿福能在搞千人挑战活动，刚刚看了看广告还不算太伤大雅，可以选择公益广告，就想尝试一下。
+在google reader的订阅里看到卢松松博客写了篇关于[拿福能广告联盟](https://www.nuffnang.com.cn)的博客，最近这个拿福能在搞千人挑战活动，刚刚看了看广告还不算太伤大雅，可以选择公益广告，就想尝试一下。
 
 说实话哥还小纠结了一番，一是自己这个域名是刚刚注册的，原来的所有博文都还在老的blog.willei.com上面，悲剧的是由于上个月有篇关于著名的方校长的博文火了，两天来访者太多，导致每个月6G的流量在两天时间内就爆掉了，现在想备份数据过来都有点麻烦，几篇带来稳定流量的文章也无法转载过来，而且这个博客基本算是全新起步，加广告说不定会给来访者造成不好的印象。
 
 刚刚稍微看了看这个拿福能的介绍，在这就不太过软文什么了，有兴趣的可以自己去看看
 
-> [http://www.nuffnang.com.cn/blog/2011/05/23/challenge-1000](http://www.nuffnang.com.cn/blog/2011/05/23/challenge-1000)
+> [https://www.nuffnang.com.cn/blog/2011/05/23/challenge-1000](https://www.nuffnang.com.cn/blog/2011/05/23/challenge-1000)
 
  
 
@@ -25,7 +26,7 @@ date: "2011-05-26"
 
 哥就纳闷了，同样是年轻人，怎么我同他们的差距就这么大呢，自我激励一番：有差距不可怕，可怕的不上进。
 
-![](http://www.nuffnang.com.cn/wp-content/themes/nuffnang-3.0.0/uploadedstuff/nn3/founders_img.png)
+![](https://www.nuffnang.com.cn/wp-content/themes/nuffnang-3.0.0/uploadedstuff/nn3/founders_img.png)
 
 拥有自己的独立博客也差不多一年了，从blogbus开始，写博客的历史也有差不多三年了，这一年以来，开始关注互联网、创业的相关资讯，过去一直比较排斥商业，曾经有人要购买我博客的某个关键字，都被自己回绝了。
 

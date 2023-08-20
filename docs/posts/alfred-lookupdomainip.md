@@ -1,9 +1,10 @@
 ---
-title: "Alfred域名IP速查工具"
-date: "2015-09-07"
+cover: https://c2.llyz.xyz/source/images/lookip.jpg
+date: '2015-09-07'
+title: Alfred域名IP速查工具
 ---
 
-![cover](https://static.is26.com/source/images/lookip.jpg)
+![cover](https://c2.llyz.xyz/source/images/lookip.jpg)
 
 工作中经常需要连接不同的服务器，人比较笨，老是记不住服务器的IP地址，记录在印象笔记中每次去查也麻烦，开终端`ping`复制粘贴也麻烦。
 
@@ -23,7 +24,7 @@ date: "2015-09-07"
 
 - 可直接输入完整URL，会自动解析出域名。
 
-![full-img](https://static.is26.com/source/images/cip2.jpg)
+![full-img](https://c2.llyz.xyz/source/images/cip2.jpg)
 
 回车即可复制IP地址到剪贴版。
 

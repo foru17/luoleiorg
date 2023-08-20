@@ -1,12 +1,13 @@
 ---
-title: "香港上台攻略:大陆居民持护照、港澳通行证办理香港手机卡套餐"
-date: "2019-02-25"
-categories: 
-  - "zuoluotv"
-tags: 
-  - "digital"
-  - "ke-ji"
-  - "e9a699e6b8af"
+categories:
+- zuoluotv
+cover: https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-1.jpg
+date: '2019-02-25'
+tags:
+- digital
+- ke-ji
+- e9a699e6b8af
+title: 香港上台攻略:大陆居民持护照、港澳通行证办理香港手机卡套餐
 ---
 
 #### 视频
@@ -55,7 +56,7 @@ https://www.youtube.com/watch?v=40vNJDYgnc0
 
 最终，经过我几天的调研、电话联系客服和门店确认，今天实地赴港实践，最终**成功以中国护照上台**，在中国联通香港门店办理了 [CUniq多地共享系列>ONE內地及香港共享計劃](https://www.cuniq.com/hk/services-plan/ONE/Mainland-HongKong-shared-plan.html)。
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/c-1.jpg)
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-1.jpg)
 
 我办理的是$180/月的套餐，套餐具体情况如下:
 
@@ -74,11 +75,11 @@ https://www.youtube.com/watch?v=40vNJDYgnc0
 
 [ONE套餐](https://www.cuniq.com/hk/services-plan/ONE/) 除了内地与香港共享套餐，还有全球数据共享套餐，大中华共享套餐。
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/c-2.jpg)
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-2.jpg)
 
 全球数据共享套餐最贵，数据漫游的国家比较多；大中华共享套餐支持「内地、香港、澳门、台湾」四地；内地与香港共享数据就支持香港和大陆，具体的不同大家直接去官网看就好。中国联通香港有网上登记的功能，网上登记上台的话优惠不少，但是需要香港身份证和地址证明，所以内地居民是无法在网上登记的，官网也有提示:**如果是持护照、港澳通行证的用户，需要自己去门店登记**。
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/c-3.jpg)
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-3.jpg)
 
 - [门市地址](https://www.cuniq.com/otherlink/contact-hk):在香港和深圳都有。
 
@@ -97,7 +98,7 @@ https://www.youtube.com/watch?v=40vNJDYgnc0
 
 #### 办卡过程
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/hk-2.JPG) 今天中午，跟老婆一起从深圳湾口岸过关，直接坐B2X到的屯门，到这里差不多一点钟，这家联通门店官网写的地址是**屯門市廣場(二期)1樓38B號舖**，我在一楼绕了好久，最后发现怎么在3楼。很小的一个门店，布局很奇葩，就一排，周围还有中国移动香港和香港宽频的门店。
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/hk-2.JPG) 今天中午，跟老婆一起从深圳湾口岸过关，直接坐B2X到的屯门，到这里差不多一点钟，这家联通门店官网写的地址是**屯門市廣場(二期)1樓38B號舖**，我在一楼绕了好久，最后发现怎么在3楼。很小的一个门店，布局很奇葩，就一排，周围还有中国移动香港和香港宽频的门店。
 
 到了门店，我直接跟这个店员说「我是深圳过来的，大陆居民，请问拿港澳通行证和护照能不能上台？我之前跟曾小姐约过了」，然后我把护照、还有中银香港那张卡给他，问是不是有免行政费的优惠，他跟我说「要中银香港的信用卡才行，你这个不行」，我就跟他说「当时曾小姐说可以的，她说这卡只是确认一下身份而已」，刚好曾小姐今天不在，然后那个男的就让我等一下，说他打电话问一下曾小姐。结果打不通曾小姐电话，这个男店员就让我2点再过来。
 
@@ -111,45 +112,45 @@ https://www.youtube.com/watch?v=40vNJDYgnc0
 - 4.平板上签名确认。
 - 5.拿号和一张确认单，然后就搞定了。
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/hk-3.JPG) 中国联通香港最近在大力推这个套餐，主要就是针对经常要在内地和香港两地跑的商旅人士。这个男店员跟我说办这个的大陆人很多。
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/hk-3.JPG) 中国联通香港最近在大力推这个套餐，主要就是针对经常要在内地和香港两地跑的商旅人士。这个男店员跟我说办这个的大陆人很多。
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/hk-4.JPG) 在他们的平板上选号，可选择的不多，6，9，5开头的都有。
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/hk-4.JPG) 在他们的平板上选号，可选择的不多，6，9，5开头的都有。
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/hk-5.JPG) 办好后，就直接给我SIM卡和一个信封，里面是我的上台资料。
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/hk-5.JPG) 办好后，就直接给我SIM卡和一个信封，里面是我的上台资料。
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/c-4.jpg) 马赛克了个人信息，供大家参考，像行政费、接驳费都免掉了。所以，那个$18的行政费啥的，对于门店来说，他们是有很大的弹性的，毕竟网上申请就是免的，他们能多一个上台客户，对于他们来说也是绩效。
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-4.jpg) 马赛克了个人信息，供大家参考，像行政费、接驳费都免掉了。所以，那个$18的行政费啥的，对于门店来说，他们是有很大的弹性的，毕竟网上申请就是免的，他们能多一个上台客户，对于他们来说也是绩效。
 
 #### 香港本地网络体验
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/hk-6.JPG) 直接插卡就能使用了，比较奇怪的是，插上卡后，我手机并没有收到任何啥激活短信，就一个上图的让我设置APN的提示。办完卡后，下午跟老婆去中环逛街，全程LTE，比那种临时卡和漫游卡使用H网络，速度要快不少。
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/hk-6.JPG) 直接插卡就能使用了，比较奇怪的是，插上卡后，我手机并没有收到任何啥激活短信，就一个上图的让我设置APN的提示。办完卡后，下午跟老婆去中环逛街，全程LTE，比那种临时卡和漫游卡使用H网络，速度要快不少。
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/c-5.jpg) 在香港地铁、中环，随便测试了一下，基本都是30Mbps到40Mbps的速度，很稳的4G了，用Speedtest运营商会显示3HK，原来联通在香港租用的3HK的网络。
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-5.jpg) 在香港地铁、中环，随便测试了一下，基本都是30Mbps到40Mbps的速度，很稳的4G了，用Speedtest运营商会显示3HK，原来联通在香港租用的3HK的网络。
 
 #### 大陆漫游网络体验
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/c-7.jpg) 晚上回深圳，回到家测试下，手机需要打开网络设置里的漫游。同CUniq UK一样，大陆漫游使用的是中国联通的4G网络。
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-7.jpg) 晚上回深圳，回到家测试下，手机需要打开网络设置里的漫游。同CUniq UK一样，大陆漫游使用的是中国联通的4G网络。
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/c-6.jpg) 速度从10Mpbs到20Mbps波动，**这是我家联通信号不稳的原因**，有时候也能飙到30Mbps+，我用中国联通本地卡测试，一样是这个速度，在这里冤枉联通了，漫游应该没限速。
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-6.jpg) 速度从10Mpbs到20Mbps波动，**这是我家联通信号不稳的原因**，有时候也能飙到30Mbps+，我用中国联通本地卡测试，一样是这个速度，在这里冤枉联通了，漫游应该没限速。
 
 #### 账单查询
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/c-11.jpg) 同CUniq UK一样，可以登录[cuniq.com](https://www.cuniq.com/ss/)绑定上手机号后，就可以查询到手机号的详细信息，包括使用记录等等。 ![](https://static.is26.com/blog/2019/02/cuniqhk/c-13.jpg) 上网记录不仅能记录到流量，还能记录到发生的地区号。这个M20，M755有点好奇是啥。
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-11.jpg) 同CUniq UK一样，可以登录[cuniq.com](https://www.cuniq.com/ss/)绑定上手机号后，就可以查询到手机号的详细信息，包括使用记录等等。 ![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-13.jpg) 上网记录不仅能记录到流量，还能记录到发生的地区号。这个M20，M755有点好奇是啥。
 
 **UPDATE**:评论区Damm:M应该指的是Mainland，后面的应该是区号省略了0，M755就是0755深圳，M20就是020广州。
 
 #### 充值
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/c-12.jpg) 支持**VISA/银联卡**V在线充值，没有CUniq UK支持支付宝和微信那么方便。
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-12.jpg) 支持**VISA/银联卡**V在线充值，没有CUniq UK支持支付宝和微信那么方便。
 
 #### 应用测试
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/c-8.jpg) Instagram,Twitter,Youtube这些都能访问，Gmail也都正常接收，8.5G流量，差不多可以无脑用了。
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-8.jpg) Instagram,Twitter,Youtube这些都能访问，Gmail也都正常接收，8.5G流量，差不多可以无脑用了。
 
 #### 港区ONLY应用测试
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/c-9.jpg) 成功用香港手机号注册微信，开启了Wechat Out，里面直接送了$8的话费。
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-9.jpg) 成功用香港手机号注册微信，开启了Wechat Out，里面直接送了$8的话费。
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/c-10.jpg) 成功注册香港支付宝 AlipayHK，绑定了中国银行（大陆）的VISA卡，撸了5张7-11的$20-10的优惠，在7-11直接扫码支付买了两瓶水，花了$12.5。
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-10.jpg) 成功注册香港支付宝 AlipayHK，绑定了中国银行（大陆）的VISA卡，撸了5张7-11的$20-10的优惠，在7-11直接扫码支付买了两瓶水，花了$12.5。
 
 #### 总结
 
@@ -199,6 +200,6 @@ https://www.youtube.com/watch?v=40vNJDYgnc0
 - 香港本地无限通话
 - 内地、香港、澳门 13.5GB 漫游流量（**实际有18.5GB**）。
 
-![](https://static.is26.com/blog/2019/02/cuniqhk/new-plan.JPG)
+![](https://c2.llyz.xyz/blog/2019/02/cuniqhk/new-plan.JPG)
 
 但是比较奇怪的是，虽然电话里客服跟我说给我的是13.5GB的优惠，但是实际我自己查询，发现这个月我有26GB的可用流量，订购服务里加起来，也有18.5GB的流量，其中「内地及香港公用数据包0元5G」是我以前套餐附加的，这次升级叠加了。

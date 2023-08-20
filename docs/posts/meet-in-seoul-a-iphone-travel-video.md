@@ -1,15 +1,16 @@
 ---
-title: "用iPhone能拍出什么样的旅行视频?"
-date: "2016-04-04"
-categories: 
-  - "photography"
-  - "travel"
-tags: 
-  - "photography"
-  - "travel"
+categories:
+- photography
+- travel
+cover: https://c2.llyz.xyz/blog/2016/04/seoul/travel-seoul.jpg
+date: '2016-04-04'
+tags:
+- photography
+- travel
+title: 用iPhone能拍出什么样的旅行视频?
 ---
 
-![cover](https://static.is26.com/blog/2016/04/seoul/travel-seoul.jpg)
+![cover](https://c2.llyz.xyz/blog/2016/04/seoul/travel-seoul.jpg)
 
  
 
@@ -19,7 +20,7 @@ tags:
 
 这次首尔行，拍摄和剪辑了一个小短片「遇见,首尔」，可以访问优酷网或者Youtube在线观看。
 
-- [优酷网:【遇见,首尔】 Travel with Zoel](http://v.youku.com/v_show/id_XMTUyMTE1ODA2NA==.html?from=s1.8-1-1.2)
+- [优酷网:【遇见,首尔】 Travel with Zoel](https://v.youku.com/v_show/id_XMTUyMTE1ODA2NA==.html?from=s1.8-1-1.2)
 - [Youtube:Travel with Zoel in Seoul - iPhone 6 & Zhiyun Z1-Smooth Session](https://www.youtube.com/watch?v=YELKppMyCV8)
 
 当然，你也可以直接播放本页面的mp4视频，视频托管在又拍云的CDN上，速度应该还可以。

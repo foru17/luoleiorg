@@ -1,12 +1,13 @@
 ---
-title: "澳门旅行手机上网卡推荐 | CUniq CMLink | VLOG52"
-date: "2019-07-02"
-categories: 
-  - "zuoluotv"
-tags: 
-  - "境外手机卡"
-  - "手机卡"
-  - "澳门"
+categories:
+- zuoluotv
+cover: https://c2.llyz.xyz/default.cover.jpg
+date: '2019-07-02'
+tags:
+- 境外手机卡
+- 手机卡
+- 澳门
+title: 澳门旅行手机上网卡推荐 | CUniq CMLink | VLOG52
 ---
 
 #### 在线视频

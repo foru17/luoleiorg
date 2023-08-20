@@ -1,11 +1,12 @@
 ---
-title: "如何给 Lycamobile 充值任意金额的话费  |  突破淘宝最低5美元限制 | ZUOLUOTV | VLOG37"
-date: "2019-04-03"
-categories: 
-  - "zuoluotv"
-tags: 
-  - "zuoluotv"
-  - "digital"
+categories:
+- zuoluotv
+cover: https://c2.llyz.xyz/blog/2019/04/lyca/c-4.jpg
+date: '2019-04-03'
+tags:
+- zuoluotv
+- digital
+title: 如何给 Lycamobile 充值任意金额的话费  |  突破淘宝最低5美元限制 | ZUOLUOTV | VLOG37
 ---
 
 #### 视频
@@ -46,7 +47,7 @@ getTopupCart(1,"")
 
 写了一封 Report Mail 给 Lycamobile 官方，说明了这个漏洞的情况，看下他们什么时候回复吧。
 
-![](https://static.is26.com/blog/2019/04/lyca/c-4.jpg)
+![](https://c2.llyz.xyz/blog/2019/04/lyca/c-4.jpg)
 
 ```shell
 Hi,I am a Web Developer. Recently i found a bug of lycamoible online recharge system.
@@ -64,4 +65,4 @@ Please forward this mail to your IT group,This might help.
 
 4月6日，官方反馈已经转给了相关部门。
 
-![](https://static.is26.com/blog/2019/04/lyca/c-5.jpg)
+![](https://c2.llyz.xyz/blog/2019/04/lyca/c-5.jpg)

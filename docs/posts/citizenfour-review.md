@@ -1,13 +1,14 @@
 ---
-title: "纪录片《第四公民》:1984，V，隐私即自由"
-date: "2015-10-29"
-tags: 
-  - "movies"
+cover: https://c2.llyz.xyz/blog/2015/snowden.jpg
+date: '2015-10-29'
+tags:
+- movies
+title: 纪录片《第四公民》:1984，V，隐私即自由
 ---
 
-![full-img](https://static.is26.com/blog/2015/snowden.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/snowden.jpg)
 
-昨天搜奥斯卡电影，发现了2015年度最佳纪录片[《第四公民》](https://zh.wikipedia.org/wiki/%E7%AC%AC%E5%9B%9B%E5%85%AC%E6%B0%91)，今天找到[种子](http://www.bttiantang.com/s.php?q=%E7%AC%AC%E5%9B%9B%E5%85%AC%E6%B0%91&sitesearch=www.bttiantang.com&domains=bttiantang.com&hl=zh-CN&ie=UTF-8&oe=UTF-8)，下了1080p的全高清片源，找了中英字幕，一个人在家静静地看完。
+昨天搜奥斯卡电影，发现了2015年度最佳纪录片[《第四公民》](https://zh.wikipedia.org/wiki/%E7%AC%AC%E5%9B%9B%E5%85%AC%E6%B0%91)，今天找到[种子](https://www.bttiantang.com/s.php?q=%E7%AC%AC%E5%9B%9B%E5%85%AC%E6%B0%91&sitesearch=www.bttiantang.com&domains=bttiantang.com&hl=zh-CN&ie=UTF-8&oe=UTF-8)，下了1080p的全高清片源，找了中英字幕，一个人在家静静地看完。
 
 斯诺登的故事对于关注IT和互联网行业的人，或者稍微有关注国际政治的人来说，都不陌生，这个长得还挺帅的男人，是美国[棱镜门](https://zh.wikipedia.org/zh/%E7%A8%9C%E9%8F%A1%E8%A8%88%E7%95%AB)的直接爆料人，从2013年夏天事件爆出以来，不仅在美国国内引起悍然大波，对于美国与其盟友、合作伙伴、竞争对手都连带引发了一系列的政治问题，说到与我们的关系，去年政府对于外资IT企业的一系列政策性限制，政府禁止使用国外软件和电信设备，今年中国领导人访美重点讨论的Cyber War网络战争问题，都可以说与斯诺登此事有着紧密的联系。
 
@@ -15,15 +16,15 @@ tags:
 
 纪录片十分出色，完整记录了斯洛登与调查记者Glenn Greenwald及《卫报》记者Ewen MacAskill接触、见面、现身、避难的完整过程。很大的篇幅是两位记者与斯洛登在香港会面的头七天在酒店里的对话，穿插了大量不同国家政府的回应和调查的新闻资料。
 
-![full-img](https://static.is26.com/blog/2015/snowden2.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/snowden2.jpg)
 
 一开始的颇有黑客色彩的命令行里的双向通信加密，还让人觉得有点造作，而Glenn Greenwald在斯洛登拿着红布罩挡着输密码的时候，还显得一脸「多此一举」的表情。
 
-![full-img](https://static.is26.com/blog/2015/snowden3.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/snowden3.jpg)
 
 可是到纪录片最后，美国政府以反间谍罪通缉斯洛登，英国、德国等几国政府均采取一系列相关行动的时候，最后当Glenn Greenwald再次见到已经在俄罗斯政治避难的斯洛登，交流关于美国监听德国功大量人员的资料的时候，他自己却选择了用笔写下关键字，以防止有人通过任何的设备、网络等窃听。
 
-![full-img](https://static.is26.com/blog/2015/snowden4s.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/snowden4s.jpg)
 
 生活在一个威权国家，每个人都很难保证自己的权利不受到侵犯。相比政治上的民主，我倒更关注「自由」，这是一个很少有人关注民主，甚至很少有人关注自由的地方。
 
@@ -57,7 +58,7 @@ tags:
 
 当然，哪怕是私密，哪怕我知道各种加密的措施，我也没有记录下什么暴力、龌龊、无耻流氓的思想在网络上面，我是一个守法的人，不做违法的事。
 
-我挺佩服斯诺登的，对于他的爆料行为，可以说是理想主义的符号，也可以说是一个个人荣誉的追求者，对于里面不同的媒体，不同的记者的公开报道，可以说是为了新闻的政治，或者就如同美剧[《国土安全》](http://movie.douban.com/subject/26258113/)里那个美国驻柏林高级负责人，在爆出美国和德国的监听项目之后，对那个记者的评论「这个记者为了普利策奖，不顾平民的死活」。
+我挺佩服斯诺登的，对于他的爆料行为，可以说是理想主义的符号，也可以说是一个个人荣誉的追求者，对于里面不同的媒体，不同的记者的公开报道，可以说是为了新闻的政治，或者就如同美剧[《国土安全》](https://movie.douban.com/subject/26258113/)里那个美国驻柏林高级负责人，在爆出美国和德国的监听项目之后，对那个记者的评论「这个记者为了普利策奖，不顾平民的死活」。
 
 权利，权力；集体，个人；自由，秩序……一组组关键字，从希腊那宏大的城邦一直到费城的立宪大堂，从巴士底狱到人民大会堂前的那块广场，人类中的精英、平民、暴君、独裁者，围绕着这一组组关键字，上演了一出充满了血腥和暴力，合作和理解，散发着人性之阴暗，也闪烁着理性之光辉的的进步进化史。
 
@@ -73,12 +74,12 @@ tags:
 
 #### 后记
 
-![full-img](https://static.is26.com/blog/2015/snowden6.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/snowden6.jpg)
 
 写完这篇文章，世界上如此多的巧合，打开微信，在大学的群里看到朋友昨天发了一篇文章，讲的就是我的这篇文章中提到的这位牛姓老师，点进去已经看不到此文，从缩略简介上来看，你懂的，祝他平安。
 
 #### 新闻更新:
 
-**2015.10.30: [欧盟议会通过无约束力决议保护 Edward Snowden](http://www.solidot.org/story?sid=45992)**
+**2015.10.30: [欧盟议会通过无约束力决议保护 Edward Snowden](https://www.solidot.org/story?sid=45992)**
 
 欧盟议会以285票赞成281票反对，通过一项没有约束力的决议，呼吁成员国放弃任何针对Edward Snowden的犯罪指控，给予他保护，阻止他被引渡。欧盟承认Snowden是一名告密者，一名国际人权的捍卫者。Snowden在Twitter上称欧盟的投票表决有可能改变现状。美国国家安全委员会发言人表示，美国的立场没有发生改变，Snowden泄露机密信息，面临重罪指控，他应该尽可能快的返回美国，按照法律程序接受审判。Snowden目前正在俄罗斯避难。

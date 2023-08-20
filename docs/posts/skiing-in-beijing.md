@@ -1,11 +1,12 @@
 ---
-title: "第一次滑雪是什么感受"
-date: "2015-02-14"
-tags: 
-  - "hua-xue"
+cover: https://c2.llyz.xyz/blog/2015/02/skiing/s4.JPG
+date: '2015-02-14'
+tags:
+- hua-xue
+title: 第一次滑雪是什么感受
 ---
 
-![cover](https://static.is26.com/blog/2015/02/skiing/s4.JPG)
+![cover](https://c2.llyz.xyz/blog/2015/02/skiing/s4.JPG)
 
 今年公司上市，CEO带着公司一众Boss去了趟北海道滑雪，回来在年会上说了好久，什么「滑雪是个反人性的运动balblabla……」，总之是喝了不少鸡汤，老板放话说大家应该都去滑滑雪。
 
@@ -19,51 +20,51 @@ tags:
 
 车上睡了一个多小时，一睁眼，已经到了雪场。来了北京一年多，到现在位置和也只去过朝阳海淀和东北望京那块地方，其他西南，东南的还都没去逛过，路上还见到了卢沟桥，心里想居然在这么荒凉的地方。
 
-![full-img](https://static.is26.com/blog/2015/02/skiing/s1.JPG)
+![full-img](https://c2.llyz.xyz/blog/2015/02/skiing/s1.JPG)
 
 今天也算是天公作美，天气十分好，什么PM2.5就先靠一边去了，看到这种蓝天，人也是神清气爽，帝都属于抽风型选手，一刮风就是瑞士，一不刮风就是寂静岭，比起在深圳那种虽然没有雾霾，但是阴天雾天灰蒙蒙的天气，在帝都呆久了倒觉得帝都这样也还是马马虎虎。
 
-![full-img](https://static.is26.com/blog/2015/02/skiing/s2.JPG)
+![full-img](https://c2.llyz.xyz/blog/2015/02/skiing/s2.JPG)
 
 滑雪场这边应该是处于什么航道下方，反正从早上到雪场一直到下午，飞机就没停过，大多是南北朝向，之前看新闻说帝都T3即将成为全球最大吞吐量的机场了，南边规划又要新建一个机场了，这天朝大国，空域也变得越来越拥挤了。
 
-![full-img](https://static.is26.com/blog/2015/02/skiing/s3.JPG)
+![full-img](https://c2.llyz.xyz/blog/2015/02/skiing/s3.JPG)
 
 由于是集体活动，就免去了单独行动的麻烦，浪哥一次性领了IC卡（雪场内租赁装备、消费用的都是IC卡），给大家讲解了下注意事项，大家就各自领装备行动了。
 
-![full-img](https://static.is26.com/blog/2015/02/skiing/s22.JPG)
+![full-img](https://c2.llyz.xyz/blog/2015/02/skiing/s22.JPG)
 
 大家围在一起领卡和票。
 
-![full-img](https://static.is26.com/blog/2015/02/skiing/s21.JPG)
+![full-img](https://c2.llyz.xyz/blog/2015/02/skiing/s21.JPG)
 
 这张图是领了装备换衣服，滑雪需要用的几个装备有雪板、雪服（外套和裤子）和专门的鞋子，头盔和眼镜。今天我玩单板，就不用雪杖了。
 
-![full-img](https://static.is26.com/blog/2015/02/skiing/s7.JPG)
+![full-img](https://c2.llyz.xyz/blog/2015/02/skiing/s7.JPG)
 
 南山雪场还挺大的，据说算是帝都最好的雪场之一了。
 
-![full-img](https://static.is26.com/blog/2015/02/skiing/s5.JPG)
+![full-img](https://c2.llyz.xyz/blog/2015/02/skiing/s5.JPG)
 
 滑了一个多小时，在单板练习区滑上滑下四五次，就上去初级道了，从海拔大概160米的山上往下滑，一路倒是跌跌撞撞，各种摔。到了中午，早上肚子里的包子也消耗得差不多了，滑下山去吃东西，图上是我们部门正在觅食的妹纸。
 
-![full-img](https://static.is26.com/blog/2015/02/skiing/s4.JPG)
+![full-img](https://c2.llyz.xyz/blog/2015/02/skiing/s4.JPG)
 
 这个就是我领的雪镜，但是我自己带了一个户外的眼镜，试了下雪镜老是起雾，觉得烦，就一直挂在头盔上装逼了，一天也没用过。
 
-![full-img](https://static.is26.com/blog/2015/02/skiing/s8.JPG)
+![full-img](https://c2.llyz.xyz/blog/2015/02/skiing/s8.JPG)
 
 滑雪还是很耗体力的，上山有缆车，下山一路得与重力作战，下午在初级道滑上滑下四五次，里面的衣服都湿透了，到了四点多的时候，差不多可以不摔一路滑下去，可是大腿一直要保持身体平衡，累得我真是「跪了」，是真跪。今天人也不算多，总之雪道不挤，到了下午四点多，滑了一天的人也差不多累了，就晒着太阳看风景了。
 
-![full-img](https://static.is26.com/blog/2015/02/skiing/sa3.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/02/skiing/sa3.jpg)
 
 第一次上缆车的时候感觉好奇妙，有点小担心会摔下去，或者把我的板子摔下去，两三次坐上缆车都没坐对位置，然后一路大腿被夹着到了山顶，也是醉了。
 
-![full-img](https://static.is26.com/blog/2015/02/skiing/sa2.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/02/skiing/sa2.jpg)
 
 累了就到山脚坐着，看着山上的人往下滑，往下摔，也是挺开心的呢。
 
-![full-img](https://static.is26.com/blog/2015/02/skiing/sa4.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/02/skiing/sa4.jpg)
 
 这次跟北妹纸借了个Gopro4，来户外玩有个这个神器还是挺不错的，各种广角。最后是iPhone6拍的一张雪场全景图。
 
@@ -73,4 +74,4 @@ tags:
 
 来张我们部门UX的合照，很多美女有木有。
 
-![full-img](https://static.is26.com/blog/2015/02/skiing/s0.JPG)
+![full-img](https://c2.llyz.xyz/blog/2015/02/skiing/s0.JPG)

@@ -1,30 +1,31 @@
 ---
-title: "推荐几个前端相关的国外视频"
-date: "2013-05-15"
-tags: 
-  - "develop"
+cover: https://c2.llyz.xyz/wp-image/2013/05/屏幕快照-2013-05-15-下午12.57.54-1024x628.png
+date: '2013-05-15'
+tags:
+- develop
+title: 推荐几个前端相关的国外视频
 ---
 
-![屏幕快照 2013-05-15 下午12.57.54](https://static.is26.com/wp-image/2013/05/屏幕快照-2013-05-15-下午12.57.54-1024x628.png)
+![屏幕快照 2013-05-15 下午12.57.54](https://c2.llyz.xyz/wp-image/2013/05/屏幕快照-2013-05-15-下午12.57.54-1024x628.png)
 
 最近看了不少国内外的技术相关视频（web开发），国内的主要的主要就是阿里系、百度、豆瓣、腾讯的在一些技术交流会上的分享。 国外的主要就是在youtbue，话说好多精品视频国内都没有真的挺可惜了。
 
 1.youtube的MarakanaTechTV频道
 
-[http://www.youtube.com/user/MarakanaTechTV](http://www.youtube.com/user/MarakanaTechTV)
+[https://www.youtube.com/user/MarakanaTechTV](https://www.youtube.com/user/MarakanaTechTV)
 
 2.Wordpress Camp（话说国外WP生态圈好庞大）  
-[http://central.wordcamp.org/schedule/past-wordcamps/](http://central.wordcamp.org/schedule/past-wordcamps/)  
+[https://central.wordcamp.org/schedule/past-wordcamps/](https://central.wordcamp.org/schedule/past-wordcamps/)  
 3.谷歌Chome开发者频道  
-[http://www.youtube.com/user/ChromeDevelopers](http://www.youtube.com/user/ChromeDevelopers)
+[https://www.youtube.com/user/ChromeDevelopers](https://www.youtube.com/user/ChromeDevelopers)
 
 另外前端类的几个视频 **Paul Irish on Web Application Development Workflow（web APP高效开发）**
 
-<iframe src="http://www.youtube.com/embed/vDbbz-BdyYc" height="360" width="640" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/vDbbz-BdyYc" height="360" width="640" allowfullscreen frameborder="0"></iframe>
 
 **Fluent 2012: Paul Irish, "Javascript Development Workflow of 2013"**
 
-<iframe src="http://www.youtube.com/embed/f7AU2Ozu8eo" height="360" width="640" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/f7AU2Ozu8eo" height="360" width="640" allowfullscreen frameborder="0"></iframe>
 
 主讲人Paul Irish是谷歌Chrome and Web Development Community Leader，jQuery Team member, a lead developer of Modernizr, Yeoman
 
@@ -32,7 +33,7 @@ tags:
 
 css-trick创始人，WP开发者，话说这个胖子好可爱。
 
-<iframe src="http://www.youtube.com/embed/vsTrAfJFLXI" height="360" width="640" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/vsTrAfJFLXI" height="360" width="640" allowfullscreen frameborder="0"></iframe>
 
 胖子那个视频，在场的开发者有年轻人，也有大叔甚至大爷和大妈，让人感慨一下，我们国内的好像真的好年轻。 _还有几个跟yeoman,node.js有关的视频，大家可以在youtube搜索相关关键字找到，弄前端的同学也可以看看。_
 
@@ -43,4 +44,4 @@ css-trick创始人，WP开发者，话说这个胖子好可爱。
 
 顺便说一下，现在正式步入了node.js开发，尝试基于微信公众平台做一个app，狂补基础之余，开始尝试运用诸如yeoman,express,grunt等等关键字相关的技术.
 
-> _![weixin-code](https://static.is26.com/wp-image/2013/05/weixin-code-150x150.jpg)微信的公共帐号叫**「罗磊啰嗦」**_ 微信号: **speakl**（L为我的姓名拼音符号，同意loud，speak就不解释了） 目前暂时还是测试用，以后准备做到前端学习、IT工具技术（偏工具类）分享为主题的帐号，当然，也是提供一个新的渠道跟网络上的朋友联络（现在QQ属于私用，不常加其他人）。 如果你有兴趣，欢迎关注我的微信公共帐号（扫一扫右边）。 我的原则依旧是「坚持优质原创内容，致力于传播美好的思想，分享有价值的信息」
+> _![weixin-code](https://c2.llyz.xyz/wp-image/2013/05/weixin-code-150x150.jpg)微信的公共帐号叫**「罗磊啰嗦」**_ 微信号: **speakl**（L为我的姓名拼音符号，同意loud，speak就不解释了） 目前暂时还是测试用，以后准备做到前端学习、IT工具技术（偏工具类）分享为主题的帐号，当然，也是提供一个新的渠道跟网络上的朋友联络（现在QQ属于私用，不常加其他人）。 如果你有兴趣，欢迎关注我的微信公共帐号（扫一扫右边）。 我的原则依旧是「坚持优质原创内容，致力于传播美好的思想，分享有价值的信息」

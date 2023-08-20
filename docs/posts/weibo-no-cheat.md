@@ -1,9 +1,10 @@
 ---
-title: "【微博防骗指南】拒绝骗子,不当傻子"
-date: "2012-08-06"
+cover: https://c2.llyz.xyz/wp-image/2012/08/no-cheat.jpg
+date: '2012-08-06'
+title: 【微博防骗指南】拒绝骗子,不当傻子
 ---
 
-![](https://static.is26.com/wp-image/2012/08/no-cheat.jpg)
+![](https://c2.llyz.xyz/wp-image/2012/08/no-cheat.jpg)
 
 一阵奥运风，没想到吹开了一阵恶意微博营销之风，这几天，新浪微博上诸如「转发一人送一台iphone4s」之类的欺诈式营销愈演愈烈，实在是看不下去了，觉得有必要说些什么。
 
@@ -11,7 +12,7 @@ date: "2012-08-06"
 
 下图为我随便找的几条微博，其中不乏加V认证的微博，甚至某个加V作家也发了一条「转发送单反」的微博（有近5万条转发）。
 
-![](https://static.is26.com/wp-image/2012/08/Cheat-list.jpg)
+![](https://c2.llyz.xyz/wp-image/2012/08/Cheat-list.jpg)
 
 现在的社会化平台上，鼠标轻轻一点，手指往屏幕上一按，就能转发一条微博、一个账号就进了你的关注名单。
 
@@ -49,7 +50,7 @@ date: "2012-08-06"
 
 如果是一些不知名的认证公司微博，如此文中提到的三无微博@面包圈网 ，发起「一人送一台iphone4」这样的明显与其公司实力不匹配的活动，则应当倍加注意。花上一分钟，进入其官方微博首页，看一下微博简介，如果你压根就没听过这个公司和品牌，你可以继续用google或者百度搜索一下其公司品牌名，看一下其官方网站，判断是否可信。
 
-**个人微博![](https://static.is26.com/wp-image/2012/08/weibo-verify1.png)：加V的不一定可靠，不加V的建议举报**
+**个人微博![](https://c2.llyz.xyz/wp-image/2012/08/weibo-verify1.png)：加V的不一定可靠，不加V的建议举报**
 
 现在我们中国人，对自己信誉不重视，很多人以娱乐、恶搞的身份来搞抽奖活动，而不考虑长远的后果，不免让人唏嘘下。
 
@@ -57,9 +58,9 @@ date: "2012-08-06"
 
 如果是诸如@李开复 @潘石屹 @王石 @雷军 或者你可以确认其真实可信的名人，则可以参加，如果是一些不知名公司的经理（特征：粉丝比较少，所发的微博内容质量不高）之类的加V认证用户，则需谨慎对待。
 
-同样是这几天，有一个叫做[@廖文石](http://weibo.com/zzwaijie) 的加V用户，两万多粉丝，（认证身份:新锐作家、深圳信念文化签约作家、长篇《那些年我们的梦初绽放》），同样发了一条「转发送单反」的微博 （已经可以确认其微博为虚假信息）
+同样是这几天，有一个叫做[@廖文石](https://weibo.com/zzwaijie) 的加V用户，两万多粉丝，（认证身份:新锐作家、深圳信念文化签约作家、长篇《那些年我们的梦初绽放》），同样发了一条「转发送单反」的微博 （已经可以确认其微博为虚假信息）
 
-![](https://static.is26.com/wp-image/2012/08/Snip20120806_8-300x130.png)![](https://static.is26.com/wp-image/2012/08/Snip20120806_3.png)
+![](https://c2.llyz.xyz/wp-image/2012/08/Snip20120806_8-300x130.png)![](https://c2.llyz.xyz/wp-image/2012/08/Snip20120806_3.png)
 
 看头像这个廖文石还挺年轻，挂着一个网络小说作家的头衔，却拿自己的信誉开玩笑，真是可惜了。
 
@@ -71,27 +72,27 @@ date: "2012-08-06"
 
 比如说@达腾通讯 的这条微博，照片上的iphone4s那是相当壮观。
 
-![](https://static.is26.com/wp-image/2012/08/Snip20120806_101.png)
+![](https://c2.llyz.xyz/wp-image/2012/08/Snip20120806_101.png)
 
-再比如说加V用户[@廖文石](http://weibo.com/zzwaijie) 的转发送单反（见本博文图）就是一张「放满了单反的箱子」。
+再比如说加V用户[@廖文石](https://weibo.com/zzwaijie) 的转发送单反（见本博文图）就是一张「放满了单反的箱子」。
 
 当时第一眼看到朋友转发这条微博，心想尼玛这是高富帅啊，这么一堆单反+镜头说送就送，得多少钱啊。
 
-然后，我用[谷歌图片搜索](http://www.google.com.hk/imghp?hl=zh-CN&tab=wi)搜索了一下这个图，结果发现这个图的出处宽带山社区的一次摄影爱好者聚会。
+然后，我用[谷歌图片搜索](https://www.google.com.hk/imghp?hl=zh-CN&tab=wi)搜索了一下这个图，结果发现这个图的出处宽带山社区的一次摄影爱好者聚会。
 
-源地址[《大杀器，小马4，纯口水~~~~~~~~》](http://club.pchome.net/thread_2_3_5005140.html)
+源地址[《大杀器，小马4，纯口水~~~~~~~~》](https://club.pchome.net/thread_2_3_5005140.html)
 
-![](https://static.is26.com/wp-image/2012/08/Snip20120806_9.png)
+![](https://c2.llyz.xyz/wp-image/2012/08/Snip20120806_9.png)
 
 而那张一堆iphone4的照片，同样可以用谷歌图片找到出处。原来是iphone4s上市时烟台的一条新闻。
 
-![](https://static.is26.com/wp-image/2012/08/Snip20120806_11.png)
+![](https://c2.llyz.xyz/wp-image/2012/08/Snip20120806_11.png)
 
 图片搜索是一个很好的判断真假，辟谣的工具。
 
 在这里推荐两个图片搜索引擎（可以寻找相似图片，找到图片出处）
 
-> ![](http://www.google.com.hk/intl/zh-CN_cn/images/logos/images_logo_lg.gif)谷歌图片搜索 [http://www.google.com.hk/imghp?hl=zh-CN&tab=wi](http://www.google.com.hk/imghp?hl=zh-CN&tab=wi)   ![](https://static.is26.com/wp-image/2012/08/tineye-logo-300x133.png) TinEye图片搜索 [http://www.tineye.com/](http://www.tineye.com/)  
+> ![](https://www.google.com.hk/intl/zh-CN_cn/images/logos/images_logo_lg.gif)谷歌图片搜索 [https://www.google.com.hk/imghp?hl=zh-CN&tab=wi](https://www.google.com.hk/imghp?hl=zh-CN&tab=wi)   ![](https://c2.llyz.xyz/wp-image/2012/08/tineye-logo-300x133.png) TinEye图片搜索 [https://www.tineye.com/](https://www.tineye.com/)  
 
 同样，针对微博文案中的其他有疑点的信息，可以利用搜索引擎进行检索，查看纰漏。
 

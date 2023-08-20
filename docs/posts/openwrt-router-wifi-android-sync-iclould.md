@@ -1,13 +1,14 @@
 ---
-title: "【智能路由】用路由器低成本打造NAS+迅雷离线下载+同步android文件"
-date: "2013-02-15"
-tags: 
-  - "android"
-  - "nas"
-  - "e8b7afe794b1e599a8"
+cover: https://c2.llyz.xyz/wp-image/2013/02/wifi_meitu_1-1024x576.jpg
+date: '2013-02-15'
+tags:
+- android
+- nas
+- e8b7afe794b1e599a8
+title: 【智能路由】用路由器低成本打造NAS+迅雷离线下载+同步android文件
 ---
 
-![wifi_meitu_1](https://static.is26.com/wp-image/2013/02/wifi_meitu_1-1024x576.jpg)
+![wifi_meitu_1](https://c2.llyz.xyz/wp-image/2013/02/wifi_meitu_1-1024x576.jpg)
 
 智能手机、平板的价格的下降，让更多的人拥有了智能设备，也让更多的人拥有了更多的智能设备，如今一个普通的家庭都可能都拥有好几台电脑、笔记本，好几部智能手机、平板电脑，说不定还有诸如apple tv、小米盒子之类的智能电视机顶盒和其他设备。
 
@@ -71,7 +72,7 @@ tags:
 
 理论上，只要支持openwrt并且内存空间足够的路由器均可以，大家可以根据自己的情况酌情购买。300元以下依旧推荐MW4530r，双频2.4G+5G（5G支持ipad和macbook，可以达到300M速率，否则在2.4G下貌似只能到144M速率），带USB（必需！外接移动硬盘或者U盘），3天线（感觉没什么差别），另外一个很重要的是，由于4530r性价比高，折腾这款路由器的人也多，所以比较容易找到此款路由的解决方案。
 
-至于其他的路由设备，可以参考发烧毒物「 [Chiphell 论坛](http://www.chiphell.com/forum.php?mod=forumdisplay&fid=147&filter=typeid&typeid=289)」的资料，可以去看看专注于无线与路由器的「[恩山论坛](http://forum.anywlan.com/)」和「 [openwrt中文论坛](http://www.openwrt.org.cn/bbs/forum.php) 」
+至于其他的路由设备，可以参考发烧毒物「 [Chiphell 论坛](https://www.chiphell.com/forum.php?mod=forumdisplay&fid=147&filter=typeid&typeid=289)」的资料，可以去看看专注于无线与路由器的「[恩山论坛](https://forum.anywlan.com/)」和「 [openwrt中文论坛](https://www.openwrt.org.cn/bbs/forum.php) 」
 
 比较热门的设备有思科的E3000，华硕的N16等，网件的也不错。
 
@@ -79,37 +80,37 @@ tags:
 
 MW4530安装 openwrt 系统比较简单，下载好 openwrt 的固件文件，直接登录原厂固件的管理界面 192.168.1.1 升级就好。MW4530目前可用的openwrt版本比较多，大家可以根据自己的需求挑选。
 
-刷机方法请参考[《水星Mercury MW4530R刷Openwrt及刷TP4310/4300/原厂固件的方法》](http://www.right.com.cn/forum/thread-88895-1-1.html)
+刷机方法请参考[《水星Mercury MW4530R刷Openwrt及刷TP4310/4300/原厂固件的方法》](https://www.right.com.cn/forum/thread-88895-1-1.html)
 
-比较热门的有 Haxc 编译的系列固件《[OpenWrt For 4530R ARIA2 Transmission 脱机 Samba 挂载 U-BOOT 可写](http://www.right.com.cn/forum/thread-102073-1-1.html) 》，我安装的是2013.1.26号更新的35298固件。
+比较热门的有 Haxc 编译的系列固件《[OpenWrt For 4530R ARIA2 Transmission 脱机 Samba 挂载 U-BOOT 可写](https://www.right.com.cn/forum/thread-102073-1-1.html) 》，我安装的是2013.1.26号更新的35298固件。
 
 **3.挂载USB硬盘**
 
-我就是在挂载USB硬盘这里遇到了点问题，才搞得十分蛋疼，由于 openwrt 属于linux系统，虽说也可以读取windows常见的 fat32 或者 ntfs 格式的硬盘，可是读取效率较低，建议先格式化成ext3或者ext4格式，当然，用简单的方法，在widnows下可以直接用 paragon partition manager 或者 Acronis Disk Director Suite 进行格式化，我使用的是 [Acronis](http://pan.baidu.com/share/link?shareid=233757&uk=1577447122)（我分享到了百度网盘，点击可下载）。
+我就是在挂载USB硬盘这里遇到了点问题，才搞得十分蛋疼，由于 openwrt 属于linux系统，虽说也可以读取windows常见的 fat32 或者 ntfs 格式的硬盘，可是读取效率较低，建议先格式化成ext3或者ext4格式，当然，用简单的方法，在widnows下可以直接用 paragon partition manager 或者 Acronis Disk Director Suite 进行格式化，我使用的是 [Acronis](https://pan.baidu.com/share/link?shareid=233757&uk=1577447122)（我分享到了百度网盘，点击可下载）。
 
 格式化完成后，将硬盘盒（或者U盘）通过USB连接路由器，稍等10秒左右，在 Openwrt 管理「系统>挂载点」界面，不出意外，可以看到USB已经成功挂载。
 
-![openwrt-usb](https://static.is26.com/wp-image/2013/02/openwrt-usb-1024x425.jpg)
+![openwrt-usb](https://c2.llyz.xyz/wp-image/2013/02/openwrt-usb-1024x425.jpg)
 
 挂载点可以理解成USB外接硬盘映射到openwrt文件系统中的哪个位置，比如说，以我为例，我将外接硬盘映射到/usb/sda1 这里，点击「保存&应用」按钮后重启，这时候，如果我用 sftp 登录192.168.1.1，可以看到在 openwrt 系统根目录下，已经有了usb/sda1 这层文件了，对应的就是外接硬盘。
 
-![openwrt-usb-2](https://static.is26.com/wp-image/2013/02/openwrt-usb-2.jpg)
+![openwrt-usb-2](https://c2.llyz.xyz/wp-image/2013/02/openwrt-usb-2.jpg)
 
 **4.开启Samba网络共享**
 
 在USB已经挂载成功的情况下，接着登录「服务>网络共享」设置界面，此部分，请参考
 
-《[samba设置密码,给如我一样的小白一个启示](http://www.right.com.cn/forum/thread-115841-1-1.html)》和《[简单介绍一下samba 添加用户密码的方法](http://www.right.com.cn/forum/thread-104423-1-1.html)》，记得要开启root用户访问权限（在这里有一个建议，路由器设置密码后，其后的所有帐号都设置成root 密码admin，免得自己忘记，这一部分可能会遇到问题，根据自己的情况，搜索相关设置。
+《[samba设置密码,给如我一样的小白一个启示](https://www.right.com.cn/forum/thread-115841-1-1.html)》和《[简单介绍一下samba 添加用户密码的方法](https://www.right.com.cn/forum/thread-104423-1-1.html)》，记得要开启root用户访问权限（在这里有一个建议，路由器设置密码后，其后的所有帐号都设置成root 密码admin，免得自己忘记，这一部分可能会遇到问题，根据自己的情况，搜索相关设置。
 
-![openwrt-samba](https://static.is26.com/wp-image/2013/02/openwrt-samba-1024x389.jpg)
+![openwrt-samba](https://c2.llyz.xyz/wp-image/2013/02/openwrt-samba-1024x389.jpg)
 
 **5.测试PC&Mac访问**
 
 此时，刷新一下你的电脑（PC上查看网上邻居），不出意外，可以看到多出来一个网络设备 OpenWrt（对应的就是网络共享里设置的主机名），如果没有显示，在mac下可以打开Finder，前往服务器（快捷键 command+k），输入地址 smb://192.168.1.1 ,用帐号root ，密码admin进行登录。
 
-![openwrt-sharing](https://static.is26.com/wp-image/2013/02/openwrt-sharing.jpg)
+![openwrt-sharing](https://c2.llyz.xyz/wp-image/2013/02/openwrt-sharing.jpg)
 
-![openwrt-xp-samba](https://static.is26.com/wp-image/2013/02/openwrt-xp-samba.jpg)
+![openwrt-xp-samba](https://c2.llyz.xyz/wp-image/2013/02/openwrt-xp-samba.jpg)
 
 至此，不管你用的是 mac 还是 pc，iphone 还是 android，只要支持 smb 或者 sftp（也可以在 openwrt 中另外安装 Ftp 服务器），均可以通过访问「smb://192.168.1.1」,root帐号登录来访问连接在路由器上的外接硬盘了，可以直接进行上传、下载、删除操作。
 
@@ -117,31 +118,31 @@ MW4530安装 openwrt 系统比较简单，下载好 openwrt 的固件文件，�
 
 这款 openwrt 固件自带 Aria2 应用，_aria2_ 是Linux 下一个不错的高速下载工具，支持BT，磁力下载。
 
-这部分可以参考Chiphell的这篇《[【DSM高阶篇】-安装aria2实现迅雷离线（更新完美版）](http://www.chiphell.com/thread-580013-1-1.html)》，虽说不是同一个系统，可是核心步骤和操作是相同的。
+这部分可以参考Chiphell的这篇《[【DSM高阶篇】-安装aria2实现迅雷离线（更新完美版）](https://www.chiphell.com/thread-580013-1-1.html)》，虽说不是同一个系统，可是核心步骤和操作是相同的。
 
 a.登录「服务>Aria2下载工具」，开启Aria2，设置下载目录（前面你设置的外接硬盘目录，我的就是/usb/sda1/Download
 
-![openwrt-aria2](https://static.is26.com/wp-image/2013/02/openwrt-aria2.jpg)
+![openwrt-aria2](https://c2.llyz.xyz/wp-image/2013/02/openwrt-aria2.jpg)
 
 b.登录Aria2界面
 
 登录「192.168.1.1/aria2 」，就是aira2的界面了，在这里我更加推荐使用Aria2而不是Transmission（BT），热门资源通过迅雷离线更加之快。下图就是Aria2的界面，十分简洁。
 
-![openwrt-aria2-web](https://static.is26.com/wp-image/2013/02/openwrt-aria2-web1-1024x592.jpg)
+![openwrt-aria2-web](https://c2.llyz.xyz/wp-image/2013/02/openwrt-aria2-web1-1024x592.jpg)
 
 c.设置迅雷离线直接推送
 
 在这里我们使用的是Chrome浏览器（猎豹浏览器，360极速浏览器等相同内核浏览器的也支持），安装「[迅雷离线助手](https://chrome.google.com/webstore/detail/thunderlixianassistant/eehlmkfpnagoieibahhcghphdbjcdmen)」插件（可以方便的把迅雷离线的下载地址导出到aria2/aria2-rpc/wget/IDM/Orbit，支持YAAW。）
 
-接着，登录[迅雷离线](http://dynamic.cloud.vip.xunlei.com/)的网页，点击右上角设置。如图设置，在Aria.Json.prc.path输入「 [http://192.168.1.1:6800/jsonrpc](http://192.168.1.1:6800/jsonrpc) 」
+接着，登录[迅雷离线](https://dynamic.cloud.vip.xunlei.com/)的网页，点击右上角设置。如图设置，在Aria.Json.prc.path输入「 [https://192.168.1.1:6800/jsonrpc](https://192.168.1.1:6800/jsonrpc) 」
 
-![openwrt-thunder](https://static.is26.com/wp-image/2013/02/openwrt-thunder-1024x590.jpg)
+![openwrt-thunder](https://c2.llyz.xyz/wp-image/2013/02/openwrt-thunder-1024x590.jpg)
 
 d.测试迅雷离线直接推送到路由器下载
 
 这时，选择你离线空间里的文件，点击按钮「取回本地」或者上面的「批量导出」，选择YAAW（不是Aria2，我也纳闷为什么），这时会提示「添加中……到YAAW界面查看是否添加成功」，此时，登录aira2的界面，可以发现该任务正在下载了，达到满速（我4M宽带，稳定在500K+）。
 
-![openwrt-push-aria](https://static.is26.com/wp-image/2013/02/openwrt-push-aria.jpg)
+![openwrt-push-aria](https://c2.llyz.xyz/wp-image/2013/02/openwrt-push-aria.jpg)
 
 至此，已经完成了「路由器NAS+迅雷离线+共享」的三大核心功能了，现在你就可以，在网页端迅雷离线直接按两下按钮，就自动推送到路由器的Aria2进行下载，下载完成后，所有可以访问该路由器的设备，均可以通过smb或者sftp直接读取路由器外接硬盘中的所有文件。
 
@@ -157,14 +158,14 @@ d.测试迅雷离线直接推送到路由器下载
 
 1.add server（添加服务器)，选择SMB格式（sftp或者ftp也可），设置好地址(192.168.1.1)，登录帐号(root)密码(admin).
 
-![Screenshot_2013-02-15-17-58-30](https://static.is26.com/wp-image/2013/02/Screenshot_2013-02-15-17-58-30.png)
+![Screenshot_2013-02-15-17-58-30](https://c2.llyz.xyz/wp-image/2013/02/Screenshot_2013-02-15-17-58-30.png)
 
 2.添加好服务器，设置好要同步的两端文件夹，Local Diectory对应的是手机上的文件夹（一般我就要同步照片文件夹），Remote directory对应的就是路由器外接硬盘的文件夹（可以直接新建一个:我新建了一个小米相册），接下来的remote<=>local几个选项，分别对应的是手机同步到路由器（双向），手机同步到路由器（单向），路由器同步到手机（单向），可以勾选 Synchroniz only new file（只同步新增的文件），另外勾选上WIFI ONLY吧，要不小心爆流量。
 
-.![Screenshot_2013-02-15-17-59-03](https://static.is26.com/wp-image/2013/02/Screenshot_2013-02-15-17-59-03.png)
+.![Screenshot_2013-02-15-17-59-03](https://c2.llyz.xyz/wp-image/2013/02/Screenshot_2013-02-15-17-59-03.png)
 
 3.测试下速度，在房间隔了两度墙，基本能稳定到700-1M/s的速度，对于不大的照片，一下子就搞定了。以后在外用手机拍了照片视频，回到家，打开这个软件，就可以自动同步了（可以设置监控时间，后台运行的话，能直接自动同步），也当成是一种备份吧，免得手机哪天丢了照片丢失了。
 
-![Screenshot_2013-02-15-14-30-53](https://static.is26.com/wp-image/2013/02/Screenshot_2013-02-15-14-30-53.png)
+![Screenshot_2013-02-15-14-30-53](https://c2.llyz.xyz/wp-image/2013/02/Screenshot_2013-02-15-14-30-53.png)
 
 零零散散写下这篇分享，难免有些纰漏，仅供参考，遇到问题没什么可怕的，多搜索，按照步骤来，还是很简单的。在IOS设备上也有相对应的软件，大家就自己搜索下吧，不妨找到好的，也留言分享一下。

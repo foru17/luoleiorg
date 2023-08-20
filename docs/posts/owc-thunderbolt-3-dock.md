@@ -1,12 +1,13 @@
 ---
-title: "300美元买了个雷电3拓展坞: OWC Thunderbolt 3 Dock"
-date: "2017-10-28"
-categories: 
-  - "tech"
-tags: 
-  - "kai-xiang"
-  - "digital"
-  - "e7a1ace4bbb6"
+categories:
+- tech
+cover: https://c2.llyz.xyz/blog/2017/10/owc/owc-33.JPG
+date: '2017-10-28'
+tags:
+- kai-xiang
+- digital
+- e7a1ace4bbb6
+title: '300美元买了个雷电3拓展坞: OWC Thunderbolt 3 Dock'
 ---
 
 由于工作和工作室的需要，平时我的2016年RMBP 15寸需要外接诸多设备，尤其是视频剪辑相关的设备:
@@ -20,7 +21,7 @@ tags:
 - SD卡读卡器
 - 外接移动硬盘
 
-![](https://static.is26.com/blog/2017/10/owc/owc-33.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-33.JPG)
 
 首先放一张我之前使用的所有USB-C配件照片，上面这些就是我之前用的转接线。
 
@@ -38,19 +39,19 @@ RMBP 只有4个 USB-C 的接口，对于我来说，普通的转HDMI+USB3.0的�
 
 后来搜索国外资料，发现了 OWC 在今年年初发布的一款1转13的雷电3拓展坞，当时还处于预售状态，就直接从 MacSales 下单，海淘了回来。
 
-![](https://static.is26.com/blog/2017/10/owc/order.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/owc/order.jpg)
 
 原价299美元，折合1988元人民币，运费(30-7.63)=22.37美元，通过DHL直邮中国，价格尚能接受，就没选择转运，发货倒挺快，一周不到就到达上海了（DHL的物流提示超级给力，全程邮件和短信提示），由于DHL主动报关，在海关呆多了一周，补缴纳了400多块的税。最终到手价格将近2500元人民币，算得上是我买过的最昂贵的 Mac 配件了，用 Mac 当生产力工具，被迫缴纳的这些配件税，也算是 Mac 用户的无奈了。
 
-![](https://static.is26.com/blog/2017/10/owc/owc-2.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-2.JPG)
 
 包装盒，这也是我第一次从 MacSales 买东西。
 
-![](https://static.is26.com/blog/2017/10/owc/owc-1.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-1.JPG)
 
 DHL配送单，赞一下DHL物流，之前我老婆的一个品牌合作方，从旧金山发新品衣服给她，三天就到了，速度惊人。
 
-![](https://static.is26.com/blog/2017/10/owc/owc-11.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-11.JPG)
 
 蓝白包装，方方正正，还挺大的。
 
@@ -65,51 +66,51 @@ DHL配送单，赞一下DHL物流，之前我老婆的一个品牌合作方，�
 - 雷电3 \* 2个
 - mini DisplayPort \* 1个
 
-![](https://static.is26.com/blog/2017/10/owc/owc-7.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-7.JPG)
 
 盒子正面，主要接口信息都写上面了。
 
-![](https://static.is26.com/blog/2017/10/owc/owc-8.JPG) ![](https://static.is26.com/blog/2017/10/owc/owc-9.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-8.JPG) ![](https://c2.llyz.xyz/blog/2017/10/owc/owc-9.JPG)
 
 包装盒的侧面和背面，有更加详细的接口信息。
 
-![](https://static.is26.com/blog/2017/10/owc/owc-12.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-12.JPG)
 
 里面的说明书。
 
-![](https://static.is26.com/blog/2017/10/owc/owc-14.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-14.JPG)
 
 机身内的所有配备，带独立电源，送了一根雷电3的线。
 
-![](https://static.is26.com/blog/2017/10/owc/owc-17.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-17.JPG)
 
 电源是20V，6.75A，亲测可以稳定给Macbook供电。
 
-![](https://static.is26.com/blog/2017/10/owc/owc-19.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-19.JPG)
 
 OWC这个拓展坞的做工不错，我这次买的是深空灰，正面，侧面都是铝合金金属，跟我灰色RMBP一起放桌面还是挺和谐的。
 
-![](https://static.is26.com/blog/2017/10/owc/owc-26.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-26.JPG)
 
 正面是一个USB3.1的接口，一个SD卡槽，一个音频接口，用得比较多的是USB和SD卡槽，尤其是对于我这种经常拷照片的人来说，方便了很多。
 
-![](https://static.is26.com/blog/2017/10/owc/owc-25.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-25.JPG)
 
 正面的OWC Logo和质感，质感还行。
 
-![](https://static.is26.com/blog/2017/10/owc/speed.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/owc/speed.jpg)
 
 SD卡槽读写速度还可以，UHS-I U3的高速卡，读大概80-90MB/s，写大概70-80MB/s，对于大部分SD卡来说，都完全够了。
 
-![](https://static.is26.com/blog/2017/10/owc/owc-20.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-20.JPG)
 
 顶部黑溜溜的，贴了一层膜，塑料材质，怕刮花就贴着膜一直用了。
 
-![](https://static.is26.com/blog/2017/10/owc/owc-21.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-21.JPG)
 
 背面的接口，比较壮观了，4个USB3.1，一个光纤音频接口，一个火线接口，一个千兆网卡，两个雷电3，一个miniDP（不支持雷电2），最右边的就是电源接口了。除了光纤音频和火线对于我没啥用，其他的都是必备了。
 
-![](https://static.is26.com/blog/2017/10/owc/owc-31.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-31.JPG)
 
 开箱大概就是这样。
 
@@ -117,7 +118,7 @@ SD卡槽读写速度还可以，UHS-I U3的高速卡，读大概80-90MB/s，写�
 
 9月1号下单，一直到10月28日，已经用了两个多月，来说下这个拓展坞的实际体验感受吧。
 
-![](https://static.is26.com/blog/2017/10/owc/owc-35.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/owc/owc-35.JPG)
 
 首先放张这个拓展坞工作时候，接上所有需要线缆的状况，通过黑色的 USB-C 同 RMBP连上，就搞好了，真正做到了一步进入工作条件。
 

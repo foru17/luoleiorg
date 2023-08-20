@@ -1,12 +1,13 @@
 ---
-title: "美国 | USA B1/B2 十年签证到手记"
-date: "2016-08-20"
-categories: 
-  - "travel"
-tags: 
-  - "travel"
-  - "life"
-  - "usa"
+categories:
+- travel
+cover: https://c2.llyz.xyz/blog/2016/08/usa/visa5.jpg
+date: '2016-08-20'
+tags:
+- travel
+- life
+- usa
+title: 美国 | USA B1/B2 十年签证到手记
 ---
 
 周一早上人还没到公司，就收到EMS快递员的电话，说有两份我的美国领事馆的签证快递，在前台要我签收一下。
@@ -30,7 +31,7 @@ tags:
 本着好学求知的精神，我登陆美帝移民局官网一探究竟，网站中文支持不错，按照说明步骤来操作就可以了。
 
 ```
-http://www.ustraveldocs.com/cn_zh/cn-niv-ds160info.asp
+https://www.ustraveldocs.com/cn_zh/cn-niv-ds160info.asp
 ```
 
 网站会要求先按照需求填写了DS-160表格。在这里还可以上传一张正方形的签证照片，系统会自动验证照片是否符合规格。
@@ -78,7 +79,7 @@ http://www.ustraveldocs.com/cn_zh/cn-niv-ds160info.asp
 
 美帝上海领事馆在南京西路梅龙镇商厦，原来就在妹纸公司旁边200米，我们头一天晚上分别用文件袋装好了自己的材料。
 
-![](https://static.is26.com/blog/2016/08/usa/visa5.jpg)
+![](https://c2.llyz.xyz/blog/2016/08/usa/visa5.jpg)
 
 到达美帝领事馆楼下已经是早上的8点50分的样子，打不通旅行社送签的人的电话，想着资料我们也都有，就不管他们了（事后有个旅行社的未接电话），妹纸去附近存包（50元），在楼下指定排队处先领了一个通行证，然后过了外围的身着白色制服的保安检查，进入了大楼，坐电梯上到了美帝大使馆那层楼。
 
@@ -86,7 +87,7 @@ http://www.ustraveldocs.com/cn_zh/cn-niv-ds160info.asp
 
 1) 初次安检：进门有位安保检查了我们的通行证（人手一张），在我们的手背上盖了一个荧光盖章，进入美帝领事馆办公室，迎面一面硕大的美帝国旗。 2) 预约单检查：一个工作人员扫描我们预约单上的条纹码，确认无误后，放行。 3) 护照检查：两个工作人员，分别检查了我们的DS-160表格，看了我们的护照，在我们的护照上面贴了新条纹码。
 
-![](https://static.is26.com/blog/2016/08/usa/visa10.jpg)
+![](https://c2.llyz.xyz/blog/2016/08/usa/visa10.jpg)
 
 4) 安检:每个人领一个小篮子，把所有的东西都放进去，过安检机器。 5) 打指纹:在一个窗口，是个美国人，把护照贴在玻璃上指定位置，工作人员扫描了一下，一次记录左右手四根长指头，第二次记录左右上拇指。 6) 排队面签：
 
@@ -140,6 +141,6 @@ http://www.ustraveldocs.com/cn_zh/cn-niv-ds160info.asp
 - 建议别提前买机票，要不万一签证被卡，还是有点蛋疼。
 - 个人办和旅行办，最终还是看个人的基本资料条件和面签情况，旅行社在填表阶段、填写基本资料方面能够给一些建议。
 
-![](https://static.is26.com/blog/2016/08/usa/visa7.jpg)
+![](https://c2.llyz.xyz/blog/2016/08/usa/visa7.jpg)
 
 从美领馆出来，我和妹纸来张自拍，哦耶，美帝，等我们来！机票已经买好啦！

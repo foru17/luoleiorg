@@ -1,9 +1,10 @@
 ---
-title: "【开箱】Nike Free 5.0 14款"
-date: "2015-07-25"
+cover: https://c2.llyz.xyz/blog/2015/07/n5.jpg
+date: '2015-07-25'
+title: 【开箱】Nike Free 5.0 14款
 ---
 
-![full-img](https://static.is26.com/blog/2015/07/n5.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/07/n5.jpg)
 
 上个月海淘的鞋子陆续来了，接连几个开箱，看了下鞋柜，这两年，除了居家的拖鞋，基本上所有的鞋子都是海淘的。
 
@@ -13,33 +14,33 @@ date: "2015-07-25"
 
 这次开箱的是耐克跑鞋 Nike Free 5.0 2014款，Free系列是Nike家的超轻、透气系列，适合跑步和其他城市运动和室内运动。
 
-购自于美帝[6PM.com](http://www.6pm.com)，没什么优惠，70美元，物流走的笨鸟70元运费无税，总共约500人民币，国内Nike专卖店和天猫旗舰售价869元，淘宝上同款400-600价位的都有，来源就不清楚了。
+购自于美帝[6PM.com](https://www.6pm.com)，没什么优惠，70美元，物流走的笨鸟70元运费无税，总共约500人民币，国内Nike专卖店和天猫旗舰售价869元，淘宝上同款400-600价位的都有，来源就不清楚了。
 
-![full-img](https://static.is26.com/blog/2015/07/n6.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/07/n6.jpg)
 
 Nike经典的橙红色盒子，国内外都一样。
 
-![full-img](https://static.is26.com/blog/2015/07/n7.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/07/n7.jpg)
 
 侧面左下角有着鞋子的信息。
 
-![full-img](https://static.is26.com/blog/2015/07/n9.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/07/n9.jpg)
 
 前几天自己穿了下，盒内除了鞋子和一张纸，其他什么东西都没有。
 
-![full-img](https://static.is26.com/blog/2015/07/n5.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/07/n5.jpg)
 
 鞋子真身，蓝色鞋身、白色鞋底和绿色的鞋带，整体属于简约风格，还是属于比较「骚」的配色，就是这亮色，应该比较容易脏，所以还是做室内运动吧，健身房之类的。
 
-![full-img](https://static.is26.com/blog/2015/07/n3.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/07/n3.jpg)
 
 绿色的鞋垫，整体Nike Free就是给人一种很清爽的感觉。
 
-![full-img](https://static.is26.com/blog/2015/07/n2.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/07/n2.jpg)
 
 上脚体验，我的脚43码，依旧买的10D的美码，十分合脚，但是鞋带有点紧，需要松一下，前天穿着出去跑了5公里，相比穿着亚瑟士和索康尼专业的跑鞋跑步，明显还是可以感觉到缓冲不是那么明显。
 
-![full-img](https://static.is26.com/blog/2015/07/n1.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/07/n1.jpg)
 
 Nike Free鞋身上许多透气小孔，一看就是属于夏天的鞋子。
 

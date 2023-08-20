@@ -1,12 +1,13 @@
 ---
-title: "升级游戏鼠标：罗技 G502 LIGHTSPEED 无线版"
-date: "2020-06-21"
-categories: 
-  - "tech"
-tags: 
-  - "外设"
-  - "digital"
-  - "罗技"
+categories:
+- tech
+cover: https://c2.llyz.xyz/blog/2020/06/logitech/g-2.JPG
+date: '2020-06-21'
+tags:
+- 外设
+- digital
+- 罗技
+title: 升级游戏鼠标：罗技 G502 LIGHTSPEED 无线版
 ---
 
 虽然家里有台配置不错的PC，也有游戏主机，但是我玩的游戏很少，大多都是FPS游戏，玩的FPS游戏也很专一，过去这十多年，基本就集中在「CS」「使命召唤」「战地」「绝地求生」之中，这两年玩得比较多的就是使命召唤和 PUBG 吃鸡了。
@@ -23,65 +24,65 @@ tags:
 
 ## 开箱
 
-![](https://static.is26.com/blog/2020/06/logitech/g-2.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-2.JPG)
 
 罗技经典的蓝白包装，盒子还挺小的。
 
-![](https://static.is26.com/blog/2020/06/logitech/g-1.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-1.JPG)
 
 侧边标记了一些参数，有RGB，支持POWERPLAY无线充电，LIGHTSPEED 无线传输，毕竟是罗技的旗舰级产品之一了。
 
-![](https://static.is26.com/blog/2020/06/logitech/g-3.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-3.JPG)
 
 打开盒子就是 G502 无线版本体，经典的502造型，带有棱角的按键，我个人还是挺喜欢这种设计的。
 
-![](https://static.is26.com/blog/2020/06/logitech/g-5.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-5.JPG)
 
 盒子里的全部东西，保修卡、说明书、贴纸、配重、数据线，唯一差评的就是，G502 LIGHTSPPED作为一个款 2019 年的产品，还是使用 microUSB 接口，换个 Type-C 不好么。
 
-![](https://static.is26.com/blog/2020/06/logitech/g-6.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-6.JPG)
 
-![](https://static.is26.com/blog/2020/06/logitech/g-7.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-7.JPG)
 
 除了没有线，外观跟有线的G502差别不大，按键很多，对于我这种经常使用快捷键的人来说比较实用。
 
-![](https://static.is26.com/blog/2020/06/logitech/g-8.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-8.JPG)
 
-![](https://static.is26.com/blog/2020/06/logitech/g-11.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-11.JPG)
 
 底部格局大变化，下方是圆形是配重仓，开关很小。
 
-![](https://static.is26.com/blog/2020/06/logitech/g-12.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-12.JPG)
 
 打开舱盖后，里面可以放接收器和配重。
 
-![](https://static.is26.com/blog/2020/06/logitech/g-14.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-14.JPG)
 
 G502 LIGHTSPEED这次配的配重盒，USB转接头和信号接收器也放在里面，可以根据自己的需求，增减配重，我一般不加配重，罗技G502 LIGHTSPEED内部做了极大优化，重量比有线的还轻，这次G502内在升级还是下了不少功夫的。
 
-![](https://static.is26.com/blog/2020/06/logitech/g-9.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-9.JPG)
 
 鼠标灯细节，我的老款只有蓝色，这款支持RGB，能够在系统里调节。
 
-![](https://static.is26.com/blog/2020/06/logitech/g-10.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-10.JPG)
 
 左键旁边的辅助按钮，对于办公党来说，这两个按键很实用。
 
-![](https://static.is26.com/blog/2020/06/logitech/g-18.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-18.JPG)
 
 不同于老款的金属滚轮，无线G502采用的镂空滚轮，重量稍微又轻了一点。
 
-![](https://static.is26.com/blog/2020/06/logitech/g-15.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-15.JPG)
 
 才开箱没一会，就很多灰了，鼠标前部的USB接口，接上线连上电脑就能当有线鼠标用了，也能通过有线充电。
 
-![](https://static.is26.com/blog/2020/06/logitech/g-13.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-13.JPG)
 
-![](https://static.is26.com/blog/2020/06/logitech/g-16.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-16.JPG)
 
 灯光支持多色调节，在G Hub里可以根据不同的场景，显示不同的颜色。
 
-![](https://static.is26.com/blog/2020/06/logitech/g-17.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/logitech/g-17.JPG)
 
 最后再跟我的老款G502来个合照，算是爷孙同框了（中间还有一款HERO）。
 

@@ -1,16 +1,17 @@
 ---
-title: "比特素养:信息过载时代的生产力"
-date: "2013-07-25"
-tags: 
-  - "e7949fe4baa7e58a9b"
-  - "read"
+cover: https://c2.llyz.xyz/wp-image/2013/07/dna-nano-tech-desktop-1024x640.jpg
+date: '2013-07-25'
+tags:
+- e7949fe4baa7e58a9b
+- read
+title: 比特素养:信息过载时代的生产力
 ---
 
-![dna-nano-tech-desktop](https://static.is26.com/wp-image/2013/07/dna-nano-tech-desktop-1024x640.jpg)
+![dna-nano-tech-desktop](https://c2.llyz.xyz/wp-image/2013/07/dna-nano-tech-desktop-1024x640.jpg)
 
-这几天在kindle上读了一本关于效率和生产力的小书[《比特素养:信息过载时代的生产力》](http://book.douban.com/subject/20471142/)，英文原书叫" Bit Literacy: Productivity in the Age of Information and E-mail Overload ". 花了不到一个小时读完，在这里自己整理一下，把里面的精髓分享给大家，也当成是自己的读书笔记了。
+这几天在kindle上读了一本关于效率和生产力的小书[《比特素养:信息过载时代的生产力》](https://book.douban.com/subject/20471142/)，英文原书叫" Bit Literacy: Productivity in the Age of Information and E-mail Overload ". 花了不到一个小时读完，在这里自己整理一下，把里面的精髓分享给大家，也当成是自己的读书笔记了。
 
-关于信息过载，我在过去的博文[《学会取消关注：一个微博控的退瘾路》](http://luolei.org/2013/05/learn-to-unfollow/)曾经讲过这个话题，对于现在这个碎片化信息泛滥，每个人都被微博、微信控制的社会，我们是得学会怎么处理科技、信息与生活本身的关系。 《比特素养》一书所分享的，是教导人们该怎么面对如今这个信息过载时代。
+关于信息过载，我在过去的博文[《学会取消关注：一个微博控的退瘾路》](https://luolei.org/2013/05/learn-to-unfollow/)曾经讲过这个话题，对于现在这个碎片化信息泛滥，每个人都被微博、微信控制的社会，我们是得学会怎么处理科技、信息与生活本身的关系。 《比特素养》一书所分享的，是教导人们该怎么面对如今这个信息过载时代。
 
 #### 信息过载时代：
 

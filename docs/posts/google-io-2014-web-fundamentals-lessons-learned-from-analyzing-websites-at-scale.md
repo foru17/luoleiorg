@@ -1,9 +1,10 @@
 ---
-title: "谷歌I/O 2014:移动端网页优化建议"
-date: "2014-07-04"
+cover: https://c2.llyz.xyz/wp-image/2014/07/googleio-web-lesson1.jpg
+date: '2014-07-04'
+title: 谷歌I/O 2014:移动端网页优化建议
 ---
 
-![full-img](https://static.is26.com/wp-image/2014/07/googleio-web-lesson1.jpg)
+![full-img](https://c2.llyz.xyz/wp-image/2014/07/googleio-web-lesson1.jpg)
 
 2014年，移动端已经是前端不可忽视的领域，越来越多的用户使用手机、平板来浏览网页，今年谷歌 I/O 上，谷歌工程师 Paul Kinlan做了题为 "Mobile web lessons learned from analyzing websites at scale(基于数据看移动网页前端实践优化)" 的分享。
 

@@ -1,9 +1,10 @@
 ---
-title: "Review of 2012"
-date: "2013-01-01"
+cover: https://c2.llyz.xyz/wp-image/2013/01/review-e1357051138695.jpg
+date: '2013-01-01'
+title: Review of 2012
 ---
 
-![review](https://static.is26.com/wp-image/2013/01/review-e1357051138695.jpg)
+![review](https://c2.llyz.xyz/wp-image/2013/01/review-e1357051138695.jpg)
 
 Year 2012 is about to say bye to all of us and the Year 2013 is waiting in line for the last hours.
 
@@ -63,7 +64,7 @@ To start with,i bought a tutorial book recommend by friend and started learning 
 
 I am still improving my programming skill and i got the passion in coding and learning all of these.
 
-After that,i help my friend [Chou](http://chouzejun.com) to set his own site.Then i GOT my 1st business contract for build a new site for an local company.
+After that,i help my friend [Chou](https://chouzejun.com) to set his own site.Then i GOT my 1st business contract for build a new site for an local company.
 
 During the startup time,i know some friend in IT field and got many good advice form them.
 
@@ -73,7 +74,7 @@ It's hard to face one's weakness,and during the time facing the hardness,i did d
 
 #### Blog and Personal Brand
 
-I kept on writing blog on [Luolei.org](http://luolei.org).I wrote about 40 blogs this year.The topic focus on Internet,bike travel and life.The number has fall a lot and i got lazy on blogging.
+I kept on writing blog on [Luolei.org](https://luolei.org).I wrote about 40 blogs this year.The topic focus on Internet,bike travel and life.The number has fall a lot and i got lazy on blogging.
 
 Most of my blogs were viewed by hundreds.Few by thousands.One article about social media's cheat was re-post by some famous websites and spread online.
 
@@ -83,7 +84,7 @@ I have concerned on personal brand building early and paid effort on that.Now if
 
 #### Work
 
-I have a internship in a consulting firm in July,after my joinery back.Work as the manger's assistant,helped the group in social marketing for the biggest online watch store invested by [Charles Xue](http://weibo.com/charlesxue).This short term work was invited by a friend.Aslo from this work,let me determine to be a developer.
+I have a internship in a consulting firm in July,after my joinery back.Work as the manger's assistant,helped the group in social marketing for the biggest online watch store invested by [Charles Xue](https://weibo.com/charlesxue).This short term work was invited by a friend.Aslo from this work,let me determine to be a developer.
 
 Things goes like what steven jobs' speech in stanford university.
 
@@ -99,7 +100,7 @@ Sometimes i try to image what would happened if i were single in 2012.In the beg
 
 I should thank the girl i hurted,the girl who forgive me for what i did,the girl who accompanied me at the hard time.
 
-Here,after walking through the end of world,i wannal say to my dear love [Sara](http://weibo.com/u/1870043114), **i love you**.
+Here,after walking through the end of world,i wannal say to my dear love [Sara](https://weibo.com/u/1870043114), **i love you**.
 
 #### About family
 

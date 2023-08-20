@@ -1,17 +1,18 @@
 ---
-title: "年終卷 | 2016年我读了哪些书？"
-date: "2017-02-15"
-categories: 
-  - "lifestyle"
-tags: 
-  - "read"
+categories:
+- lifestyle
+cover: https://c2.llyz.xyz/blog/2017/02/wechat-we.png
+date: '2017-02-15'
+tags:
+- read
+title: 年終卷 | 2016年我读了哪些书？
 ---
 
 2017年的进度条已经过去了五分之一，这短短的五分之一，算得上是我人生最重要的一个时间段，人生中的几件大事，就这么有点意料之外，情理之中，在这段时间里发生了。
 
 2017元旦前夕，买了一套房，背上了一笔房贷；春节假期，凑了个13天的长假，跟左左进行了一场纵横3600公里的美西自驾；大年三十那晚，洛杉矶时间1月28日晚上23点56分，在洛杉矶的圣莫妮卡海滩，掏出藏匿了一路的钻戒，向左左求婚；2月13日，发扬深圳速度精神，回了趟深圳，在南山区民政局婚姻登记处领了证，从此左左成了我的前女友，现老婆，我也就这么成了一个已婚男人。
 
-![](https://static.is26.com/blog/2017/02/wechat-we.png)
+![](https://c2.llyz.xyz/blog/2017/02/wechat-we.png)
 
 以上的种种，任何一事单独拎出来，都够我写上几篇图文并茂的文章，拍上几段视频，后续这段时间，也会抽时间和机会跟大家啰嗦一下。
 
@@ -92,13 +93,13 @@ tags:
 
 2017年，会逐渐增大内容产出（文章、视频）的频率，欢迎大家关注我的微信公众号「罗磊啰嗦」和其他其他渠道。
 
-![](https://static.is26.com/wechat.png)
+![](https://c2.llyz.xyz/wechat.png)
 
 欢迎各位点击下面的链接关注或者订阅我们，多谢:
 
-- [【优酷自频道】:左罗TV](http://i.youku.com/i/UMjQyNzQ2NTA4)
+- [【优酷自频道】:左罗TV](https://i.youku.com/i/UMjQyNzQ2NTA4)
 - [【Youtube Channel】:ZuoluoTv](https://www.youtube.com/channel/UCFCs9KNL6f2ZMKsoU7rjbkg)
-- [新浪微博:@罗罗磊磊](http://weibo.com/foru17)
-- [新浪微博:@杨杨左左](http://www.weibo.com/809033993?is_all=1)
+- [新浪微博:@罗罗磊磊](https://weibo.com/foru17)
+- [新浪微博:@杨杨左左](https://www.weibo.com/809033993?is_all=1)
 - [Instagram:@foru17](https://www.instagram.com/foru17/)
 - [Instagram:@zoelccc](https://www.instagram.com/zoelccc/)

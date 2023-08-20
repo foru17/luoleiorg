@@ -1,11 +1,12 @@
 ---
-title: "Mattew是个好干事，社联是个好组织"
-date: "2011-06-23"
-tags: 
-  - "jnu"
+cover: https://c2.llyz.xyz/wp-image/2011/06/shelian.jpg "shelian"
+date: '2011-06-23'
+tags:
+- jnu
+title: Mattew是个好干事，社联是个好组织
 ---
 
-[![](https://static.is26.com/wp-image/2011/06/shelian-300x225.jpg "shelian")](https://static.is26.com/wp-image/2011/06/shelian.jpg "shelian")
+![](https://c2.llyz.xyz/wp-image/2011/06/shelian-300x225.jpg )
 
 2011年春夏之交，我们暨南大学也爆发了一起风波。用许同志的话评论：
 
@@ -17,9 +18,9 @@ tags:
 
 今年，摄影协会由于种种原因要被撤销。关于整个事情的详情，请看下面这两篇文章：
 
-[《关于影协被灭》](http://blog.renren.com/share/246725084/7176570834)
+[《关于影协被灭》](https://blog.renren.com/share/246725084/7176570834)
 
-[《各位社长共勉】请支持社联重组机构，不希望摄影协会的今天是我们社团的明天！》](http://blog.renren.com/share/331530804/7193483326)
+[《各位社长共勉】请支持社联重组机构，不希望摄影协会的今天是我们社团的明天！》](https://blog.renren.com/share/331530804/7193483326)
 
 我感到很惊讶，要知道，新生杯、啦啦队、暨大祭、暨南之星等等等等校内活动，照片质量最高、被分享得最多的就是影协的了。没事看看他们的照片，看看暨大的美景和美女，也是一种享受。
 
@@ -27,7 +28,7 @@ tags:
 
 **Mattew是个好干事**
 
-**[![](https://static.is26.com/wp-image/2011/06/she-lian.jpg "she-lian")](https://static.is26.com/wp-image/2011/06/she-lian.jpg "she-lian")  
+**![](https://c2.llyz.xyz/wp-image/2011/06/she-lian.jpg )  
 **
 
 影协被撤在人人网和微博上引起了很大的反响，号称一场革命，革命就谈不上，暨大没有这个力量，迟早指导老师会说：”洗洗睡复习吧“。
@@ -96,9 +97,9 @@ tags:
 
 别随便就骂人傻逼，发出自己的声音，发出自己的不满，争取自己的利益是每个人的权利。
 
-欢迎在[](http://blog.guoyu.me/boycott-sau-of-jnu/)[http://blog.guoyu.me/boycott-sau-of-jnu](http://blog.guoyu.me/boycott-sau-of-jnu)/ 签名抵制社联强权
+欢迎在[](https://blog.guoyu.me/boycott-sau-of-jnu/)[https://blog.guoyu.me/boycott-sau-of-jnu](https://blog.guoyu.me/boycott-sau-of-jnu)/ 签名抵制社联强权
 
-[![](https://static.is26.com/wp-image/2011/06/vote-say-no-1024x551.jpg "vote say no")](https://static.is26.com/wp-image/2011/06/vote-say-no.jpg "vote say no")
+![](https://c2.llyz.xyz/wp-image/2011/06/vote-say-no-1024x551.jpg )
 
 ,
 

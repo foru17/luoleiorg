@@ -1,11 +1,12 @@
 ---
-title: "全球首发开箱:QQ阅读电子书・易"
-date: "2017-12-31"
-categories: 
-  - "tech"
-tags: 
-  - "kai-xiang"
-  - "digital"
+categories:
+- tech
+cover: https://c2.llyz.xyz/blog/2018/qqread/read-22.JPG
+date: '2017-12-31'
+tags:
+- kai-xiang
+- digital
+title: 全球首发开箱:QQ阅读电子书・易
 ---
 
 2017年的最后一天，微博、朋友圈流传着这么一个关于18岁的梗:
@@ -18,17 +19,17 @@ tags:
 
 大三的时候，自己购买了人生的第一部 Kindle[《Kindle paperwhite入手评测》](https://luolei.org/kindle-paper-white-review/)，这一部kindle，陪我读完了大学、陪我去了北京，又陪我来了上海。
 
-![](https://static.is26.com/wp-image/2013/08/kindle-read-1024x682.jpg)
+![](https://c2.llyz.xyz/wp-image/2013/08/kindle-read-1024x682.jpg)
 
 后来，又断断续续买了三台Kindle Paperwhite送给朋友、弟妹和老婆，2016年，我又购入了Kindle Oasis。
 
-![](https://static.is26.com/blog/2016/05/oasis/k12.JPG)
+![](https://c2.llyz.xyz/blog/2016/05/oasis/k12.JPG)
 
 某种意义上，对于Kindle我是带有感情的，这的的确确是陪伴我最长时间的电子产品了。
 
 2017年下半年，一下子忙碌许多，去了几个国家，做了不少开箱，写了不少文章，老婆的工作室也步入正轨，回望一下自己的2017年，读书的频率下降不少，Kindle也常放在包里没怎么拿出来过，大多的阅读，也是被手机给代替了。
 
-![](https://static.is26.com/blog/2017/10/A2-4.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/A2-4.jpg)
 
 年前收到一部海信的双面屏手机[《海信A2 Pro:一部给喜欢阅读的人准备的手机》](https://luolei.org/hisense-a2-pro-unboxing/)，设计精良有新意，某种程度上，是解决了在手机上阅读小说之类的需求，然而，没有背光、屏幕尺寸过小，相比Kindle还是有点遗憾。
 
@@ -38,7 +39,7 @@ tags:
 
 也许你会问，你已经有三部Kindle了，为什么还要买这台电子书。其实之所以买这部电子书，倒是因为我老婆。
 
-![](https://static.is26.com/blog/2018/qqread/r1.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/r1.JPG)
 
 我老婆是一个网文爱好者，喜欢看言情小说，每天睡觉前，都要盯着手机屏幕看小说，一年下来，居然出现了轻微的近视症状。手机、平板屏幕都是自发光，字号又小，长期近距离盯着，不瞎才怪。
 
@@ -52,7 +53,7 @@ tags:
 
 首先放「QQ阅读电子书・易」的参数。
 
-![](https://static.is26.com/blog/2018/qqread/r4.jpg)
+![](https://c2.llyz.xyz/blog/2018/qqread/r4.jpg)
 
 不同于手机、电脑，电子墨水屏阅读器这一类产品，对于硬件的要求并不高，说下我对几个参数的经验和看法:
 
@@ -68,91 +69,94 @@ tags:
 
 进入到我们的开箱环节
 
-![](https://static.is26.com/blog/2018/qqread/read-1.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-1.JPG)
 
 这一代的QQ阅读电子书，不同于上一代的黑色包装（我没有上一代），采用白蓝灰三色包装，整体十分简洁，有点逼格。
 
-![](https://static.is26.com/blog/2018/qqread/read-2.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-2.JPG)
 
 背面也只有简单的产品信息。这一代的型号是"QQ阅读电子书 CL212"。
 
-![](https://static.is26.com/blog/2018/qqread/read-5.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-5.JPG)
 
-![](https://static.is26.com/blog/2018/qqread/read-9.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-9.JPG)
 
 打开包装盒后，里面有一个电子书本身，一个说明书和保修卡，还有一个标准USB数据充电心啊，这就是盒子里的全部东西了。
 
-![](https://static.is26.com/blog/2018/qqread/read-10.JPG) ![](https://static.is26.com/blog/2018/qqread/read-12.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-10.JPG) ![](https://c2.llyz.xyz/blog/2018/qqread/read-12.JPG)
 
 QQ阅读电子书正面，跟Kindle Paperwhite 一样，正面就一块屏幕，顶部有一个电源开关，没有实体的翻页按钮，白色的机身下方有一个淡灰色的QQRead Logo，采用一体化的设计，个人还是挺喜欢这种设计的，比较低调。
 
-![](https://static.is26.com/blog/2018/qqread/read-13.JPG) ![](https://static.is26.com/blog/2018/qqread/read-18.JPG) 机身背部的QQ读书企鹅Logo，下方有简单的产品和公司信息，都是印刷在机身上面的，没有凹凸，手指摸上去不会感觉突兀。
+![](https://c2.llyz.xyz/blog/2018/qqread/read-13.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-18.JPG) 机身背部的QQ读书企鹅Logo，下方有简单的产品和公司信息，都是印刷在机身上面的，没有凹凸，手指摸上去不会感觉突兀。
 
-![](https://static.is26.com/blog/2018/qqread/read-16.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-16.JPG)
 
-![](https://static.is26.com/blog/2018/qqread/read-17.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-17.JPG)
 
 QQ阅读电子书・易采用了标准的MicroUSB接口，通过这个接口充电和传输数据，比较通用，我用Kindle这么多年，基本上不会用USB拷贝数据，基本只拿来充电。
 
-![](https://static.is26.com/blog/2018/qqread/read-19.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-19.JPG)
 
 开机后，根据提示连接到WIFI，同Kindle一样，QQ阅读电子书也是只支持搜索2.4G的网络，不支持5G网络。
 
-![](https://static.is26.com/blog/2018/qqread/read-21.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-21.JPG)
 
 QQ阅读电子书与QQ阅读、起点中文和阅文旗下的书库都打通，支持通过手机QQ和起点读书APP直接扫码登录。
 
-![](https://static.is26.com/blog/2018/qqread/read-20.JPG) ![](https://static.is26.com/blog/2018/qqread/read-22.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-20.JPG) ![](https://c2.llyz.xyz/blog/2018/qqread/read-22.JPG)
 
 登陆后，QQ阅读电子书会自动同步账号书架、书单等信息，也能同步阅读进度。
 
-![](https://static.is26.com/blog/2018/qqread/read-32.JPG) ![](https://static.is26.com/blog/2018/qqread/read-34.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-32.JPG) ![](https://c2.llyz.xyz/blog/2018/qqread/read-34.JPG)
 
 登录起点账号，也能顺利同步起点账号的信息，这一点是QQ阅读电子书最实际的一点，真正做到了一个生态，一个账号，全平台同步。
 
-![](https://static.is26.com/blog/2018/qqread/r3.jpg)
+![](https://c2.llyz.xyz/blog/2018/qqread/r3.jpg)
 
 这个是阅读旗下的一些小说网站，话说里面有五个项目我都参与了开发。
 
-![](https://static.is26.com/blog/2018/qqread/read-27.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-27.JPG)
 
 点进去书库信息，能够看到热门和推荐的书籍，同其他端一样，都支持免费试读，也支持直接加入书架。
 
-![](https://static.is26.com/blog/2018/qqread/read-24.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-24.JPG)
 
 点开《冰与火之歌》看看阅读效果，与APP端一样，排版精良，有备注的地方也可以点击直接查看备注信息。
 
-![](https://static.is26.com/blog/2018/qqread/read-44.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-44.JPG)
 
 QQ阅读电子书和KPW2都是6寸显示屏，分辨率都是1024\*758分辨率，212PPI，16级黑白灰阶，有背光、支持触摸。
 
-![](https://static.is26.com/blog/2018/qqread/read-41.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-41.JPG)
 
 相比KPW2，QQ阅读电子书的整机尺寸更加小巧，QQ阅读电子书重164.5克，跟一台iPhone6差不多重，妹纸单手拿在手上阅读毫无压力，拇指左右滑动屏幕翻页。
 
-![](https://static.is26.com/blog/2018/qqread/read-35.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-35.JPG)
 
 同我的Kindle Oasis一代对比下。Oasis更加小巧，屏幕也更加精细，达到300PPI，价格嘛，Oasis的官方售价是QQ阅读电子书的三倍，不是一个级别的产品，就仅供参考了。
 
-![](https://static.is26.com/blog/2018/qqread/read-36.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-36.JPG)
 
 再放一张跟iPad Pro的对比，小巧这东西，都是比较出来的。
 
-![](https://static.is26.com/blog/2018/qqread/read-42.JPG) ![](https://static.is26.com/blog/2018/qqread/read-40.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-42.JPG)
+
+![](https://c2.llyz.xyz/blog/2018/qqread/read-40.JPG)
 
 阅读界面，阅读页同样支持调节字号、字体、行距等。
 
-![](https://static.is26.com/blog/2018/qqread/read-45.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-45.JPG)
 
 经常在网上读小说的朋友应该都知道需要付费订阅，如果账号余额不足需要充值，一开始我还想在电子书上怎么解决充值购买的问题。实际体验发现，当你余额不足的时候，可以直接微信扫描二维码支付，十分方便。
 
-![](https://static.is26.com/blog/2018/qqread/read-28.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-28.JPG)
 
-![](https://static.is26.com/blog/2018/qqread/read-43.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-43.JPG)
 
 虽然QQ阅读电子书跟Oasis和最新的KPW3 300PPI相比还有点差距，但是视觉上的体验差别并不大。
 
-![](https://static.is26.com/blog/2018/qqread/read-38.JPG) ![](https://static.is26.com/blog/2018/qqread/read-39.JPG)
+![](https://c2.llyz.xyz/blog/2018/qqread/read-38.JPG) ![](https://c2.llyz.xyz/blog/2018/qqread/read-39.JPG)
 
 QQ阅读电子书也有官方的保护套，不知道售价会是多少，一定程度上可以保护电子书收纳在包里的时候不被异物划伤。个人建议还是买一个保护套，我的KPW的屏幕前后摔坏、磕坏了三次，所以后来我买Oasis的时候果断买了碎屏险(然后两年都没用上)。
 

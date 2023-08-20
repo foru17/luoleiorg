@@ -1,10 +1,11 @@
 ---
-title: "装修脑壳痛：家庭万兆光纤网络、智能家居"
-date: "2020-09-18"
-categories: 
-  - "lifestyle"
-tags: 
-  - "装修"
+categories:
+- lifestyle
+cover: https://c2.llyz.xyz/house/house-map-2.JPG
+date: '2020-09-18'
+tags:
+- 装修
+title: 装修脑壳痛：家庭万兆光纤网络、智能家居
 ---
 
 最近忙装修的事，各种乱七八糟真是脑壳痛。目前进度是已经给物业报建，目测装修队下周进场。布局已定，具体设计图还没定稿。
@@ -50,13 +51,13 @@ tags:
 
 ## **布局图**
 
-![](https://static.is26.com/house/house-map-2.JPG)
+![](https://c2.llyz.xyz/house/house-map-2.JPG)
 
 这是当前的房间布局图，原来是三房两厅两卫，**原弱电箱**在客餐厅入口。厨房墙打通，做成开放式吧台，一间卧室的墙打掉，用玻璃隔断，做成半开放工作间。
 
 ## **拓扑图 && 设备清单**
 
-![](https://static.is26.com/house/ap-map-4.JPG)
+![](https://c2.llyz.xyz/house/ap-map-4.JPG)
 
 ## **整体布线 && 面板**
 
@@ -85,7 +86,7 @@ tags:
 - 玄关柜里放一个主 AP
 - 工作室网口接一个副 AP，可以做 MESH 有线回程
 
-![](https://static.is26.com/house/ap-map-3.JPG) ![](https://static.is26.com/house/ap-map-1.JPG) 由于原来的厨房改开放式厨房，墙要打掉。这是我的第一个方案，这堵墙打掉后，弱电箱肯定是就近改位，入门玄关会起一排柜子，刚好可以在靠近原弱电箱位置，留一个柜子空间，专门放路由器、交换机这些设备。
+![](https://c2.llyz.xyz/house/ap-map-3.JPG) ![](https://c2.llyz.xyz/house/ap-map-1.JPG) 由于原来的厨房改开放式厨房，墙要打掉。这是我的第一个方案，这堵墙打掉后，弱电箱肯定是就近改位，入门玄关会起一排柜子，刚好可以在靠近原弱电箱位置，留一个柜子空间，专门放路由器、交换机这些设备。
 
 由于回路设计中，冰箱和弱电箱，单独设计了一个回路（不被家庭其他回路影响），这种方案，冰箱与弱电箱回路近，走电也相对容易。
 
@@ -93,7 +94,7 @@ tags:
 
 ## **方案 B**
 
-![](https://static.is26.com/house/ap-map-2.JPG)
+![](https://c2.llyz.xyz/house/ap-map-2.JPG)
 
 - 移除原来的弱电箱（可以不用买那个大的弱电箱了），原光纤重接直连工作室机柜
 - 工作室放一个主 AP

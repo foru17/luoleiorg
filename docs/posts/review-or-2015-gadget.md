@@ -1,12 +1,13 @@
 ---
-title: "Review of 2015:剁手篇"
-date: "2016-01-15"
-tags: 
-  - "digital"
-  - "e7a1ace4bbb6"
+cover: https://c2.llyz.xyz/blog/2016/01/buy/cover.jpg
+date: '2016-01-15'
+tags:
+- digital
+- e7a1ace4bbb6
+title: Review of 2015:剁手篇
 ---
 
-![cover](https://static.is26.com/blog/2016/01/buy/cover.jpg)
+![cover](https://c2.llyz.xyz/blog/2016/01/buy/cover.jpg)
 
 这两周，各种APP、在线服务的年度回顾、年度账单、年度行程balabala也依照用户过去一年的数据出来了。
 
@@ -17,23 +18,23 @@ tags:
 #### 一.外设
 
 1.HHKB PRO2  
-![full-img](https://static.is26.com/blog/2016/01/buy/hhkb1.JPG)
+![full-img](https://c2.llyz.xyz/blog/2016/01/buy/hhkb1.JPG)
 
 女朋友送的周年礼物，使用了两个月，HHKB被称作键盘退烧神器，将近一千五百元的售价，的确算是很贵，但是对于长期使用键盘的程序员和文字工作者来说（尤其是对于作为两者结合体的我），带来的打字手感和操作效率的提升（我习惯VIM），应该还是属于性价比很高的产品。
 
-![full-img](https://static.is26.com/blog/2016/01/buy/hhkb2.JPG)
+![full-img](https://c2.llyz.xyz/blog/2016/01/buy/hhkb2.JPG)
 
 2.Wacom INTUOS Pro
 
-![full-img](https://static.is26.com/blog/2016/01/buy/b9.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/01/buy/b9.jpg)
 
 影拓手绘板，买来送给妹纸的回礼，我们公司配的也是这款，影拓是手绘板专业的品牌，INTUOS pro是影拓能买到的不带显示屏系列中最贵的了。
 
-![full-img](https://static.is26.com/blog/2016/01/buy/b10.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/01/buy/b10.jpg)
 
 3.罗技G502、罗技G602
 
-![full-img](https://static.is26.com/blog/2016/01/buy/mouse.JPG)
+![full-img](https://c2.llyz.xyz/blog/2016/01/buy/mouse.JPG)
 
 双十一之前半个月，以优惠价269买了国行罗技G502（右边有线那个），自带编程，七八个按键可以设置常用的命令，配合Mac还是挺方便的，后来入职阅文之后，想着还得配一个鼠标，又以249的优惠价买了一个罗技G602（左边无线）。
 
@@ -41,13 +42,13 @@ G502的滚轮可以在卡尺和无阻尼状态切换，无阻尼状态下，长�
 
 4.Ergomax Commander人体工程学椅子
 
-![full-img](https://static.is26.com/blog/2015/10/desk1.JPG)
+![full-img](https://c2.llyz.xyz/blog/2015/10/desk1.JPG)
 
-椅子是通过Chiphell优惠购买的[Ergomax Commander](http://www.chiphell.com/thread-1164359-1-1.html)，双背面，扶手可调，带头靠，这几个月使用下来，在家工作上网的时候，明显还是要舒服很多，人体工程学算是大件外设了，建议有固定住所的人配一个，要不搬家起来特别麻烦，组装之前30公斤，不管是拆还是装，都废功夫。
+椅子是通过Chiphell优惠购买的[Ergomax Commander](https://www.chiphell.com/thread-1164359-1-1.html)，双背面，扶手可调，带头靠，这几个月使用下来，在家工作上网的时候，明显还是要舒服很多，人体工程学算是大件外设了，建议有固定住所的人配一个，要不搬家起来特别麻烦，组装之前30公斤，不管是拆还是装，都废功夫。
 
 5.木桌
 
-![full-img](https://static.is26.com/blog/2016/01/buy/desk.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/01/buy/desk.jpg)
 
 在家里布置了一个1米6\*70厘米的木桌，详情可以参考我之前写的[每个程序员都应该有张木桌](https://luolei.org/desk-setup-2015/)。
 
@@ -74,17 +75,17 @@ G502的滚轮可以在卡尺和无阻尼状态切换，无阻尼状态下，长�
 
 1.1 富图宝 X4I-E便携三脚架
 
-![full-img](https://static.is26.com/blog/2016/01/buy/sjj.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/01/buy/sjj.jpg)
 
 上面这张图是旗舰店淘宝店铺的，580元，1.16KG，伸缩支架，出去旅游的时候也算是合影神器了，不重，可以随时挂在手上。
 
-![full-img](https://static.is26.com/blog/2016/01/buy/sj2.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/01/buy/sj2.jpg)
 
 我同妹纸出去旅游的手，常常直接这么把理光GR固定在云台上，上面卡扣可以随时连着相机一起拆下。
 
 2.小蚁运动相机
 
-![full-img](https://static.is26.com/blog/2015/04/YI9.JPG)
+![full-img](https://c2.llyz.xyz/blog/2015/04/YI9.JPG)
 
 人民币399，相比Gopro而言，以1/4甚至1/5不到的价格，达到80%甚至90%的效果（极限运动场景下差距不小），算是性价比很高的旅游神器。2015年也在小蚁公司工作了将近半年，虽然已经离职了，但是总的来说，还是推荐下产品。
 
@@ -92,7 +93,7 @@ G502的滚轮可以在卡尺和无阻尼状态切换，无阻尼状态下，长�
 
 3.魅蓝
 
-![full-img](https://static.is26.com/blog/2016/01/buy/meizu.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/01/buy/meizu.jpg)
 
 原来用的是魅族的魅蓝Note，后来嫌太大了，根本用不上，就又卖了，再后来，发现没个Android手机，还是挺不方便的，后来刚好又办移动的宽带，就又买了一个魅蓝新出的魅蓝，5寸手感刚好，720P对于我这种对手机屏幕无爱的用户来说，也完全够用了。双卡双待，现在放我的联通+移动卡当电话机，iPhone6就用电信卡当上网机了（每个月3G流量根本用不完）。
 
@@ -100,13 +101,13 @@ G502的滚轮可以在卡尺和无阻尼状态切换，无阻尼状态下，长�
 
 4.Bose SoundLink Mini
 
-![full-img](https://static.is26.com/blog/2016/01/buy/bose.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/01/buy/bose.jpg)
 
 BOSE出品的经典小钢炮，算得上是音质最好的是蓝牙音响了，买的时候1200多，偶尔拿来连手机、iPad放音乐，也会通过蓝牙连电脑外放。怎么说呢，用了这个之后，其他外放音响真的算是渣了，偶尔在家听听交响乐什么的，还是挺幸福的。
 
 5.网件r6300v2
 
-![full-img](https://static.is26.com/blog/2016/01/buy/b13.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/01/buy/b13.jpg)
 
 双十一的时候京东特价469买的，家里装了电信100MB的宽带，加上家里无线设备多，也有NAS需求，经常要在设备之间传输，r6300v2算是直接解决了无线的瓶颈，无线传输基本都是稳定在20Mb/s的速度之上，看1080P什么的自然没有问题了，再也不卡顿了。另外刷了梅林固件，配合SS全局翻墙，现在家里也是无痛上网了。
 
@@ -114,13 +115,13 @@ BOSE出品的经典小钢炮，算得上是音质最好的是蓝牙音响了，�
 
 6.Chromecast 2.0
 
-![full-img](https://static.is26.com/blog/2015/11/chromecast/4.JPG)
+![full-img](https://c2.llyz.xyz/blog/2015/11/chromecast/4.JPG)
 
 具体可以参考我的评测[目测这是第一个在大陆的谷歌Chromecast评测](https://luolei.org/chromecast-2-unboxing-and-review/)。
 
 7.索尼EX650AP入耳耳机
 
-![full-img](https://static.is26.com/blog/2016/01/buy/sony.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/01/buy/sony.jpg)
 
 国行，带线控，给iPhone听歌用，感觉还不错，11月的时候线损坏，直接去上海索尼售后换了一根新的。
 
@@ -128,7 +129,7 @@ BOSE出品的经典小钢炮，算得上是音质最好的是蓝牙音响了，�
 
 1.乐视 S50 Air 智能电视
 
-![full-img](https://static.is26.com/blog/2015/11/chromecast/s4.JPG)
+![full-img](https://c2.llyz.xyz/blog/2015/11/chromecast/s4.JPG)
 
 1080p售价，50寸的电视放到客厅之后，客厅立马还是好玩了很多，回到家的娱乐活动还是丰富了不少，电视剧、电影、视频网站的订阅。
 
@@ -138,7 +139,7 @@ BOSE出品的经典小钢炮，算得上是音质最好的是蓝牙音响了，�
 
 3.世特力（Century）裸族CSS25U3BK6G-7MM移动硬盘盒 + 饥饿鲨(OCZ) Arc 100苍穹系列 240G 固态硬盘
 
-![full-img](https://static.is26.com/blog/2015/11/ssd/show.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/11/ssd/show.jpg)
 
 给公司iMac配的SSD+USB3.0硬盘组合，具体可以参考我的博客[iMac 2015 5K 版外接 USB3.0 硬盘盒+SSD 系统加速体验](https://luolei.org/imac-5k-external-usb-ssd-update/)。
 
@@ -156,11 +157,11 @@ BOSE出品的经典小钢炮，算得上是音质最好的是蓝牙音响了，�
 
 6.猫+小花园
 
-![full-img](https://static.is26.com/blog/2016/01/buy/cat.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/01/buy/cat.jpg)
 
 秋天的时候，想着阳台太冷清了，在周末去家旁边的花鸟市场买了一些花草，自己手工做了一个木的吊架，阳台一下子变得生机勃勃和充满生命力。
 
-![full-img](https://static.is26.com/blog/2016/01/buy/cats.jpg)
+![full-img](https://c2.llyz.xyz/blog/2016/01/buy/cats.jpg)
 
 今年先后领养了三只猫，家里也是热闹不少，灰白相间的这只叫卢卢，另外一只叫UBer，分别是妹纸从同事家领养和宠物医院领过来的，养了半年，现在倒也变胖了不少，卢卢11月底的时候做了绝育手术，卢卢比较粘人讨人喜欢，Uber就属于那种调皮惹人烦的了，每个月几只猫都得吃上好几袋猫粮，每个月也得买好几袋的猫砂，也算是一个固定花销了。
 

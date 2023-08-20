@@ -1,18 +1,19 @@
 ---
-title: "我在阿里巴巴花45元买了一个山寨 Peak Design 快挂 | ZUOLUOTV"
-date: "2018-12-23"
-categories: 
-  - "zuoluotv"
-tags: 
-  - "zuoluotv"
-  - "kai-xiang"
+categories:
+- zuoluotv
+cover: https://c2.llyz.xyz/blog/2018/12/clip/p-1.jpg
+date: '2018-12-23'
+tags:
+- zuoluotv
+- kai-xiang
+title: 我在阿里巴巴花45元买了一个山寨 Peak Design 快挂 | ZUOLUOTV
 ---
 
-![cover](https://static.is26.com/blog/2018/12/clip/p-1.jpg)
+![cover](https://c2.llyz.xyz/blog/2018/12/clip/p-1.jpg)
 
 #### 视频
 
-- [Bilibili: 我在阿里巴巴花45元买了一个山寨 Peak Design 快挂 | ZUOLUOTV | VLOG24](http://space.bilibili.com/7388950?) : 推荐大陆用户观看。
+- [Bilibili: 我在阿里巴巴花45元买了一个山寨 Peak Design 快挂 | ZUOLUOTV | VLOG24](https://space.bilibili.com/7388950?) : 推荐大陆用户观看。
 - [YOUTUBE:45元买了一个山寨巅峰设计快挂 | $6 Peak Design Capture Clip Clone| ZUOLUOTV | VLOG24](https://www.youtube.com/watch?v=Rb2l4e-jEXI) : 推荐海外用户观看
 
 #### 购买地址

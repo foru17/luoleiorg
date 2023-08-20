@@ -1,14 +1,15 @@
 ---
-title: "我的相机和镜头:2018年装备清单 | ZUOLUOTV | VLOG13"
-date: "2018-07-22"
-categories: 
-  - "zuoluotv"
-tags: 
-  - "vlog"
-  - "zuoluotv"
+categories:
+- zuoluotv
+cover: https://c2.llyz.xyz/vlog/vlog13.jpg
+date: '2018-07-22'
+tags:
+- vlog
+- zuoluotv
+title: 我的相机和镜头:2018年装备清单 | ZUOLUOTV | VLOG13
 ---
 
-![cover](https://static.is26.com/vlog/vlog13.jpg)
+![cover](https://c2.llyz.xyz/vlog/vlog13.jpg)
 
 #### 视频
 

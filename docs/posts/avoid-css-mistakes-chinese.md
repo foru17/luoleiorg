@@ -1,21 +1,22 @@
 ---
-title: "前端开发应该避免的10大 CSS 糟糕用法"
-date: "2013-11-11"
-categories: 
-  - "code"
-tags: 
-  - "develop"
+categories:
+- code
+cover: https://c2.llyz.xyz/wp-image/2013/11/css-specifity-1.png
+date: '2013-11-11'
+tags:
+- develop
+title: 前端开发应该避免的10大 CSS 糟糕用法
 ---
 
-今天在回广州的火车上看到一篇["10 CSS mistakes every web designer must avoid"](http://www.creativebloq.com/css3/avoid-css-mistakes-10135080)，想着还不错，就翻译给大家。
+今天在回广州的火车上看到一篇["10 CSS mistakes every web designer must avoid"](https://www.creativebloq.com/css3/avoid-css-mistakes-10135080)，想着还不错，就翻译给大家。
 
-对于网页重构来说，[CSS禅意花园](http://www.csszengarden.com/tr/chinese/) 是网页布局从 table 表格转到了 html +css 的标志 。这些年来，随着我们的网站越来越复杂：html5，css3，新的技术、新的属性，越来越多的开发者开始思考和尝试提高他们的 CSS 技能。那么我们从哪里着手呢？对于网页重构工作来说，我们应该养成什么样的开发习惯？一个糟糕的 css 用法是怎样的？我们应该怎么处理这些糟糕的 css。今天这篇文章，我将谈一谈10个我们应该避免的 css 糟糕用法，当然，我们也会分享怎么才是正确的用法。
+对于网页重构来说，[CSS禅意花园](https://www.csszengarden.com/tr/chinese/) 是网页布局从 table 表格转到了 html +css 的标志 。这些年来，随着我们的网站越来越复杂：html5，css3，新的技术、新的属性，越来越多的开发者开始思考和尝试提高他们的 CSS 技能。那么我们从哪里着手呢？对于网页重构工作来说，我们应该养成什么样的开发习惯？一个糟糕的 css 用法是怎样的？我们应该怎么处理这些糟糕的 css。今天这篇文章，我将谈一谈10个我们应该避免的 css 糟糕用法，当然，我们也会分享怎么才是正确的用法。
 
 为了方便大家理解，我将这10个糟糕用法归为三大类：权重、工作流、自以为是。
 
 #### 权重！权重！！权重！！！
 
-正所谓[马太效应](http://zh.wikipedia.org/wiki/%E9%A9%AC%E5%A4%AA%E6%95%88%E5%BA%94)，如果你写了很烂的 css，这段烂代码的不好之处是他会导致更多和更烂的代码。如果你需要解决一个 css bug，发现唯一的解决方法是：使用更多层级的选择器、 id 选择器；甚至跟糟糕：使用内联样式( inline-style )，直到使用最后的大杀器`!important`。以上提到的所有用法归根到期他们犯了「过多权重」的错误。
+正所谓[马太效应](https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%A4%AA%E6%95%88%E5%BA%94)，如果你写了很烂的 css，这段烂代码的不好之处是他会导致更多和更烂的代码。如果你需要解决一个 css bug，发现唯一的解决方法是：使用更多层级的选择器、 id 选择器；甚至跟糟糕：使用内联样式( inline-style )，直到使用最后的大杀器`!important`。以上提到的所有用法归根到期他们犯了「过多权重」的错误。
 
 CSS 中的权重取决于你如何使用具体的css 规则。
 
@@ -39,7 +40,7 @@ a{ colour: blue}
 <a href="#" id="my-link" class="my-link">举个栗子</a>
 ```
 
-![](https://static.is26.com/wp-image/2013/11/css-specifity-1.png)
+![](https://c2.llyz.xyz/wp-image/2013/11/css-specifity-1.png)
 
 最终的颜色会是红色，因为 id 属性是三者之中权重最高的（id在网页中只能使用一次，他得权重值为100），所以红色葫芦娃成功击败了其他娃娃，举起了栗子。
 
@@ -63,7 +64,7 @@ a{ colour: blue}
 #header .special-link { border: none }
 ```
 
-![](https://static.is26.com/wp-image/2013/11/css-specifity-2.png)
+![](https://c2.llyz.xyz/wp-image/2013/11/css-specifity-2.png)
 
 假如说这种情景在我们的 code 过程中不断地出现：设置 header 区域另外一个特殊的超链接 link 为某特殊的样式，你该怎么处理呢？ id 的高权重特性意味着滥用 id 绝对是一个很糟的做法！
 
@@ -87,7 +88,7 @@ a{ colour: blue}
 
 下面举例怎么解决内联样式的问题，就两步 1.复制删除 2.粘贴 。剔除内联样式，转移到样式表之中吧。
 
-![](https://static.is26.com/wp-image/2013/11/css-specifity-3.jpg)
+![](https://c2.llyz.xyz/wp-image/2013/11/css-specifity-3.jpg)
 
 ###### 04.从上至下式的粗放命名
 
@@ -117,7 +118,7 @@ a{ colour: blue}
 <h3> class="some-title pop">我的标题</h3>
 ```
 
-这个有点**[面向对象的CSS](http://www.qianduan.net/object-oriented-css.html)**的思想在里面，使用 Sass 中的 `@extend` 特性可以很好地解决我们这个问题。
+这个有点**[面向对象的CSS](https://www.qianduan.net/object-oriented-css.html)**的思想在里面，使用 Sass 中的 `@extend` 特性可以很好地解决我们这个问题。
 
 在 Sass 之中，你可以使用@extend 继承选择器，被继承的选择器的样式也被继承。这个特性使得我们可以很方便管理不同的样式，举个栗子：
 
@@ -137,13 +138,13 @@ a{ colour: blue}
 
 ###### 06.精简你的单位
 
-如果你的样式表中混杂着 `px`,`em`,`rem`等等单位，是时候改变了，业内著名的web开发者[Rachel Nabors](http://rachelnabors.com/) 呼吁大家统一使用`em`为字体大小单位，他曾说「我看其他人的样式表第一件事就是看字体样式，然后把所有的`font-size`的单位换成`em`」，这几年用户使用的终端越来越多样（不同的终端、不同的浏览器使用的默认字体大小存在差异），使用绝对字体大小`px`变得越来越不可控，使用`em`等相对大小的字体则避免了这个问题。
+如果你的样式表中混杂着 `px`,`em`,`rem`等等单位，是时候改变了，业内著名的web开发者[Rachel Nabors](https://rachelnabors.com/) 呼吁大家统一使用`em`为字体大小单位，他曾说「我看其他人的样式表第一件事就是看字体样式，然后把所有的`font-size`的单位换成`em`」，这几年用户使用的终端越来越多样（不同的终端、不同的浏览器使用的默认字体大小存在差异），使用绝对字体大小`px`变得越来越不可控，使用`em`等相对大小的字体则避免了这个问题。
 
-如果你想在转成`em`对这些单位有个深入点的了解，推荐你阅读[《CSS文字大小单位PX、EM、PT》](http://www.1z1b.com/one-blog-a-week/px-em-pt/)。
+如果你想在转成`em`对这些单位有个深入点的了解，推荐你阅读[《CSS文字大小单位PX、EM、PT》](https://www.1z1b.com/one-blog-a-week/px-em-pt/)。
 
-当然，如果你就是不喜欢`em`和他们嵌套特性，那么你可以更进一步了解 CSS3 中推出的新单位 [rem](http://www.w3cplus.com/css3/define-font-size-with-css3-rem)。
+当然，如果你就是不喜欢`em`和他们嵌套特性，那么你可以更进一步了解 CSS3 中推出的新单位 [rem](https://www.w3cplus.com/css3/define-font-size-with-css3-rem)。
 
-不同单位在 web 设计之中的战争还在继续（可参考文章[CSS Font-Size: em vs. px vs. pt vs. percent](http://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs/) ），学习一点相关知识对我们提高代码可维护性至关重要。
+不同单位在 web 设计之中的战争还在继续（可参考文章[CSS Font-Size: em vs. px vs. pt vs. percent](https://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs/) ），学习一点相关知识对我们提高代码可维护性至关重要。
 
 下面我们进入到这篇博文的第三也是最后一个部分「自以为是」，这些坏习惯包括：增加不必要的东西，错误，无意义的 css。
 
@@ -151,11 +152,11 @@ a{ colour: blue}
 
 在开发的过程中，如果你不需要使用 css3 之类的高大上代码就能实现效果，那再好不过了。可是，作为工程师的你在 Chrome 最新版本上面看到的效果，并不意味着你的用户能在他们的浏览器上看到同样的效果（考虑过 IE 的感受没有），一个十分糟糕的坏习惯就是完全忽略向下兼容性。
 
-如果你在项目中使用`rgba()`，你是否测试过这个属性的兼容性？如果没有，那你最好祈祷没有 IE8的用户会访问你的网站。你是否写全了针对不同浏览器的不同的规则（-webkit,-ms -moz 等等）？解决这个问题，可以使用 [CSS LInt](http://csslint.net/)检测下你的 css 代码，CSS Lint的检测规则包括错误的和不合理的地方。
+如果你在项目中使用`rgba()`，你是否测试过这个属性的兼容性？如果没有，那你最好祈祷没有 IE8的用户会访问你的网站。你是否写全了针对不同浏览器的不同的规则（-webkit,-ms -moz 等等）？解决这个问题，可以使用 [CSS LInt](https://csslint.net/)检测下你的 css 代码，CSS Lint的检测规则包括错误的和不合理的地方。
 
 ###### 08.(没有意义)不起作用的样式
 
-Harry Roberts的[Code smells in CSS](http://csswizardry.com/2012/11/code-smells-in-css/)是关于 css 糟糕用法的经典文章。他举了几个可有可无的不起作用样式的栗子：
+Harry Roberts的[Code smells in CSS](https://csswizardry.com/2012/11/code-smells-in-css/)是关于 css 糟糕用法的经典文章。他举了几个可有可无的不起作用样式的栗子：
 
 ```css
 h2{
@@ -185,9 +186,9 @@ border-bottom:1px solid #ccc;
 
 如果你像重构之前的那样写法，`h2`是一个我们在web 设计中会不断重复用到的元素，这个本质上「你写了更多的代码却没有实现了更少的样式效果」，如果我们接下来又要设置一个`h2`的属性为其他样式，那代码会得很乱。
 
-![](http://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/2013/10/net245featcss/05.jpg)
+![](https://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/2013/10/net245featcss/05.jpg)
 
-Harry Roberts是 [inuit.css](http://inuitcss.com/) 框架的作者。
+Harry Roberts是 [inuit.css](https://inuitcss.com/) 框架的作者。
 
 ###### 09.巧而不巧:用 Hack 不意味着你是个好 Hacker
 
@@ -205,7 +206,7 @@ Harry Roberts是 [inuit.css](http://inuitcss.com/) 框架的作者。
 
 写文档和注释绝对不是一个有意思的事情，但却是一个最重要的事情（尤其是涉及到项目后续可维护性时），文档可以有效地让其他人知道你的代码是干什么的，同时其他人理解你的 css。对于大部分语言（html,css,php,JavaScript） ，开发者可以直接在代码文件中写上注释（文档）。
 
-[Nabors](http://rachelnabors.com/) 曾说「我曾YY：如果我今天写完一个项目的 css 但是明儿我却挂掉了，有一个人幸运地接手我这个项目，那他看得懂我的这些代码是什么意思吗？」。尽量地让我们的样式表中的结构清晰，如果不能让人立马知道你的选择器指的是哪里的样式，可以尝试添加注释（什么！你还说注释增加css 文件大小！难道你不知道压缩工具么！）。
+[Nabors](https://rachelnabors.com/) 曾说「我曾YY：如果我今天写完一个项目的 css 但是明儿我却挂掉了，有一个人幸运地接手我这个项目，那他看得懂我的这些代码是什么意思吗？」。尽量地让我们的样式表中的结构清晰，如果不能让人立马知道你的选择器指的是哪里的样式，可以尝试添加注释（什么！你还说注释增加css 文件大小！难道你不知道压缩工具么！）。
 
 第一步是在必须的地方做好注释，第二步是使用工具把css文件中的这些注释转换成一个合适的文档。推荐可以使用[css\_doc](https://github.com/tkadauke/css_doc)和[KSS](https://github.com/kneath/kss)。
 

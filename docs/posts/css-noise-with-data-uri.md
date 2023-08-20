@@ -1,17 +1,18 @@
 ---
-title: "使用CSS和DataURI来添加杂色滤镜效果"
-date: "2013-08-18"
-tags: 
-  - "develop"
+cover: https://c2.llyz.xyz/wp-image/2013/08/css-noise.png
+date: '2013-08-18'
+tags:
+- develop
+title: 使用CSS和DataURI来添加杂色滤镜效果
 ---
 
-![css-noise](https://static.is26.com/wp-image/2013/08/css-noise.png)
+![css-noise](https://c2.llyz.xyz/wp-image/2013/08/css-noise.png)
 
 前几天在codewall上看到一篇["CSS Background Noise"](https://coderwall.com/p/m-uwvg)的文章，用css+DataURI来实现给html元素添加杂色效果，可以在不增加http请求的情况下，实现不错的杂色效果。自己跟着实践了一下，在这里也就按照原文的步骤，自己翻译加整理实践，分享给大家。
 
-首先放Demo ，图文无关，仅仅是演示而已，css源码请参考 [CSS Code SNIPPET](http://www.mightymeta.co.uk/resources/css-noise.css) .
+首先放Demo ，图文无关，仅仅是演示而已，css源码请参考 [CSS Code SNIPPET](https://www.mightymeta.co.uk/resources/css-noise.css) .
 
-<iframe width="100%" height="300" src="http://jsfiddle.net/foru17/yDjpA/10/embedded/result,html,css" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="https://jsfiddle.net/foru17/yDjpA/10/embedded/result,html,css" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 #### 如何使用它？
 
@@ -39,47 +40,47 @@ tags:
 
 1.photoshop
 
-![data-noise-1](https://static.is26.com/wp-image/2014/04/data-noise-1.png)
+![data-noise-1](https://c2.llyz.xyz/wp-image/2014/04/data-noise-1.png)
 
 创建一个50px\*50px的画布（根据作者实践，发现其他大于50px的图片都会导致最终URI过大导致优势不那么明显）。
 
 2.创建一个新的图层，使用50%灰色填充（编辑>填充）。
 
-![data-noise-2](https://static.is26.com/wp-image/2013/08/data-noise-2.png)
+![data-noise-2](https://c2.llyz.xyz/wp-image/2013/08/data-noise-2.png)
 
 3.应用杂色滤镜（滤镜>杂色>添加杂色），数量区间5~6%为佳。
 
-![data-noise-3](https://static.is26.com/wp-image/2013/08/data-noise-3.png)
+![data-noise-3](https://c2.llyz.xyz/wp-image/2013/08/data-noise-3.png)
 
 4.增加杂色对比度，可以通过添加一个图层模板，调整亮度对比度.
 
-![data-noise-4](https://static.is26.com/wp-image/2013/08/data-noise-4.jpg)
+![data-noise-4](https://c2.llyz.xyz/wp-image/2013/08/data-noise-4.jpg)
 
 5.降低杂色层的透明度（可以通过把已经有的两个图层加入一个新组，然后降低组的透明度值）
 
-![data-noise-5](https://static.is26.com/wp-image/2013/08/data-noise-5.jpg)
+![data-noise-5](https://c2.llyz.xyz/wp-image/2013/08/data-noise-5.jpg)
 
-7.保存输出为PNG-24格式，对于图片格式的相关知识，建议大家可以阅读一下一淘的[《PNG的秘密—— 一淘前端分享会》](http://www.iyunlu.com/view/Front-end/60.html)。
+7.保存输出为PNG-24格式，对于图片格式的相关知识，建议大家可以阅读一下一淘的[《PNG的秘密—— 一淘前端分享会》](https://www.iyunlu.com/view/Front-end/60.html)。
 
-![data-noise-6](https://static.is26.com/wp-image/2013/08/data-noise-6.png)
+![data-noise-6](https://c2.llyz.xyz/wp-image/2013/08/data-noise-6.png)
 
 ##### 二.优化png图片
 
 最终我们生成的png文件大概有8kb的大小，对于前端工程师来说，节省每一kb文件大小都是有意义的，我使用的是 mac 上的 ImageOptim 这个软件，通过优化压缩，最后我们获得了一个4kb大小的文件。
 
-![data-noise-7out](https://static.is26.com/wp-image/2013/08/data-noise-7out.png)
+![data-noise-7out](https://c2.llyz.xyz/wp-image/2013/08/data-noise-7out.png)
 
 ##### 三.将图片转换成Data URI
 
-在这里，我们使用了一个在线的转换服务["dopiaza.org"](http://dopiaza.org/tools/datauri/index.php),上传文件，转换。
+在这里，我们使用了一个在线的转换服务["dopiaza.org"](https://dopiaza.org/tools/datauri/index.php),上传文件，转换。
 
-![data-noise-8](https://static.is26.com/wp-image/2013/08/data-noise-8.png)
+![data-noise-8](https://c2.llyz.xyz/wp-image/2013/08/data-noise-8.png)
 
 ##### 四.比较一下data URI和原图像的大小
 
-![data-noise-9](https://static.is26.com/wp-image/2013/08/data-noise-9.jpg)
+![data-noise-9](https://c2.llyz.xyz/wp-image/2013/08/data-noise-9.jpg)
 
-这时候，别高兴得太早，再确认一下，看看生成出来的data URI的字符大小有多少，在这里推荐使用["bytesizematters"](http://bytesizematters.com/)在线查看文本大小，如果字符大小比原来的png图片大小还大，那优化就得不偿失。经过比较，我们发现dataURI进一步压缩到了2.05kb。
+这时候，别高兴得太早，再确认一下，看看生成出来的data URI的字符大小有多少，在这里推荐使用["bytesizematters"](https://bytesizematters.com/)在线查看文本大小，如果字符大小比原来的png图片大小还大，那优化就得不偿失。经过比较，我们发现dataURI进一步压缩到了2.05kb。
 
 ####  浏览器支持
 

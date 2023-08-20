@@ -1,12 +1,13 @@
 ---
-title: "泰国 | 曼谷军事基地 | 体验军用枪械实弹射击"
-date: "2016-12-11"
-categories: 
-  - "travel"
-tags: 
-  - "travel"
-  - "man-gu"
-  - "tai-guo"
+categories:
+- travel
+cover: https://c2.llyz.xyz/blog/2016/11/shoot/shoot-28.jpg
+date: '2016-12-11'
+tags:
+- travel
+- man-gu
+- tai-guo
+title: 泰国 | 曼谷军事基地 | 体验军用枪械实弹射击
 ---
 
 十一月，原本计划去曼谷参加「渣打曼谷马拉松」，由于泰皇驾崩，国丧期马拉松取消，机票退了心疼，干脆过去度了个三天的小假。
@@ -17,11 +18,11 @@ tags:
 
 #### 射击场信息
 
-![](https://static.is26.com/blog/2016/11/shoot/logo.jpg)
+![](https://c2.llyz.xyz/blog/2016/11/shoot/logo.jpg)
 
 这一次我们体验的射击场叫 Bangkok Military Shooting ，日本人开的，位于曼谷城区日本人聚集区 Thaniya Palaze，已经有16年历史。
 
-![](https://static.is26.com/blog/2016/11/shoot/map.jpg?ver=1)
+![](https://c2.llyz.xyz/blog/2016/11/shoot/map.jpg?ver=1)
 
 射击场的官方网站地址是 [bangkokshooting.com](https://bangkokshooting.com/) ，网页提供日中英三语，虽然接待的大多是日本游客，但是老板英语特别好，沟通无障碍。
 
@@ -32,77 +33,77 @@ tags:
 - 基础套餐3000泰铢（约580元人民币），可打50发手枪子弹，需在办公室交付，刷信用卡需要额外5%手续费；在射击场若需要体验其他枪械套餐，只能在场现金支付，套餐价格从1400泰铢到2300泰铢不等。
 - 至少一人带护照登记。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-0.jpg) 我和杨左提前一天到店预约，老板说妹纸的装扮不合适，当天就没办法体验啦。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-0.jpg) 我和杨左提前一天到店预约，老板说妹纸的装扮不合适，当天就没办法体验啦。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-1.jpg) Thaniya Palaze 这一代有许多日餐，价格比上海便宜点。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-1.jpg) Thaniya Palaze 这一代有许多日餐，价格比上海便宜点。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-2.jpg) 射击那天，先在店里缴纳费用，签署了一份合同（不是免责合同），老板检查了我们的护照后，开始给我们和另外一位同行的日本人，讲解基础的枪械知识。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-2.jpg) 射击那天，先在店里缴纳费用，签署了一份合同（不是免责合同），老板检查了我们的护照后，开始给我们和另外一位同行的日本人，讲解基础的枪械知识。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-6.jpg) 杨左不认真听课，在玩枪模。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-6.jpg) 杨左不认真听课，在玩枪模。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-3.jpg) ![](https://static.is26.com/blog/2016/11/shoot/shoot-4.jpg) ![](https://static.is26.com/blog/2016/11/shoot/shoot-5.jpg) 店铺里墙上贴有各种枪的照片，也有一些射击场的照片，电视机好有年代感。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-3.jpg) ![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-4.jpg) ![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-5.jpg) 店铺里墙上贴有各种枪的照片，也有一些射击场的照片，电视机好有年代感。
 
 培训完毕后，另外一位工作人员接我们去军事基地。曼谷的交通是出了名的拥堵。由于这一天是周日，加上我们走的是高速，从市区到军事基地倒也挺快，差不多20分钟就到了。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-7.jpg) 工作人员再三强调，进入射击场前不允许拍照，这一路就安分地坐着了，见到了军事基地里的坦克和装甲车，基地还挺大的，奔驰直接送我们到射击场门口。前面有三四个日本游客刚体验完，正在摆拍合影。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-7.jpg) 工作人员再三强调，进入射击场前不允许拍照，这一路就安分地坐着了，见到了军事基地里的坦克和装甲车，基地还挺大的，奔驰直接送我们到射击场门口。前面有三四个日本游客刚体验完，正在摆拍合影。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-8.jpg) 桌上摆着今天我们可以体验的全部枪械。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-8.jpg) 桌上摆着今天我们可以体验的全部枪械。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-9.jpg) 激动，军用M16，还带瞄准镜。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-9.jpg) 激动，军用M16，还带瞄准镜。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-10.jpg) 玩战地和COD这么多年，第一次见到真正的军用枪，小心脏扑通扑通直跳，简直太激动了。这枪械的做工，钢材的质感，这拿在手上的份量，太感动了。真的是圆梦了。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-10.jpg) 玩战地和COD这么多年，第一次见到真正的军用枪，小心脏扑通扑通直跳，简直太激动了。这枪械的做工，钢材的质感，这拿在手上的份量，太感动了。真的是圆梦了。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-13.jpg) ![](https://static.is26.com/blog/2016/11/shoot/shoot-14.jpg) 射击场不大，有10多个射击位，人不多，这一场只有我们三人。在场还有三位士兵，这三位士兵就是今天负责指导我们射击的（也是监督我们）人。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-13.jpg) ![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-14.jpg) 射击场不大，有10多个射击位，人不多，这一场只有我们三人。在场还有三位士兵，这三位士兵就是今天负责指导我们射击的（也是监督我们）人。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-17.jpg) 拿起一把手枪，赶紧装模作样摆拍一张。手感真的太好了。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-17.jpg) 拿起一把手枪，赶紧装模作样摆拍一张。手感真的太好了。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-20.jpg) 首先体验的是左轮手枪。旁边的士兵大哥给我们做了简单的示意，就让我们装弹了。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-20.jpg) 首先体验的是左轮手枪。旁边的士兵大哥给我们做了简单的示意，就让我们装弹了。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-12.jpg) 这一大堆子弹，全是我两的。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-12.jpg) 这一大堆子弹，全是我两的。
 
 FPV第一视角，正在给左轮填弹的我。
 
 左轮手枪使用的是.38口径子弹，威力很大，开枪瞬间，可以很明显感觉到后坐力。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-24.jpg) 射击场提供隔音耳罩，一开始我没戴耳罩，旁边的日本哥们开枪，bong的一声，把我吓了一跳。真的，好响。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-24.jpg) 射击场提供隔音耳罩，一开始我没戴耳罩，旁边的日本哥们开枪，bong的一声，把我吓了一跳。真的，好响。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-21.jpg) 左轮子弹打完后，接下来体验美制M1911。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-21.jpg) 左轮子弹打完后，接下来体验美制M1911。
 
 以前看到电影中的士兵在战壕里装弹夹，今天也体验下自己装弹，感受就是，子弹怎么这么滑呀，阻力好大啊，很不容易哇。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-23.jpg) ![](https://static.is26.com/blog/2016/11/shoot/shoot-22.jpg) 弹夹是越塞越费劲，旁边的士兵大哥帮我装上了最后几颗子弹。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-23.jpg) ![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-22.jpg) 弹夹是越塞越费劲，旁边的士兵大哥帮我装上了最后几颗子弹。
 
 用黑卡五1000帧高速拍摄，记录下杨左射击的瞬间，索尼大法好，黑科技发挥作用的时刻。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-25.jpg) 子弹50发子弹打完了，我继续玩M16A2，收费1200泰铢(约人民币230元)。一代名枪，美军制式装备，幸福来得太突然，第一天就摸到了这么多枪。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-25.jpg) 子弹50发子弹打完了，我继续玩M16A2，收费1200泰铢(约人民币230元)。一代名枪，美军制式装备，幸福来得太突然，第一天就摸到了这么多枪。
 
 M16使用的是小口径子弹，加上有枪托，后坐力小多了。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-26.jpg) 一开始尝试在桌子上瞄准，后来又试着站着起来瞄准，也试着别在腰间突突突突扫射。一弹夹的子弹一下子就打没了。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-26.jpg) 一开始尝试在桌子上瞄准，后来又试着站着起来瞄准，也试着别在腰间突突突突扫射。一弹夹的子弹一下子就打没了。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-27.jpg) 接下来，见证暴力的时刻到了，雷明顿M870霰弹枪。同样1200泰铢。霰弹枪以射程短，威力超大为特色，巷战神器。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-27.jpg) 接下来，见证暴力的时刻到了，雷明顿M870霰弹枪。同样1200泰铢。霰弹枪以射程短，威力超大为特色，巷战神器。
 
 FPV视角，把橙黄色的子弹一个一个塞进弹仓。
 
 妹纸帮我录的，装弹ing。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-28.jpg) 带上墨镜，举起枪，瞄准敌人，并没有。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-28.jpg) 带上墨镜，举起枪，瞄准敌人，并没有。
 
 霰弹枪的后坐力，比手枪和M16大多了，打多了肩也会觉得小疼。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-29.jpg) 敌人有点惨，密密麻麻全是子弹孔。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-29.jpg) 敌人有点惨，密密麻麻全是子弹孔。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-11.jpg) ![](https://static.is26.com/blog/2016/11/shoot/shoot-30.jpg) ![](https://static.is26.com/blog/2016/11/shoot/shoot-31.jpg) 最后本想体验枪界传奇AK47，结果枪不在，就试了毛制莫诺Vepr半自动霰弹枪，不像雷明顿M870需要自己退膛上膛，莫诺Vepr可以快速上膛，实战中火力压制分分钟秒敌人（我瞎掰的）。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-11.jpg) ![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-30.jpg) ![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-31.jpg) 最后本想体验枪界传奇AK47，结果枪不在，就试了毛制莫诺Vepr半自动霰弹枪，不像雷明顿M870需要自己退膛上膛，莫诺Vepr可以快速上膛，实战中火力压制分分钟秒敌人（我瞎掰的）。
 
 用莫诺打金属靶，士兵大哥一直跟在我旁边，嗯哼，万一我是个变态，还能及时把我扑倒。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-37.jpg) 金属小人们东倒西歪，十米距离，霰弹的精度还是可以的，毕竟杀伤范围大。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-37.jpg) 金属小人们东倒西歪，十米距离，霰弹的精度还是可以的，毕竟杀伤范围大。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-15.jpg) 地上散落一地子弹壳。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-15.jpg) 地上散落一地子弹壳。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-34.jpg) 蹲着装个逼。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-34.jpg) 蹲着装个逼。
 
-![](https://static.is26.com/blog/2016/11/shoot/shoot-35.jpg) 我也是打过手枪和大枪的男人了。咦，怎么感觉这句话又怪怪的。
+![](https://c2.llyz.xyz/blog/2016/11/shoot/shoot-35.jpg) 我也是打过手枪和大枪的男人了。咦，怎么感觉这句话又怪怪的。
 
 #### 感受
 

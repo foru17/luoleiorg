@@ -1,11 +1,12 @@
 ---
-title: "罗罗磊磊#你的包里有什么"
-date: "2014-11-11"
+cover: https://c2.llyz.xyz/wp-image/2014/11/whatisinmybag.jpg
+date: '2014-11-11'
+title: 罗罗磊磊#你的包里有什么
 ---
 
-![img_1620.jpg](https://static.is26.com/wp-image/2014/11/whatisinmybag.jpg)
+![img_1620.jpg](https://c2.llyz.xyz/wp-image/2014/11/whatisinmybag.jpg)
 
-本文为简书专题[【你的包里有什么】](http://www.jianshu.com/collection/2bffd335f746)
+本文为简书专题[【你的包里有什么】](https://www.jianshu.com/collection/2bffd335f746)
 
 谢阿呸姑娘邀请，今儿北京刮起了大风，又想起了与你在维多利亚湾吹着海风聊占中、聊文学的那个晚上，靠近海的城市真好。
 
@@ -23,7 +24,7 @@ date: "2014-11-11"
 - 摔坏过一次维修换屏花了哥790文的**三星S4**: 手机这东西，不多说了，最常用这五个App:微信、微博、支付宝、知乎日报和知乎。
 - 很渣的**酷派**大屏手机: 公司发的测试机，双卡双待，把移动卡塞进去当备胎了，他存在的主要任务就是扣月租。
 - 不喜欢戴套的**ipad mini 2**:上下班路上看readbility、多看，印象笔记，刷微博、上网、看订阅、淘宝购物看毛片。
-- 已经碎过一次屏幕，昨天又被我摔碎屏幕的**Kindle paperwhite** : 一句话就是**我买过的所有数码产品中带给我最多价值的一个产品**，写了几篇文章[《我在读什么:2014春季读书分享》](http://luolei.org/what-i-read-in-2014-spring/)，[《2013年我看过哪些值得推荐的好书？》](http://luolei.org/books-i-read-in-2013/)。
+- 已经碎过一次屏幕，昨天又被我摔碎屏幕的**Kindle paperwhite** : 一句话就是**我买过的所有数码产品中带给我最多价值的一个产品**，写了几篇文章[《我在读什么:2014春季读书分享》](https://luolei.org/what-i-read-in-2014-spring/)，[《2013年我看过哪些值得推荐的好书？》](https://luolei.org/books-i-read-in-2013/)。
 - AKG 420耳机：退烧了，能听就行，两张毛爷爷搞定，还能折叠。
 - TPlink迷你路由 + 卷起来的网线：就是图小，平时出去玩开房没有wifi就自建热点。
 - 工牌：上下班开门用。

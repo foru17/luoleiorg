@@ -1,74 +1,75 @@
 ---
-title: "海信A2 Pro:一部给喜欢阅读的人准备的手机"
-date: "2017-10-16"
-categories: 
-  - "tech"
-tags: 
-  - "kai-xiang"
-  - "digital"
-  - "e7a1ace4bbb6"
-  - "e8af84e6b58b"
+categories:
+- tech
+cover: https://c2.llyz.xyz/blog/2017/10/kindle.JPG
+date: '2017-10-16'
+tags:
+- kai-xiang
+- digital
+- e7a1ace4bbb6
+- e8af84e6b58b
+title: 海信A2 Pro:一部给喜欢阅读的人准备的手机
 ---
 
 #### 写在前面
 
 我是一个程序员，由于工作开发的需要，平时经常能体验到最新的手机，但是近年来，对手机的推陈出新换代，越来越提不上兴趣。长期以来，我都是 iPhone 和 Android 双持。过去这两年，基本上每个主流手机厂商，都在手机硬件上走到了一个转点，每一家的旗舰机型，都是用的最新的CPU，最大的内存，一样的相机原件，对于用户来说，除了Logo和系统UI的不同，体验相差无几。为了避免同质化和同脸化，也可以看到不少手机厂商推出了不同特色的手机。有些手机厂商主攻摄影，有些厂商主攻全面屏。对于消费者来说，能多一些有特色的机器，多一种选择，也是一个福音。
 
-![](https://static.is26.com/blog/2017/10/kindle.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/kindle.JPG)
 
 我是一个阅读爱好者，也是重度的Kindle用户。过去几年，我在Kindle上面读了上百本书，利用官方或者第三方的推送系统，我也经常在Kindle上面阅读资讯，但是，受限于Kindle的系统，如果我想在上面读微信公众号、知乎、即刻之类的第三方渠道的资讯，总还是要费一番周折，某种程度上，正是因为Kindle有点傻，也让用户只能在Kindle上老老实实地看书。
 
-上个月，我收到极果网送过来的一台海信最新的双面屏手机[A2PRO](http://www.hisense.com/items/3)，这是我第一次使用双面屏手机，讲真，当我打开包装盒，我是惊讶又惊艳。惊讶是没想到海信居然能做出这么一部有特色的手机，惊艳是没想到官方色彩称为「名仕蓝」的色彩居然是这么漂亮，我差点以为是大法家的手机。这部手机最有特色的就是背面那面5.2英寸的电子墨水屏。
+上个月，我收到极果网送过来的一台海信最新的双面屏手机[A2PRO](https://www.hisense.com/items/3)，这是我第一次使用双面屏手机，讲真，当我打开包装盒，我是惊讶又惊艳。惊讶是没想到海信居然能做出这么一部有特色的手机，惊艳是没想到官方色彩称为「名仕蓝」的色彩居然是这么漂亮，我差点以为是大法家的手机。这部手机最有特色的就是背面那面5.2英寸的电子墨水屏。
 
 这台相机与普通手机相比有啥优势？与Kindle相比阅读体验咋样？今天就来跟大家分享下过去这个月，我使用海信A2 Pro的体验。
 
 #### 开箱
 
-![](https://static.is26.com/blog/2017/10/A2-9.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/A2-9.jpg)
 
 海信A2 Pro的包装盒，表面只有简单的手机线框图和Logo，普普通通的盒子。
 
-![](https://static.is26.com/blog/2017/10/A2-10.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/A2-10.jpg)
 
 盒子中央是手机机身，手机屏上贴着膜，自带一个USB充电器、USB-C数据线，海信A2 Pro并不是以音乐为主打，但是依旧送了一个耳塞，表扬一下。
 
-![](https://static.is26.com/blog/2017/10/A2-19.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/A2-19.jpg)
 
 耳机采用人体工程学设计，质感不错。
 
-![](https://static.is26.com/blog/2017/10/A2-11.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/A2-11.jpg)
 
-![](https://static.is26.com/blog/2017/10/A2-13.jpg) 背面的电子墨水屏也贴了膜，上有入网许可，把两边的膜都撕掉，机器变得干干净净，正面没有Logo，没有按钮，屏幕在深蓝色的机身中，显得十分简约。
+![](https://c2.llyz.xyz/blog/2017/10/A2-13.jpg) 背面的电子墨水屏也贴了膜，上有入网许可，把两边的膜都撕掉，机器变得干干净净，正面没有Logo，没有按钮，屏幕在深蓝色的机身中，显得十分简约。
 
-![](https://static.is26.com/blog/2017/10/A2-7.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/A2-7.jpg)
 
 海信A2Pro机身正题都采用蓝色，右侧机身上方是SIM卡槽，下方的深蓝色按钮是电源键，不同于大多的正面或者按钮指纹识别，海信A2Pro把指纹识别放在了侧边的这个电源键上。把正反两面的空间留给了宝贵的屏幕。
 
-![](https://static.is26.com/blog/2017/10/A2-14.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/A2-14.jpg)
 
-![](https://static.is26.com/blog/2017/10/A2-4.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/A2-4.jpg)
 
 背面屏是独特的超级面包，支持自定义功能组件，能够显示天气、时间和快捷方式。
 
 海信A2Pro最有特色的，就是背面这个5.2寸的电子墨水屏了，同Kindle一样，电子墨水屏本身不发光，显示效果像普通纸张一样，适合长期阅读，并且十分省电。Kindle Oasis是2016年亚马逊发布的旗舰Kindle（现在已经不是了），Kindle Oasis 2016版采用的是一块6英寸，300PPI的视网膜屏，海信A2 Pro背面同样是1080 FHD高清屏，PPI计算下来应该要比Oasis高，实际体验对于用户没啥差别。
 
-![](https://static.is26.com/blog/2017/10/A2-5.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/A2-5.jpg)
 
 电子墨水屏支持直接显示支持翻转正面屏幕的内容，这样大大拓展了电子墨水屏的可用性，众所周知，显示屏是手机的耗电大户，由于墨水屏的省电特征，在使用墨水屏长时间阅读的情况下，可以大大增加手机的续航。
 
-![](https://static.is26.com/blog/2017/10/A2-1.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/A2-1.jpg)
 
 下方的扬声器旁，依旧保留了3.5mm的耳机孔，有一个USB-C接口。
 
-![](https://static.is26.com/blog/2017/10/A2-18.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/A2-18.jpg)
 
 海信A2Pro采用的是IMX386传感器，1200万像素，闪光灯和后置摄像头并排。
 
-![](https://static.is26.com/blog/2017/10/A2-2.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/A2-2.jpg)
 
 点亮屏幕后，5.5寸的的1080P全高清AMOLED屏，前置1600万像素的三星摄像头，对自拍肤色做了优化。
 
-![](https://static.is26.com/blog/2017/10/A2-3.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/A2-3.jpg)
 
 #### 差旅体验
 
@@ -76,69 +77,69 @@ tags:
 
 这过去的一个月，我带着这部手机，去了菲律宾和香港、湖南，大多使用A2Pro的场景是在差旅途中。
 
-![](https://static.is26.com/blog/2017/10/a2-travel-1.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/a2-travel-1.JPG)
 
 我最喜欢的功能是「截屏便签」，支持正面屏幕任意场景截图「贴」到背面的墨水屏做持久展示。
 
-![](https://static.is26.com/blog/2017/10/a2-travel-4.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/a2-travel-4.JPG)
 
 在香港的地铁里，搜索一下地铁信息。
 
-![](https://static.is26.com/blog/2017/10/a2-travel-3.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/a2-travel-3.JPG)
 
 把线路截屏放到手机背面。
 
-![](https://static.is26.com/blog/2017/10/a2-travel-9.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/a2-travel-9.JPG)
 
 十一假期，我从香港前往菲律宾薄荷岛，中途在马尼拉转机，差旅信息复杂，在机场经常要拿出手机看航班的变动信息，有时候经常在要微信、微博等APP切换，利用「截屏便签」，直接把行程单截图，下次要确认信息的时候，只要拿出手机，翻到背面，就能看到值机、起降、登机口、行李转盘等信息了，不用打开手机，也不用打开APP，特别方便。
 
-![](https://static.is26.com/blog/2017/10/a2-travel-10.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/a2-travel-10.JPG)
 
 来到机场，自拍一张给朋友们分享旅途的乐趣。
 
-![](https://static.is26.com/blog/2017/10/A2-photo-9.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/A2-photo-9.JPG)
 
 海信A2Pro相机自带美颜，能够优化肤色，祛斑祛痘，省去了自己去磨皮的麻烦。
 
-![](https://static.is26.com/blog/2017/10/a2-travel-13.JPG) ![](https://static.is26.com/blog/2017/10/a2-travel-11.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/a2-travel-13.JPG) ![](https://c2.llyz.xyz/blog/2017/10/a2-travel-11.JPG)
 
 起飞后，可以在墨水屏翻转前屏，使用自己喜欢的阅读APP读一本小说，系统也自带了诸如掌阅、京东阅读、咪咕阅读等APP。这次出行，我第一次把Kindle丢在了家中，
 
-![](https://static.is26.com/blog/2017/10/a2-travel-14.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/a2-travel-14.JPG)
 
 飞机的舷窗印在正面屏幕上，几个朋友见到这台手机都说好看。
 
-![](https://static.is26.com/blog/2017/10/a2-travel-16.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/a2-travel-16.JPG)
 
 #### 样片分享
 
-![](https://static.is26.com/blog/2017/10/a2-travel-6.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/a2-travel-6.JPG)
 
 拍照也十分方便，我一般出行会自带专业的相机，偶尔随手也会用手机拍拍照。下面放几张旅途的样张，原片未修。
 
-![](https://static.is26.com/blog/2017/10/A2-photo-3.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/A2-photo-3.JPG)
 
 尖沙咀的重庆大厦，一个大叔拿着相机在路中央拍照，一个自行车骑手从前面掠过。
 
-![](https://static.is26.com/blog/2017/10/A2-photo-7.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/A2-photo-7.JPG)
 
 香港真的是一个很适合拍照的地方，街道和建筑也很有特色。
 
-![](https://static.is26.com/blog/2017/10/A2-photo-6.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/A2-photo-6.JPG)
 
 中午了，来到这家「澳门茶餐厅」，上一次来这里还是跟简书网的简叔一起吃饭。
 
-![](https://static.is26.com/blog/2017/10/a2-photo-12.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/a2-photo-12.JPG)
 
 尖沙咀的消防局大门
 
-![](https://static.is26.com/blog/2017/10/A2-photo-2.JPG)
+![](https://c2.llyz.xyz/blog/2017/10/A2-photo-2.JPG)
 
 菲律宾宿务的教堂。
 
 ## 总结
 
-![](https://static.is26.com/blog/2017/10/A2-20.jpg)
+![](https://c2.llyz.xyz/blog/2017/10/A2-20.jpg)
 
 我对海信的印象，还停留在电视、空调、电视之类的大家电，这一次接触到海信A2 Pro，新奇的双面屏设计，不错的做工，的确算得上是一个有诚意的产品。 如这台手机的小众设计，2999的价格，某种程度上，也意味着这不会是一台大众的手机。
 

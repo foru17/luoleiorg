@@ -1,11 +1,12 @@
 ---
-title: "【年終卷】2014年我没干成什么"
-date: "2014-12-28"
+cover: https://c2.llyz.xyz/wp-image/2014/12/review-2014-fail.jpg
+date: '2014-12-28'
+title: 【年終卷】2014年我没干成什么
 ---
 
-![cover](https://static.is26.com/wp-image/2014/12/review-2014-fail.jpg)
+![cover](https://c2.llyz.xyz/wp-image/2014/12/review-2014-fail.jpg)
 
-接着「罗磊啰嗦」，继续年终回顾，上一篇回顾写了[《2014年我读了哪些书？》](http://luolei.org/what-i-read-in-2014/)。
+接着「罗磊啰嗦」，继续年终回顾，上一篇回顾写了[《2014年我读了哪些书？》](https://luolei.org/what-i-read-in-2014/)。
 
 这篇文章的题目叫「2014年我没干成什么」，写下这个题目的时候，有点给自己的「檄文」的味道，年终回顾，于平常情况，多是「这一年干成了什么」再带上一笔「下一年要干成什么」：找到工作了、升职了、加薪了、旅游了、GET到一个新技能了……
 
@@ -31,7 +32,7 @@ date: "2014-12-28"
 
 #### 没学日语
 
-学日语，是2014年自己的一个目标，从五月起，坚持了两个月，背完五十音图，写完两篇日语教程[《日语学习入门　ひらがな 书写（壹）》](http://luolei.org/learn-japanese-hiragana-write-1/)和[《日语学习入门　ひらがな 书写（貳）》](http://luolei.org/learn-japanese-hiragana-write-2/)，随后，随着正式入职猎豹，工作开始繁忙，每天的通勤时间从原先的1个半小时变成半个小时候，原先在路上的通勤时间变成了早上在家里的赖床时间，结果就是，到了这年底十二月，连五十音图都开始忘记了。
+学日语，是2014年自己的一个目标，从五月起，坚持了两个月，背完五十音图，写完两篇日语教程[《日语学习入门　ひらがな 书写（壹）》](https://luolei.org/learn-japanese-hiragana-write-1/)和[《日语学习入门　ひらがな 书写（貳）》](https://luolei.org/learn-japanese-hiragana-write-2/)，随后，随着正式入职猎豹，工作开始繁忙，每天的通勤时间从原先的1个半小时变成半个小时候，原先在路上的通勤时间变成了早上在家里的赖床时间，结果就是，到了这年底十二月，连五十音图都开始忘记了。
 
 要说为什么没学会这个，总结了下，一个没太大需求，二是乱；仔细回想下过去这半年多，生活中充斥着各种关键字，但是学习一门语言，至少入门一门语言，对自己而言还应该是不难的。没投入时间在这个上面，归根结底的原因是因为没太大的需求，平时的生活中基本不可能用到日语，自己也不是对日漫、日剧的狂热粉丝，无爱，因此也无精力投入，时间也就这么让步给其他诸如代码、读书、健身之类更加能给自己带来明显的效果和收益的行为上面去了。
 
@@ -47,15 +48,15 @@ date: "2014-12-28"
 
 回顾2014年，我总共写了26篇博客，其中与我的职业和互联网相关的文章写了有七篇:
 
-- [《我们的设计，一切为了用户-Facebook设计总监谈13年一个夭折的改版设计》](http://luolei.org/whatever-is-best-for-the-people-that-is-what-we-do-chinese-facebook-redesign-2014/)
-- [《让前端工作更快、更智能:利用StaticPage自动化工作流》](http://luolei.org/rang-qian-duan-gong-zuo-geng-kuai-geng-zhi-neng-li-yong-staticpagezi-dong-hua-gong-zuo-liu/)
-- [《纽约时报网站改版背后的技术》](http://luolei.org/niu-yue-shi-bao-wang-zhan-gai-ban-bei-hou-de-ji-zhu/)
-- [《Ghostwill 鬼才晓得》](http://luolei.org/demo-wrap/)
-- [《谷歌I/O 2014:移动端网页优化建议》](http://luolei.org/google-io-2014-web-fundamentals-lessons-learned-from-analyzing-websites-at-scale/)
-- [《装逼这件事》](http://luolei.org/zhuangbility/)
-- [《Web开发者和设计师必须要知道的 iOS 8 十个变化》](http://luolei.org/safari-ios8-iphone6-web-developers-designers-chinese/)
+- [《我们的设计，一切为了用户-Facebook设计总监谈13年一个夭折的改版设计》](https://luolei.org/whatever-is-best-for-the-people-that-is-what-we-do-chinese-facebook-redesign-2014/)
+- [《让前端工作更快、更智能:利用StaticPage自动化工作流》](https://luolei.org/rang-qian-duan-gong-zuo-geng-kuai-geng-zhi-neng-li-yong-staticpagezi-dong-hua-gong-zuo-liu/)
+- [《纽约时报网站改版背后的技术》](https://luolei.org/niu-yue-shi-bao-wang-zhan-gai-ban-bei-hou-de-ji-zhu/)
+- [《Ghostwill 鬼才晓得》](https://luolei.org/demo-wrap/)
+- [《谷歌I/O 2014:移动端网页优化建议》](https://luolei.org/google-io-2014-web-fundamentals-lessons-learned-from-analyzing-websites-at-scale/)
+- [《装逼这件事》](https://luolei.org/zhuangbility/)
+- [《Web开发者和设计师必须要知道的 iOS 8 十个变化》](https://luolei.org/safari-ios8-iphone6-web-developers-designers-chinese/)
 
-共七篇文章，其中[《Web开发者和设计师必须要知道的 iOS 8 十个变化》](http://luolei.org/safari-ios8-iphone6-web-developers-designers-chinese/), [《谷歌I/O 2014:移动端网页优化建议》](http://luolei.org/google-io-2014-web-fundamentals-lessons-learned-from-analyzing-websites-at-scale/)两篇译文在业内传播开，被几个业内社区转载或者推荐，也算是造福了下其他开发者。
+共七篇文章，其中[《Web开发者和设计师必须要知道的 iOS 8 十个变化》](https://luolei.org/safari-ios8-iphone6-web-developers-designers-chinese/), [《谷歌I/O 2014:移动端网页优化建议》](https://luolei.org/google-io-2014-web-fundamentals-lessons-learned-from-analyzing-websites-at-scale/)两篇译文在业内传播开，被几个业内社区转载或者推荐，也算是造福了下其他开发者。
 
 总的来说，还是产出太少，尤其是下半年，除掉毕业季五六月，入职的七八月，这九月到十二月，月均一篇文章的数量，和月均不到一篇是干货有质量文章的数量，这水平，还是可以反映很多问题。
 
@@ -77,7 +78,7 @@ Side Project是程序员在圈子中的硬实力的象征，大多是基于兴�
 
 个人觉得，作为一个与用户直接打交道的前端开发者来说，必须要有一定的美学基础和设计功底，今年年中的时候，尝试用Sketch做了两个Logo，重绘了个Logo，又重新设计了自己的新版博客，可是，进入冬季后，自己还是没有坚持下去进阶学习设计。
 
-个人挺佩服的业内几个朋友是36kr的[丁一](http://www.weibo.com/u/1641918113)和我们公司的[utom](http://www.weibo.com/utom)，两个都是全栈开发，不仅仅会写代码，也会设计。回看自己，设计一个东西目前还是在抄一抄和改一改的水平，对于自己的长远职业发展来说，这不是一个好现象。
+个人挺佩服的业内几个朋友是36kr的[丁一](https://www.weibo.com/u/1641918113)和我们公司的[utom](https://www.weibo.com/utom)，两个都是全栈开发，不仅仅会写代码，也会设计。回看自己，设计一个东西目前还是在抄一抄和改一改的水平，对于自己的长远职业发展来说，这不是一个好现象。
 
 #### 没练成腹肌
 

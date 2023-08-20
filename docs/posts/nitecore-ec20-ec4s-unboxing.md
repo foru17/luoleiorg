@@ -1,15 +1,16 @@
 ---
-title: "户外必备: NITECORE EC20 和 EC4S 手电筒开箱"
-date: "2018-03-03"
-tags: 
-  - "kai-xiang"
+cover: https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-10.JPG
+date: '2018-03-03'
+tags:
+- kai-xiang
+title: '户外必备: NITECORE EC20 和 EC4S 手电筒开箱'
 ---
 
-![cover](https://static.is26.com/blog/2018/03/nitecore/EC20-10.JPG)
+![cover](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-10.JPG)
 
 去年美西自驾之前，想着在途中拍点花絮，买了一个望远镜[蔡司大地8x25ED望远镜](https://luolei.org/zeiss-terra-8x25-binocular/)，50号公路、拱门国家公园、优胜美地，这个望远镜带给我们许多新视野。
 
-![](https://static.is26.com/blog/2018/03/nitecore/map.JPG)
+![](https://c2.llyz.xyz/blog/2018/03/nitecore/map.JPG)
 
 生活在城市久了，尤其是生活在中国东南沿海这种经济圈，到处都是路灯、照明，基本没有啥户外照明的需求。十二月去美国之前，心想这一次大部分旅途都在户外或者小城市，中间也要经过雪地、森林、峡谷，还是准备两个手电筒比较好，我和老婆各一个，晚上的时候，不管是在城镇，还是野外，下车走路也能方便点。
 
@@ -20,11 +21,11 @@ tags:
 
 双十一的时候，趁着奶茶东半价，其实只花了差不多一半的价格，老习惯，直接开箱。
 
-![](https://static.is26.com/blog/2018/03/nitecore/EC20-9.JPG)
+![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-9.JPG)
 
 ###### NITECORE EC20
 
-![](https://static.is26.com/blog/2018/03/nitecore/EC20-1.JPG)
+![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-1.JPG)
 
 EC20 使用单节18650电池，960流明。通过双击按钮，支持4种亮度模式的调节，分别是:
 
@@ -33,21 +34,21 @@ EC20 使用单节18650电池，960流明。通过双击按钮，支持4种亮度
 - 低亮 - 50流明 - 28小时续航
 - 超低亮 - 1流明 - 520小时续航
 
-![](https://static.is26.com/blog/2018/03/nitecore/EC20-3.JPG)
+![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-3.JPG)
 
 这就是手电筒里的全部东西，保修卡、一个手绳。
 
-![](https://static.is26.com/blog/2018/03/nitecore/EC20-5.JPG)
+![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-5.JPG)
 
-![](https://static.is26.com/blog/2018/03/nitecore/EC20-6.JPG)
+![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-6.JPG)
 
 EC20 手电筒本身，十分小巧，放到包里没啥压力，之所以买这个，主要是为了给我老婆用。
 
-![](https://static.is26.com/blog/2018/03/nitecore/EC20-7.JPG) ![](https://static.is26.com/blog/2018/03/nitecore/EC20-8.JPG)
+![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-7.JPG) ![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-8.JPG)
 
 ###### NITECORE EC4S
 
-![](https://static.is26.com/blog/2018/03/nitecore/EC4S-4.JPG)
+![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC4S-4.JPG)
 
 EC4S用的两节18650电池，最高2150流明，可以闪瞎眼，支持5种亮度调节:
 
@@ -57,27 +58,27 @@ EC4S用的两节18650电池，最高2150流明，可以闪瞎眼，支持5种亮
 - 低亮 - 80流明 - 30小时续航
 - 超低亮 - 2流明 - 325小时续航
 
-![](https://static.is26.com/blog/2018/03/nitecore/EC4S-5.JPG)
+![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC4S-5.JPG)
 
 除了保修卡，手绳，相比EC20，EC4S里面多了一个手电筒套。
 
-![](https://static.is26.com/blog/2018/03/nitecore/EC4S-7.JPG)
+![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC4S-7.JPG)
 
 相比之下，EC4S的体积就大多了。
 
-![](https://static.is26.com/blog/2018/03/nitecore/EC20-15.JPG) ![](https://static.is26.com/blog/2018/03/nitecore/EC4S-11.JPG) 底部的红色电池舱盖，也做了防水处理，达到了IPX-8级别，支持水下2米，雨水天气、潮湿环境使用应该是没啥问题了。
+![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-15.JPG) ![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC4S-11.JPG) 底部的红色电池舱盖，也做了防水处理，达到了IPX-8级别，支持水下2米，雨水天气、潮湿环境使用应该是没啥问题了。
 
-![](https://static.is26.com/blog/2018/03/nitecore/EC20-16.JPG)
+![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-16.JPG)
 
 把柄有纹理处理，印有手柄的编号，EC
 
-![](https://static.is26.com/blog/2018/03/nitecore/EC4S-14.JPG)
+![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC4S-14.JPG)
 
 相比我迪卡龙买的10块钱的LED手电，EC4S分量十足，危险情况下其实可以拿来砸人。
 
 #### 总结
 
-![](https://static.is26.com/blog/2018/03/nitecore/EC20-11.JPG)
+![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-11.JPG)
 
 两者大小比较，EC20还是小巧很多。自驾途中，一般我是用EC4S，但是大多情况下是放到车上，毕竟还是有点大。
 
@@ -91,18 +92,18 @@ EC4S用的两节18650电池，最高2150流明，可以闪瞎眼，支持5种亮
 
 最后再放几张美国旅行的照片:
 
-![](https://static.is26.com/blog/2018/03/usa/usa-44.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa/usa-44.jpg)
 
 太浩湖，美国最有名的滑雪胜地之一。
 
-![](https://static.is26.com/blog/2018/03/usa/usa-31.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa/usa-31.jpg)
 
 内华达星空保护区（就是我凌晨赶路，中途下车，唯一拍的一张星空）。
 
-![](https://static.is26.com/blog/2018/03/usa/usa-29.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa/usa-29.jpg)
 
 优胜美地国家公园。
 
-![](https://static.is26.com/blog/2018/03/usa/usa-25.jpg)
+![](https://c2.llyz.xyz/blog/2018/03/usa/usa-25.jpg)
 
 50号公路。

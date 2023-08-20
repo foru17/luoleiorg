@@ -1,11 +1,12 @@
 ---
-title: "【云图】万物皆联系"
-date: "2013-01-29"
-tags: 
-  - "movies"
+cover: https://c2.llyz.xyz/wp-image/2013/01/cloud-atlas-hd-wallpaper-1024x512.jpg
+date: '2013-01-29'
+tags:
+- movies
+title: 【云图】万物皆联系
 ---
 
-![cloud-atlas-hd-wallpaper](https://static.is26.com/wp-image/2013/01/cloud-atlas-hd-wallpaper-1024x512.jpg)
+![cloud-atlas-hd-wallpaper](https://c2.llyz.xyz/wp-image/2013/01/cloud-atlas-hd-wallpaper-1024x512.jpg)
 
 假期开始了已经将近半个月，自从上篇英文的"Review of 2012"，2013年的博客还是空白。两篇博文在草稿箱之中，却由于种种原因，没有把他们完成，生活和心理状态处在恢复之中，自己的确是没有做好。
 
@@ -29,4 +30,4 @@ tags:
 
 之前看《源代码》，其中故事的启发来源的「平行宇宙理念」，男主角「活」在一个由超级计算机模拟的虚拟世界中，不断的reborn和die，相同的世界中，每个事物的发展却也都存在细微的差别，与这种「自由」「随机」的理念，不是多么地相像。
 
-![49259](https://static.is26.com/wp-image/2013/01/49259.jpeg)
+![49259](https://c2.llyz.xyz/wp-image/2013/01/49259.jpeg)

@@ -1,10 +1,11 @@
 ---
-title: "装修笔记：从0到1打造家庭弱电方案（上篇）"
-date: "2022-10-07"
-categories: 
-  - "lifestyle"
-tags: 
-  - "装修"
+categories:
+- lifestyle
+cover: https://c2.llyz.xyz/blog/2022/10/network/n-0.JPG
+date: '2022-10-07'
+tags:
+- 装修
+title: 装修笔记：从0到1打造家庭弱电方案（上篇）
 ---
 
 ## 写在前面
@@ -38,7 +39,7 @@ tags:
 - 机柜详情
 - 硬件清单
 
-![](https://static.is26.com/blog/2022/10/network/n-0.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-0.JPG)
 
 ## **阶段零:心态和准备**
 
@@ -58,7 +59,7 @@ tags:
 
 看别人的高大上方案爽，但是却不一定适合你自己的家庭。我强烈建议各位在进行弱电网络相关的规划前，先花个半个小时，仔细想一想，自己的家庭的需求到底是什么？
 
-![](https://static.is26.com/blog/2022/10/network/n-2.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-2.JPG)
 
 我是一个程序员和失联已久的视频UP主；我老婆是一个自由职业者，居家办公时间比较多；我家还有一条狗、两条猫，这就是我的家庭用户画像。
 
@@ -76,11 +77,11 @@ tags:
 
 我家有一台4K的75寸电视，一台 AppleTV 4K，还有两台游戏机。平时和老婆都喜欢看 4K 高清视频。
 
-![](https://static.is26.com/blog/2022/10/network/t-1.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/t-1.JPG)
 
 如果你想在内网流畅播放4K视频，千兆只是一个基本要求（防杠备注: 理论上百兆网络是可以播放4K视频，但是正常的家庭网络环境中，多设备多任务并行还是挺常见的，电脑上在下载资源，电视盒子就卡顿了也总是有点不爽）。
 
-![](https://static.is26.com/blog/2022/10/network/n-3.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-3.JPG)
 
 如果你恰好是一个PT党，喜欢下载一些高清的视频，这种动则大几十GB的文件，对内网的要求则会更高。即使满载千兆，在内网设备之间的文件传输，也会很考验你的耐心。
 
@@ -120,7 +121,7 @@ tags:
 - 如果有条件，尽量隐蔽弱电相关设备，增加家庭美观，虽然现在也有好看的路由器，但是我更喜欢眼不见为净。
 - 规划路由器和AP位置时，注意避开承重墙、金属门、电磁设备等会严重阻挡或者影响信号的区域。
 
-![](https://static.is26.com/blog/2022/10/network/n-5.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-5.JPG)
 
 上图是我家最终的布局图，弱电箱在入门玄关处，这里也是楼道电信光纤入口的位置。我家面积110+平，共有3房2厅2卫，经过功能分区，把其中一个次卧改造成半开放式工作间。
 
@@ -134,25 +135,25 @@ tags:
 
 一开始我有考虑把机柜安排在书房，但是考虑到机柜的噪音问题，最终决定把机柜安排在餐厅餐边柜的角落位置，我家的走廊尽头刚好有一处吊顶有大量空间，又恰好处于全屋空间的中央，就在这里专门安排了一个「吊顶设备间」。
 
-![](https://static.is26.com/blog/2022/10/network/n-6.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-6.JPG)
 
 最终经过分析，决定采用主副两个路由来覆盖全屋WiFi，餐边柜里的路由器来覆盖客餐厅的信号，副路由的路由器来覆盖主卧、次卧、卫生间等。
 
-![](https://static.is26.com/blog/2022/10/network/n-7.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-7.JPG)
 
 吊顶位置在水电定位的时候除了拉了网线，还额外拉了一根电线，由于走廊采用石膏吊顶，在上面放了智能开关、插座、路由器、绿米的智能网关。实现了WiFi和智能网关的覆盖。石膏吊顶不阻挡信号，对 WiFi 基本无影响。
 
-![](https://static.is26.com/blog/2022/10/network/n-9.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-9.JPG)
 
 为了方便检修，淘宝定做了一个空调出风口的面板，有卡扣可以随时打开，也能顺便散热（虽然路由器、网关那些设备功率不高也不热）。
 
-![](https://static.is26.com/blog/2022/10/network/n-8.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-8.JPG)
 
-![](https://static.is26.com/blog/2022/10/network/n-10.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-10.JPG)
 
 合上之后，就像中央空调的出风口，我在里面放了一个智能灯泡，设置天黑后自动亮灯，天亮熄灯，透过出风口还能漏点光出来当夜灯。
 
-![](https://static.is26.com/blog/2022/10/network/n-11.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-11.JPG)
 
 来到餐厅这边，机柜藏在柜子里，加上远离卧室、书房，也没有噪音的干扰。把设备都放在这里，也方便管理。这两个地方虽然都放了不少网络设备，但都做了隐蔽处理，不会外露。
 
@@ -161,7 +162,7 @@ tags:
 - 能有有线就别用无线
 - 每个房间都留网线插座，电视柜、书房等设备多的地方多拉两条线。
 
-![](https://static.is26.com/blog/2022/10/network/n-15.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-15.JPG)
 
 上图是目前主流WiFi速率和有线速率的对比，虽然可以通过路由器拓展和 AP 节点来保证网速和信号，但是网线的价格大大低于无线设备，稳定性也更高。尽量还是让自己家里的每个房间都拉上网线。
 
@@ -179,7 +180,7 @@ tags:
 
 #### 弱电箱
 
-![](https://static.is26.com/blog/2022/10/network/n-16.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-16.JPG)
 
 弱电箱的更换，需要砸墙重新填充水泥，如果有需要，尽量提前买好拿到工地。这东西不贵。
 
@@ -192,19 +193,19 @@ tags:
 
 #### **网线埋管&PVC 50管**
 
-![](https://static.is26.com/blog/2022/10/network/n-13.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-13.JPG)
 
 在水电施工阶段，弱电线一般采用与强电线不一样的颜色，我的布局是在弱电箱和餐边柜位置拉了两根网线（联通光猫和机柜路由），网线再从餐边柜位置分流到不同的房间和位置。
 
 - 网线与强电线交汇的地方，最好用铝箔纸包裹一下，一定程度可以减少强电的干扰（至于有没有用，我也没啥感觉到）
 
-上图第三个位置是我的电视柜处，这里我预埋了一个PVC 50管。![](https://static.is26.com/blog/2022/10/network/n-17.JPG)
+上图第三个位置是我的电视柜处，这里我预埋了一个PVC 50管。![](https://c2.llyz.xyz/blog/2022/10/network/n-17.JPG)
 
 这种线盒也有现成的，因为我电视墙电视准备挂墙上，预留个这个管子后，电视的电源线和HDMI线可以从墙内走，能够起到隐藏线缆的作用。
 
 #### **网线**
 
-![](https://static.is26.com/blog/2022/10/network/n-18.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-18.JPG)
 
 网线部分，建议也提前自己买好，我买的150米才300多块。有关网线的选择，简单而言三条建议：
 
@@ -214,21 +215,21 @@ tags:
 
 #### **面板**
 
-![](https://static.is26.com/blog/2022/10/network/n-14.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-14.JPG)
 
 面板的挑选这块需要注意一下，不少朋友在购买面板的时候，都是统一买的某些品牌的某些系列，毕竟是挂在墙上的东西，也会影响家庭美观，不同的面板的质感差别还是挺大的。我用的是施耐德的「皓呈」系列，网线插座属于面板中比较贵的品类，记得买六类水晶头的。
 
-![](https://static.is26.com/blog/2022/10/network/n-19.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-19.JPG)
 
 如果不在乎颜值，也可以自己购买组装的。我也额外购买了 AMPCOM 的网线面板，价格就比施耐德这种大牌便宜多了，放到吊顶，柜子里都可以，反正平时也看不到。
 
-![](https://static.is26.com/blog/2022/10/network/n-20.JPG?ver=1)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-20.JPG?ver=1)
 
 在这里推荐也可以备一套压网线和检测网线的工具。后续自己检查家庭网络时还是用得上的。
 
 ### 延伸问题:有没有必要上光纤？
 
-![](https://static.is26.com/blog/2022/10/network/n-21.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-21.JPG)
 
 先说答案：没必要，但是也不是不行。我家在弱电箱、机柜、电视柜、书房这四个位置都预留了光纤。
 
@@ -239,13 +240,13 @@ tags:
 - 本身光纤很便宜，与网线同一根管路顺便拉两根不占地方，没有额外成本。
 - 目前电口万兆网络设备很昂贵，相比之下基于光纤的万兆光口设备便宜很多
 
-![](https://static.is26.com/blog/2022/10/network/n-22.JPG)![](https://static.is26.com/blog/2022/10/network/n-23.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-22.JPG)![](https://c2.llyz.xyz/blog/2022/10/network/n-23.JPG)
 
 我购买了 PCI-E 的光口网卡，华为的光纤模块，我的交换机也支持光口，但是尴尬的是，我让电信师傅给我熔接家里的光纤时，他给我搞成了 SC 头，而不是 LC 头，目前光纤还是属于不可用状态。
 
 ## 阶段四：网络硬件&拓扑
 
-![](https://static.is26.com/blog/2022/10/network/n-27.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-27.JPG)
 
 **由于这部分太过复杂，先放一张图，移步到《下篇》详细明说。**
 
@@ -255,17 +256,17 @@ tags:
 
 从毛坯到施工完成，再到购买网络硬件、布网，终于也走到了最后一步：验收。在这里推荐几个工具，傻瓜和专业的都有。
 
-![](https://static.is26.com/blog/2022/10/network/n-24.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-24.JPG)
 
 首先推荐的是 Mac 上的 [Netspot](https://www.netspotapp.com/) ， 这个APP支持导入你家的布局图，然后根据不同点位的测试，最后输出一份有关信号强度、速率等信息的综合热区图和PDF报告。
 
-![](https://static.is26.com/blog/2022/10/network/n-29.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-29.JPG)
 
 比如上图分别是我家的 WiFi 各点内网速率（指定局域网 iperf3 测速服务)和信号强度热区图，我使用的是 M1 Macbook，WiFi 协商速率是 1200Mbps ，室内的测试全部采用极端条件（门窗紧闭）。
 
 在两个路由器的覆盖下，全屋各点基本都是在 800Mbps 上下行速率之上，信号强度都很好。这样的好处就是基本上所有的无线设备（笔记本、手机、Pad），都能流畅播放 NAS 中的4K 高清素材，在进行手机相册备份时也很快。
 
-![](https://static.is26.com/blog/2022/10/network/n-26.JPG)
+![](https://c2.llyz.xyz/blog/2022/10/network/n-26.JPG)
 
 来到速率下载方面，如果是测试公网速率，推荐用 Speedtest，选择一个靠近自己的机房节点。如果是广东电信用户，可以访问
 
@@ -273,8 +274,8 @@ tags:
 
 如果想测试自己的内网速率，比较简单的方法是在内网两台设备之间互相拷贝大文件。比较精确的方法，可以通过自己架设测速服务器或者通过iperf3.
 
-- [https://github.com/librespeed/speedtest](http://LibreSpeed: 开源自建测试服务)
-- [https://github.com/esnet/iperf](http://ipef3 测速悠久的测试工具)
+- [https://github.com/librespeed/speedtest](https://LibreSpeed: 开源自建测试服务)
+- [https://github.com/esnet/iperf](https://ipef3 测速悠久的测试工具)
 
  
 

@@ -1,21 +1,22 @@
 ---
-title: "实习笔记-笨鸟总得先飞"
-date: "2011-07-27"
+cover: https://c2.llyz.xyz/wp-image/2011/07/weibojob.jpg "weibojob"
+date: '2011-07-27'
+title: 实习笔记-笨鸟总得先飞
 ---
 
 我从来没有想到自己的第一份工作来得这么出乎意料。
 
 这个假期，这个月，注定要成了我20岁的一个里程碑。因为，我工作了，虽说还只是实习，但这个工作对我却注定意味深长。当然，相比那些大牛去四大、500强什么的，我自然不是一个level的。
 
-7月8日，同[@郭宇](http://weibo.com/turingou)跑去中大参加[#CIC panel#](http://weibo.com/seeisee) ，一个社会化营销的广州会议，人人网、新浪微博都来了人，还不错。
+7月8日，同[@郭宇](https://weibo.com/turingou)跑去中大参加[#CIC panel#](https://weibo.com/seeisee) ，一个社会化营销的广州会议，人人网、新浪微博都来了人，还不错。
 
-在其中发了一条[#微求职#](http://weibo.com/1250829960/eDyB4I7cu93)，立马在场就有三家公司联系了我，叫我投简历。
+在其中发了一条[#微求职#](https://weibo.com/1250829960/eDyB4I7cu93)，立马在场就有三家公司联系了我，叫我投简历。
 
-[![](https://static.is26.com/wp-image/2011/07/weibojob.jpg "weibojob")](https://static.is26.com/wp-image/2011/07/weibojob.jpg "weibojob")
+![](https://c2.llyz.xyz/wp-image/2011/07/weibojob.jpg )
 
 随后，如果你关注我之前的几篇博客，想必你也知道。
 
-一家美国公司，一家广州本地传播公司，分别做了一个[英文简历](http://luolei.org/2011/07/cv-design/)和一个[中文WP7风格的](http://luolei.org/2011/07/qiuye-cv-desig/)[简历](http://luolei.org/2011/07/qiuye-cv-desig/)投了过去。
+一家美国公司，一家广州本地传播公司，分别做了一个[英文简历](https://luolei.org/2011/07/cv-design/)和一个[中文WP7风格的](https://luolei.org/2011/07/qiuye-cv-desig/)[简历](https://luolei.org/2011/07/qiuye-cv-desig/)投了过去。
 
 不久，先后接到了两家公司的面试通知。其中一个是我“搭讪”旁边的一个靓女所推荐的（也就是我现在所在的公司），“好色之徒”也可能有好结果的嘛。
 

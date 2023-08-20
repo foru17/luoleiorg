@@ -1,10 +1,31 @@
 {
+  "name": "luoleiorg",
+  "private": true,
+  "type": "module",
+  "author": {
+    "name": "@foru17",
+    "email": "i@luolei.org",
+    "url": "https://github.com/foru17/luoleiorg"
+  },
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "vitepress": "1.0.0-rc.4"
+    "@tailwindcss/line-clamp": "^0.4.4",
+    "@tailwindcss/typography": "^0.5.4",
+    "@types/markdown-it": "^12.2.3",
+    "@types/node": "^18.7.13",
+    "feed": "^4.2.1",
+    "gray-matter": "^4.0.2",
+    "prettier": "^3.0.2",
+    "prettier-plugin-tailwindcss": "^0.5.3",
+    "tailwindcss": "^3.1.8",
+    "vitepress": "^1.0.0-alpha.75",
+    "vue": "^3.2.47"
+  },
+  "dependencies": {
+    "artalk": "^2.5.5"
   }
 }

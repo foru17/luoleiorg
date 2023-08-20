@@ -1,11 +1,12 @@
 ---
-title: "《羊城晚报》:唯独南航托运单车要收费"
-date: "2012-08-02"
+cover: https://c2.llyz.xyz/wp-image/2012/08/20120802A18_brief1.jpg
+date: '2012-08-02'
+title: 《羊城晚报》:唯独南航托运单车要收费
 ---
 
-原文地址:[http://www.ycwb.com/ePaper/ycwb/html/2012-08/02/content\_1454641.htm](http://www.ycwb.com/ePaper/ycwb/html/2012-08/02/content_1454641.htm "http://www.ycwb.com/ePaper/ycwb/html/2012-08/02/content_1454641.htm")
+原文地址:[https://www.ycwb.com/ePaper/ycwb/html/2012-08/02/content\_1454641.htm](https://www.ycwb.com/ePaper/ycwb/html/2012-08/02/content_1454641.htm "https://www.ycwb.com/ePaper/ycwb/html/2012-08/02/content_1454641.htm")
 
-![](https://static.is26.com/wp-image/2012/08/20120802A18_brief1.jpg)  
+![](https://c2.llyz.xyz/wp-image/2012/08/20120802A18_brief1.jpg)  
 驴友小林认为自己遭遇“霸王条款”，向法庭讨说法  
 羊城晚报讯 记者冯小静、实习生李巧报道：乘坐飞机时，每位乘客都有一定重量的免费行李额。今年5月，华南理工大学学生小林花了540元买了一张南方航空公司广州至成都的飞机票，临上飞机被告知已经打包好的自行车要付400元的托运费！小林了解到其他航空公司都可以免费托运自行车，为何唯独南航有这样的“霸王条款”？近日，小林将南航告上法庭。  
   **机票540元行李费400元**  

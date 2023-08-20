@@ -1,12 +1,13 @@
 ---
-title: "云南 | 东航周末随心飞，昆明玉溪两日行 | 抚仙湖 磨豆山"
-date: "2020-06-29"
-categories: 
-  - "travel"
-tags: 
-  - "云南"
-  - "photography"
-  - "travel"
+categories:
+- travel
+cover: https://c2.llyz.xyz/blog/2020/06/yunnan/y-0.JPG
+date: '2020-06-29'
+tags:
+- 云南
+- photography
+- travel
+title: 云南 | 东航周末随心飞，昆明玉溪两日行 | 抚仙湖 磨豆山
 ---
 
 ## 站外导览
@@ -15,7 +16,7 @@ tags:
 
 - [数字尾巴：周末随心第一飞，昆明玉溪两日行：抚仙湖 磨豆山](https://www.dgtle.com/article-1583496-1.html)
 - [Chiphell:【云南】 东航周末随心第一飞 / 昆明玉溪两日行](https://www.chiphell.com/thread-2239597-1-1.html)
-- [飞客茶馆:  周末随心第一飞 / 深圳出发 / 昆明玉溪两日行](http://www.flyertea.com/thread-3595407-1-1.html)
+- [飞客茶馆:  周末随心第一飞 / 深圳出发 / 昆明玉溪两日行](https://www.flyertea.com/thread-3595407-1-1.html)
 - [什么值得买：东方航空: 周末随心第一飞，昆明玉溪两日行](https://post.smzdm.com/p/a78zeq29/)
 
 这次这个东航周末随心飞，在上面四个网站都被推了首页，也是难得，看样子东航这个产品的关注度的确是挺高的。
@@ -30,7 +31,7 @@ tags:
 
 ## 航班
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-0.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-0.JPG)
 
  
 
@@ -46,25 +47,25 @@ tags:
 
 在安排昆明行程的过程中，我突然发现了昆明东南的「抚仙湖」，距离昆明长水国际机场1个小时车程，算是比较小众（相比大理丽江）的旅游目的地，风景也很不错。于是就安排了「昆明 > 抚仙湖  > 昆明」的自驾行程。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-2.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-2.JPG)
 
 我是在神州租车上租的车，由于订车时间比较晚，加上保险、两天时间租车花了500多，如果提前订的话，大概400就能搞定。神州租车在长水国际机场内就有网点，直接在机场停车楼取车还车，很方便。抚仙湖环湖都有公路，湖边的旅游设备也比较完善，自驾环湖是特别方便的选择。
 
 ## 玉溪 / 抚仙湖
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-9.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-9.JPG)
 
 约了一个滴滴送机，早上5点20出发，5点45到达宝安机场，值机、安检很顺利，6点20准时登机。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-10.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-10.JPG)
 
 第一次来云南，第一印象就是红色的土地。
 
-![](https://static.is26.com/blog/2020/06/yunnan/map-0.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/map-0.JPG)
 
 机场取了车后，从长水国际机场到抚仙湖80公里，高速直达，一路车很少，很好开，务必准备现金交过路费。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-43.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-43.JPG)
 
 早上11点不到，就到达了抚仙湖，这次我们住的是一个太阳山国际度假村里的民宿，民宿在半山上，在阳台就能直接看到抚仙湖景，一片蔚蓝，抚仙湖的水很清，古人徐霞客曾云「滇山惟多土，故多壅流而成海，而流多浑浊，惟抚仙湖最清」。
 
@@ -74,229 +75,229 @@ tags:
 
 由于今天端午假期已经结束，今天大多游客都已经返程，我和老婆算是错过了旅客高峰，酒店价格也不贵，我提前一天订的，算下来290一晚。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-45.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-45.JPG)
 
 这就是我们住的酒店所在楼，里面是公寓，房子业主大多都个人持有，托付给专门的公司做民宿管理，对标四星级酒店水平。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-44.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-44.JPG)
 
 度假村算是一个地产项目，房价不便宜，要1W5/平左右，还有不少楼盘正在建设，度假村的环境很好，物业也很有礼貌，可以看出是准备打造成精品旅游地产项目。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-51.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-51.JPG)
 
 山上的一大片房子，都是这种橙顶，在携程上搜索到的不少酒店，都在度假村里。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-11.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-11.JPG)
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-49.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-49.JPG)
 
 度假村里还有一条「网红小镇」，你没看错，实名就叫「太阳山网红小镇」，建筑风格欧式，色彩鲜艳，很适合年轻人来拍照打卡。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-46.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-46.JPG)
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-48.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-48.JPG)
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-53.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-53.JPG)
 
 云南海拔高，阳光强烈，必备墨镜，在小镇里跟老婆走走拍拍。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-54.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-54.JPG)
 
 度假村里甚至还有一个「城堡」。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-50.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-50.JPG)
 
 虽然网红小镇建筑是欧式的，但是里面的餐饮还是以云南本地为主，吃鱼、日韩料理都有，走到小镇外面，还有一个罗马小剧场。这些年，很多城市都搞所谓「网红街」，「网红小镇」，希望吸引年轻人的流量，实话说，不同于很多地方的「网红小镇」用各种廉价的网红元素堆砌，抚仙湖这个网红小镇，很实诚，不管是基建、招牌设计很明显可以感觉到更有规划。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-13.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-13.JPG)
 
 云南美食众多且有特色，抚仙湖也有当地的特色美食「石锅鱼」和「铜锅洋芋饭」，我和老婆跟民宿工作人员聊了聊，问附近有啥吃「石锅鱼」的地方，民宿小哥跟我们说「靠近湖这附近基本都是专做游客生意的，我们自己一般在澄江市里吃」，我和老婆一商量，既然都来了，反正市里也不远，就五六公里，就直接开车去澄江市，找了一家开了30年的「渔老大」石锅鱼。
 
 石锅鱼是现捞现杀，我和老婆挑了一条「桂花鱼」，很大的一个石锅，用蒸汽加热，鱼肉切好后，直接下锅，特别鲜美。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-14.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-14.JPG)
 
 硕大的一块鱼肉，现在正在写游记的我又看饿了。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-16.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-16.JPG)
 
 除了鱼汤，提供的佐料也很丰富，酸辣都有，搭配鱼汤自己调，石锅鱼是一道能够让广东人和四川人一起吃的特色菜，强烈推荐。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-15.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-15.JPG)
 
 铜锅洋芋饭也属于当地特色，价格不贵，吃起来糯糯的，带有一丝微甜。这一餐，我们石锅鱼、铜锅洋芋饭、山药+豆腐，总共才160，山药和豆腐属于后面加的料，都吃不完，如果两个人来吃的话，就点石锅鱼和铜锅洋芋饭就可以了，人均60可以搞定，真便宜。吃完饭后，老板娘还直接返了我5块钱的停车费（我停到了旁边街路边）。
 
-![](https://static.is26.com/blog/2020/06/yunnan/map-1.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/map-1.JPG)
 
 吃完饭，已经是下午2点，开始了我们下午的行程，准备绕湖一圈，去磨豆山。中途也经过了几个景点，有些收费，有些免费，有亲水的项目，也有农家乐，总之开车的话，带着家人绕一圈湖，还是不错的选择。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-18.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-18.JPG)
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-19.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-19.JPG)
 
 中途路过一个村庄，去湖边逛了逛，水是真清，一望见底。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-21.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-21.JPG)
 
 在湖边，远眺对面的山脉。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-22.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-22.JPG)
 
 这里是一处正在建设的旅游地产项目，叫「星空小镇」，不同于网红小镇那边欧式风格，这边的建筑更现代风点。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-23.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-23.JPG)
 
 沿湖公路一直开，还是挺惬意的，不足的就是，观景点有点少，停车不方便。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-24.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-24.JPG)
 
 等过了星空小镇，接下来我们就要往磨豆山里走了，磨豆山是个很冷门的景点，交通也不方便，除了自驾，没有其他太多办法上去。至于值不值，就接着看我们的旅途吧。进了山，开始慢慢看到越来越多的农场和田地。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-26.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-26.JPG)
 
 云南经济还在发展，进了山里了，还是可以看到不少年代的痕迹。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-25.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-25.JPG)
 
 再穷不能穷教育，看到一个学前班，现在山里的留守儿童应该也挺不少的。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-29.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-29.JPG)
 
 从度假村出发，中间在湖边只停留了一小会，开了差不多三个小时山路，终于到了磨豆山，看到了山上的风车。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-28.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-28.JPG)
 
 磨豆山顶有一个中广核集团的风力发电厂，还有全国最大新能源科普教育基地。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-30.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-30.JPG)
 
 虽说是「最大」，其实就是一栋小玻璃楼，只要限定语用得多，人人都能成为「最」。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-27.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-27.JPG)
 
 山顶还要一个好大的风力发电机叶子，这还是我第一次这么近看到这个东西。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-31.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-31.JPG)
 
 站在风力发电机下面，倒是被这个高度给震撼了，没想到风力发电机居然这么大，扇叶呼呼直转，山顶的风也的确是很大。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-34.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-34.JPG)
 
 登上山坡，看到山脊上，布满了风机。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-33.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-33.JPG)
 
 往下望去，就是抚仙湖，今天沿着湖走过的路，尽收眼底。山上还有羊吃草。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-42.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-42.JPG)
 
 我在山顶发了一个朋友圈「众所周知，Lake Fuxian是瑞士的著名旅行景点。」，开玩笑说我到了了瑞士，有朋友信了。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-32.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-32.JPG)
 
 很久没跟老婆出来探风了，老婆很高兴。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-37.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-37.JPG)
 
 上到山顶是下午5点半，由于时区的关系，太阳依旧很高，在山上呆了两个多小时，等着太阳下山。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-40.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-40.JPG)
 
 夕阳撒在湖面上，整个山上也在一片金光之中。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-41.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-41.JPG)
 
 落日下的电塔，让我想起了旧金山的双子峰的日落。看完日落，已经将近晚上8点（云南天黑就是这么晚），还没吃晚饭，接下来就是驱车回酒店了。由于下山也是山路，回去酒店路上，也都是乡道，基本没有路灯，路并不是很好开。我今天从早上10点开始自驾，到现在已经开了一整天车，到晚上时我就很累了，多亏了老婆换着开了一段，要不在这种路段，疲劳驾驶还是很危险的。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-55.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-55.JPG)
 
 昨晚开车太累，回到酒店洗漱完没多久就睡着了，第二天睡到早上10点才起床，今天没啥安排，在度假村简单吃了点东西后，开车去昆明。离开澄江收费站后，就是一路高速了。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-68.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-68.JPG)
 
 昆明作为云南的省会城市，人口600多万，来昆明，主要就是来体验下当地特色美食，直奔「昆明篆新农贸市场」，这个农贸市场是昆明很大的一个市场，主要是供周边的居民买菜，不是那种专门针对旅客的「老街」，里面有各种当地美食，特别接地气，强烈推荐。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-62.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-62.JPG)
 
 菜市场很大，蔬果肉熟食都有，建议来这里之前，别吃太饱，留着胃来这里吃小吃吧。由于疫情的关系，现在农贸市场下午6点30就不让人进来了，以前是不关门的有夜市。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-57.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-57.JPG)
 
 看到一家豆花米线，很多人在排队买。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-56.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-56.JPG)
 
 我和老婆叫了一碗，加肉沫8块钱，有点像米粉，吃起来特别有劲道，好吃入味。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-59.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-59.JPG)
 
 看到一种当地米酒，很有特色的是，还有蜜蜂飞来飞去，我一开始没看清，还以为是苍蝇，还跟老婆说「哇，这里怎么这么多苍蝇呀」，被旁边的大妈给白了一眼，眼瞎是我的错。后来我还特意观察了一下，虽然市场里各种卖生肉、熟食的，但是我还真的没见到苍蝇什么的，卫生条件很不错。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-61.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-61.JPG)
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-60.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-60.JPG)
 
 发现一个鸡爪新做法，傣式风味，酸酸辣辣，老板见我们在拍摄，还专门介绍了一番。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-65.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-65.JPG)
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-66.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-66.JPG)
 
 农贸市场二楼，还有一个专门的「野生菌交易市场」，云南盛产菌菇，问了下价格，从几十元到几百元不等，再贵的没敢问。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-70.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-70.JPG)
 
 又发现一个有特色的「柠檬手撕鸡」，现场手撕，配上香料搅拌，闻起来就很香，口水直流，买了半盒才20块。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-69.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-69.JPG)
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-74.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-74.JPG)
 
 市场里卖的炸排骨，这类配料，可以后续加到粉面、其他菜里里面当小菜，很脆，100克18元，我买了一大包100块。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-73.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-73.JPG)
 
 我和老婆在市场里走走吃吃停停，不知不觉就过了一个多小时。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-77.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-77.JPG)
 
 第一次喝橄榄水，10块钱三瓶，买了一瓶尝尝鲜，挺酸爽的。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-76.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-76.JPG)
 
 回去车里放了一下东西，休息了一下，再回来重新准备采购点手信带给家人和朋友。云南的火腿很有名，买了几块带回去。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-79.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-79.JPG)
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-81.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-81.JPG)
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-162.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-162.JPG)
 
 逛完农贸市场，接下来去昆明老街逛了逛，来网红楼拍照打了一个卡。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-80.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-80.JPG)
 
 比较神奇的是，居然发现一代神车桑塔纳2000，云南特警居然还在用这个。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-163.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-163.JPG)
 
 昆明老街跟其他城市那种「老街」差不多，都是挂着历史的皮，卖着奶茶之类的，建议路过就可以了。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-161.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-161.JPG)
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-83.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-83.JPG)
 
 在老街后面发现一个小铺子，里面卖的一些老玩意。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-164.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-164.JPG)
 
 逛完老街，已经是下午6点，太阳还很大，又去滇池大坝逛了逛，之所以来这里，是想着「来都来了，还是看一下滇池吧」。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-166.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-166.JPG)
 
 滇池很大，滇池大坝只能看到很小的一部分，来这里就是打卡性质。时候也不早了，由于晚上22点的飞机，看完大坝后，给车加满油，就开车去长水机场了。
 
-![](https://static.is26.com/blog/2020/06/yunnan/y-167.JPG)
+![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-167.JPG)
 
 在机场值机的时候，值机看到我们X舱，说「你们是随心飞吧，以后得早点来，今天爆满」，聊了下，小哥说这个周末是疫情以来，昆明机场人最多的一次，（光东航一家）比平时多了5000人，长水机场今天旅客也达到一万8，东航这产品成功带动旅游业呀。
 

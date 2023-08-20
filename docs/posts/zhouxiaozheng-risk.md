@@ -1,8 +1,9 @@
 ---
-title: "周孝正《如何面对高风险的社会》"
-date: "2011-06-19"
-tags: 
-  - "jnu"
+cover: https://c2.llyz.xyz/default.cover.jpg
+date: '2011-06-19'
+tags:
+- jnu
+title: 周孝正《如何面对高风险的社会》
 ---
 
 **前言：** 首先要向各位说声抱歉，由于复习周到了各种事加上六级考试，拖了差不多一周，才出周孝正讲座的最终版，洋洋洒洒，170分钟的视频最后整理出了差不多5万字，差不多半本短篇小说了。虽说文字挺多，可是语言通俗风趣，大家看的时间也不会很长，对于那些看不到视频或者没有足够时间看完视频的人来说，也是一个不错的选择。
@@ -13,7 +14,7 @@ tags:
 
 首先感谢参与共同整理这次志愿者行动的10位网友，按各个志愿者负责的时间依次排序，在这里有个小小的建议，如果转载此文，请附上一下与志愿者的名单，也是对志愿者工作的尊重。
 
-00:00-20:00     独立博主[@罗磊](http://luolei.org/) (已完成） 20:00-35:00     人人网网友[@夏越](http://www.renren.com/profile.do?id=233367692) （已完成） 35:00-50:00     新浪微友@[东城唯绫](http://weibo.com/2013708361) (已完成） 50:00-65:00     人人网网友[@赵蕤阳 2.0](http://www.renren.com/profile.do?id=703363293) （已完成） 65:00-80:00     人人网网友 [@兰天](http://www.renren.com/profile.do?id=335934976) （已完成） 80:00-95:00     twitter网友 @x2 （已完成） 95:00-110:00   新浪微友  [@水墨gz](http://weibo.com/2108551393) (已完成） 110:00-125:00 人人网网友 [@李翔](http://luolei.org/wp-admin/www.renren.com/profile.do?id=229192434) （已完成） 125:00-140:00 新浪微友 [@This-is-Ted](http://weibo.com/tedandfred) （已完成） 140:00-155:00 新浪网友 [@纪嘉康](http://blog.sina.com.cn/jijiakang) （已完成） 155:00-170:00 twitter网友 [@shanghaikoala](http://twitter.com/#!/shanghaikoala) （已完成）
+00:00-20:00     独立博主[@罗磊](https://luolei.org/) (已完成） 20:00-35:00     人人网网友[@夏越](https://www.renren.com/profile.do?id=233367692) （已完成） 35:00-50:00     新浪微友@[东城唯绫](https://weibo.com/2013708361) (已完成） 50:00-65:00     人人网网友[@赵蕤阳 2.0](https://www.renren.com/profile.do?id=703363293) （已完成） 65:00-80:00     人人网网友 [@兰天](https://www.renren.com/profile.do?id=335934976) （已完成） 80:00-95:00     twitter网友 @x2 （已完成） 95:00-110:00   新浪微友  [@水墨gz](https://weibo.com/2108551393) (已完成） 110:00-125:00 人人网网友 [@李翔](https://luolei.org/wp-admin/www.renren.com/profile.do?id=229192434) （已完成） 125:00-140:00 新浪微友 [@This-is-Ted](https://weibo.com/tedandfred) （已完成） 140:00-155:00 新浪网友 [@纪嘉康](https://blog.sina.com.cn/jijiakang) （已完成） 155:00-170:00 twitter网友 [@shanghaikoala](https://twitter.com/#!/shanghaikoala) （已完成）
 
 演讲人：周孝正  5月4日
 

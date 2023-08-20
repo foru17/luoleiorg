@@ -1,11 +1,12 @@
 ---
-title: "几个我常去的沉浸式社区"
-date: "2012-08-23"
-tags: 
-  - "internet"
+cover: https://c2.llyz.xyz/wp-image/2012/08/geek-life.jpg
+date: '2012-08-23'
+tags:
+- internet
+title: 几个我常去的沉浸式社区
 ---
 
-![](https://static.is26.com/wp-image/2012/08/geek-life.jpg)
+![](https://c2.llyz.xyz/wp-image/2012/08/geek-life.jpg)
 
 遗传爷爷的木匠基因，自幼就不安分，小时候航模火箭、高中大学五金工具电烙、电脑方面更是没少折腾，从台式机到笔记本，从MP4到显示器，各种家电数码没少搞坏过。
 
@@ -25,55 +26,55 @@ tags:
 
 > **1.V2EX（IT类）**
 > 
-> ##### [http://www](http://www).**v2ex**.com/
+> ##### [https://www](https://www).**v2ex**.com/
 > 
 > _V2EX_ = way to explore. _V2EX_ 是一个关于分享和探索的地方.
 
-##### ![](https://static.is26.com/wp-image/2012/08/v2ex.jpg)
+##### ![](https://c2.llyz.xyz/wp-image/2012/08/v2ex.jpg)
 
 V2EX是一个IT圈子人聚集的地方（搞技术的居多），很多电脑数码产品转卖（搞IT的貌似都喜欢不断换数码产品），常见帝魔广杭IT公司招聘信息。
 
 > 2**.知乎**（综合类:高端人士聚集）
 > 
-> [http://www.zhihu.com/](http://www.zhihu.com/)
+> [https://www.zhihu.com/](https://www.zhihu.com/)
 > 
 > _知乎_是一个真实的网络问答社区，社区氛围友好、理性、认真，这里连接了各行各业的精英，分享彼此的专业知识、经验、见解，为中文互联网源源不断地提供高质量的 **...**
 
-![](https://static.is26.com/wp-image/2012/08/zhihu.jpg)
+![](https://c2.llyz.xyz/wp-image/2012/08/zhihu.jpg)
 
 李开复创新工场投资，运营团队强大，很多专业领域的高质量内容，比较多专业分析（各种领域都有，现在偏IT互联网）。我经常喜欢去刷互联网、科技、创业板块，看业内资讯。
 
 > 3.**Chiphell**（硬件、数码、玩物）
 > 
-> [http://www.chiphell.com/](http://www.chiphell.com/)
+> [https://www.chiphell.com/](https://www.chiphell.com/)
 
-![](https://static.is26.com/wp-image/2012/08/chiphell.jpg)
+![](https://c2.llyz.xyz/wp-image/2012/08/chiphell.jpg)
 
 Chiphell也是我很喜欢的一个论坛，硬件发烧友聚集地，cpu、显卡、SSD、散热、外设、网络，大量高质量的产品性能评测和毒物分享。看了毒物，小心中毒啊，小心荷包。
 
 > 4.**PCbeta远景在线**（操作系统）
 > 
-> [http://bbs.pcbeta.com/](http://bbs.pcbeta.com/)
+> [https://bbs.pcbeta.com/](https://bbs.pcbeta.com/)
 > 
 > 远景在线是国内知名的Windows电脑技术网站。
 
-![](https://static.is26.com/wp-image/2012/08/pcbeta.jpg)
+![](https://c2.llyz.xyz/wp-image/2012/08/pcbeta.jpg)
 
 pcbeta就不多介绍了，中文技术圈著名论坛，windows和os系统大量发烧专业级折腾，N多软件下载破解、系统技巧分享（这段时间破解windows8消息太多，被微软致函警告了，可怜啊）。
 
 > 5.**数字尾巴**（数码、玩物、毒物、文艺）
 > 
-> [http://bbs.dgtle.com/forum-2-1.html](http://bbs.dgtle.com/forum-2-1.html)
+> [https://bbs.dgtle.com/forum-2-1.html](https://bbs.dgtle.com/forum-2-1.html)
 
-![](https://static.is26.com/wp-image/2012/08/shuzi.jpg)
+![](https://c2.llyz.xyz/wp-image/2012/08/shuzi.jpg)
 
 手机、平板、相机，大量高质量消费数码产品评测，同时也有不少外设、文艺玩物（模型啊、文具啊、笔记本啊）之类的乱七八糟东西，参杂app评测，网友旅游摄影。圈子氛围挺不错，有人很喜欢，有人觉得装B，是个不错的圈子，同样要小心中毒。
 
 > 6.爱拆客（笔记本拆机、改装）
 > 
-> [http://bbs.5ichecker.com/](http://bbs.5ichecker.com/)
+> [https://bbs.5ichecker.com/](https://bbs.5ichecker.com/)
 
-![chaike](https://static.is26.com/wp-image/2012/08/chaike.jpg "chaike")
+![chaike](https://c2.llyz.xyz/wp-image/2012/08/chaike.jpg "chaike")
 
 这是一个专注于笔记本拆机、评测、改装的论坛，涵盖大部分笔记本，升级CPU、换SSD、散热、天线神马的教程很多。
 
@@ -81,11 +82,11 @@ pcbeta就不多介绍了，中文技术圈著名论坛，windows和os系统大�
 
 还有一些网站就太小众了，纯属我自己的个人兴趣，在这里就简单说说，大家有兴趣要接触相关的时候，知道有这么一个地方就好了。
 
-比如说专注与主机服务器的「全球主机交流论坛」：[http://www.hostloc.com/forum.php](http://www.hostloc.com/forum.php)
+比如说专注与主机服务器的「全球主机交流论坛」：[https://www.hostloc.com/forum.php](https://www.hostloc.com/forum.php)
 
-专注于无线设备（路由器、交换机、NAS、组网）的恩山无线论坛：[http://www.right.com.cn](http://www.right.com.cn)
+专注于无线设备（路由器、交换机、NAS、组网）的恩山无线论坛：[https://www.right.com.cn](https://www.right.com.cn)
 
-还有自行车、骑行相关的Biketo论坛[http://www.biketo.com/bbs/forum.php](http://www.biketo.com/bbs/forum.php)
+还有自行车、骑行相关的Biketo论坛[https://www.biketo.com/bbs/forum.php](https://www.biketo.com/bbs/forum.php)
 
 上面这就是我比较常去和喜欢的沉浸式小圈子社区，主要还是因为自己的兴趣在这些方面。
 

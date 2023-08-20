@@ -1,11 +1,12 @@
 ---
-title: "纽约时报网站改版背后的技术"
-date: "2014-04-27"
+cover: https://c2.llyz.xyz/wp-image/2014/02/nytimes-redesign-1024x568.png
+date: '2014-04-27'
+title: 纽约时报网站改版背后的技术
 ---
 
-![nytimes-redesign](https://static.is26.com/wp-image/2014/02/nytimes-redesign-1024x568.png)
+![nytimes-redesign](https://c2.llyz.xyz/wp-image/2014/02/nytimes-redesign-1024x568.png)
 
-原文地址:"[The Technology Behind the NYTimes.com Redesign](http://open.blogs.nytimes.com/2014/01/08/the-technology-behind-the-nytimes-com-redesign/?_php=true&_type=blogs&_php=true&_type=blogs&_r=1)"
+原文地址:"[The Technology Behind the NYTimes.com Redesign](https://open.blogs.nytimes.com/2014/01/08/the-technology-behind-the-nytimes-com-redesign/?_php=true&_type=blogs&_php=true&_type=blogs&_r=1)"
 
 纽约时报英文网站今年进行了一次改版，这次改版不仅仅是给一艘大船重新刷了遍油漆那么简单，除了外观上的重新设计，我们也对代码进行了大量的重构，采用了新的框架，让网站更快，也为以后代码的维护、升级便利性进行了重新设计。Reed Emmons，是这次改版的负责人，在这篇文章将分享我们如何让纽约时报这首老船更快更酷。
 

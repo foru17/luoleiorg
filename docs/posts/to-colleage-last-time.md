@@ -1,13 +1,14 @@
 ---
-title: "【大学】致青春，致朋友"
-date: "2013-05-21"
-tags: 
-  - "e5a4a7e5ada6"
+cover: https://c2.llyz.xyz/wp-image/2013/05/graduate-dinner-1024x683.jpg
+date: '2013-05-21'
+tags:
+- e5a4a7e5ada6
+title: 【大学】致青春，致朋友
 ---
 
-![cover](https://static.is26.com/wp-image/2013/05/graduate-dinner-1024x683.jpg)
+![cover](https://c2.llyz.xyz/wp-image/2013/05/graduate-dinner-1024x683.jpg)
 
-> 大家的笑容都好青春好美啊。下一餐估计就是毕业餐啦！！[@SuyiC](http://weibo.com/n/SuyiC)[@Merry-Hsu](http://weibo.com/n/Merry-Hsu)[@玉子洁洁](http://weibo.com/n/%E7%8E%89%E5%AD%90%E6%B4%81%E6%B4%81)[@张L\_来来去去虚如影](http://weibo.com/n/%E5%BC%A0L_%E6%9D%A5%E6%9D%A5%E5%8E%BB%E5%8E%BB%E8%99%9A%E5%A6%82%E5%BD%B1)[@舒子同学](http://weibo.com/n/%E8%88%92%E5%AD%90%E5%90%8C%E5%AD%A6)[@吖莹Doris小宇宙要爆发](http://weibo.com/n/%E5%90%96%E8%8E%B9Doris%E5%B0%8F%E5%AE%87%E5%AE%99%E8%A6%81%E7%88%86%E5%8F%91)[@Dii-Y](http://weibo.com/n/Dii-Y)[@发奋嘉仪仔](http://weibo.com/n/%E5%8F%91%E5%A5%8B%E5%98%89%E4%BB%AA%E4%BB%94)[@小芝荣](http://weibo.com/n/%E5%B0%8F%E8%8A%9D%E8%8D%A3)[@沈-婷-婷](http://weibo.com/n/%E6%B2%88-%E5%A9%B7-%E5%A9%B7)[@ying畫要静心](http://weibo.com/n/ying%E7%95%AB%E8%A6%81%E9%9D%99%E5%BF%83)[@刘志诚](http://weibo.com/n/%E5%88%98%E5%BF%97%E8%AF%9A)[@剑\_逍](http://weibo.com/n/%E5%89%91_%E9%80%8D)[@那些年雪梨仔仔霖住一于玩大佢V](http://weibo.com/n/%E9%82%A3%E4%BA%9B%E5%B9%B4%E9%9B%AA%E6%A2%A8%E4%BB%94%E4%BB%94%E9%9C%96%E4%BD%8F%E4%B8%80%E4%BA%8E%E7%8E%A9%E5%A4%A7%E4%BD%A2V)[@罗罗磊磊](http://weibo.com/n/%E7%BD%97%E7%BD%97%E7%A3%8A%E7%A3%8A)[@Ken\_惜花待昕彧](http://weibo.com/n/Ken_%E6%83%9C%E8%8A%B1%E5%BE%85%E6%98%95%E5%BD%A7)[@木子\_旅](http://weibo.com/n/%E6%9C%A8%E5%AD%90_%E6%97%85) 字不够了帮@！
+> 大家的笑容都好青春好美啊。下一餐估计就是毕业餐啦！！[@SuyiC](https://weibo.com/n/SuyiC)[@Merry-Hsu](https://weibo.com/n/Merry-Hsu)[@玉子洁洁](https://weibo.com/n/%E7%8E%89%E5%AD%90%E6%B4%81%E6%B4%81)[@张L\_来来去去虚如影](https://weibo.com/n/%E5%BC%A0L_%E6%9D%A5%E6%9D%A5%E5%8E%BB%E5%8E%BB%E8%99%9A%E5%A6%82%E5%BD%B1)[@舒子同学](https://weibo.com/n/%E8%88%92%E5%AD%90%E5%90%8C%E5%AD%A6)[@吖莹Doris小宇宙要爆发](https://weibo.com/n/%E5%90%96%E8%8E%B9Doris%E5%B0%8F%E5%AE%87%E5%AE%99%E8%A6%81%E7%88%86%E5%8F%91)[@Dii-Y](https://weibo.com/n/Dii-Y)[@发奋嘉仪仔](https://weibo.com/n/%E5%8F%91%E5%A5%8B%E5%98%89%E4%BB%AA%E4%BB%94)[@小芝荣](https://weibo.com/n/%E5%B0%8F%E8%8A%9D%E8%8D%A3)[@沈-婷-婷](https://weibo.com/n/%E6%B2%88-%E5%A9%B7-%E5%A9%B7)[@ying畫要静心](https://weibo.com/n/ying%E7%95%AB%E8%A6%81%E9%9D%99%E5%BF%83)[@刘志诚](https://weibo.com/n/%E5%88%98%E5%BF%97%E8%AF%9A)[@剑\_逍](https://weibo.com/n/%E5%89%91_%E9%80%8D)[@那些年雪梨仔仔霖住一于玩大佢V](https://weibo.com/n/%E9%82%A3%E4%BA%9B%E5%B9%B4%E9%9B%AA%E6%A2%A8%E4%BB%94%E4%BB%94%E9%9C%96%E4%BD%8F%E4%B8%80%E4%BA%8E%E7%8E%A9%E5%A4%A7%E4%BD%A2V)[@罗罗磊磊](https://weibo.com/n/%E7%BD%97%E7%BD%97%E7%A3%8A%E7%A3%8A)[@Ken\_惜花待昕彧](https://weibo.com/n/Ken_%E6%83%9C%E8%8A%B1%E5%BE%85%E6%98%95%E5%BD%A7)[@木子\_旅](https://weibo.com/n/%E6%9C%A8%E5%AD%90_%E6%97%85) 字不够了帮@！
 
 今晚同班同学第一批答辩，结束后二十几位同学在小西门外的口福居聚餐，不是什么高档场地，眼尖的同学从背景的「实惠就是硬道理」几个字就能看出，我这个大三的「师弟」也来凑了热闹，两桌，吃了千来块，六个男生和17个女生，一开始桌上还有点拘谨，还是慰佳同学懂知道怎么弄气氛，一上来就叫了一打啤酒，最后两桌虽也就只喝了18支，可不得不说今晚还真的是很尽兴。飯只是辅助，酒才是主角，基本上人人都喝了点，最后脸红了，也玩开了，老一套的大冒险，调戏下邻桌的同学，亲一亲、抱一抱、调戏下……这是一个欢乐的夜晚。
 

@@ -1,17 +1,18 @@
 ---
-title: "视频 | 长滩岛:亚洲最美白沙滩"
-date: "2016-10-13"
-categories: 
-  - "photography"
-  - "travel"
-tags: 
-  - "travel"
-  - "philippines"
-  - "boracay"
-  - "ma-ni-la"
+categories:
+- photography
+- travel
+cover: https://c2.llyz.xyz/blog/2016/09/pilipinas/boracay-cover.jpg
+date: '2016-10-13'
+tags:
+- travel
+- philippines
+- boracay
+- ma-ni-la
+title: 视频 | 长滩岛:亚洲最美白沙滩
 ---
 
-![cover](https://static.is26.com/blog/2016/09/pilipinas/boracay-cover.jpg)
+![cover](https://c2.llyz.xyz/blog/2016/09/pilipinas/boracay-cover.jpg)
 
 #### 导航
 
@@ -29,7 +30,7 @@ tags:
 
 #### 观看地址:
 
-- [优酷网:遇见,长滩岛| 去亚洲最美白沙滩拍妹纸是什么体验](http://v.youku.com/v_show/id_XMTc0MDYzMTg5Mg==.html) : 推荐大陆用户观看。
+- [优酷网:遇见,长滩岛| 去亚洲最美白沙滩拍妹纸是什么体验](https://v.youku.com/v_show/id_XMTc0MDYzMTg5Mg==.html) : 推荐大陆用户观看。
 - [Youtube:Boracay Island | Travel Story Film | SONY A7S2 & Yi Camera 4K & DJI Phantom 4](https://www.youtube.com/watch?v=tX9d8H9fOpU) : 推荐海外用户观看
 
 实际上「遇见,长滩岛」视频比我们的博客游记要先出来，但是放在了最后才发，实在是因为最近是太忙了，前几个月买的书放在书柜了好久没翻，订阅的杂志也就一直放在桌子上。
@@ -48,7 +49,7 @@ tags:
 
 最后在这里也公开一下自己的微信公众账号「罗磊啰嗦」，已经积累了一段时间，扫描下方二维码即可关注，如果你是从我的博客知道我的公众账号的，欢迎跟我打招呼，暗号就叫「罗磊啰嗦」就可以了。
 
-![](https://static.is26.com/wechat.png)
+![](https://c2.llyz.xyz/wechat.png)
 
 截至10月13日，已经有900多位朋友在里面，第1000位关注者（你关注了就知道自己的序号）我会赠送你一个小礼物。
 

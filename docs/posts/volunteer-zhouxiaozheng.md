@@ -1,6 +1,7 @@
 ---
-title: "征集志愿者，奖励VPN"
-date: "2011-06-10"
+cover: https://c2.llyz.xyz/default.cover.jpg
+date: '2011-06-10'
+title: 征集志愿者，奖励VPN
 ---
 
 各位推友、博友、微友：
@@ -25,27 +26,27 @@ date: "2011-06-10"
 
 将170分钟的视频分为10段，每段15分钟.自第20分钟开始分派任务。
 
-00:00-20:00     独立博主[@罗磊](http://luolei.org/) (已完成）
+00:00-20:00     独立博主[@罗磊](https://luolei.org/) (已完成）
 
-20:00-35:00     人人网网友[@夏越](http://www.renren.com/profile.do?id=233367692) （已完成）
+20:00-35:00     人人网网友[@夏越](https://www.renren.com/profile.do?id=233367692) （已完成）
 
-35:00-50:00     新浪微友@[东城唯绫](http://weibo.com/2013708361) (已完成）
+35:00-50:00     新浪微友@[东城唯绫](https://weibo.com/2013708361) (已完成）
 
-50:00-65:00     人人网网友[@赵蕤阳 2.0](http://www.renren.com/profile.do?id=703363293) （已完成）
+50:00-65:00     人人网网友[@赵蕤阳 2.0](https://www.renren.com/profile.do?id=703363293) （已完成）
 
-65:00-80:00     人人网网友 [@兰天](http://www.renren.com/profile.do?id=335934976) (已完成）
+65:00-80:00     人人网网友 [@兰天](https://www.renren.com/profile.do?id=335934976) (已完成）
 
 80:00-95:00     twitter网友 @x2 （已完成）
 
-95:00-110:00   新浪微友  [@水墨gz](http://weibo.com/2108551393) (已完成）
+95:00-110:00   新浪微友  [@水墨gz](https://weibo.com/2108551393) (已完成）
 
-110:00-125:00 人人网网友 [@李翔](http://luolei.org/wp-admin/www.renren.com/profile.do?id=229192434) （已完成）
+110:00-125:00 人人网网友 [@李翔](https://luolei.org/wp-admin/www.renren.com/profile.do?id=229192434) （已完成）
 
-125:00-140:00 新浪微友 [@This-is-Ted](http://weibo.com/tedandfred) (已完成）
+125:00-140:00 新浪微友 [@This-is-Ted](https://weibo.com/tedandfred) (已完成）
 
-140:00-155:00 新浪网友 [@纪嘉康](http://blog.sina.com.cn/jijiakang) （已完成）
+140:00-155:00 新浪网友 [@纪嘉康](https://blog.sina.com.cn/jijiakang) （已完成）
 
-155:00-170:00 twitter网友 [@shanghaikoala](http://twitter.com/#!/shanghaikoala) （已完成）
+155:00-170:00 twitter网友 [@shanghaikoala](https://twitter.com/#!/shanghaikoala) （已完成）
 
 End
 
@@ -53,7 +54,7 @@ End
 
 **敬请大家期待我们的最终文字。感谢每一个志愿者的参与**
 
-**_讲座视频地址_**：[http://v.youku.com/v_show/id_XMjY5MzM1Nzc2.html](http://v.youku.com/v_show/id_XMjY5MzM1Nzc2.html)
+**_讲座视频地址_**：[https://v.youku.com/v_show/id_XMjY5MzM1Nzc2.html](https://v.youku.com/v_show/id_XMjY5MzM1Nzc2.html)
 
 我会不断更新汇总整理的资料
 
@@ -63,7 +64,7 @@ google doc地址（需翻wall):
 
 国内麦库地址:
 
-[http://note.sdo.com/u/516918688#/n/uPUSw~jv6yBgLX024000wF](http://note.sdo.com/u/516918688#/n/uPUSw~jv6yBgLX024000wF)
+[https://note.sdo.com/u/516918688#/n/uPUSw~jv6yBgLX024000wF](https://note.sdo.com/u/516918688#/n/uPUSw~jv6yBgLX024000wF)
 
 每个志愿者负责自己部分的文字整理工作即可（自己申请哪一部分，我会实时更新这个日志，在时间段后面加上翻译者的姓名或者ID），整理完毕后发我的邮箱willei17@gmail.com或者任何有效网络途径。
 
@@ -83,8 +84,8 @@ google doc地址（需翻wall):
 
 请志愿者加Q群：144329049
 
-本文地址：[http://luolei.org/2011/06/volunteer-zhouxiaozheng/](http://luolei.org/2011/06/volunteer-zhouxiaozheng/)
+本文地址：[https://luolei.org/2011/06/volunteer-zhouxiaozheng/](https://luolei.org/2011/06/volunteer-zhouxiaozheng/)
 
-我的新浪微博:[@罗罗磊磊](http://weibo.com/foru17/)
+我的新浪微博:[@罗罗磊磊](https://weibo.com/foru17/)
 
-我的twitter:[@foru17](http://twitter.com/#!/foru17)
+我的twitter:[@foru17](https://twitter.com/#!/foru17)

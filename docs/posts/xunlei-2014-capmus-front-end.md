@@ -1,13 +1,14 @@
 ---
-title: "迅雷2014校园招聘品网页重构笔试笔记"
-date: "2013-10-11"
+cover: https://c2.llyz.xyz/wp-image/2013/10/thunder.jpg
+date: '2013-10-11'
+title: 迅雷2014校园招聘品网页重构笔试笔记
 ---
 
-![thunder](https://static.is26.com/wp-image/2013/10/thunder.jpg)
+![thunder](https://c2.llyz.xyz/wp-image/2013/10/thunder.jpg)
 
-昨晚失眠，一直到五点多才睡，一觉醒来已经11点，匆匆赶去大学城，参加迅雷校招网页重构岗的笔试，依旧华工 A4教学楼，下午2点开考。中午见到了基友[@Fatpa](http://weibo.com/caipanda) ，随便在华工找了一个餐厅吃了个快餐。话说刚好碰到华工的社团招新，一条道路上各种社团展示：跆拳道的、下象棋的、各种球的……看着这群年轻的面孔，回想自己的大一时参加社团活动的那些日子，倒也不免感怀，大学呀大学，真好，在这里也给上大学的各位朋友们一个建议：社团是一个很好的社交圈子，珍惜大学认识的那些朋友吧。
+昨晚失眠，一直到五点多才睡，一觉醒来已经11点，匆匆赶去大学城，参加迅雷校招网页重构岗的笔试，依旧华工 A4教学楼，下午2点开考。中午见到了基友[@Fatpa](https://weibo.com/caipanda) ，随便在华工找了一个餐厅吃了个快餐。话说刚好碰到华工的社团招新，一条道路上各种社团展示：跆拳道的、下象棋的、各种球的……看着这群年轻的面孔，回想自己的大一时参加社团活动的那些日子，倒也不免感怀，大学呀大学，真好，在这里也给上大学的各位朋友们一个建议：社团是一个很好的社交圈子，珍惜大学认识的那些朋友吧。
 
-到了考场，人还挺多，有二楼三楼两三个考场吧，应该也有几百号人，我的考场是在302，看了下门口的名单，我座位号64，呵呵，好和谐，瞄了一眼其他人，相比上次[网易](http://luolei.org/2013/10/2014-netease-front-end-campus-test/)的笔试，这次来笔试的人的学校比较杂，网页重构差不多也有八十一百来号人吧，除了广州本地的高校，还有广东省内的一些其他高校。
+到了考场，人还挺多，有二楼三楼两三个考场吧，应该也有几百号人，我的考场是在302，看了下门口的名单，我座位号64，呵呵，好和谐，瞄了一眼其他人，相比上次[网易](https://luolei.org/2013/10/2014-netease-front-end-campus-test/)的笔试，这次来笔试的人的学校比较杂，网页重构差不多也有八十一百来号人吧，除了广州本地的高校，还有广东省内的一些其他高校。
 
 2点开考，首先签到，迅雷这个笔试看样子不是外包，直接拿学生卡到前面，报上自己的座位号，监考考官就给你在名单上划了一个勾，考试2个小时。首先发了一个「应聘意向表」，然后每天一套试卷，两张空白纸（答题卡），考官提示在白纸上写上姓名、学校、专业、应聘岗位、电话。
 
@@ -19,11 +20,11 @@ date: "2013-10-11"
 
 下面就说说几个代码题目吧 1.给出一个400px\*20px 的图片，实现进度条效果，主要考察 css sprite 的应用。
 
-<iframe src="http://jsfiddle.net/foru17/TSVMH/embedded/result,html,css" height="300" width="100%" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe src="https://jsfiddle.net/foru17/TSVMH/embedded/result,html,css" height="300" width="100%" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 2.实现居中的三个同心圆，考察对 postion 的 relative 和 absolute 的理解。
 
-<iframe src="http://jsfiddle.net/foru17/5a4Aa/embedded/result,html,css" height="300" width="100%" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe src="https://jsfiddle.net/foru17/5a4Aa/embedded/result,html,css" height="300" width="100%" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 3.用 javascript 实现在 `i1`和`i3`之间插入一个 `<div id="i2"></div>`
 

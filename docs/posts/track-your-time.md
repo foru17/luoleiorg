@@ -1,13 +1,14 @@
 ---
-title: "时间都去哪了?用RescueTime和WakaTime来记录你的时间"
-date: "2015-04-08"
+cover: https://c2.llyz.xyz/blog/2015/04/track-time.jpg
+date: '2015-04-08'
+title: 时间都去哪了?用RescueTime和WakaTime来记录你的时间
 ---
 
-![full-img](https://static.is26.com/blog/2015/04/track-time.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/04/track-time.jpg)
 
 > 时间是不会说谎的
 
-这句话，我跟几个朋友都说到过。2013年的一个夏天晚上，跟好朋友[@郭宇](http://weibo.com/137601206)在深圳红树林散步，当时刚刚学前端没多久，还在家自学，跟他聊到职业相关的东西，他说到一句话「你看看你是不是真的想敲代码，如果真的想，你每天花五个小时code，三个月后，也不怕找不到工作……」。
+这句话，我跟几个朋友都说到过。2013年的一个夏天晚上，跟好朋友[@郭宇](https://weibo.com/137601206)在深圳红树林散步，当时刚刚学前端没多久，还在家自学，跟他聊到职业相关的东西，他说到一句话「你看看你是不是真的想敲代码，如果真的想，你每天花五个小时code，三个月后，也不怕找不到工作……」。
 
 三个月后，我并没有敲五个小时代码，还是阴差阳错，机缘巧合，找到了工作，进入了前端这个行业，恩，那段时间我差不多每天花十个小时在Code上面。
 
@@ -19,17 +20,17 @@ date: "2015-04-08"
 
 [RescueTime](https://www.rescuetime.com)是一款著名的跨平台行为追踪时间记录服务，在OSX、PC、浏览器、Android都有应用，基础服务免费，高级附加服务另外收费。
 
-![full-img](https://static.is26.com/blog/2015/04/rescuetime1.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/04/rescuetime1.jpg)
 
 每周，我都会收到来自ResueTime的周报，提示我上周我在电脑上，工作了多长时间，分别使用了什么软件多久，相比再前一周和历史，有什么变化。
 
-![full-img](https://static.is26.com/blog/2015/04/rescuetime2.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/04/rescuetime2.jpg)
 
 我在公司使用的是iMac，自己还有一台Macbook，两台机器都安装了RescueTime，选择开机自动启动，这样每次开机，都能自动运行，开始记录自己所有的行为。登录网站，就能查看自己过每天、每周、每月的数据，以图表的方式，详细地展示你都用电脑做了什么。
 
 RescueTime会统计你使用不同App的时间，根据分类，告诉你分别花了多少时间在开发、设计、聊天、娱乐和其他上面。
 
-![full-img](https://static.is26.com/blog/2015/04/rescuetime4.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/04/rescuetime4.jpg)
 
 除了分类行为时间统计，RescueTime还可以告诉你每个分类详细的细节，比如说我在"Software Development"软件开发中，使用最多的就是Sublime Text和iterm终端，而访问最多的就是自己的博客。 除了时间统计，RecueTime还可以给自己设置目标，可以激励自己不断地提高效率。
 
@@ -37,13 +38,13 @@ RescueTime会统计你使用不同App的时间，根据分类，告诉你分别�
 
 除了RescueTime，另外我要推荐开发者 WakaTime，虽说 RescueTime 已经可以很清晰地告诉你花了多少时间在哪项项目上，可是针对「某个具体项目」的统计，就无能为力了，这个时候就是WakaTime神器出场的时候。
 
-![full-img](https://static.is26.com/blog/2015/04/rescuetime3.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/04/rescuetime3.jpg)
 
 [WakaTime](https://wakatime.com)可以做到精确地统计到你花在某个项目上的时间。WakaTime针对不同的IDE，拥有不同的插件，我最常用的IDE是Sublime，配合[Sublime插件](https://wakatime.com/help/plugins/sublime)，就能统计到我使用Sublime进行的所有项目的行为。
 
-![full-img](https://static.is26.com/blog/2015/04/wakatime1.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/04/wakatime1.jpg)
 
-![full-img](https://static.is26.com/blog/2015/04/wakatime2.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/04/wakatime2.jpg)
 
 进入某一个项目，能详细地知道你花在某一个文件上的时间，上图就是我昨晚优化Ghost主题[Nevecoo](https://github.com/foru17/nevecoo)的详细数据。
 

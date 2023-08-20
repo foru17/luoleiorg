@@ -1,13 +1,14 @@
 ---
-title: "2019年，我使用的加强版 VLOG 摄影装备 | 实用配件分享 | VLOG50"
-date: "2019-06-11"
-categories: 
-  - "tech"
-  - "zuoluotv"
-tags: 
-  - "vlog"
-  - "photography"
-  - "digital"
+categories:
+- tech
+- zuoluotv
+cover: https://c2.llyz.xyz/default.cover.jpg
+date: '2019-06-11'
+tags:
+- vlog
+- photography
+- digital
+title: 2019年，我使用的加强版 VLOG 摄影装备 | 实用配件分享 | VLOG50
 ---
 
 很久没跟大家分享摄影器材相关了，2019年，我的 VLOG 摄影装备从光、声音、续航三方面，也进行了一些小升级，有了明显的加强。
@@ -29,5 +30,5 @@ https://www.youtube.com/watch?v=uqBGuB9JL7w
 - LED灯 : [iwata LED补光灯](https://zuoluo.tv/iwata-led)
 - 云台: [蜗牛阻尼云台](https://zuoluo.tv/selens-mount)
 - F970电池: [NP-F970电池](https://zuoluo.tv/np-f970)
-- 电池挂板: [F970电池挂板](http://zuoluo.tv/f970-adapter)
+- 电池挂板: [F970电池挂板](https://zuoluo.tv/f970-adapter)
 - A6500假电池: [FW-50假电池](https://zuoluo.tv/a6500-external-battery)

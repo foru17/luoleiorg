@@ -1,10 +1,11 @@
 ---
-title: "开箱 | 平均1GB 7毛5 | 海康威视 HIKVISION C2000 1TB 固态硬盘"
-date: "2019-06-09"
-categories: 
-  - "tech"
-tags: 
-  - "digital"
+categories:
+- tech
+cover: https://c2.llyz.xyz/blog/2019/06/c2000/t-11.png
+date: '2019-06-09'
+tags:
+- digital
+title: 开箱 | 平均1GB 7毛5 | 海康威视 HIKVISION C2000 1TB 固态硬盘
 ---
 
 从去年开始，由于涉及视频剪辑，我的工作电脑，已经转到了PC工作站。目前我的PC挂了三块SSD:
@@ -19,8 +20,8 @@ tags:
 
 C2000有两个系列，还有一个是C2000 Pro，Pro用的是东芝TCL颗粒，可惜的是只有512G的版本，没有1TB的版本。
 
-- [海康威视 C2000 PRO 512G](http://zuoluo.tv/c2000-pro):建议买Pro版，就贵几十块钱。
-- [海康威视C2000 1TB](http://zuoluo.tv/c2000)
+- [海康威视 C2000 PRO 512G](https://zuoluo.tv/c2000-pro):建议买Pro版，就贵几十块钱。
+- [海康威视C2000 1TB](https://zuoluo.tv/c2000)
 
 第一次听说这个牌子，还是得感谢川普，之前也没怎么关注国产品牌SSD，心里总还是觉得数据这东西，还是原厂、国外品牌什么的靠谱点。
 
@@ -32,37 +33,37 @@ C2000有两个系列，还有一个是C2000 Pro，Pro用的是东芝TCL颗粒，
 
 最后，还是没有禁得住价格上的优势，特价加上优惠券，以729的价格，六期免息，撸了海康这个1TB的C2000。
 
-![](https://static.is26.com/blog/2019/06/c2000/t-11.png)
+![](https://c2.llyz.xyz/blog/2019/06/c2000/t-11.png)
 
 ## 开箱
 
-![](https://static.is26.com/blog/2019/06/c2000/s-2.jpg) 红色的包装，略廉价感。 ![](https://static.is26.com/blog/2019/06/c2000/s-3.jpg) 背部半漏出SSD本身，写明了「10年质保」。 ![](https://static.is26.com/blog/2019/06/c2000/s-4.jpg) 打开包装，SSD本体，也有一个散热外壳，散热壳质感不错。 ![](https://static.is26.com/blog/2019/06/c2000/s-5.jpg) ![](https://static.is26.com/blog/2019/06/c2000/s-7.jpg) 还另外送了一个散热贴和拆卸用的小螺丝，粉红色的是硅脂导热垫，这就是包装盒里的全部东西了。
+![](https://c2.llyz.xyz/blog/2019/06/c2000/s-2.jpg) 红色的包装，略廉价感。 ![](https://c2.llyz.xyz/blog/2019/06/c2000/s-3.jpg) 背部半漏出SSD本身，写明了「10年质保」。 ![](https://c2.llyz.xyz/blog/2019/06/c2000/s-4.jpg) 打开包装，SSD本体，也有一个散热外壳，散热壳质感不错。 ![](https://c2.llyz.xyz/blog/2019/06/c2000/s-5.jpg) ![](https://c2.llyz.xyz/blog/2019/06/c2000/s-7.jpg) 还另外送了一个散热贴和拆卸用的小螺丝，粉红色的是硅脂导热垫，这就是包装盒里的全部东西了。
 
-![](https://static.is26.com/blog/2019/06/c2000/s-6.jpg) C2000本体有一块贴纸，安装散热壳之前要先撕掉这个。 ![](https://static.is26.com/blog/2019/06/c2000/s-1.jpg) 撕掉贴之后，群联E12主控，是海力士的缓存，具体的参数、性能那些，张大妈上面有很详细的评测，从结论看下来，大概就是「硬件底子不错，算是比较好的解决方案」。
+![](https://c2.llyz.xyz/blog/2019/06/c2000/s-6.jpg) C2000本体有一块贴纸，安装散热壳之前要先撕掉这个。 ![](https://c2.llyz.xyz/blog/2019/06/c2000/s-1.jpg) 撕掉贴之后，群联E12主控，是海力士的缓存，具体的参数、性能那些，张大妈上面有很详细的评测，从结论看下来，大概就是「硬件底子不错，算是比较好的解决方案」。
 
-![](https://static.is26.com/blog/2019/06/c2000/s-8.jpg) 粘上硅脂导热垫，装上壳后，看起来颜值还可以。
+![](https://c2.llyz.xyz/blog/2019/06/c2000/s-8.jpg) 粘上硅脂导热垫，装上壳后，看起来颜值还可以。
 
-![](https://static.is26.com/blog/2019/06/c2000/s-9.jpg) 装机咯，主板是雕Z370 Gaming 3，有两个M.2接口。
+![](https://c2.llyz.xyz/blog/2019/06/c2000/s-9.jpg) 装机咯，主板是雕Z370 Gaming 3，有两个M.2接口。
 
-![](https://static.is26.com/blog/2019/06/c2000/s-10.jpg) ![](https://static.is26.com/blog/2019/06/c2000/s-13.jpg) 由于显卡下面还插了一个雷电3拓展卡，空间比较狭小，拆了显卡后才装上去的。
+![](https://c2.llyz.xyz/blog/2019/06/c2000/s-10.jpg) ![](https://c2.llyz.xyz/blog/2019/06/c2000/s-13.jpg) 由于显卡下面还插了一个雷电3拓展卡，空间比较狭小，拆了显卡后才装上去的。
 
-![](https://static.is26.com/blog/2019/06/c2000/s-11.jpg) 靠近CPU的M.2接口装的是我三星 960 EVO。
+![](https://c2.llyz.xyz/blog/2019/06/c2000/s-11.jpg) 靠近CPU的M.2接口装的是我三星 960 EVO。
 
 接下来，就看看实际数据吧。
 
 ## 软件测分
 
-![](https://static.is26.com/blog/2019/06/c2000/t-12.png) 实际可用容量953GB，729元/953GB，算下来0.76元1GB，SSD这一年降价真是挺多。
+![](https://c2.llyz.xyz/blog/2019/06/c2000/t-12.png) 实际可用容量953GB，729元/953GB，算下来0.76元1GB，SSD这一年降价真是挺多。
 
-![](https://static.is26.com/blog/2019/06/c2000/t-1.jpg) ![](https://static.is26.com/blog/2019/06/c2000/t-14.png) C2000 空盘测试，分数还是挺不错的。装上马甲后待机温度40摄氏度。
+![](https://c2.llyz.xyz/blog/2019/06/c2000/t-1.jpg) ![](https://c2.llyz.xyz/blog/2019/06/c2000/t-14.png) C2000 空盘测试，分数还是挺不错的。装上马甲后待机温度40摄氏度。
 
-![](https://static.is26.com/blog/2019/06/c2000/t-13.png) ![](https://static.is26.com/blog/2019/06/c2000/t-15.png) 再来对比一下三星970EVO，50%满盘读取速度相差还是挺大的，待机温度44摄氏度，**不严谨，仅供参考了**。
+![](https://c2.llyz.xyz/blog/2019/06/c2000/t-13.png) ![](https://c2.llyz.xyz/blog/2019/06/c2000/t-15.png) 再来对比一下三星970EVO，50%满盘读取速度相差还是挺大的，待机温度44摄氏度，**不严谨，仅供参考了**。
 
 ## 大文件拷贝
 
-![](https://static.is26.com/blog/2019/06/c2000/t-9.jpg) 从C2000里，拷贝一个22G的视频文件到960 EVO，都是NVME M.2，一开始速度2.5GB/s，后段降速到500MB/s的样子。
+![](https://c2.llyz.xyz/blog/2019/06/c2000/t-9.jpg) 从C2000里，拷贝一个22G的视频文件到960 EVO，都是NVME M.2，一开始速度2.5GB/s，后段降速到500MB/s的样子。
 
-![](https://static.is26.com/blog/2019/06/c2000/t-10.jpg) 反向将这个22G的视频文件，从960 EVO，拷贝到C2000，前期1.5GB/s，后面慢慢降速到1.4GB/s。
+![](https://c2.llyz.xyz/blog/2019/06/c2000/t-10.jpg) 反向将这个22G的视频文件，从960 EVO，拷贝到C2000，前期1.5GB/s，后面慢慢降速到1.4GB/s。
 
 由于我入这块盘，主要目的就是 Adobe Premiere 视频剪辑当素材盘，4K剪辑，多轨预览、渲染时，由于Premiere的缓存策略，经常会吃满SATA的SSD的缓存然后降速到读取只有50MB/s，换了C2000这快盘，应该能改善不少体验。
 

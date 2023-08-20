@@ -1,9 +1,10 @@
 ---
-title: "让前端工作更快、更智能:利用StaticPage自动化工作流"
-date: "2014-04-27"
+cover: https://c2.llyz.xyz/wp-image/2014/03/smart-with-static.jpg
+date: '2014-04-27'
+title: 让前端工作更快、更智能:利用StaticPage自动化工作流
 ---
 
-![full-img](https://static.is26.com/wp-image/2014/03/smart-with-static.jpg)
+![full-img](https://c2.llyz.xyz/wp-image/2014/03/smart-with-static.jpg)
 
 对于前端的工作，经常会有专题页或者静态页的需求，这段时间做了几个静态页面的需求，自己摸索出了一些门道，在这里分享一下自己对此类开发工作的一些经验和流程，以及自己的一些思考，希望能对大家有所帮助。
 
@@ -59,11 +60,11 @@ macbook虚拟机里装Windows XP: 留着原生的IE6（啊~~我们的访客\*\*%
 
 ##### 使用Grunt
 
-刚接触到Grunt，是自学前端的时候看国外的视频介绍[Yeoman](http://yeoman.io/)，后来研究发现了Grunt，bower这一套前端自动化、模块化开发工具和流程。我发现一个有趣的现象，就是国外的前端开发人员基本上都是使用Mac和OS系统，并且大量开发者熟悉和习惯命令行这一套，国内开发者则大多是Windows+图形化界面，这其中倒也可以看出中外开发者的一些习惯差异。
+刚接触到Grunt，是自学前端的时候看国外的视频介绍[Yeoman](https://yeoman.io/)，后来研究发现了Grunt，bower这一套前端自动化、模块化开发工具和流程。我发现一个有趣的现象，就是国外的前端开发人员基本上都是使用Mac和OS系统，并且大量开发者熟悉和习惯命令行这一套，国内开发者则大多是Windows+图形化界面，这其中倒也可以看出中外开发者的一些习惯差异。
 
 ##### 使用StaticPage（其实这是这篇文章的重点 ╮(╯\_╰)╭ ）
 
-[StaticPage](https://github.com/foru17/StaticPage)是我根据自己的工作需要配置的一套`Gruntfile.js`，基于[Grunt](http://gruntjs.com/)，需要[node.js](http://nodejs.org/)，至于配置Nodejs，大家可自行谷歌百度。
+[StaticPage](https://github.com/foru17/StaticPage)是我根据自己的工作需要配置的一套`Gruntfile.js`，基于[Grunt](https://gruntjs.com/)，需要[node.js](https://nodejs.org/)，至于配置Nodejs，大家可自行谷歌百度。
 
 该项目的地址为：
 
@@ -77,7 +78,7 @@ https://github.com/foru17/StaticPage
 
 好吧，实际上这个`StaticPage`属于轮子，只不过自己根据自己的需求定制而已，现在已经存有类似的模板、样板或者workflow。
 
-比如说[html5boilerplate](https://github.com/h5bp/html5-boilerplate)，或者更高大上的[Yeoman](http://yeoman.io/)，html5boilerplate给我们展示了一个优秀的、完整的网站模板，其中的文件结构很值得我们学习，而Yeoman则直接给我们提供了一套完全自动化的工具，集合Grunt、bower、yo，自动编译压缩、处理图片、livereload等等可谓让前端开发一下子赶英超美到达潮流前线，感受一下这边重写一下css和js，几台甚至十几台设备自动刷新进行适配测试的壮观场景：高大上的感觉有木有。
+比如说[html5boilerplate](https://github.com/h5bp/html5-boilerplate)，或者更高大上的[Yeoman](https://yeoman.io/)，html5boilerplate给我们展示了一个优秀的、完整的网站模板，其中的文件结构很值得我们学习，而Yeoman则直接给我们提供了一套完全自动化的工具，集合Grunt、bower、yo，自动编译压缩、处理图片、livereload等等可谓让前端开发一下子赶英超美到达潮流前线，感受一下这边重写一下css和js，几台甚至十几台设备自动刷新进行适配测试的壮观场景：高大上的感觉有木有。
 
 但是，强大归强大，牛逼归牛逼，不得不说，在不少场景，尤其是我们只进行简单静态页开发的情况下，使用这两个东西还充满了**高射炮打飞机**、和**杀鸡用牛刀**的虐杀和冗余感，每次还要删除多余的文件，让我多少还是有点不爽。另外，这两个文档主要还是英文，也给国内的不少开发者带来了语言上的阻碍（我们不得不承认，不少开发者面对非母语还是有抵触情绪的）。
 
@@ -89,7 +90,7 @@ https://github.com/foru17/StaticPage
 
 ###### StaticPage所包含的tasks
 
-- 支持[Sass](http://sass-lang.com/)编译
+- 支持[Sass](https://sass-lang.com/)编译
 - CSS文件压缩
 - js文件文件压缩: uglify
 - 自动监测文件变化:自动编译和压缩
@@ -116,19 +117,19 @@ git clone https://github.com/foru17/StaticPage.git
 mv StaticPage NewProject
 ```
 
-![full-img](https://static.is26.com/wp-image/2014/03/auto1.png)
+![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto1.png)
 
 2.新的文件夹建好了，我们用常用编辑器打开看看，可以看到文件结构十分明了:
 
 首先，养成好习惯，在文档中写上该项目的一些信息，嗯哼，留下自己的印记嘛。
 
-![full-img](https://static.is26.com/wp-image/2014/03/auto2.png)
+![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto2.png)
 
 当然，首先别忘了把`package.json`和`Gruntfile.js`里的项目名词改一下，注意`package.json`中的名称只能使用英文，否则会报错。
 
-![full-img](https://static.is26.com/wp-image/2014/03/auto3.jpg)
+![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto3.jpg)
 
-![full-img](https://static.is26.com/wp-image/2014/03/auto4.jpg)
+![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto4.jpg)
 
 3.接下来，我们按照文档，安装npm依赖包，当然是在`NewProject`的目录下执行。
 
@@ -136,8 +137,8 @@ mv StaticPage NewProject
 npm install
 ```
 
-![full-img](https://static.is26.com/wp-image/2014/03/auto5.png)  
-经过漫长的等待（国内访问npm官网速度有点慢:可以使用淘宝的npm镜像，方法参考[cnpm](http://cnpmjs.org/)），安装好后，我们就可以进行开发啦。
+![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto5.png)  
+经过漫长的等待（国内访问npm官网速度有点慢:可以使用淘宝的npm镜像，方法参考[cnpm](https://cnpmjs.org/)），安装好后，我们就可以进行开发啦。
 
 4.针对开发，我们设置了几套方法，分别是
 
@@ -149,21 +150,21 @@ npm install
 
 需要注意的是，我们发布到FTP服务器时，需要在`Gruntfile.js`中进行相应的配置，配置如图。
 
-![full-img](https://static.is26.com/wp-image/2014/03/auto6.jpg)  
-这时，我们做一个简单的页面，执行`grunt watch:base`，这时候如果我们修改css文件或者js文件，终端会自动显示监测到的变化，并且检查是否出错（会提示什么文件哪一行出错），最终压缩好了`min.style.css`。 ![auto2](https://static.is26.com/wp-image/2014/03/auto7.jpg)
+![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto6.jpg)  
+这时，我们做一个简单的页面，执行`grunt watch:base`，这时候如果我们修改css文件或者js文件，终端会自动显示监测到的变化，并且检查是否出错（会提示什么文件哪一行出错），最终压缩好了`min.style.css`。 ![auto2](https://c2.llyz.xyz/wp-image/2014/03/auto7.jpg)
 
 经过开发，终于搞掂了，接下来我们就要发布上线了，先打包下，执行`grunt bundle`
 
-![full-img](https://static.is26.com/wp-image/2014/03/auto8.jpg)  
+![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto8.jpg)  
 稍等几秒，看到我们的小mac正在奋力进行一系列工作：清空原先的文件、复制、压缩、打包……Bingo！
 
 这个时候，我们进到我们的文件目录，一个简单好看的`.zip`压缩包已经生成啦，打开一看，里面是干干净净的代码（全部是`build/`文件夹中的文件 ）：代码哥哥轻轻地走了，就如同他轻轻地来，不带走一片多余的文件~ ~
 
-![full-img](https://static.is26.com/wp-image/2014/03/auto9.jpg)
+![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto9.jpg)
 
 咳咳，压缩好了，这下可以发送给测试的同学，或者就自己上传到FTP吧。执行一下`grunt publish`。（此处用另外一个例子演示下），噔噔噔噔，这时我们用FTP客户端登录下我们的FTP看看，最新的文件都上来啦，当然，也是干干净净的代码。
 
-![full-img](https://static.is26.com/wp-image/2014/03/auto10.jpg)
+![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto10.jpg)
 
 #### 总结
 
@@ -177,4 +178,4 @@ npm install
 
 #### 预告
 
-写了这篇没什么技术含量的文章，高手们就莫见笑了，欢迎大家留言讨论。下面的几期文章，将再谈谈我在Mac下的一些开发工具、方法和经验。大家有兴趣的朋友可以关注我的博客[罗磊的独立博客](http://luolei.org)或者微博[@罗罗磊磊](http://weibo.com/foru17)，或者我的微信公共帐号「罗磊啰嗦」（微信号 speakL ）。
+写了这篇没什么技术含量的文章，高手们就莫见笑了，欢迎大家留言讨论。下面的几期文章，将再谈谈我在Mac下的一些开发工具、方法和经验。大家有兴趣的朋友可以关注我的博客[罗磊的独立博客](https://luolei.org)或者微博[@罗罗磊磊](https://weibo.com/foru17)，或者我的微信公共帐号「罗磊啰嗦」（微信号 speakL ）。

@@ -1,11 +1,12 @@
 ---
-title: "让你的网站升级到HTTP/2"
-date: "2015-10-05"
-tags: 
-  - "develop"
+cover: https://c2.llyz.xyz/blog/2015/10/http2.jpg
+date: '2015-10-05'
+tags:
+- develop
+title: 让你的网站升级到HTTP/2
 ---
 
-![full-img](https://static.is26.com/blog/2015/10/http2.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/10/http2.jpg)
 
 相比前端界、APP开发中各种新事物层出不穷，服务端的新标准和新技术相对而言关注的人就少多了，这些标准、技术是互联网的基石，可是跟消费者、用户有点距离，什么毫秒级别100%的乃至500%的性能提升，多少KB字节的优化balabala对于用户来说也是没有多大感受，某种程度上，觉得倒蛮心疼的，吃水的不会记得挖井的人，吃好水的人记不住保护环境的人，最后记住的都是饮水机的代言人。
 
@@ -30,7 +31,7 @@ HTTP/2今年也算是一个热点，几经扭转，终于在今年5月定稿发�
 
 挺欣赏[@屈光宇](https://twitter.com/qgy18)前辈的，对HTTP和Web性能的研究十分深入，他的博客就是集Web优化大成者。
 
-下面说下如何升级到HTTP/2，目前[nginx 1.9.5](http://nginx.org/en/CHANGES)已经实验性地支持HTTP/2了。
+下面说下如何升级到HTTP/2，目前[nginx 1.9.5](https://nginx.org/en/CHANGES)已经实验性地支持HTTP/2了。
 
 #### SSL部署
 
@@ -45,7 +46,7 @@ HTTP/2今年也算是一个热点，几经扭转，终于在今年5月定稿发�
 ```bash
 [nginx]
 name=nginx repo
-baseurl=http://nginx.org/packages/mainline/centos/$releasever/$basearch/
+baseurl=https://nginx.org/packages/mainline/centos/$releasever/$basearch/
 gpgcheck=0
 enabled=1
 ```
@@ -57,8 +58,8 @@ enabled=1
 同理，首先修改apt仓库源`/etc/apt/source.list`的地址，增加下面两行仓库。
 
 ```bash
-deb http://nginx.org/packages/mainline/debian/ codename nginx
-deb-src http://nginx.org/packages/mainline/debian/ codename nginx
+deb https://nginx.org/packages/mainline/debian/ codename nginx
+deb-src https://nginx.org/packages/mainline/debian/ codename nginx
 ```
 
 接下来执行`apt-get clean && apt-get install nginx`即可。
@@ -101,13 +102,13 @@ nginx: [warn] invalid parameter "spdy": ngx_http_spdy_module was superseded by n
 
 这个时候回到你的浏览器，打开开发者工具，进入`网络Network`，打开`Protocol`。
 
-![full-img](https://static.is26.com/blog/2015/10/http-dev.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/10/http-dev.jpg)
 
 刷新一下你的网页，主域的`Protocol`已经变了成了`h2`，这就意味着已经成功升级到HTTP/2。
 
 或者使用Chrome的网络工具，在地址栏中输入`chrome://net-internals/#http2`
 
-![full-img](https://static.is26.com/blog/2015/10/http2-chrome.jpg)
+![full-img](https://c2.llyz.xyz/blog/2015/10/http2-chrome.jpg)
 
 这个时候，应该也能看到你网站的请求信息，`Protocol Negotiated`一栏也已经变成了`h2`。
 
@@ -115,9 +116,9 @@ nginx: [warn] invalid parameter "spdy": ngx_http_spdy_module was superseded by n
 
 对于HTTPS、SPDY和HTTP/2性能的比较，推荐可以参考：
 
-- [《HTTPS, SPDY和 HTTP/2性能的简单对比》](http://www.qianduan.net/a-simple-performance-comparison-of-https-spdy-and-http2/)
+- [《HTTPS, SPDY和 HTTP/2性能的简单对比》](https://www.qianduan.net/a-simple-performance-comparison-of-https-spdy-and-http2/)
     
-- [《HTTPS、SPDY和HTTP/2的性能比较》](http://www.infoq.com/cn/news/2015/02/https-spdy-http2-comparison)
+- [《HTTPS、SPDY和HTTP/2的性能比较》](https://www.infoq.com/cn/news/2015/02/https-spdy-http2-comparison)
     
 
 ## 后言

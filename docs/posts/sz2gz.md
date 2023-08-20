@@ -1,13 +1,14 @@
 ---
-title: "深圳广州往返骑行小记2:「雨衣夜行」"
-date: "2012-03-11"
-tags: 
-  - "guangzhou"
-  - "shenzhen"
-  - "e9aa91e8a18c"
+cover: https://c2.llyz.xyz/wp-image/2012/03/IMG_20120312_012310.jpg
+date: '2012-03-11'
+tags:
+- guangzhou
+- shenzhen
+- e9aa91e8a18c
+title: 深圳广州往返骑行小记2:「雨衣夜行」
 ---
 
-[![IMG_20120312_012310](https://static.is26.com/wp-image/2012/03/IMG_20120312_012310_thumb.jpg "2012年3月12日凌晨1点30,暨大防洪第一要塞拱门留影")](https://static.is26.com/wp-image/2012/03/IMG_20120312_012310.jpg)
+![https://c2.llyz.xyz/wp-image/2012/03/IMG_20120312_012310.jpg](https://c2.llyz.xyz/wp-image/2012/03/IMG_20120312_012310.jpg)
 
 昨晚从广州骑行回深圳还算轻松，腰不酸腿不疼，睡一觉后体力也都恢复了。
 
@@ -21,7 +22,7 @@ tags:
 
 饱饱地吃了一餐饭，下午3点多，戴好装备，背好零食，出门。老妈递给我几百块钱（哎，都21岁的人，还是有点不好意思拿钱，主要是因为这两周花了太多钱了），叫我去迪卡侬买一件雨衣，本来心中还纠结了一下有没有必要去迪卡侬买雨衣，最后看到天空的确不好，骑了几分钟到迪卡侬，三下两除一买了一件99文的骑行雨衣。事实证明，这是我今天最明智的决定！
 
-![image](https://static.is26.com/wp-image/2012/03/image5.png "迪卡侬【蓝色货品】成人 自行车 骑行雨披 B'TWIN RAIN JKT 3")在这里也顺便推荐一下迪卡侬bitman「骑行雨衣」。防雨效果尚可，同时具有防风功能，背部有透风口（透气效果尚不知）。价格也能接受。
+![image](https://c2.llyz.xyz/wp-image/2012/03/image5.png "迪卡侬【蓝色货品】成人 自行车 骑行雨披 B'TWIN RAIN JKT 3")在这里也顺便推荐一下迪卡侬bitman「骑行雨衣」。防雨效果尚可，同时具有防风功能，背部有透风口（透气效果尚不知）。价格也能接受。
 
 今天淋了一天小雨（至少7个小时），里面穿了一件迪卡侬49文的抓绒衣，长时间后抓绒衣表面微湿(跟我同行的香港仔没穿雨衣，全身衣裤湿透，最后他受不了了换了一套衣服。).
 
@@ -29,7 +30,7 @@ tags:
 
 这种湿冷的天气，防雨保持衣物干爽颇为重要，长时间骑行，保持自己身体的热量一能保存体力，二是防感冒（那种好几天甚至几十天的骑行，淋一场雨可够呛，看川藏骑行游记，高原上生病是一个很恐怖的事情）
 
-[![image](https://static.is26.com/wp-image/2012/03/image_thumb1.png "迪卡侬 保暖卫衣抓绒衣 冲锋衣内胆 男式多色可选 QUECHUA FOR 50")](https://static.is26.com/wp-image/2012/03/image6.png)防雨重要，可也别忽视了保暖，在这要强烈推荐便宜又好用、性价比超高的「迪卡侬49文抓绒衣」。（突然发现自己怎么像是发广告的了）
+![https://c2.llyz.xyz/wp-image/2012/03/image6.png](https://c2.llyz.xyz/wp-image/2012/03/image6.png)防雨重要，可也别忽视了保暖，在这要强烈推荐便宜又好用、性价比超高的「迪卡侬49文抓绒衣」。（突然发现自己怎么像是发广告的了）
 
 理由嘛：便宜！便宜！便宜！好用！好用！好用！
 
@@ -43,15 +44,15 @@ tags:
 
 在雨中骑行；在9-13度温度的雨中骑行；尤其是没有雨裤在9-13度温度的雨中骑行；是一件很考验人的事情。这次骑行，全程体力都没有多大问题，唯一让我烦的就是这无尽的雨。只买了雨衣，雨裤只剩下一条XL码的不适合就没买，结局是今天骑行，裤子、鞋子、袜子全湿透，下半身冷得那是「蛋碎、臀僵、菊花残」。
 
-[![IMG_20120312_003812](https://static.is26.com/wp-image/2012/03/IMG_20120312_003812_thumb.jpg "下半身惨状:白「回力」变成黑「回力」")](https://static.is26.com/wp-image/2012/03/IMG_20120312_003812.jpg)
+![https://c2.llyz.xyz/wp-image/2012/03/IMG_20120312_003812.jpg](https://c2.llyz.xyz/wp-image/2012/03/IMG_20120312_003812.jpg)
 
 在这里还是要提醒一下骑友，尽量还是少在雨中骑行吧。
 
 #### 路线
 
-<iframe class="wrap" src="http://ditu.google.cn/maps?f=d&amp;source=s_d&amp;saddr=%E5%B9%BF%E5%B7%9E+%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6&amp;daddr=23.12086004487675,113.57098996639252+to:23.120900129886838,113.63343983888626+to:23.087046851571724,113.67740493267775+to:%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%8D%97%E5%B1%B1%E5%8C%BA%E5%8D%97%E6%B5%B7%E5%A4%A7%E9%81%933688%E5%8F%B7%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6+%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+518060&amp;geocode=FfnnYAEdiYzBBiGdFM5143wmhA%3BFdzLYAEdrvTEBimnPJC6HwYDNDGy0FCZaR39jQ%3BFQTMYAEdoOjFBikBOb8aMAkDNDE2L51C2eRewQ%3BFcdHYAEdXJTGBilhrJzw0AsDNDH_WXK7jlwIFA%3BFS3TVwEdIn_KBikdB8wuEu4DNDHFXwcrFW2EhQ&amp;aq=&amp;sll=23.012124,113.628845&amp;sspn=0.417122,0.65712&amp;hl=zh-CN&amp;brcurrent=3,0x34030a94dd8813e5:0x768320300ebc7a43,0,0x315285f132af5c3f:0x2ed41c6f09259f29%3B5,0,0&amp;dirflg=w&amp;mra=mru&amp;via=1,2,3&amp;ie=UTF8&amp;ll=23.012124,113.628845&amp;spn=0.417122,0.65712&amp;t=h&amp;output=embed" width="600" height="350" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe class="wrap" src="https://ditu.google.cn/maps?f=d&amp;source=s_d&amp;saddr=%E5%B9%BF%E5%B7%9E+%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6&amp;daddr=23.12086004487675,113.57098996639252+to:23.120900129886838,113.63343983888626+to:23.087046851571724,113.67740493267775+to:%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%8D%97%E5%B1%B1%E5%8C%BA%E5%8D%97%E6%B5%B7%E5%A4%A7%E9%81%933688%E5%8F%B7%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6+%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+518060&amp;geocode=FfnnYAEdiYzBBiGdFM5143wmhA%3BFdzLYAEdrvTEBimnPJC6HwYDNDGy0FCZaR39jQ%3BFQTMYAEdoOjFBikBOb8aMAkDNDE2L51C2eRewQ%3BFcdHYAEdXJTGBilhrJzw0AsDNDH_WXK7jlwIFA%3BFS3TVwEdIn_KBikdB8wuEu4DNDHFXwcrFW2EhQ&amp;aq=&amp;sll=23.012124,113.628845&amp;sspn=0.417122,0.65712&amp;hl=zh-CN&amp;brcurrent=3,0x34030a94dd8813e5:0x768320300ebc7a43,0,0x315285f132af5c3f:0x2ed41c6f09259f29%3B5,0,0&amp;dirflg=w&amp;mra=mru&amp;via=1,2,3&amp;ie=UTF8&amp;ll=23.012124,113.628845&amp;spn=0.417122,0.65712&amp;t=h&amp;output=embed" width="600" height="350" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-[查看大图](http://ditu.google.cn/maps?f=d&source=embed&saddr=%E5%B9%BF%E5%B7%9E+%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6&daddr=23.12086004487675,113.57098996639252+to:23.120900129886838,113.63343983888626+to:23.087046851571724,113.67740493267775+to:%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%8D%97%E5%B1%B1%E5%8C%BA%E5%8D%97%E6%B5%B7%E5%A4%A7%E9%81%933688%E5%8F%B7%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6+%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+518060&geocode=FfnnYAEdiYzBBiGdFM5143wmhA%3BFdzLYAEdrvTEBimnPJC6HwYDNDGy0FCZaR39jQ%3BFQTMYAEdoOjFBikBOb8aMAkDNDE2L51C2eRewQ%3BFcdHYAEdXJTGBilhrJzw0AsDNDH_WXK7jlwIFA%3BFS3TVwEdIn_KBikdB8wuEu4DNDHFXwcrFW2EhQ&aq=&sll=23.012124,113.628845&sspn=0.417122,0.65712&hl=zh-CN&brcurrent=3,0x34030a94dd8813e5:0x768320300ebc7a43,0,0x315285f132af5c3f:0x2ed41c6f09259f29%3B5,0,0&dirflg=w&mra=mru&via=1,2,3&ie=UTF8&ll=23.012124,113.628845&spn=0.417122,0.65712&t=h)
+[查看大图](https://ditu.google.cn/maps?f=d&source=embed&saddr=%E5%B9%BF%E5%B7%9E+%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6&daddr=23.12086004487675,113.57098996639252+to:23.120900129886838,113.63343983888626+to:23.087046851571724,113.67740493267775+to:%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%8D%97%E5%B1%B1%E5%8C%BA%E5%8D%97%E6%B5%B7%E5%A4%A7%E9%81%933688%E5%8F%B7%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6+%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+518060&geocode=FfnnYAEdiYzBBiGdFM5143wmhA%3BFdzLYAEdrvTEBimnPJC6HwYDNDGy0FCZaR39jQ%3BFQTMYAEdoOjFBikBOb8aMAkDNDE2L51C2eRewQ%3BFcdHYAEdXJTGBilhrJzw0AsDNDH_WXK7jlwIFA%3BFS3TVwEdIn_KBikdB8wuEu4DNDHFXwcrFW2EhQ&aq=&sll=23.012124,113.628845&sspn=0.417122,0.65712&hl=zh-CN&brcurrent=3,0x34030a94dd8813e5:0x768320300ebc7a43,0,0x315285f132af5c3f:0x2ed41c6f09259f29%3B5,0,0&dirflg=w&mra=mru&via=1,2,3&ie=UTF8&ll=23.012124,113.628845&spn=0.417122,0.65712&t=h)
 
 广州<>深圳的来回骑行路线一样，都是走的G107，从深圳大学到暨南大学大概120公里（今天码表实际走了125km），在这里推荐一下Google地图，每次骑行之前，尤其是在城市骑行，都可以查一下google地图，功能强大，覆盖面广。以上为此次骑行的精确路线，这种国道骑行没有什么技巧，一路跟着路牌走就OK了。友情提示「注意安全」，G107的车还是挺多的，晚上有些泥头车大货车速度也吓人。
 
@@ -67,7 +68,7 @@ tags:
 
 2.若背包，请给你的包也戴上防雨罩。否则后果见图。
 
-[![IMG_20120312_045350](https://static.is26.com/wp-image/2012/03/IMG_20120312_045350_thumb.jpg "IMG_20120312_045350")](https://static.is26.com/wp-image/2012/03/IMG_20120312_045350.jpg)
+![https://c2.llyz.xyz/wp-image/2012/03/IMG_20120312_045350.jpg](https://c2.llyz.xyz/wp-image/2012/03/IMG_20120312_045350.jpg)
 
 这种小长途背个包其实没有什么所谓，像我就背一个普通的NIKE包，放上一些零食和充电器，也不重。
 
@@ -77,6 +78,6 @@ tags:
 
 > 5.找一个伴一起骑，能相互照应下，今天在路上香港仔的车出了两次问题，一次大盘bug，一次断链，都陪他一起搞定了。 未来这两个月，还准备几次小长途，不知道大家有什么广州附近的地方推荐呢？ 一切为了「五月川藏南线」，上路去！！ 一下子写到凌晨5点，天都要亮了，却不困，睡觉去了，要不怕感冒了。
 
-我的博客：[http://luolei.org](http://luolei.org)
+我的博客：[https://luolei.org](https://luolei.org)
 
-我的新浪微博:[@罗罗磊磊](http://weibo.com/foru17) [http://weibo.com/foru17](http://weibo.com/foru17)
+我的新浪微博:[@罗罗磊磊](https://weibo.com/foru17) [https://weibo.com/foru17](https://weibo.com/foru17)

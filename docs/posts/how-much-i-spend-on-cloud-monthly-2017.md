@@ -1,8 +1,9 @@
 ---
-title: "我的云账单:2017篇"
-date: "2017-12-26"
-categories: 
-  - "code"
+categories:
+- code
+cover: https://c2.llyz.xyz/blog/2017/12/cloud/c2.jpg
+date: '2017-12-26'
+title: 我的云账单:2017篇
 ---
 
 两年前，我在博客写了一篇[《你有几张「云」账单？》](https://luolei.org/how-much-i-spend-on-cloud-monthly/)，记录了自己每个月在不同的云服务、会员服务上的花销。
@@ -11,7 +12,7 @@ categories:
 
 #### 1.阿里云(国内版)
 
-![](https://static.is26.com/blog/2017/12/cloud/c2.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c2.jpg)
 
 使用阿里云已经三年，这台服务器主要用来挂靠我的博客和备案的域名，由于业务量不大，所以选择的还是按流量计费的最低配置，1核CPU，1G内存，100Mbps的最高流量，1G/0.8元。由于博客所有的静态资源都放在了CDN上，博客的带宽流量十分有限。
 
@@ -25,7 +26,7 @@ categories:
 
 #### 2.阿里云(国际版)
 
-![](https://static.is26.com/blog/2017/12/cloud/c3.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c3.jpg)
 
 由于我经常需要访问Youtube（流量消耗大户），使用Google等服务，我需要一个稳定、告诉、可靠的香港服务器。最终弄了一个香港阿里云B区的服务器。1核CPU，1G内存，200Mbps的最高流量，基本价格是 ****$3.50 美元****同样是按照流量计费。由于是活动的时候申请的，每个月 ****$5.50 美元****有1TB(1000GB)流量。
 
@@ -39,7 +40,7 @@ categories:
 
 #### 3.腾讯云
 
-![](https://static.is26.com/blog/2017/12/cloud/c4.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c4.jpg)
 
 之所以选择腾讯云，一开始看到V2EX上面的一个帖子说腾讯云香港也变成CN2线路了，想着价格也比较便宜，就去申请一个看Youtube，后来陆续把老婆的[博客YANG.STYLE](https://yang.style)（面向全球）还有几个后台程序跑到了上面。所以这台服务目前倒成了主力机器，配置也比较高。2核CPU,内存2GB，峰值带宽200Mbps，同样是按照流量计费。
 
@@ -53,7 +54,7 @@ categories:
 
 #### 4.又拍云
 
-![](https://static.is26.com/blog/2017/12/cloud/c5.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c5.jpg)
 
 又拍云是我使用了5年以上的云服务，目前我的博客的所有静态资源、视频等都托管在又拍云上，这也是为什么我的服务器都选择按流量收费的原因。
 
@@ -69,11 +70,11 @@ categories:
 
 #### 5.印象笔记
 
-![](https://static.is26.com/blog/2017/12/cloud/c7.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c7.jpg)
 
 同过去一样，我还是印象笔记的用户，我购买的是「高级账号」，要到2021年才到期，每个月10G流量，文档深度搜索，标注PDF这些都是十分实际的功能。
 
-![](https://static.is26.com/blog/2017/12/cloud/c6.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c6.jpg)
 
 **总月费**: ****￥12元****/月或者 ****￥98元****/年。
 
@@ -85,7 +86,7 @@ categories:
 
 #### 6.iCloud
 
-![](https://static.is26.com/blog/2017/12/cloud/c8.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c8.jpg)
 
 使用 iPhone 的人基本都会开，同步相册比较实用（也有点危险），5元50G，21元200G。
 
@@ -97,7 +98,7 @@ categories:
 
 #### 6.百度网盘
 
-![](https://static.is26.com/blog/2017/12/cloud/c9.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c9.jpg)
 
 我目前**唯一使用的百度产品**，算是没良心的百度为数不多的良心产品。
 
@@ -109,11 +110,11 @@ categories:
 
 #### 6.Setapp
 
-![](https://static.is26.com/blog/2017/12/cloud/c10.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c10.jpg)
 
 一个订阅版的Mac App Store。每个月9.9刀，将近50款常见的Mac App。比如[CleanMyMac](https://macpaw.com/cleanmymac)、[Ulysses](https://www.ulyssesapp.com/)、[Paste](https://pasteapp.me/)等，全部正版化。
 
-![](https://static.is26.com/blog/2017/12/cloud/c11.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c11.jpg)
 
 **总月费**: ****$9.9美元****/月，约****￥65元人民币****。
 
@@ -125,11 +126,11 @@ categories:
 
 #### 7.网易云音乐
 
-![](https://static.is26.com/blog/2017/12/cloud/c12.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c12.jpg)
 
 使用网易云音乐也是好几年了，电台也被调教得符合自己的口味。加上每个月月费不贵，就买了会员。
 
-我平时喜欢听的歌，也都收藏到了我的歌单，大家喜欢的话可以收藏下:[左罗 ZUOLUOTV | MUSIC](http://music.163.com/#/my/m/music/playlist?id=407285116)
+我平时喜欢听的歌，也都收藏到了我的歌单，大家喜欢的话可以收藏下:[左罗 ZUOLUOTV | MUSIC](https://music.163.com/#/my/m/music/playlist?id=407285116)
 
 **总月费**: ****￥8元****/月。
 
@@ -139,7 +140,7 @@ categories:
 
 #### 7.QQ音乐
 
-![](https://static.is26.com/blog/2017/12/cloud/c13.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c13.jpg)
 
 公司员工福利送了一年的QQ音乐，然后每个月又有半价Q币，就续了QQ音乐的绿钻会员。
 
@@ -151,7 +152,7 @@ categories:
 
 #### 7.优酷视频:酷喵会员
 
-![](https://static.is26.com/blog/2017/12/cloud/c14.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c14.jpg)
 
 优酷视频的酷喵会员（支持电视机顶盒的节目），看优酷的所有视频都没有广告了。
 
@@ -163,7 +164,7 @@ categories:
 
 #### 7.腾讯视频:超级影视VIP
 
-![](https://static.is26.com/blog/2017/12/cloud/c15.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c15.jpg)
 
 腾讯超级影视VIP，在电视上同样能看会员节目，主要是老婆要看剧，加上半价Q币没处花，就买了。
 
@@ -175,7 +176,7 @@ categories:
 
 #### 7.乐视视频:影视会员
 
-![](https://static.is26.com/blog/2017/12/cloud/c16.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c16.jpg)
 
 家里买的乐视电视送的会员，以前易到打车冲钱也送了些会员，现在就一直还用着。
 
@@ -187,7 +188,7 @@ categories:
 
 #### 8.新浪微博会员
 
-![](https://static.is26.com/blog/2017/12/cloud/c18.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c18.jpg)
 
 为了使用微博置顶、封面之类的功能使用，有些个人化的功能还是挺实用的，尤其是对于需要运营微博的人来说。
 
@@ -220,7 +221,7 @@ categories:
 - 1.中国电信:十全十美套餐，500M光纤宽带，送了一个手机卡和3个副卡，全国4G流量，本地无限4G流量，每个月 ****￥199元****。
 - 2.中国联通：深圳的老号码了，去年转成了梦想E卡套餐。每个月 ****￥19元****，每个月2G全国流量，语音没有了，每个月有赠送300条短信（老用户）。
 
-![](https://static.is26.com/blog/2017/12/cloud/c17.jpg)
+![](https://c2.llyz.xyz/blog/2017/12/cloud/c17.jpg)
 
 ## 总结
 

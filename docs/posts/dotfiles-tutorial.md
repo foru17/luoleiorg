@@ -1,11 +1,12 @@
 ---
-title: "dotfiles新手教程"
-date: "2013-09-01"
-tags: 
-  - "tutorial"
+cover: https://c2.llyz.xyz/wp-image/2013/09/dotfiles-1024x576.jpg
+date: '2013-09-01'
+tags:
+- tutorial
+title: dotfiles新手教程
 ---
 
-![dotfiles](https://static.is26.com/wp-image/2013/09/dotfiles-1024x576.jpg)  
+![dotfiles](https://c2.llyz.xyz/wp-image/2013/09/dotfiles-1024x576.jpg)  
 大概四个月前，跟朋友聊天，谈到了dotfiles的问题，当时还不知道dotfiles这东西是什么，回去google一下，看得一堆文件想着这什么跟什么啊，就没管了，后来又见paul irish在视频中提到了dotfiles，想着来点钻研精神，就仔细地研究了一下 dotfiles 相关的知识。这篇博文属于技术类，没兴趣的朋友们可以关闭此窗口了。
 
 首先复制下自己100天前在V2EX发的帖子「[菜鸟如何入门dotfiles管理？](https://v2ex.com/t/70242)」，看看我当时是怎么理解dotfiles。
@@ -80,6 +81,6 @@ ln -s dotfiles/vimrc .vimrc
 ln -s dotfiles/zshrc .zshrc
 ```
 
-dotfiles管理核心理念就是上面所说的，几本掌握好`ln`命令和git（或者其他备份方法）就好，大家可以参考一下[dotfiles.github.io](http://dotfiles.github.io/)上分享的大神的dotfiles，其实如果大家追求更加自动化，可以自己写`.sh`脚本把什么软链接都自动化。比如说paulmillr分享的[dotfiles](https://github.com/paulmillr/dotfiles) .
+dotfiles管理核心理念就是上面所说的，几本掌握好`ln`命令和git（或者其他备份方法）就好，大家可以参考一下[dotfiles.github.io](https://dotfiles.github.io/)上分享的大神的dotfiles，其实如果大家追求更加自动化，可以自己写`.sh`脚本把什么软链接都自动化。比如说paulmillr分享的[dotfiles](https://github.com/paulmillr/dotfiles) .
 
 咳咳，最后再放一个自己的[dotfiles](https://github.com/foru17/luolei-dotfiles)，请忽视吧。

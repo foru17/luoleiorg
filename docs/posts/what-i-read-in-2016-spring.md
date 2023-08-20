@@ -1,11 +1,12 @@
 ---
-title: "我在读什么:2016春季读书分享"
-date: "2016-05-08"
-tags: 
-  - "read"
+cover: https://c2.llyz.xyz/blog/2016/05/read.jpg
+date: '2016-05-08'
+tags:
+- read
+title: 我在读什么:2016春季读书分享
 ---
 
-![cover](https://static.is26.com/blog/2016/05/read.jpg)
+![cover](https://c2.llyz.xyz/blog/2016/05/read.jpg)
 
 老主题，老习惯，这个标题，每年两度的读书总结，春季分享又来了。
 

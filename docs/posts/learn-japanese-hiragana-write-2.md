@@ -1,9 +1,10 @@
 ---
-title: "日语学习入门　ひらがな 书写（貳）"
-date: "2014-06-13"
+cover: https://c2.llyz.xyz/wp-image/2014/06/hiragana2s.jpg
+date: '2014-06-13'
+title: 日语学习入门　ひらがな 书写（貳）
 ---
 
-![cover](https://static.is26.com/wp-image/2014/06/hiragana2s.jpg)
+![cover](https://c2.llyz.xyz/wp-image/2014/06/hiragana2s.jpg)
 
 继续我们的日语学习，今天继续学习五十音图平假名 ひらがな。
 
@@ -15,7 +16,7 @@ a　あ i　い u　う e　え o　お
 
 Your user agent does not support the HTML5 Video element.
 
-高速视频地址（戳）[http://content.is26.com/video/japanese/write2.mp4](http://content.is26.com/video/japanese/write2.mp4)
+高速视频地址（戳）[https://content.is26.com/video/japanese/write2.mp4](https://content.is26.com/video/japanese/write2.mp4)
 
 か 行
 
@@ -35,13 +36,13 @@ Your user agent does not support the HTML5 Video element.
 
 「えき」(eki)，说到日本交通，必须提到日本的新干线和地铁，这个「えき」，就是「站(台|点)」的意思。
 
-![full-img](https://static.is26.com/wp-image/2014/06/eki.jpg)
+![full-img](https://c2.llyz.xyz/wp-image/2014/06/eki.jpg)
 
 嗯哼，看到上面这张照片，你能理解这个「森のえき」(mori no eki)，第一篇文章中曾经介绍了日语中有「平假名 ひらがな　片假名 かたかな　漢字 かんじ」（Hiragana Katakana Kanzi） 三种，在这里可不要把「森」字读成了(sen)，汉字和外来词汇转成平假名，是有规则的（我还没学到，以后再说 ﾉ( ´ ▽ \` )ﾉ ）
 
 「かき」(kaki)咳咳，这个又到了吃货时间，这个「かき」就是我们广东淫的最爱之一啦，俗称「蚝」，土豪吃大蚝有木有。
 
-![full-img](https://static.is26.com/wp-image/2014/06/kaki.jpg)
+![full-img](https://c2.llyz.xyz/wp-image/2014/06/kaki.jpg)
 
 く
 
@@ -57,7 +58,7 @@ Your user agent does not support the HTML5 Video element.
 
 「いけ」(ike)，意思是「池塘」
 
-![full-img](https://static.is26.com/wp-image/2014/06/ike.gif)
+![full-img](https://c2.llyz.xyz/wp-image/2014/06/ike.gif)
 
 哥容易么，找个单词还要找个配图，嗯哼，就是「池」上面的那个「いけ」。
 

@@ -1,11 +1,12 @@
 ---
-title: "我的梦想清单"
-date: "2012-07-24"
+cover: https://c2.llyz.xyz/wp-image/2012/07/dream-list1.jpg "dream-list"
+date: '2012-07-24'
+title: 我的梦想清单
 ---
 
-![dream-list](https://static.is26.com/wp-image/2012/07/dream-list1.jpg "dream-list")
+![dream-list](https://c2.llyz.xyz/wp-image/2012/07/dream-list1.jpg "dream-list")
 
-后天就要去南京参加亚洲自行车展的一个活动「入藏骑行沙龙」，我的原创视频[《间隔年，骑行去西藏》](http://luolei.org/2012/06/biket2tibet-movie/)获得了一等奖。
+后天就要去南京参加亚洲自行车展的一个活动「入藏骑行沙龙」，我的原创视频[《间隔年，骑行去西藏》](https://luolei.org/2012/06/biket2tibet-movie/)获得了一等奖。
 
 26号上午的机票从广州去南京（组办方报销来回机票），预计7月31号或者8月1号飞回深圳，这次权当去六朝古都旅游算了，28号后还计划去杭州找一下支付宝的朋友郭宇，不长的行程，没有多少预算，就当给自己一个月实习后的一个小break吧。
 
