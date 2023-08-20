@@ -22,10 +22,12 @@
   watch(
     () => router.route.data.relativePath,
     (path) => {
-      nextTick(() => {
-        Artalk.update(getArtalkConfByPage(page.value));
-        Artalk.reload();
-      });
+      if (page.value.index !== true) {
+        nextTick(() => {
+          Artalk.update(getArtalkConfByPage(page.value));
+          Artalk.reload();
+        });
+      }
     }
   );
 
@@ -33,7 +35,7 @@
     // 这里待处理成配置
     const baseDomain = "https://luolei.org";
     return {
-      pageKey: `${baseDomain}/${location.pathname}/`,
+      pageKey: `${baseDomain}${location.pathname}/`,
       pageTitle: page.title,
       server: "https://artalk.is26.com",
       site: "罗磊的独立博客",

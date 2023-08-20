@@ -12,6 +12,7 @@ export default defineConfig({
     lineNumbers: true
   },
   themeConfig: {
+    logo:'./logo.svg',
     nav: [
       { text: 'ZUOLUOTV™', link: 'https://zuoluo.tv/youtube' },
       {

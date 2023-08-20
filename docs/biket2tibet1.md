@@ -1,7 +1,7 @@
 ---
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg "biketotibet"
+cover: https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg
 date: '2012-04-15'
 tags:
 - travel
@@ -10,7 +10,7 @@ tags:
 title: 【骑行去西藏.壹】谈死亡
 ---
 
-![biketotibet](https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg "biketotibet")
+## 写在前面
 
 > 有些事现在不做，一辈子都不会做了
 
@@ -26,7 +26,7 @@ title: 【骑行去西藏.壹】谈死亡
 
 回想这半年，幻想未来的这几个月，2012注定将是我人生中最不平凡的一年。
 
-#### 死亡
+## 死亡
 
 这是生命的轮回，万千年来，不管你是富甲天下的富豪还是家徒四壁的乞丐、不管你是权重倾国的皇亲贵族还漂似浮萍的布衣芒屩，不管你才高八斗还是目不识丁，宇宙绝对不会在乎哪怕任何一个人的生命，自然面前，无人能逃过「规律」。
 
@@ -48,7 +48,9 @@ title: 【骑行去西藏.壹】谈死亡
 
 我倒不相信自己会RP那么好，成为每年死在路上的那两位数的人中的一位。
 
-\[caption id="attachment\_491" align="alignnone" width="723"\]![](https://c2.llyz.xyz/wp-image/2012/04/72guai.jpg "72guai") 川藏线上著名的72拐\[/caption\]
+![](https://c2.llyz.xyz/wp-image/2012/04/72guai.jpg)
+
+川藏线上著名的72拐
 
 杞人尚忧天，何况我即将面对的是一条写满「血泪汗」的「天路」呢？我会想一些问题，我也会恐惧一些东西。
 

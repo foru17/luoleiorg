@@ -1,7 +1,7 @@
 ---
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2019/06/c2000/t-11.png
+cover: https://c2.llyz.xyz/blog/2019/06/c2000/s-1.jpg
 date: '2019-06-09'
 tags:
 - digital
