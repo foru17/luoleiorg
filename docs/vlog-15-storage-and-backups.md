@@ -12,7 +12,7 @@ title: 我的摄影储存解决方案 | ZUOLUOTV | VLOG15
 
 ![cover](https://c2.llyz.xyz/vlog/vlog15.jpg)
 
-#### 视频
+## 视频
 
 - [Bilibili:我的摄影储存解决方案:花一万块钱买硬盘是什么体验 | ZUOLUOTV | VLOG15](https://www.bilibili.com/video/av28202170) : 推荐大陆用户观看。
 - [YOUTUBE:我的摄影储存解决方案 | | Photography Storage and Backups | VLOG15](https://www.youtube.com/watch?v=4NvyrCb3UQs&t=43s) : 推荐海外用户观看

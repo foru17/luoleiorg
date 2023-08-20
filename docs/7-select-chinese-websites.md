@@ -2,6 +2,7 @@
 categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog38.jpg
+date: '2019-04-19'
 title: 7个冷门的中文网站&社区推荐 | VLOG38
 ---
 
@@ -20,7 +21,7 @@ title: 7个冷门的中文网站&社区推荐 | VLOG38
 - [BikeTo美骑网](https://biketo.com)
 - [8264户外](https://www.8264.com)
 
-## 视频中提到的内容
+## 视频中提到的
 
 - [蓝标魅力,旅行神器:蔡司 大地8x25ED 便携望远镜](https://luolei.org/zeiss-terra-8x25-binocular/)
 - [骑行西藏](https://luolei.org/tag/tibet/)

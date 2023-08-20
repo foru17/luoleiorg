@@ -1,19 +1,17 @@
 ---
 categories:
 - zuoluotv
-cover: https://c2.llyz.xyz/default.cover.jpg
+cover: https://c2.llyz.xyz/vlog/vlog30.jpg
 date: '2019-03-27'
 title: 腾讯出品的良心境外上网卡WeSim | VLOG30
 ---
 
-#### 视频
-
-https://www.youtube.com/watch?v=Z9npDOKJD9w
+## 视频
 
 - [Bilibili:香港一日游，WeSim对比一加国际上网 | 腾讯出品的良心境外上网卡 | ZUOLUOTV | VLOG30](https://www.bilibili.com/video/av41069930) : 推荐大陆用户观看。
 - [YOUTUBE:WeSim对比一加国际上网 | 腾讯出品的良心境外上网卡 | 香港手机上网 | ZUOLUOTV | VLOG30](https://www.youtube.com/watch?v=Z9npDOKJD9w&t=3s) : 推荐海外用户观看
 
-#### 我用的香港手机上网方案
+## 我用的香港手机上网方案
 
 我家在深圳，我也是经常往香港跑，去过香港很多次，今天这篇文章，跟大家分享一下我去香港用的两种手机上网方案。
 

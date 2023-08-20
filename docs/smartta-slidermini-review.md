@@ -14,7 +14,7 @@ title: SliderMini:可能是2018最值得期待的便携滑轨  | ZUOLUOTV | VLOG
 
 ![cover](https://c2.llyz.xyz/vlog/vlog17.jpg)
 
-#### 视频
+## 视频
 
 - [Bilibili:首发| 中文评测 | SliderMini 智能滑轨 | 可能是2018年最值得期待的便携滑轨 | ZUOLUOTV | VLOG17](https://www.bilibili.com/video/av34480994) : 推荐大陆用户观看。
 - [YOUTUBE:Smartta SliderMini | 智能便携滑轨 | BEST SLIDER OF 2018 | ZUOLUOTV](https://www.youtube.com/watch?v=7bRYO_EC3xc&t=6s) : 推荐海外用户观看

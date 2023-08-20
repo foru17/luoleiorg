@@ -8,7 +8,7 @@ title: 参观神州第一舰 | 中国海军深圳舰开放日 | VLOG19
 
 ![cover](https://c2.llyz.xyz/blog/2018/11/navy/sz-15.jpg)
 
-#### 视频
+## 视频
 
 - Bilibili:[参观神州第一舰 | 中国海军深圳舰 市民开放日 | ZUOLUOTV | VLOG19](https://www.bilibili.com/video/av35608764) : 推荐大陆用户观看。
 - Youtube:[参观神州第一舰 | 中国海军深圳舰 市民开放日 | VLOG19](https://www.youtube.com/watch?v=L5wj3QY1fdA&t=17s) : 推荐海外用户观看

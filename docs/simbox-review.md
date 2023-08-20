@@ -29,7 +29,7 @@ title: 多卡宝 SIMBOX 评测 | 超越卡槽限制，让 iPhone 也能多卡多
 
 我自己使用SIMBOX这个产品已经有三个多月，也算是体验了很久，上个月还拍了一个视频，专门介绍了这个SIMBOX，视频中讲得比较详细，也有实际境内外使用效果，更加直观，建议看视频。
 
-#### 视频
+## 视频
 
 - [Bilibili:超越卡槽限制，让 iPhone 也能多卡多待 | 多卡宝 SIMBOX 评测 | ZUOLUOTV | VLOG41](https://www.bilibili.com/video/av52314715) : 推荐大陆用户观看。
 - [YOUTUBE:超越卡槽限制，让 iPhone 也能多卡多待 | 多卡宝 SIMBOX 评测 | ZUOLUOTV | VLOG41](https://www.youtube.com/watch?v=_SYq-7jBrrw) : 推荐海外用户观看

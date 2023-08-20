@@ -13,7 +13,7 @@ title: 每个创作者都应该有张人体工学梯:西昊M60
 
 今天给大家带来体验的是来自国内品牌西昊的M60人体工学电脑椅，今天这篇文章，以视频为主，视频相比图文更加详细，也能更好地了解这张椅子的设计和特性。
 
-#### 视频
+## 视频
 
 - [Bilibili: 每个创作者都应该有张人体工学椅:西昊M60办公椅 | ZUOLUOTV | VLOG23](https://www.bilibili.com/video/av37409319/) : 推荐大陆用户观看。
 - [YOUTUBE:每个创作者都应该有张人体工学椅 | 西昊M60 Sihoo Office Chair | ZUOLUOTV | VLOG23](https://youtu.be/MdsKcLbTlPU) : 推荐海外用户观看

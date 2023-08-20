@@ -33,7 +33,7 @@ Insta360 Nano是Insta360公司去年发布的产品，已经上市一年，就�
 
 在我的视频[ZUOLUOTV](https://zuoluo.tv/youtube)第6期VLOG中，已经做了一个简单的视频开箱。有兴趣的朋友可以看看。正片部分从**08分55秒**开始。
 
-#### 视频
+## 视频
 
 - [优酷网:我给米家小相机打10分 | VR相机 + 便携LED灯开箱](https://v.youku.com/v_show/id_XMzAwNDI1OTIxNg==.html) : 推荐大陆用户观看。
 - [Youtube:我为什么给米家小相机打10分 | Insta 360 VR相机 + Iwata便携LED灯开箱 | ZUOLUOTV | VLOG6](https://www.youtube.com/watch?v=075QTejZ_2E) : 推荐海外用户观看

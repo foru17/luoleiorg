@@ -9,18 +9,16 @@ tags:
 title: 如何给 Lycamobile 充值任意金额的话费  |  突破淘宝最低5美元限制 | ZUOLUOTV | VLOG37
 ---
 
-#### 视频
-
-https://www.youtube.com/watch?v=RfRgZSF1MtE
+## 视频
 
 - [Bilibili:如何给 Lycamobile 充值任意金额的话费 | 突破全网最低5美元限制](https://www.bilibili.com/video/av48214410) : 推荐大陆用户观看。
 - [YOUTUBE:如何给 Lycamobile 充值任意金额的话费 | 突破全网最低$5限制](https://www.youtube.com/watch?v=RfRgZSF1MtE) : 推荐海外用户观看
 
-#### 更新
+## 更新
 
 **2019年6月15日:本视频所介绍的方法已经失效，Lyca 在中国地区已经无法免费漫游，建议弃用 Lyca。**
 
-#### 步骤
+## 步骤
 
 - 使用 Chrome
 - 进入[Lycamobile官方充值页面](https://www.lycamobile.us/en/checkout/)

@@ -1,15 +1,14 @@
 ---
 categories:
 - travel
-cover: https://luolei.org/korean-seoul-travel-fail/
+cover: https://c2.llyz.xyz/blog/2018/04/visa.jpg
 date: '2018-04-08'
 tags:
-- jia-na-da
 - travel
 title: 加拿大 | 我可能办了一个「假」的十年多次签证
 ---
 
-![cover](https://c2.llyz.xyz/blog/2018/04/visa.jpg)上次去韩国，因为签证问题，在机场被拒绝登机，在我的推送[《旅行 | 惨痛，我在机场被拒绝登机》](https://luolei.org/korean-seoul-travel-fail/)中有分享经验教训。
+上次去韩国，因为签证问题，在机场被拒绝登机，在我的推送[《旅行 | 惨痛，我在机场被拒绝登机》](https://luolei.org/korean-seoul-travel-fail/)中有分享经验教训。
 
 今天这是篇短平快的文章，是关于加拿大十年签证。2018年是「加拿大中国旅游年」，首先摘录一段[加拿大官网的报告](https://www.ic.gc.ca/eic/site/100.nsf/eng/00025.html)。 ![](https://c2.llyz.xyz/blog/2018/04/canada.jpg)
 

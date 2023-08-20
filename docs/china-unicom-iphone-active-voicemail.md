@@ -10,7 +10,7 @@ tags:
 title: 如何在 iPhone 开通中国联通 Voicemail 语音邮箱 | VLOG35
 ---
 
-#### 视频
+## 视频
 
 <https://www.youtube.com/watch?v=8m\_GwEHd2NQ>
 
@@ -19,7 +19,7 @@ title: 如何在 iPhone 开通中国联通 Voicemail 语音邮箱 | VLOG35
 
 前天 iOS 推出了12.2的更新，中国电信的 VOLTE 终于能够正常使用了，另外有个功能也勾起了我的兴趣，那就是终于支持了中国联通的语音邮箱功能。
 
-#### 什么是Visual Voicemail?
+## 什么是Visual Voicemail?
 
 - [在 iPhone 上设置 Visual Voicemail](https://support.apple.com/zh-cn/HT201436)
 - [中国大陆为什么没有语音留言服务？](https://www.zhihu.com/question/20087333)
@@ -37,13 +37,13 @@ title: 如何在 iPhone 开通中国联通 Voicemail 语音邮箱 | VLOG35
 
 - [中国联通:沃留言](https://wly.mail.wo.cn:10005/dinggou/)
 
-#### 注册和激活
+## 注册和激活
 
 ![](https://c2.llyz.xyz/blog/2019/03/voicemail/v-1.jpg)
 
 这个的激活比较简单，直接在联通的微信公众号登录激活就可以了，目前激活时直接免费3个月，不需要支付。激活后，会有一条短信通知，然后iPhone里直接进 `电话>更改语音信箱密码`里设置下就好了。
 
-#### 使用体验
+## 使用体验
 
 ![](https://c2.llyz.xyz/blog/2019/03/voicemail/v-2.jpg)
 
@@ -60,7 +60,7 @@ title: 如何在 iPhone 开通中国联通 Voicemail 语音邮箱 | VLOG35
 
 在iPhone默认的`电话`里出现多了一个`语音留言`的按钮，进入之后就能直接读取你的留言，也能通过左上角的`应答语`设置个性化的留言提示。从体验的角度而言，这种肯定要比你进去微信，或者进入网站听留言要好得多。
 
-#### 总结
+## 总结
 
 语音邮箱，对于大多数中国人来说，应该都算是比较鸡肋的功能了，一个是一直以来，中国没有使用语音邮箱的文化和习惯，另外，如今熟人之间，大多都通过微信沟通，发图发语音发视频都方便。
 

@@ -3,10 +3,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "罗磊的独立博客",
   description: "luolei.org",
-  base: '/',
   cleanUrls: true,
   appearance:false,
-  lastUpdated: false,
   ignoreDeadLinks: true,
   markdown: {
     lineNumbers: true

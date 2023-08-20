@@ -9,7 +9,7 @@ tags:
 title: 告别B站魔性封面，UP主只需要10秒就能学会的创作技巧 | ZUOLUOTV | VLOG27
 ---
 
-#### 视频
+## 视频
 
 https://www.youtube.com/watch?v=oSmdHjNX20g
 

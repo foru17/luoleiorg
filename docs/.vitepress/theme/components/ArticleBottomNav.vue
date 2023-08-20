@@ -47,7 +47,7 @@
         :style="`
         background-image: url(${nextPost.cover})`">
         <div
-          class="flex items-center overflow-hidden max-w-xl px-2 md:px-10 rounded-md bg-gray-900 bg-opacity-30 hover:bg-opacity-10 ease-in duration-300 w-full h-40 bg-zinc-100">
+          class="flex items-center w-full overflow-hidden max-w-7xl px-2 md:px-10 rounded-md bg-gray-900 bg-opacity-30 hover:bg-opacity-10 ease-in duration-300 w-full h-40 bg-zinc-100">
           <span
             class="a content-center break-normal text-s sd:text-large md:text-lg text-neutral-100 line-clamp-3 md:line-clamp-2"
             >{{ nextPost.title }}</span

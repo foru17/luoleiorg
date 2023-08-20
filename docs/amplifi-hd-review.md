@@ -11,7 +11,7 @@ title: AMPLIFI HD -居家体验报告 | 视频
 
 ![cover](https://c2.llyz.xyz/vogue/AMPLIFI-06254.JPG)
 
-#### 视频
+## 视频
 
 - [优酷网:AMPLIFI HD | 这应该是我用过的最(贵)漂亮的路由器](https://v.youku.com/v_show/id_XMjg4NzM2MjQ1Mg==.html?spm=a2hzp.8244740.0.0) : 推荐大陆用户观看。
 - [AMPLIFI HD | 开箱 UNBOXING | 评测 | 这应该是我用过的最(贵)漂亮的路由器](https://www.youtube.com/watch?v=qMUCSPgeyr4&t=161s) : 推荐海外用户观看

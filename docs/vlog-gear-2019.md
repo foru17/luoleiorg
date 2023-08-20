@@ -2,7 +2,7 @@
 categories:
 - tech
 - zuoluotv
-cover: https://c2.llyz.xyz/default.cover.jpg
+cover: https://c2.llyz.xyz/vlog/vlog50.jpg
 date: '2019-06-11'
 tags:
 - vlog
@@ -15,12 +15,10 @@ title: 2019年，我使用的加强版 VLOG 摄影装备 | 实用配件分享 | 
 
 ## 视频
 
-https://www.youtube.com/watch?v=uqBGuB9JL7w
-
 - [哔哩哔哩:2019年,我使用的加强版 VLOG 摄影装备 | 实用配件分享 | VLOG50](https://www.bilibili.com/video/av55290993) : 推荐大陆用户观看
 - [YouTube:2019年,我使用的加强版 VLOG 摄影装备 | 实用配件分享 | VLOG50](https://www.youtube.com/watch?v=uqBGuB9JL7w) : 推荐海外用户观看
 
-#### 装备链接
+## 装备链接
 
 - 相机: [SONY A6500](https://zuoluo.tv/sony-a6500)
 - 镜头: [Sigma 16mm](https://zuoluo.tv/sigma-16mm)
