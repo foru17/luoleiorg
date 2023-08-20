@@ -3,7 +3,7 @@ categories:
 - photography
 - travel
 cover: https://c2.llyz.xyz/blog/2016/06/japan/day3/A7S2-D3-02416.jpg
-date: '2016-07-08'
+date: '2016-07-06'
 tags:
 - dong-jing
 - photography

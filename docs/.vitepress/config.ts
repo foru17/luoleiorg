@@ -6,9 +6,24 @@ export default defineConfig({
   cleanUrls: true,
   appearance:false,
   ignoreDeadLinks: true,
+  displayAllHeaders: true,
   markdown: {
     lineNumbers: true
   },
+  head: [
+    [
+      'script',
+      {
+        async: true,
+        src: 'https://www.googletagmanager.com/gtag/js?id=UA-21856187-2',
+      },
+    ],
+    [
+      'script',
+      {},
+      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'UA-21856187-2');",
+    ],
+  ],
   themeConfig: {
     logo:'./logo.svg',
     nav: [
@@ -26,6 +41,7 @@ export default defineConfig({
       { icon: 'twitter', link: 'https://twitter.com/luoleiorg' },
       { icon: 'github', link: 'https://github.com/foru17' }
     ],
+
     outlineTitle:'本文导览',
     lastUpdatedText: '最后更新时间',
     footer: {
