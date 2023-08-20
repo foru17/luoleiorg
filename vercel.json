@@ -1,7 +1,8 @@
-
 {
     "rewrites": [
-     { "source": "/:slug(\\w+-\\w+)", "destination": "/posts/:slug" },
-     { "source": "/assets/:path*", "destination": "/assets/:path*" }
+      { "source": "/assets/:path*", "destination": "/assets/:path*" },
+      { "source": "/about", "destination": "/about" },
+      { "source": "/:slug", "destination": "/posts/:slug" }
     ]
   }
+  
