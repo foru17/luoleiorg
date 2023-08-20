@@ -34,7 +34,13 @@
   function getArtalkConfByPage(page: any) {
     return {
       pageKey:
-        "https://luolei.org/" + location.pathname.split("/posts/")[1] + "/",
+        "https://luolei.org" +
+        `${
+          !!location.pathname.split("/posts/")[1]
+            ? "/" + location.pathname.split("/posts/")[1]
+            : location.pathname
+        }` +
+        "/",
       pageTitle: page.title,
       server: "https://artalk.is26.com",
       site: "罗磊的独立博客",
