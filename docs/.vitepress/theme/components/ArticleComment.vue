@@ -22,25 +22,18 @@
   watch(
     () => router.route.data.relativePath,
     (path) => {
-      if (path.startsWith("posts/")) {
-        nextTick(() => {
-          Artalk.update(getArtalkConfByPage(page.value));
-          Artalk.reload();
-        });
-      }
+      nextTick(() => {
+        Artalk.update(getArtalkConfByPage(page.value));
+        Artalk.reload();
+      });
     }
   );
 
   function getArtalkConfByPage(page: any) {
+    // 这里待处理成配置
+    const baseDomain = "https://luolei.org";
     return {
-      pageKey:
-        "https://luolei.org" +
-        `${
-          !!location.pathname.split("/posts/")[1]
-            ? "/" + location.pathname.split("/posts/")[1]
-            : location.pathname
-        }` +
-        "/",
+      pageKey: `${baseDomain}/${location.pathname}/`,
       pageTitle: page.title,
       server: "https://artalk.is26.com",
       site: "罗磊的独立博客",

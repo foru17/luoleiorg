@@ -18,7 +18,7 @@ export async function genFeed(config: SiteConfig) {
       'Copyright (c) 2021-present, Yuxi (Evan) You and blog contributors'
   })
 
-  const posts = await createContentLoader('posts/*.md', {
+  const posts = await createContentLoader('/*.md', {
     excerpt: true,
     render: true
   }).load()

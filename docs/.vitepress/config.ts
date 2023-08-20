@@ -17,12 +17,11 @@ export default defineConfig({
       {
         text: '视频',
         items: [
-          { text: 'YouTube', link: '/item-1' },
-          { text: '哔哩哔哩', link: '/item-2' },
+          { text: 'YouTube', link: 'https://zuoluo.tv/youtube' },
+          { text: '哔哩哔哩', link: 'https://zuoluo.tv/bilibili' },
         ]
       },
-      { text: '社群', link: '/social-network' },
-      { text: '关于', link: '/about' }
+      { text: '关于', link: 'https://twitter.com/luoleiorg' }
     ],
     socialLinks: [
       { icon: 'twitter', link: 'https://twitter.com/luoleiorg' },
