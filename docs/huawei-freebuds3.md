@@ -1,10 +1,9 @@
 ---
+title: '即刻抽离: FreeBuds 3 无线降噪耳机 - 城市旅行'
+date: '2019-11-08'
+cover: https://c2.llyz.xyz/blog/2019/11/freebuds/fb-14.jpg
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2019/11/freebuds/fb-14.jpg
-date: '2019-11-08'
-layout: doc
-title: '即刻抽离: FreeBuds 3 无线降噪耳机 - 城市旅行'
 ---
 
 我应该算是为数不多，在北上广深，中国的四座超级都市，都长时间呆过的人。成长、求学、工作，这四座城市，分别都给我的生命中留下了深刻的记忆。

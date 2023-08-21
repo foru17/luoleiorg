@@ -1,13 +1,12 @@
 ---
+title: Kindle Oasis入手
+date: '2016-05-07'
+cover: https://c2.llyz.xyz/blog/2016/05/oasis/k1.JPG
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2016/05/oasis/k1.JPG
-date: '2016-05-07'
-layout: doc
 tags:
 - kindle
 - digital
-title: Kindle Oasis入手
 ---
 
 2013年2月，入手了Kindle Paperwhite，[【数码】Kindle paperwhite入手评测](https://luolei.org/kindle-paper-white-review/)，三年中，这部第一代的Paperwhite陪我走过了成百上千个日日夜夜，捧着他读了若干书。

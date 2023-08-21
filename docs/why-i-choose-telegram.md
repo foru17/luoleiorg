@@ -1,10 +1,9 @@
 ---
+title: 我为什么选择 Telegram 来运营粉丝社群 | 规则、经验和思考
+date: '2019-07-08'
+cover: https://c2.llyz.xyz/blog/2019/07/telegram/tg-1.jpg
 categories:
 - code
-cover: https://c2.llyz.xyz/blog/2019/07/telegram/tg-1.jpg
-date: '2019-07-08'
-layout: doc
-title: 我为什么选择 Telegram 来运营粉丝社群 | 规则、经验和思考
 ---
 
 大概从2年前，就开始在微信上组建粉丝社群，两年下来，也收获了很稳定的一批朋友，不少人都是关注了我好几年、乃至五六年的网友，大多都是因为对编程、摄影、旅行等话题感兴趣关注到我，微信群甚至组织过几次线下聚会。

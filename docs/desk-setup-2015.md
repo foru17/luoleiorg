@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/10/des.jpg
+title: 每个程序员都应该有张木桌
 date: '2015-10-07'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2015/10/des.jpg
 tags:
 - life
-title: 每个程序员都应该有张木桌
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2015/10/des.jpg)

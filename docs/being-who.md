@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2016/02/2016v.jpg
+title: 成为什么样的人？
 date: '2016-02-19'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2016/02/2016v.jpg
 tags:
 - ispeakl
-title: 成为什么样的人？
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2016/02/2016v.jpg)

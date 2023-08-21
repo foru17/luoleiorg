@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2014/06/hiragana2s.jpg
-date: '2014-06-13'
-layout: doc
 title: 日语学习入门　ひらがな 书写（貳）
+date: '2014-06-13'
+cover: https://c2.llyz.xyz/wp-image/2014/06/hiragana2s.jpg
 ---
 
 继续我们的日语学习，今天继续学习五十音图平假名 ひらがな。

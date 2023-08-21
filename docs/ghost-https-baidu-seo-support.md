@@ -1,10 +1,9 @@
 ---
+title: 要加密,也要熊掌:让Ghost支持https并被百度正常收录
+date: '2015-05-17'
+cover: https://c2.llyz.xyz/blog/2015/05/baidu3.jpg
 categories:
 - code
-cover: https://c2.llyz.xyz/blog/2015/05/baidu3.jpg
-date: '2015-05-17'
-layout: doc
-title: 要加密,也要熊掌:让Ghost支持https并被百度正常收录
 ---
 
 #### 更新:百度开放收录https站点

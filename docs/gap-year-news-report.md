@@ -1,12 +1,11 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/07/318-debt.jpg
+title: 我的间隔年相关报道:《南方都市报》&《广州新闻台》
 date: '2012-07-10'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2012/07/318-debt.jpg
 tags:
 - tibet
 - e997b4e99a94e5b9b4
 - e9aa91e8a18c
-title: 我的间隔年相关报道:《南方都市报》&《广州新闻台》
 ---
 
 ![](https://c2.llyz.xyz/wp-image/2012/07/318-debt.jpg)

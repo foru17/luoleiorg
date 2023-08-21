@@ -1,13 +1,12 @@
 ---
+title: 第一次当伴郎是什么体验？
+date: '2016-05-07'
+cover: https://c2.llyz.xyz/blog/2016/05/we1.jpg
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/blog/2016/05/we1.jpg
-date: '2016-05-07'
-layout: doc
 tags:
 - photography
 - shenzhen
-title: 第一次当伴郎是什么体验？
 ---
 
 #### 前记

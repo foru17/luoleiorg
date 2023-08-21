@@ -1,11 +1,10 @@
 ---
+title: 200块买了块国产表:上海钻石牌504机械秒表
+date: '2017-12-08'
+cover: https://c2.llyz.xyz/blog/2017/12/stopwatch/watch-12.JPG
 categories:
 - tech
 - lifestyle
-cover: https://c2.llyz.xyz/blog/2017/12/stopwatch/watch-12.JPG
-date: '2017-12-08'
-layout: doc
-title: 200块买了块国产表:上海钻石牌504机械秒表
 ---
 
 一秒，意味着什么，一天有86400秒，一年有31536000秒，有时候心里觉得自己还挺年轻的，也希望自己「真」的挺年轻，突然看到现在的小年轻都是95后乃至00后，微博或者八卦上面出现的小鲜肉我不认识后，才揭破了自欺欺人的假象，知道自己真的是「不小」了。

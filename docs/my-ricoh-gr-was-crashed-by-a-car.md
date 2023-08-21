@@ -1,18 +1,17 @@
 ---
+title: 我最喜欢的一台相机,今天被车压碎了 | RICOH GR | VLOG54
+date: '2019-07-05'
+cover: https://c2.llyz.xyz/blog/2019/07/ricoh/gr-6.jpg
 categories:
 - photography
 - tech
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2019/07/ricoh/gr-6.jpg
-date: '2019-07-05'
-layout: doc
 tags:
 - vlog
 - zuoluotv
 - photography
 - ricohgr
 - 视频
-title: 我最喜欢的一台相机,今天被车压碎了 | RICOH GR | VLOG54
 ---
 
 ## 在线视频

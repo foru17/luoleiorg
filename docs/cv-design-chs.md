@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2011/07/luoleicv.jpg "罗磊的图形化简历luolei.orgl"
-date: '2011-07-17'
-layout: doc
 title: 新设计中文简历一枚
+date: '2011-07-17'
+cover: https://c2.llyz.xyz/wp-image/2011/07/luoleicv.jpg "罗磊的图形化简历luolei.orgl"
 ---
 
 ![](https://c2.llyz.xyz/wp-image/2011/07/罗磊的图形化简历luolei.orgl_-1024x564.jpg )假期开始，赶紧做完了中文简历，投了出去。

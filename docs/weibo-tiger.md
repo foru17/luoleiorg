@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2011/06/2.jpg "2"
+title: 围脖猛于虎
 date: '2011-06-05'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2011/06/2.jpg "2"
 tags:
 - internet
-title: 围脖猛于虎
 ---
 
 > _两只老虎，两只老虎，跑得快，跑得快，一只没有眼睛，一只没有耳朵，真奇怪，真奇怪。_

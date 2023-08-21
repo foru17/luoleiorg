@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-content/uploads/2012/07/100_2696.jpg
-date: '2012-07-28'
-layout: doc
 title: 【转手全新Dorcus钪合金车架】
+date: '2012-07-28'
+cover: https://c2.llyz.xyz/wp-content/uploads/2012/07/100_2696.jpg
 ---
 
 在亚洲自行车展参加活动，获一等奖品「德国Dorcus  钪合金 车架（黑红配色如图）18寸）。

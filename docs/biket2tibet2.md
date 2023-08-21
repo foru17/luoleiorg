@@ -1,12 +1,11 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/05/head55.jpg
+title: 【骑行去西藏.貳】出发前
 date: '2012-05-04'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2012/05/head55.jpg
 tags:
 - travel
 - tibet
 - e9aa91e8a18c
-title: 【骑行去西藏.貳】出发前
 ---
 
 

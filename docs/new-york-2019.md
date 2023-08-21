@@ -1,15 +1,14 @@
 ---
+title: 纽约 |  2019，我在时代广场跨年  | NYC深度行摄
+date: '2019-06-25'
+cover: https://c2.llyz.xyz/blog/2019/06/newyork/nyc-143.JPG
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2019/06/newyork/nyc-143.JPG
-date: '2019-06-25'
-layout: doc
 tags:
 - photography
 - travel
 - usa
-title: 纽约 |  2019，我在时代广场跨年  | NYC深度行摄
 ---
 
 ## 导览

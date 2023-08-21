@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/08/read.jpg
-date: '2012-08-23'
-layout: doc
 title: 关于我的点点滴滴
+date: '2012-08-23'
+cover: https://c2.llyz.xyz/wp-image/2012/08/read.jpg
 ---
 
 前天晚上，终于折腾好了自己的办公桌和柜子，台灯也弄好了，在自己的房间里，拿出陪我走过西藏的笔记本，拿出好久没有动过的笔，写了些东西。

@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2020/06/covid/v-15.JPG
+title: 深圳核酸检测经验分享
 date: '2020-06-18'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2020/06/covid/v-15.JPG
 tags:
 - shenzhen
-title: 深圳核酸检测经验分享
 ---
 
 新冠疫情，在疫苗还没有大规模普及之前，目测将长期伴随我们存在了。中国内地生活工作逐渐恢复了正常，但是各地还是十分紧张，生怕疫情的死灰复燃。

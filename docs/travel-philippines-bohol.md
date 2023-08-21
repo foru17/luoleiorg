@@ -1,16 +1,15 @@
 ---
+title: 菲律宾 | 18米深蓝:薄荷岛&宿务 OW潜水旅行
+date: '2018-11-26'
+cover: https://c2.llyz.xyz/blog/2018/11/bohol/land-83.JPG
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2018/11/bohol/land-83.JPG
-date: '2018-11-26'
-layout: doc
 tags:
 - photography
 - travel
 - philippines
 - bo-he-dao
-title: 菲律宾 | 18米深蓝:薄荷岛&宿务 OW潜水旅行
 ---
 
 去年国庆，带着妈妈和弟弟，一起去了菲律宾宿务，薄荷岛，做了一个家庭旅游。今天把那次的照片整理出来，做一个图文游记，分享给大家。

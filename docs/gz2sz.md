@@ -1,12 +1,11 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/03/bike11.jpg
+title: 广州深圳往返骑行小记
 date: '2012-03-10'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2012/03/bike11.jpg
 tags:
 - guangzhou
 - shenzhen
 - e9aa91e8a18c
-title: 广州深圳往返骑行小记
 ---
 
 ## 前记

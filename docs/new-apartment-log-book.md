@@ -1,12 +1,11 @@
 ---
+title: 【装修日记：10月1日更新】：松山没有湖:，东莞三房装修 | 长期记录
+date: '2020-08-27'
+cover: https://c2.llyz.xyz/house/house-map-1.JPG
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/house/house-map-1.JPG
-date: '2020-08-27'
-layout: doc
 tags:
 - 装修
-title: 【装修日记：10月1日更新】：松山没有湖:，东莞三房装修 | 长期记录
 ---
 
 2016年底，楼市火热，和家人一商量，买了一位于东莞松山湖的期房，从签合同、交首付，直到房子建好了，开发商叫去收房，才知道自己的房号和朝向。

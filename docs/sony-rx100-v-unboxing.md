@@ -1,11 +1,10 @@
 ---
-cover: https://c2.llyz.xyz/blog/2016/11/rx100/RX100-02690.JPG
+title: 索尼RX100 M5简单开箱
 date: '2016-11-27'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2016/11/rx100/RX100-02690.JPG
 tags:
 - photography
 - digital
-title: 索尼RX100 M5简单开箱
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2016/11/rx100/RX100-02690.JPG)

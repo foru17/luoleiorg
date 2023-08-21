@@ -1,14 +1,13 @@
 ---
+title: 如何在 iPhone 开通中国联通 Voicemail 语音邮箱 | VLOG35
+date: '2019-03-27'
+cover: https://c2.llyz.xyz/blog/2019/03/voicemail/v-1.jpg
 categories:
 - tech
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2019/03/voicemail/v-1.jpg
-date: '2019-03-27'
-layout: doc
 tags:
 - zuoluotv
 - digital
-title: 如何在 iPhone 开通中国联通 Voicemail 语音邮箱 | VLOG35
 ---
 
 ## 视频

@@ -1,11 +1,10 @@
 ---
-cover: https://c2.llyz.xyz/blog/2016/06/zkin/z5.JPG
+title: Zkin Yeti双肩摄影背包:颜值和功能之间的平衡
 date: '2016-06-10'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2016/06/zkin/z5.JPG
 tags:
 - photography
 - digital
-title: Zkin Yeti双肩摄影背包:颜值和功能之间的平衡
 ---
 
 最近陆陆续续购置了不少装备，无人机，微单，镜头，稳定器，运动相机，原来的邮差包和双肩包已经不能满足出行收纳的需求。

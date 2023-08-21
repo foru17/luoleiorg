@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/07/data-memorry-1024x682.jpg
-date: '2013-07-11'
-layout: doc
 title: 我们的数字记忆
+date: '2013-07-11'
+cover: https://c2.llyz.xyz/wp-image/2013/07/data-memorry-1024x682.jpg
 ---
 
 ![data-memorry](https://c2.llyz.xyz/wp-image/2013/07/data-memorry-1024x682.jpg)

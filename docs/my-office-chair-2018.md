@@ -1,13 +1,12 @@
 ---
+title: 每个创作者都应该有张人体工学梯:西昊M60
+date: '2018-12-05'
+cover: https://c2.llyz.xyz/blog/2018/12/sihoo/chair-2.jpg
 categories:
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2018/12/sihoo/chair-2.jpg
-date: '2018-12-05'
-layout: doc
 tags:
 - zuoluotv
 - kai-xiang
-title: 每个创作者都应该有张人体工学梯:西昊M60
 ---
 
 我是一个前程序员，现在是一个视频制作人，也是一个内容创业者。程序员从业五年，每天都要花费大量的时间在办公桌前久坐，很久之前，我就给自己买了一张办公椅，那张椅子，陪伴我几年，不知道缓解了多少腰间酸痛。

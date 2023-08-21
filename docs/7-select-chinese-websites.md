@@ -1,10 +1,9 @@
 ---
+title: 7个冷门的中文网站&社区推荐 | VLOG39
+date: '2019-04-19'
+cover: https://c2.llyz.xyz/vlog/vlog39.jpg
 categories:
 - zuoluotv
-cover: https://c2.llyz.xyz/vlog/vlog39.jpg
-date: '2019-04-19'
-layout: doc
-title: 7个冷门的中文网站&社区推荐 | VLOG39
 ---
 
 ## 视频

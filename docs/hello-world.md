@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2011/06/stone.jpg "stone"
-date: '2011-05-24'
-layout: doc
 title: Hello world!
+date: '2011-05-24'
+cover: https://c2.llyz.xyz/wp-image/2011/06/stone.jpg "stone"
 ---
 
 通行证到期，某园是去不了了，看来”看热闹“又得明年了，说不定明年此时又是忙着找工作神马的就又不会再鸟这些事情了。

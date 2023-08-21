@@ -1,14 +1,13 @@
 ---
+title: 云南 | 东航周末随心飞，昆明玉溪两日行 | 抚仙湖 磨豆山
+date: '2020-06-29'
+cover: https://c2.llyz.xyz/blog/2020/06/yunnan/y-0.JPG
 categories:
 - travel
-cover: https://c2.llyz.xyz/blog/2020/06/yunnan/y-0.JPG
-date: '2020-06-29'
-layout: doc
 tags:
 - 云南
 - photography
 - travel
-title: 云南 | 东航周末随心飞，昆明玉溪两日行 | 抚仙湖 磨豆山
 ---
 
 ## 站外导览

@@ -1,12 +1,11 @@
 ---
+title: '我在读什么: 2023 春节读书分享'
+date: '2023-01-31'
+cover: https://c2.llyz.xyz/blog/2023/01/read/book-2.JPG
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/blog/2023/01/read/book-2.JPG
-date: '2023-01-31'
-layout: doc
 tags:
 - read
-title: '我在读什么: 2023 春节读书分享'
 ---
 
 距离我在 2017 年初的书单分享[《年終卷 | 2016年我读了哪些书？》](https://luolei.org/what-i-read-in-2016/)，已经过去6年。

@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/04/tbook11.jpg "tbook1"
+title: 做一本Traveler's Notebook
 date: '2012-04-21'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2012/04/tbook11.jpg "tbook1"
 tags:
 - e7ac94e8aeb0e69cac
-title: 做一本Traveler's Notebook
 ---
 
 ![tbook1](https://c2.llyz.xyz/wp-image/2012/04/tbook11.jpg "tbook1")

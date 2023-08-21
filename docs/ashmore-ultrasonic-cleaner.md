@@ -1,14 +1,13 @@
 ---
+title: ASHMORE 超声波清洗机 | 用超声波清洁2000块的键盘
+date: '2019-09-18'
+cover: https://c2.llyz.xyz/blog/2019/09/ultrasonic/c-12.JPG
 categories:
 - tech
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2019/09/ultrasonic/c-12.JPG
-date: '2019-09-18'
-layout: doc
 tags:
 - vlog
 - digital
-title: ASHMORE 超声波清洗机 | 用超声波清洁2000块的键盘
 ---
 
 我是一个近视眼，之前偶尔去眼镜店，会让店员给我用超声波清洗机洗一下眼睛，效果还是挺明显的，最近自己也买了一个超声波清洗机，键盘算得上是最脏的电脑外设了，试一下用超声波洗HHKB键盘是什么效果。

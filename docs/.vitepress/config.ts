@@ -7,6 +7,7 @@ export default defineConfig({
   appearance:true,
   ignoreDeadLinks: true,
   displayAllHeaders: true,
+  base:'/',
   markdown: {
     lineNumbers: true
   },

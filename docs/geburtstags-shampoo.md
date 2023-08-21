@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2018/04/shampoo/de-4.jpg
+title: 男性用品 | 德国 Geburtstags Shampoo 男士清洗液
 date: '2018-04-22'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2018/04/shampoo/de-4.jpg
 tags:
 - kai-xiang
-title: 男性用品 | 德国 Geburtstags Shampoo 男士清洗液
 ---
 
 咳咳，这应该是我的第一篇「日用品」分享，封面有点污，但是内容我还是挺正经的。

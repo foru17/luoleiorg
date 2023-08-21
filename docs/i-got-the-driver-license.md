@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2016/06/car.jpg
+title: 2016年度目标之一:我拿到驾照啦！
 date: '2016-06-30'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2016/06/car.jpg
 tags:
 - life
-title: 2016年度目标之一:我拿到驾照啦！
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2016/06/car.jpg)

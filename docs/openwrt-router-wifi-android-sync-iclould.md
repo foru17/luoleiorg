@@ -1,12 +1,11 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/02/wifi_meitu_1-1024x576.jpg
+title: 【智能路由】用路由器低成本打造NAS+迅雷离线下载+同步android文件
 date: '2013-02-15'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2013/02/wifi_meitu_1-1024x576.jpg
 tags:
 - android
 - nas
 - e8b7afe794b1e599a8
-title: 【智能路由】用路由器低成本打造NAS+迅雷离线下载+同步android文件
 ---
 
 ![wifi_meitu_1](https://c2.llyz.xyz/wp-image/2013/02/wifi_meitu_1-1024x576.jpg)

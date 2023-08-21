@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2011/07/1.png "1"
-date: '2011-07-30'
-layout: doc
 title: 我们离“我们”有多远
+date: '2011-07-30'
+cover: https://c2.llyz.xyz/wp-image/2011/07/1.png "1"
 ---
 
 这周，正式开始了全职的实习，生活一下子被工作给填满了，早7点起、晚7点归，在地下、在路上，成为新的一只城市沙丁鱼。

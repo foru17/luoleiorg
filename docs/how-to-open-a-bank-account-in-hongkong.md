@@ -1,14 +1,13 @@
 ---
+title: 2020 香港银行开户攻略 | 境外投资必备，如何拥有一个香港银行卡
+date: '2019-04-30'
+cover: https://c2.llyz.xyz/vlog/vlog40.jpg
 categories:
 - zuoluotv
-cover: https://c2.llyz.xyz/vlog/vlog40.jpg
-date: '2019-04-30'
-layout: doc
 tags:
 - vlog
 - zuoluotv
 - e9a699e6b8af
-title: 2020 香港银行开户攻略 | 境外投资必备，如何拥有一个香港银行卡
 ---
 
 ## 视频

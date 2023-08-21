@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/snowden.jpg
+title: 纪录片《第四公民》:1984，V，隐私即自由
 date: '2015-10-29'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2015/snowden.jpg
 tags:
 - movies
-title: 纪录片《第四公民》:1984，V，隐私即自由
 ---
 
 ![full-img](https://c2.llyz.xyz/blog/2015/snowden.jpg)

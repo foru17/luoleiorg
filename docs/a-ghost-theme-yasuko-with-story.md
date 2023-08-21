@@ -1,16 +1,15 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/12/yasuko2.jpg
+title: 一个有故事的主题:珠峰上的Yasuko
 date: '2015-12-28'
-layout: doc
-sidebarDepth: 2
+cover: https://c2.llyz.xyz/blog/2015/12/yasuko2.jpg
 tags:
 - develop
-title: 一个有故事的主题:珠峰上的Yasuko
+sidebarDepth: 2
 ---
 
 为了国内备案，博客停止解析将近半个月，今天[罗磊的独立博客](https://luolei.org)重新上线，迁移到国内阿里云，进行了不少重构和优化，现在进入博客，速度体验上应该可以有一个飞跃性的提升。
 
-新的博客主题名叫「Yasuko 康子\]，依旧开源在[Github/Yasuko](https://github.com/foru17/Yasuko)上，只需稍作配置，就能用到你自己的[Ghost](https://ghost.org/)博客上。
+新的博客主题名叫「Yasuko 康子」，依旧开源在[Github/Yasuko](https://github.com/foru17/Yasuko)上，只需稍作配置，就能用到你自己的[Ghost](https://ghost.org/)博客上。
 
 ## 首先讲一个故事
 

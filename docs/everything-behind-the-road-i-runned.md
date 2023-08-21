@@ -1,14 +1,13 @@
 ---
+title: 知乎 | 是什么支撑你跑完五公里？
+date: '2015-06-23'
+cover: https://c2.llyz.xyz/blog/2015/12/tibet1.jpg
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/blog/2015/12/tibet1.jpg
-date: '2015-06-23'
-layout: doc
 tags:
 - zhi-hu
 - run
 - e9a9ace68b89e69dbe
-title: 知乎 | 是什么支撑你跑完五公里？
 ---
 
 端午假期第二天，凌晨时分，从公司花了一个多小时，跑了十多公里回家，在知乎看到一个问题[《是什么支撑你跑完五公里？》](https://www.zhihu.com/question/29251981/answer/52320897)，有感而发，写下自己的答案。

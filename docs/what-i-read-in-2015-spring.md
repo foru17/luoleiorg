@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/04/2015-book2.jpg
+title: 我在读什么:2015春季读书分享
 date: '2015-04-19'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2015/04/2015-book2.jpg
 tags:
 - read
-title: 我在读什么:2015春季读书分享
 ---
 
 ![full-img](https://c2.llyz.xyz/blog/2015/04/2015-book2.jpg)

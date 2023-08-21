@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-content/uploads/2011/05/luoleired1.jpg "luoleired"
+title: 6月计划
 date: '2011-05-31'
-layout: doc
+cover: https://c2.llyz.xyz/wp-content/uploads/2011/05/luoleired1.jpg "luoleired"
 tags:
 - life
-title: 6月计划
 ---
 
 28号考完BEC，一颗心终于还是放了下来，可以专心弄技术方面的东西了。

@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2014/10/ios8wel.jpg
+title: Web开发者和设计师必须要知道的 iOS 8 十个变化
 date: '2014-09-24'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2014/10/ios8wel.jpg
 tags:
 - iphone
-title: Web开发者和设计师必须要知道的 iOS 8 十个变化
 ---
 
 * [英文原文:"iOS 8 and iPhone 6 for web developers and designers: next evolution for Safari and native webapps"](https://www.mobilexweb.com/blog/safari-ios8-iphone6-web-developers-designers)

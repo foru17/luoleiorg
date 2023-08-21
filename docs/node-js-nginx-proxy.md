@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-13-at-6.58.12-PM.png
-date: '2013-08-13'
-layout: doc
 title: Nginx反向代理部署Node.js应用配置方法
+date: '2013-08-13'
+cover: https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-13-at-6.58.12-PM.png
 ---
 
 ![nodejs-nginx-proxy](https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-13-at-6.58.12-PM.png)

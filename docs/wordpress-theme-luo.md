@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/10/luolei-web-design-e1368433947572.jpg
-date: '2012-10-17'
-layout: doc
 title: 原创WP清新主题
+date: '2012-10-17'
+cover: https://c2.llyz.xyz/wp-image/2012/10/luolei-web-design-e1368433947572.jpg
 ---
 
 ![](https://c2.llyz.xyz/wp-image/2012/10/luolei-web-design-e1368433947572.jpg)

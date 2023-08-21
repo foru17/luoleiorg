@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2014/04/read-2014.jpg
+title: 我在读什么:2014春季读书分享
 date: '2014-04-04'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2014/04/read-2014.jpg
 tags:
 - read
-title: 我在读什么:2014春季读书分享
 ---
 
 ![](https://c2.llyz.xyz/wp-image/2014/04/read-2014.jpg)

@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2014/10/fbx1.jpg
-date: '2013-04-27'
-layout: doc
 title: GFW之父方滨兴讲座后杂想
+date: '2013-04-27'
+cover: https://c2.llyz.xyz/wp-image/2014/10/fbx1.jpg
 ---
 
 ![cover](https://c2.llyz.xyz/wp-image/2014/10/fbx1.jpg)

@@ -1,15 +1,14 @@
 ---
+title: '青岛 | DAY3: 银沙滩・温德姆・啤酒街'
+date: '2015-04-12'
+cover: https://c2.llyz.xyz/blog/2015/04/qingdao/QD21.jpg
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2015/04/qingdao/QD21.jpg
-date: '2015-04-12'
-layout: doc
 tags:
 - photography
 - travel
 - qing-dao
-title: '青岛 | DAY3: 银沙滩・温德姆・啤酒街'
 ---
 
 ![full-img](https://c2.llyz.xyz/blog/2015/04/qingdao/QD21.jpg)

@@ -1,12 +1,11 @@
 ---
+title: 马拉松 | 2014北京国际马拉松 | 雾霾中的跑马
+date: '2014-10-26'
+cover: https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon/7.jpg
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon/7.jpg
-date: '2014-10-26'
-layout: doc
 tags:
 - run
-title: 马拉松 | 2014北京国际马拉松 | 雾霾中的跑马
 ---
 
 关注了我微博的朋友上个周末应该被我刷屏了:2014年10月19日，北京马拉松，从天安门前起跑，穿越了笼罩在PM2.5数值超过400的雾霾之中的大半个城市，我创造了第一个PB( Personal best )，全程净成绩4小时28分43秒，达成了赛前自己订下的430的目标，跑友赛后见我祝贺我进入了430俱乐部。

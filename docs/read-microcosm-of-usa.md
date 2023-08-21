@@ -1,13 +1,12 @@
 ---
+title: 不合格的旅行者:读《美洲小宇宙》有感
+date: '2017-07-21'
+cover: https://c2.llyz.xyz/vogue/usa.png
 categories:
 - travel
-cover: https://c2.llyz.xyz/vogue/usa.png
-date: '2017-07-21'
-layout: doc
 tags:
 - travel
 - read
-title: 不合格的旅行者:读《美洲小宇宙》有感
 ---
 
 

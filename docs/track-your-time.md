@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/04/track-time.jpg
-date: '2015-04-08'
-layout: doc
 title: 时间都去哪了?用RescueTime和WakaTime来记录你的时间
+date: '2015-04-08'
+cover: https://c2.llyz.xyz/blog/2015/04/track-time.jpg
 ---
 
 ![full-img](https://c2.llyz.xyz/blog/2015/04/track-time.jpg)

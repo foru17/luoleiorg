@@ -1,14 +1,13 @@
 ---
+title: Realme X 蒸汽白 | OPPO子品牌千元新机 | VLOG48
+date: '2019-06-05'
+cover: https://c2.llyz.xyz/blog/2019/06/realme/m-14.JPG
 categories:
 - tech
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2019/06/realme/m-14.JPG
-date: '2019-06-05'
-layout: doc
 tags:
 - zuoluotv
 - digital
-title: Realme X 蒸汽白 | OPPO子品牌千元新机 | VLOG48
 ---
 
 最近新机层出不穷，老婆目前用的iPhone，还有一台当备机的红米Note一直放在家里，心想干脆给她再买一个备机，其实是我自己想买个新手机玩。

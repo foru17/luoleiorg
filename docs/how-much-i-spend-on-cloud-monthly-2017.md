@@ -1,10 +1,9 @@
 ---
+title: 我的云账单:2017篇
+date: '2017-12-26'
+cover: https://c2.llyz.xyz/blog/2017/12/cloud/c2.jpg
 categories:
 - code
-cover: https://c2.llyz.xyz/blog/2017/12/cloud/c2.jpg
-date: '2017-12-26'
-layout: doc
-title: 我的云账单:2017篇
 ---
 
 两年前，我在博客写了一篇[《你有几张「云」账单？》](https://luolei.org/how-much-i-spend-on-cloud-monthly/)，记录了自己每个月在不同的云服务、会员服务上的花销。

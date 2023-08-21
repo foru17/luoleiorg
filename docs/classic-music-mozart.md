@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2014/05/mozart.jpg
-date: '2014-05-10'
-layout: doc
 title: 光明与毁灭:天忌英才莫扎特
+date: '2014-05-10'
+cover: https://c2.llyz.xyz/wp-image/2014/05/mozart.jpg
 ---
 
 

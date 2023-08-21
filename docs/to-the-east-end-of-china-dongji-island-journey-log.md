@@ -1,16 +1,15 @@
 ---
+title: 东极岛 | 我们去了大陆最东的那个岛
+date: '2016-07-26'
+cover: https://c2.llyz.xyz/blog/2016/07/dongji/day1/A7S2-D1-04333.jpg
 categories:
 - photography
 - travel
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2016/07/dongji/day1/A7S2-D1-04333.jpg
-date: '2016-07-26'
-layout: doc
 tags:
 - dong-ji-dao
 - photography
 - travel
-title: 东极岛 | 我们去了大陆最东的那个岛
 ---
 
 2016年春节后回来，就进去了公司五楼的小黑屋进行起点改造的封闭开发，前后忙活了小半年，[起点中文网新版](https://i.qidian.com/)(2016.07.24注:当前对登陆用户开放)终于上线，从UI、交互、性能、后台架构方面都有了质的飞跃，后续我也会在博客进行技术方面的分享（毕竟也是KPI的一个考核项目），要不我的博客就真的沦陷成晒妻博客了。

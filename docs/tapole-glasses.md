@@ -1,11 +1,10 @@
 ---
+title: '老婆的第一副眼镜: Tapole 钛架 + 蔡司A系列镜片'
+date: '2020-06-12'
+cover: https://c2.llyz.xyz/blog/2020/06/tapole/t-19.JPG
 categories:
 - tech
 - lifestyle
-cover: https://c2.llyz.xyz/blog/2020/06/tapole/t-19.JPG
-date: '2020-06-12'
-layout: doc
-title: '老婆的第一副眼镜: Tapole 钛架 + 蔡司A系列镜片'
 ---
 
 老婆平时喜欢在手机上看小说，给她买了两个Kindle也不用，这些年下来，硬生生弄成了轻度近视，上周路过 Tapole 的实体店，原本想着先去验个光，过段时间京东天猫618啥的，可以上网配个眼镜，Tapole 提供专门的验光服务，在美团或者点评上团购，价格不贵，29元搞定。

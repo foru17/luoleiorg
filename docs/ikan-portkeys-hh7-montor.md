@@ -1,14 +1,13 @@
 ---
+title: 每个UP主都应该有个监视器 | 艾肯HH7 | ZUOLUOTV
+date: '2018-11-22'
+cover: https://c2.llyz.xyz/blog/2018/11/ikan/ikan.jpg
 categories:
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2018/11/ikan/ikan.jpg
-date: '2018-11-22'
-layout: doc
 tags:
 - zuoluotv
 - kai-xiang
 - e8af84e6b58b
-title: 每个UP主都应该有个监视器 | 艾肯HH7 | ZUOLUOTV
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2018/11/ikan/ikan.jpg)

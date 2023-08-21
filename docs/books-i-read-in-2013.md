@@ -1,11 +1,10 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/08/kindle-read-1024x682.jpg
+title: 2013年我看过哪些值得推荐的好书？
 date: '2013-08-19'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2013/08/kindle-read-1024x682.jpg
 tags:
 - kindle
 - read
-title: 2013年我看过哪些值得推荐的好书？
 ---
 
 ![kindle-read](https://c2.llyz.xyz/wp-image/2013/08/kindle-read-1024x682.jpg)

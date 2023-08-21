@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2020/08/guide/g1.JPG
+title: 写给大学新生的数字指南
 date: '2020-08-15'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2020/08/guide/g1.JPG
 tags:
 - internet
-title: 写给大学新生的数字指南
 ---
 
 高考，对于大多数年轻的朋友来说是一道门，跨过了这道门，意味着离开封闭的高中，离开了父母和家庭，开始了相对来说更独立的生活。

@@ -1,12 +1,11 @@
 ---
+title: 装修脑壳痛：家庭万兆光纤网络、智能家居
+date: '2020-09-18'
+cover: https://c2.llyz.xyz/house/house-map-2.JPG
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/house/house-map-2.JPG
-date: '2020-09-18'
-layout: doc
 tags:
 - 装修
-title: 装修脑壳痛：家庭万兆光纤网络、智能家居
 ---
 
 最近忙装修的事，各种乱七八糟真是脑壳痛。目前进度是已经给物业报建，目测装修队下周进场。布局已定，具体设计图还没定稿。

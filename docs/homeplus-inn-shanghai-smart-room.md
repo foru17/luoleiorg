@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04842.jpg
+title: 体验如家黑科技:如家精选酒店智能客房
 date: '2016-12-04'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04842.jpg
 tags:
 - travel
-title: 体验如家黑科技:如家精选酒店智能客房
 ---
 
 

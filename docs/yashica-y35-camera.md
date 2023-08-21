@@ -1,14 +1,13 @@
 ---
+title: 雅西卡 YASHICA Y35 | 编号740
+date: '2018-10-17'
+cover: https://c2.llyz.xyz/blog/2018/10/YASHICA/y-0.jpg
 categories:
 - photography
 - tech
-cover: https://c2.llyz.xyz/blog/2018/10/YASHICA/y-0.jpg
-date: '2018-10-17'
-layout: doc
 tags:
 - kai-xiang
 - photography
-title: 雅西卡 YASHICA Y35 | 编号740
 ---
 
 这是台来骗钱的玩具。

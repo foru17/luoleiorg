@@ -1,11 +1,10 @@
 ---
-cover: https://c2.llyz.xyz/blog/2018/03/switch/pro-10.jpg
+title: '童心也要 Pro: 任天堂 Switch Pro 手柄开箱'
 date: '2018-03-17'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2018/03/switch/pro-10.jpg
 tags:
 - kai-xiang
 - digital
-title: '童心也要 Pro: 任天堂 Switch Pro 手柄开箱'
 ---
 
 

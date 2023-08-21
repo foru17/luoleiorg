@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/10/thunder.jpg
-date: '2013-10-11'
-layout: doc
 title: 迅雷2014校园招聘品网页重构笔试笔记
+date: '2013-10-11'
+cover: https://c2.llyz.xyz/wp-image/2013/10/thunder.jpg
 ---
 
 ![thunder](https://c2.llyz.xyz/wp-image/2013/10/thunder.jpg)

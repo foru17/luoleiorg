@@ -1,13 +1,12 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/06/bike1.jpg "bike1"
+title: 【骑行去西藏.叁】归来谈（经验-攻略-分享-问答）
 date: '2012-06-21'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2012/06/bike1.jpg "bike1"
 tags:
 - travel
 - tibet
 - e997b4e99a94e5b9b4
 - e9aa91e8a18c
-title: 【骑行去西藏.叁】归来谈（经验-攻略-分享-问答）
 ---
 
 ![bike1](https://c2.llyz.xyz/wp-image/2012/06/bike1.jpg "bike1")

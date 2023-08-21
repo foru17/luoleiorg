@@ -1,12 +1,11 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/03/IMG_20120312_012310.jpg
+title: 深圳广州往返骑行小记2:「雨衣夜行」
 date: '2012-03-11'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2012/03/IMG_20120312_012310.jpg
 tags:
 - guangzhou
 - shenzhen
 - e9aa91e8a18c
-title: 深圳广州往返骑行小记2:「雨衣夜行」
 ---
 
 ![https://c2.llyz.xyz/wp-image/2012/03/IMG_20120312_012310.jpg](https://c2.llyz.xyz/wp-image/2012/03/IMG_20120312_012310.jpg)

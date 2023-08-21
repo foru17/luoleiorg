@@ -1,16 +1,15 @@
 ---
+title: 每个创作者都应该有张木桌:Timerecorder 时计 | VLOG18
+date: '2018-10-30'
+cover: https://c2.llyz.xyz/blog/2018/10/desk/desk-22.JPG
 categories:
 - tech
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2018/10/desk/desk-22.JPG
-date: '2018-10-30'
-layout: doc
 tags:
 - vlog
 - zuoluotv
 - kai-xiang
 - photography
-title: 每个创作者都应该有张木桌:Timerecorder 时计 | VLOG18
 ---
 
 ## 视频

@@ -1,13 +1,12 @@
 ---
+title: 如何拥有真实的美国手机号 | 从免费到超贵，三种实用方案推荐 | VLOG32
+date: '2019-01-24'
+cover: https://c2.llyz.xyz/blog/2019/01/phone/sim-card.jpg
 categories:
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2019/01/phone/sim-card.jpg
-date: '2019-01-24'
-layout: doc
 tags:
 - zuoluotv
 - usa
-title: 如何拥有真实的美国手机号 | 从免费到超贵，三种实用方案推荐 | VLOG32
 ---
 
 ## 加入左罗TG群

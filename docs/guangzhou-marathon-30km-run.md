@@ -1,14 +1,13 @@
 ---
+title: 跑步 | 广州马拉松30km训练小记
+date: '2013-10-14'
+cover: https://c2.llyz.xyz/wp-image/2013/10/run-prepare.jpeg
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/wp-image/2013/10/run-prepare.jpeg
-date: '2013-10-14'
-layout: doc
 tags:
 - run
 - sports
 - e9a9ace68b89e69dbe
-title: 跑步 | 广州马拉松30km训练小记
 ---
 
 今天这篇文章，不谈技术、不谈互联网，就谈谈自己最近的生活和跑步。

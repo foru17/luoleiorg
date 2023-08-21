@@ -1,11 +1,10 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2011/07/choose-chrome.jpg
+title: Chrome，更好吃，更好用
 date: '2011-07-15'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2011/07/choose-chrome.jpg
 tags:
 - chrome
 - google
-title: Chrome，更好吃，更好用
 ---
 
 ![](https://c2.llyz.xyz/wp-image/2011/07/choose-chrome.jpg")暑假第一天，轰隆隆隆一场暴雨冲走了复习周的疲倦，也带走了考试周不堪回首的痛苦记忆。

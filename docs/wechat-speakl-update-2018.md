@@ -1,12 +1,11 @@
 ---
+title: 罗磊啰嗦变聪明了:给微信公众号做了个小升级
+date: '2018-05-14'
+cover: https://c2.llyz.xyz/blog/2018/05/luosuo2.jpg
 categories:
 - code
-cover: https://c2.llyz.xyz/blog/2018/05/luosuo2.jpg
-date: '2018-05-14'
-layout: doc
 tags:
 - ispeakl
-title: 罗磊啰嗦变聪明了:给微信公众号做了个小升级
 ---
 
 刚刚看了一下自己的博客，发现自己在2013年就开通了「罗磊啰嗦」这个微信公众号。我并不是一个靠「内容」吃饭的「内容创作者」，对于这个微信公众号，我始终是利用自己的业余时间来进行创作和分享。

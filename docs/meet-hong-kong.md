@@ -1,16 +1,15 @@
 ---
+title: 香港 | 我带女朋友第一次去香港
+date: '2015-02-22'
+cover: https://c2.llyz.xyz/blog/2015/02/hk/h1.JPG
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2015/02/hk/h1.JPG
-date: '2015-02-22'
-layout: doc
 tags:
 - photography
 - travel
 - ricohgr
 - e9a699e6b8af
-title: 香港 | 我带女朋友第一次去香港
 ---
 
 假期带妹纸回家过年，年前去了趟香港，用理光GR随手拍了些照片。妹纸第一次来香港，也就带她随便逛逛街，遇见，香港。

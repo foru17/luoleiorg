@@ -1,12 +1,11 @@
 ---
+title: '300美元买了个雷电3拓展坞: OWC Thunderbolt 3 Dock'
+date: '2017-10-28'
+cover: https://c2.llyz.xyz/blog/2017/10/owc/owc-11.JPG
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2017/10/owc/owc-11.JPG
-date: '2017-10-28'
-layout: doc
 tags:
 - digital
-title: '300美元买了个雷电3拓展坞: OWC Thunderbolt 3 Dock'
 ---
 
 由于工作和工作室的需要，平时我的2016年RMBP 15寸需要外接诸多设备，尤其是视频剪辑相关的设备:

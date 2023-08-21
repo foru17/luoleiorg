@@ -1,14 +1,13 @@
 ---
+title: 【骑行去西藏.壹】谈死亡
+date: '2012-04-15'
+cover: https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg
-date: '2012-04-15'
-layout: doc
 tags:
 - travel
 - tibet
 - e9aa91e8a18c
-title: 【骑行去西藏.壹】谈死亡
 ---
 
 ## 写在前面

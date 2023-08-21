@@ -1,13 +1,12 @@
 ---
+title: 非典型程序员之路:腾讯第二届前端体验大会 | 嘉宾分享
+date: '2018-02-01'
+cover: https://c2.llyz.xyz/blog/2017/12/fe/fe2.jpg
 categories:
 - code
-cover: https://c2.llyz.xyz/blog/2017/12/fe/fe2.jpg
-date: '2018-02-01'
-layout: doc
 tags:
 - develop
 - code
-title: 非典型程序员之路:腾讯第二届前端体验大会 | 嘉宾分享
 ---
 
 2017年12月23日，受腾讯的朋友邀请，回了一趟深圳，去腾讯参加[「第二届前端体验大会」](https://feexp.org/shenzhen/)做分享嘉宾。

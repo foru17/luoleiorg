@@ -1,14 +1,13 @@
 ---
+title: 美国 | USA B1/B2 十年签证到手记
+date: '2016-08-20'
+cover: https://c2.llyz.xyz/blog/2016/08/usa/visa5.jpg
 categories:
 - travel
-cover: https://c2.llyz.xyz/blog/2016/08/usa/visa5.jpg
-date: '2016-08-20'
-layout: doc
 tags:
 - travel
 - life
 - usa
-title: 美国 | USA B1/B2 十年签证到手记
 ---
 
 周一早上人还没到公司，就收到EMS快递员的电话，说有两份我的美国领事馆的签证快递，在前台要我签收一下。

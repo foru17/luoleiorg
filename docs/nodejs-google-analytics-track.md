@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/tmp/images/track3.jpg
+title: NodeJS + Google Analytics追踪渠道页面浏览量
 date: '2015-09-12'
-layout: doc
+cover: https://c2.llyz.xyz/tmp/images/track3.jpg
 tags:
 - develop
-title: NodeJS + Google Analytics追踪渠道页面浏览量
 ---
 
 ![cover](https://c2.llyz.xyz/tmp/images/track3.jpg)

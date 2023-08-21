@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2020/06/teeth/t-3.JPG
+title: '拔牙记: 深圳人民医院使用医保拔智齿经验'
 date: '2020-06-24'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2020/06/teeth/t-3.JPG
 tags:
 - shenzhen
-title: '拔牙记: 深圳人民医院使用医保拔智齿经验'
 ---
 
 前几天，写了一篇在深圳做「新冠核酸检测」的分享。

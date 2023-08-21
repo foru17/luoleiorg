@@ -1,14 +1,13 @@
 ---
+title: 青岛 | 一吻定「青」|  Travel Film | GOPRO
+date: '2015-04-06'
+cover: https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D22.JPG
 categories:
 - travel
-cover: https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D22.JPG
-date: '2015-04-06'
-layout: doc
 tags:
 - digital
 - travel
 - qing-dao
-title: 青岛 | 一吻定「青」|  Travel Film | GOPRO
 ---
 
 ## 写在前面：如何让自己的旅途(至少)看起来更加精彩

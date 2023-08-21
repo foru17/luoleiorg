@@ -1,13 +1,12 @@
 ---
+title: 「等风来:博卡拉滑翔伞飞翔」尼泊尔随记(贰)
+date: '2014-04-30'
+cover: https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-9.jpeg
 categories:
 - travel
-cover: https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-9.jpeg
-date: '2014-04-30'
-layout: doc
 tags:
 - nepal
 - travel
-title: 「等风来:博卡拉滑翔伞飞翔」尼泊尔随记(贰)
 ---
 
 > “不管你有多着急，或者你有多害怕，我们现在都不能往前冲，冲出去也没用，飞不起来的。现在的我们只需要静静的，等风来。” 我愣了一下，在愣着的几秒钟里，感觉身体里有什么东西瞬间被撞开了，那些积郁了很久的东西。 “等风来？” 教练点点头，“如果想飞起来的话，只有勇气往前冲，是不够的。我们得停下来，什么都不要想，让自己清空，只是等风来。” --鲍鲸鲸《等风来》

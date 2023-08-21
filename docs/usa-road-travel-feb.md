@@ -1,15 +1,14 @@
 ---
+title: 美国  | 美西6000里:一趟旅行，女友成了前女友
+date: '2018-03-10'
+cover: https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-45.jpg
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-45.jpg
-date: '2018-03-10'
-layout: doc
 tags:
 - photography
 - travel
 - usa
-title: 美国  | 美西6000里:一趟旅行，女友成了前女友
 ---
 
 这是一篇迟来的游记。2017年，回头看看自己写的文章，大多是数码、科技开箱类居多，俨然从一个旅行博主变成了科技博主。有不少朋友私下问我是不是不发「游记」了。

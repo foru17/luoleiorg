@@ -1,13 +1,12 @@
 ---
+title: 如何给 Lycamobile 充值任意金额的话费  |  突破淘宝最低5美元限制 | ZUOLUOTV | VLOG37
+date: '2019-04-03'
+cover: https://c2.llyz.xyz/blog/2019/04/lyca/c-4.jpg
 categories:
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2019/04/lyca/c-4.jpg
-date: '2019-04-03'
-layout: doc
 tags:
 - zuoluotv
 - digital
-title: 如何给 Lycamobile 充值任意金额的话费  |  突破淘宝最低5美元限制 | ZUOLUOTV | VLOG37
 ---
 
 ## 视频

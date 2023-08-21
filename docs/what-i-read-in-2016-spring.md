@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2016/05/read.jpg
+title: 我在读什么:2016春季读书分享
 date: '2016-05-08'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2016/05/read.jpg
 tags:
 - read
-title: 我在读什么:2016春季读书分享
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2016/05/read.jpg)

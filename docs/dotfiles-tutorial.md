@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/09/dotfiles-1024x576.jpg
+title: dotfiles新手教程
 date: '2013-09-01'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2013/09/dotfiles-1024x576.jpg
 tags:
 - tutorial
-title: dotfiles新手教程
 ---
 
 ![dotfiles](https://c2.llyz.xyz/wp-image/2013/09/dotfiles-1024x576.jpg)  

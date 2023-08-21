@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/08/geek-life.jpg
+title: 几个我常去的沉浸式社区
 date: '2012-08-23'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2012/08/geek-life.jpg
 tags:
 - internet
-title: 几个我常去的沉浸式社区
 ---
 
 

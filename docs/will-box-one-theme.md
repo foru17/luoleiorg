@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/05/will-box-theme-1024x621.png
-date: '2013-05-12'
-layout: doc
 title: 【WP原创主题】愿望盒子V1
+date: '2013-05-12'
+cover: https://c2.llyz.xyz/wp-image/2013/05/will-box-theme-1024x621.png
 ---
 
 ![will-box-theme](https://c2.llyz.xyz/wp-image/2013/05/will-box-theme-1024x621.png)

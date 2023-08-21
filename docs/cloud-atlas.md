@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/01/cloud-atlas-hd-wallpaper-1024x512.jpg
+title: 【云图】万物皆联系
 date: '2013-01-29'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2013/01/cloud-atlas-hd-wallpaper-1024x512.jpg
 tags:
 - movies
-title: 【云图】万物皆联系
 ---
 
 ![cloud-atlas-hd-wallpaper](https://c2.llyz.xyz/wp-image/2013/01/cloud-atlas-hd-wallpaper-1024x512.jpg)

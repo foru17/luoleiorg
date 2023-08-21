@@ -1,11 +1,10 @@
 ---
+title: 我的云账单:2020年
+date: '2020-06-02'
+cover: https://c2.llyz.xyz/blog/2020/06/cloud/cloud1.jpg
 categories:
 - lifestyle
 - code
-cover: https://c2.llyz.xyz/blog/2020/06/cloud/cloud1.jpg
-date: '2020-06-02'
-layout: doc
-title: 我的云账单:2020年
 ---
 
 我分别在2015年和2017年，写过两篇有关「云账单」的文章，记录我在各种云服务、订阅上所花的钱：

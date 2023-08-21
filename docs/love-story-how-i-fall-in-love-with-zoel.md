@@ -1,12 +1,11 @@
 ---
+title: 作为一个程序员，我是如何找到女朋友的？
+date: '2016-08-05'
+cover: https://c2.llyz.xyz/blog/2016/08/love/zh15.jpg
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/blog/2016/08/love/zh15.jpg
-date: '2016-08-05'
-layout: doc
 tags:
 - life
-title: 作为一个程序员，我是如何找到女朋友的？
 ---
 
 > 在知乎看到这个问题，想着七夕就要来了，那就干脆写一下我跟杨左的故事吧。

@@ -1,13 +1,12 @@
 ---
+title: 正则表达式简要入门
+date: '2013-09-17'
+cover: https://c2.llyz.xyz/wp-image/2013/09/regual-4.png
 categories:
 - code
-cover: https://c2.llyz.xyz/wp-image/2013/09/regual-4.png
-date: '2013-09-17'
-layout: doc
 tags:
 - develop
 - tutorial
-title: 正则表达式简要入门
 ---
 
 第一次接触**正则表达式**是在今年四月的腾讯笔试，当时是一道选择题问如何判断输入的是否是 QQ 号码（即纯数字），当时是蒙了一个答案，菜鸟不会嘛 。事后自己倒专门学习了正则表达式，还做了笔记，可是平时开发倒的确是用得少，最近倒也忘了，近来又是校招的季节，自己就重新整理一篇简要入门，分享给大家的同时，自己也复习复习。

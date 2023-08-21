@@ -1,15 +1,14 @@
 ---
+title: 深圳 | 曾经的游轮，如今的海上世界
+date: '2015-02-23'
+cover: https://c2.llyz.xyz/blog/2015/02/shenzhen/w2.JPG
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2015/02/shenzhen/w2.JPG
-date: '2015-02-23'
-layout: doc
 tags:
 - photography
 - travel
 - ricohgr
-title: 深圳 | 曾经的游轮，如今的海上世界
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2015/02/shenzhen/w2.JPG)

@@ -1,12 +1,11 @@
 ---
+title: iMac 2015 5K 版外接 USB3.0 硬盘盒+SSD 系统加速体验
+date: '2015-11-17'
+cover: https://c2.llyz.xyz/blog/2015/11/ssd/show.jpg
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2015/11/ssd/show.jpg
-date: '2015-11-17'
-layout: doc
 tags:
 - e7a1ace4bbb6
-title: iMac 2015 5K 版外接 USB3.0 硬盘盒+SSD 系统加速体验
 ---
 
 公司新配置的电脑是2015版的retina 5k iMac 27\`标准版。全新的机器，刚刚到手的时候还惊喜，想着纳尼公司这么豪配这么高端的Mac，以前在猎豹工作，我们UX部门也只是配2K屏幕的iMac27，前一家公司开发的员工配的是定制的21.5寸的iMac。

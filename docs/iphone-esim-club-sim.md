@@ -1,14 +1,13 @@
 ---
+title: 在中国大陆免费体验 iPhone 手机 eSIM | VLOG36
+date: '2019-03-31'
+cover: https://c2.llyz.xyz/blog/2019/04/esim/v-1.jpg
 categories:
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2019/04/esim/v-1.jpg
-date: '2019-03-31'
-layout: doc
 tags:
 - zuoluotv
 - digital
 - ke-ji
-title: 在中国大陆免费体验 iPhone 手机 eSIM | VLOG36
 ---
 
 ## 视频

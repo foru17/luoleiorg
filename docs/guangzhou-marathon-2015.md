@@ -1,9 +1,9 @@
 ---
+title: 马拉松 | 2015广州马拉松
+date: '2015-12-08'
+cover: https://c2.llyz.xyz/blog/2015/12/marathon/gz44.JPG
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/blog/2015/12/marathon/gz44.JPG
-date: '2015-12-08'
-layout: doc
 tags:
 - guangzhou
 - travel
@@ -11,7 +11,6 @@ tags:
 - ricohgr
 - run
 - e9a9ace68b89e69dbe
-title: 马拉松 | 2015广州马拉松
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2015/12/marathon/gz44.JPG)

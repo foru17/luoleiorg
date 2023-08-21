@@ -1,16 +1,15 @@
 ---
+title: 日本 | DAY1 :东京・洲际酒店
+date: '2016-07-04'
+cover: https://c2.llyz.xyz/blog/2016/06/japan/day1/A7S2-D1-00989.jpg
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2016/06/japan/day1/A7S2-D1-00989.jpg
-date: '2016-07-04'
-layout: doc
 tags:
 - dong-jing
 - photography
 - travel
 - japan
-title: 日本 | DAY1 :东京・洲际酒店
 ---
 
 一聊到日本，总会有各种关键字浮现到脑海中，这个「一衣带水」的邻邦，自古以来就与自称「天朝上国」的我们颇有纠结。和平的年代里，这个国家的文化、文明，对我们又是影响那么深远。一个又一个与日本有关的关键字，游离在我们生活的各个方面。

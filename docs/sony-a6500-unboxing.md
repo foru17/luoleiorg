@@ -1,13 +1,12 @@
 ---
+title: SONY A6500:APS-C最强微单开箱
+date: '2017-08-18'
+cover: https://c2.llyz.xyz/blog/2017/08/sony/A6500-26.JPG
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2017/08/sony/A6500-26.JPG
-date: '2017-08-18'
-layout: doc
 tags:
 - photography
 - digital
-title: SONY A6500:APS-C最强微单开箱
 ---
 
 索尼A7S2在手上已经呆了一年，在过去一年时间里，这台相机，两万多次快门，记录了我和杨左去过的很多地方。去年年底，送给了杨左一台黑卡5，当做随手拍的备机，小巧的机身，强大的机器性能，也的确是卡片机当之无愧的机皇。

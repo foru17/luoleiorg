@@ -1,11 +1,10 @@
 ---
-cover: https://c2.llyz.xyz/blog/2016/01/netflix/cover.jpg
+title: 目测是大陆第一个Netflix全平台评测
 date: '2016-01-09'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2016/01/netflix/cover.jpg
 tags:
 - digital
 - e8af84e6b58b
-title: 目测是大陆第一个Netflix全平台评测
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2016/01/netflix/cover.jpg)

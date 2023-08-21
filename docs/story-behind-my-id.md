@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2014/06/young17.jpg
-date: '2014-06-09'
-layout: doc
 title: 'foru17 : 我，17，ID的故事'
+date: '2014-06-09'
+cover: https://c2.llyz.xyz/wp-image/2014/06/young17.jpg
 ---
 
 六月2日，海航 HU7708 航班，两小时40分钟的飞行，不用再忍受着广州闷热的夏日，也作别了深圳湾的海风，回到了帝都，夏日的北京，同事直叹热，对于我这种刚从一个更热的地方来的人来说，已算是分外凉爽。

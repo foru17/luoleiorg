@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/09/git_wallpaper_clean_by_black_pixel-d5wmjnw.jpg
+title: Git log diff config高级进阶
 date: '2013-09-06'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2013/09/git_wallpaper_clean_by_black_pixel-d5wmjnw.jpg
 tags:
 - tutorial
-title: Git log diff config高级进阶
 ---
 
 前一段时间分享了一篇[《更好的 git log》](https://luolei.org/2013/08/better-git-log/)简要介绍怎么美化 git log 命令，其中提到了 `alias`命令，今天再继续谈谈 git相关， 看看如何通过配置自己的 git config 让自己的 git 用起来更顺手。

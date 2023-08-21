@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/08/Sudingtian2.jpg
-date: '2012-08-07'
-layout: doc
 title: 【活出你的伟大】暨大篇
+date: '2012-08-07'
+cover: https://c2.llyz.xyz/wp-image/2012/08/Sudingtian2.jpg
 ---
 
 这几天Nike的「活出你的伟大」营销做得算是风生水起。我也来了灵感，跟风写了几段文案，PS了几张跟我们暨南大学相关的文案，权当娱乐吧。

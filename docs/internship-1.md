@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2011/07/weibojob.jpg "weibojob"
-date: '2011-07-27'
-layout: doc
 title: 实习笔记-笨鸟总得先飞
+date: '2011-07-27'
+cover: https://c2.llyz.xyz/wp-image/2011/07/weibojob.jpg "weibojob"
 ---
 
 我从来没有想到自己的第一份工作来得这么出乎意料。

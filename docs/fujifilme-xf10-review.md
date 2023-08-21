@@ -1,14 +1,13 @@
 ---
-cover: https://c2.llyz.xyz/blog/2018/08/xf10/xf-5.JPG
+title: 腹肌南波湾一日游:FUJIFILM XF10
 date: '2018-08-05'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2018/08/xf10/xf-5.JPG
 tags:
 - fu-shi
 - kai-xiang
 - photography
 - digital
 - e7a1ace4bbb6
-title: 腹肌南波湾一日游:FUJIFILM XF10
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2018/08/xf10/xf-5.JPG)

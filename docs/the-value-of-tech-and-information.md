@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2016/01/info.jpg
+title: 对信息和技术的一些看法
 date: '2016-01-09'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2016/01/info.jpg
 tags:
 - internet
-title: 对信息和技术的一些看法
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2016/01/info.jpg)

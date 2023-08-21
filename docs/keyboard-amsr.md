@@ -1,14 +1,13 @@
 ---
+title: 2000元 vs 1000元 vs 300元 | 不同价位键盘声音对比
+date: '2020-05-26'
+cover: https://c2.llyz.xyz/vlog/vlog65.jpg
 categories:
 - tech
 - zuoluotv
-cover: https://c2.llyz.xyz/vlog/vlog65.jpg
-date: '2020-05-26'
-layout: doc
 tags:
 - vlog
 - zuoluotv
-title: 2000元 vs 1000元 vs 300元 | 不同价位键盘声音对比
 ---
 
 ## 在线视频

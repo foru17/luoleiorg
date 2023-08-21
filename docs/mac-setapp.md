@@ -1,13 +1,12 @@
 ---
+title: Setapp 体验:每个月 $9.9 订阅 Mac 软件
+date: '2018-01-28'
+cover: https://c2.llyz.xyz/blog/2018/setapp/setapp0.jpg
 categories:
 - code
-cover: https://c2.llyz.xyz/blog/2018/setapp/setapp0.jpg
-date: '2018-01-28'
-layout: doc
 tags:
 - mac
 - digital
-title: Setapp 体验:每个月 $9.9 订阅 Mac 软件
 ---
 
 ## 前言

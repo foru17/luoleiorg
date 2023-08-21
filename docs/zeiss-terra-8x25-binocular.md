@@ -1,14 +1,13 @@
 ---
+title: '蔡司 | 大地8x25ED 便携望远镜: 蓝标魅力,旅行神器'
+date: '2017-12-11'
+cover: https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-10.JPG
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-10.JPG
-date: '2017-12-11'
-layout: doc
 tags:
 - kai-xiang
 - outsports
 - travel
-title: '蔡司 | 大地8x25ED 便携望远镜: 蓝标魅力,旅行神器'
 ---
 
 眼凑着公司婚假有效期要到了，赶在年底，十天的婚假，加了两天年假，前后凑了半个月，去美国西部度了个蜜月，自驾15天，前后走了4,000公里，这是我正式工作之后，最长的一次旅行了。

@@ -1,13 +1,12 @@
 ---
+title: ZEISS 三连：蔡司镜架、钻立方镜片、蔡司原厂加工近视眼镜
+date: '2020-07-05'
+cover: https://c2.llyz.xyz/blog/2020/07/zeiss/M-1.JPG
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2020/07/zeiss/M-1.JPG
-date: '2020-07-05'
-layout: doc
 tags:
 - kai-xiang
 - 蔡司
-title: ZEISS 三连：蔡司镜架、钻立方镜片、蔡司原厂加工近视眼镜
 ---
 
 前几周，给老婆在 TAPOLE 配了一副蔡司镜片的眼镜，花了1.6K多，当时选的是蔡司入门的莲花膜镜片，由于是线下实体店配的原因，价格并不便宜，甚至可以说配贵了。

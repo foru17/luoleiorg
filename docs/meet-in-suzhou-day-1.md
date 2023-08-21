@@ -1,16 +1,15 @@
 ---
+title: 苏州 | 上海周末好去处:同里古镇
+date: '2016-09-11'
+cover: https://c2.llyz.xyz/blog/2016/09/suzhou/day1/A7S2-D1-05784.jpg
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2016/09/suzhou/day1/A7S2-D1-05784.jpg
-date: '2016-09-11'
-layout: doc
 tags:
 - photography
 - travel
 - zi-jia
 - su-zhou
-title: 苏州 | 上海周末好去处:同里古镇
 ---
 
 8月底，趁着夏天的尾巴，顺便为了练练车，找了一个周末，自驾去了一趟苏州。

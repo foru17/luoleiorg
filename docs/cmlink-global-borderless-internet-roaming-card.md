@@ -1,11 +1,10 @@
 ---
+title: 'CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡'
+date: '2020-04-21'
+cover: https://c2.llyz.xyz/blog/2020/04/cmlink/c1.jpg
 categories:
 - tech
 - travel
-cover: https://c2.llyz.xyz/blog/2020/04/cmlink/c1.jpg
-date: '2020-04-21'
-layout: doc
-title: 'CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡'
 ---
 
 ## 在线视频

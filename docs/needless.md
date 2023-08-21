@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2014/10/mac-cool.jpg
-date: '2013-06-16'
-layout: doc
 title: 不带套，狠狠操
+date: '2013-06-16'
+cover: https://c2.llyz.xyz/wp-image/2014/10/mac-cool.jpg
 ---
 
 ![](https://c2.llyz.xyz/wp-image/2014/10/mac-cool.jpg)

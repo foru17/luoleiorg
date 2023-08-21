@@ -1,15 +1,14 @@
 ---
+title: 美国 | 美西8000里:蜜月旅行，再续「前」缘
+date: '2018-03-27'
+cover: https://c2.llyz.xyz/blog/2018/03/usa-nov/usa-70.jpg
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2018/03/usa-nov/usa-70.jpg
-date: '2018-03-27'
-layout: doc
 tags:
 - photography
 - travel
 - usa
-title: 美国 | 美西8000里:蜜月旅行，再续「前」缘
 ---
 
 两个星期前，我写了一篇[《美西6000里:一趟旅行，女友成了前女友》](https://luolei.org/usa-road-travel-feb/)，在 CHH 和数字尾巴，都被推上了首页，可怜我的CDN，一周时间，被刷掉了几个T的流量。

@@ -1,12 +1,11 @@
 ---
+title: Insta360 Nano:一个让我对VR感兴趣的全景相机
+date: '2017-09-19'
+cover: https://c2.llyz.xyz/blog/2017/09/insta/insta-1.JPG
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2017/09/insta/insta-1.JPG
-date: '2017-09-19'
-layout: doc
 tags:
 - digital
-title: Insta360 Nano:一个让我对VR感兴趣的全景相机
 ---
 
 

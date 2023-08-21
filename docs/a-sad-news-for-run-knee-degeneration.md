@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2014/05/xigai-blog-2.jpg
+title: 一个令我担心的诊断结果
 date: '2014-05-18'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2014/05/xigai-blog-2.jpg
 tags:
 - run
-title: 一个令我担心的诊断结果
 ---
 
 ![](https://c2.llyz.xyz/wp-image/2014/05/xigai-blog-2.jpg)

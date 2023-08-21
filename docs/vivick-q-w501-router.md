@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/10/jingdong.png "jingdong"
+title: 贵的不一定好，便宜也不一定差:vivick迷你路由器Q-W501简单评测
 date: '2012-10-09'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2012/10/jingdong.png "jingdong"
 tags:
 - e8af84e6b58b
-title: 贵的不一定好，便宜也不一定差:vivick迷你路由器Q-W501简单评测
 ---
 
 说到消费者知道的路由器品牌，大多就是Tp-link，D-Link、华为之类的大牌和名牌，高端点的有linksys、华硕之类。

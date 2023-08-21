@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/03/yicamer.jpg
+title: 小蚁运动相机延迟摄影 & 故宫自拍体验
 date: '2015-03-21'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2015/03/yicamer.jpg
 tags:
 - digital
-title: 小蚁运动相机延迟摄影 & 故宫自拍体验
 ---
 
 ![full-img](https://c2.llyz.xyz/blog/2015/03/yicamer.jpg)

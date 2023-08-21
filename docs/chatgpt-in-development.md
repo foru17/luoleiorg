@@ -1,14 +1,13 @@
 ---
+title: '如何用 ChatGPT 助力开发: 已经有 15 万人看过的经验分享'
+date: '2023-06-09'
+cover: https://c2.llyz.xyz/blog/2023/06/chatgpt/c-0.jpg
 categories:
 - code
-cover: https://c2.llyz.xyz/blog/2023/06/chatgpt/c-0.jpg
-date: '2023-06-09'
-layout: doc
 tags:
 - ai
 - chatgpt
 - 编程
-title: '如何用 ChatGPT 助力开发: 已经有 15 万人看过的经验分享'
 ---
 
 自从年初开始关注这波 AI 浪潮，我将 AI 纳入了自己的工作流程，已经有一段时间了。现在我基本上一有机会就向他人推荐，建议尽快将 AI 引入开发流程。

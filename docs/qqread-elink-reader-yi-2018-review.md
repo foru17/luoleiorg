@@ -1,13 +1,12 @@
 ---
+title: 全球首发开箱:QQ阅读电子书・易
+date: '2017-12-31'
+cover: https://c2.llyz.xyz/blog/2018/qqread/read-22.JPG
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2018/qqread/read-22.JPG
-date: '2017-12-31'
-layout: doc
 tags:
 - kai-xiang
 - digital
-title: 全球首发开箱:QQ阅读电子书・易
 ---
 
 2017年的最后一天，微博、朋友圈流传着这么一个关于18岁的梗:

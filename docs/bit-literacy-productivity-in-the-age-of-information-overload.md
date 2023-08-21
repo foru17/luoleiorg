@@ -1,11 +1,10 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/07/dna-nano-tech-desktop-1024x640.jpg
+title: 比特素养:信息过载时代的生产力
 date: '2013-07-25'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2013/07/dna-nano-tech-desktop-1024x640.jpg
 tags:
 - e7949fe4baa7e58a9b
 - read
-title: 比特素养:信息过载时代的生产力
 ---
 
 ![dna-nano-tech-desktop](https://c2.llyz.xyz/wp-image/2013/07/dna-nano-tech-desktop-1024x640.jpg)

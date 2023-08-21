@@ -1,17 +1,16 @@
 ---
+title: 菲律宾 | DAY4:长滩岛•马尼拉
+date: '2016-10-12'
+cover: https://c2.llyz.xyz/blog/2016/09/pilipinas/drone/day4/DJI-D4-0005.jpg
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2016/09/pilipinas/drone/day4/DJI-D4-0005.jpg
-date: '2016-10-12'
-layout: doc
 tags:
 - photography
 - travel
 - philippines
 - boracay
 - ma-ni-la
-title: 菲律宾 | DAY4:长滩岛•马尼拉
 ---
 
 #### 导航

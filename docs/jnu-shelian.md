@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2011/06/shelian.jpg "shelian"
+title: Mattew是个好干事，社联是个好组织
 date: '2011-06-23'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2011/06/shelian.jpg "shelian"
 tags:
 - jnu
-title: Mattew是个好干事，社联是个好组织
 ---
 
 ![](https://c2.llyz.xyz/wp-image/2011/06/shelian-300x225.jpg )

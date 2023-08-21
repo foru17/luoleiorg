@@ -1,10 +1,9 @@
 ---
+title: 图形化简历一枚
+date: '2011-07-12'
+cover: https://c2.llyz.xyz/wp-image/2011/07/cv2.jpg "cv2"
 categories:
 - tech
-cover: https://c2.llyz.xyz/wp-image/2011/07/cv2.jpg "cv2"
-date: '2011-07-12'
-layout: doc
-title: 图形化简历一枚
 ---
 
 ![](https://c2.llyz.xyz/wp-image/2011/07/cv2-1024x640.jpg )

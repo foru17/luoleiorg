@@ -1,12 +1,11 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/03/nobaidu1.jpg "nobaidu"
+title: 我的大学用什么？-互联网产品服务推荐
 date: '2012-03-24'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2012/03/nobaidu1.jpg "nobaidu"
 tags:
 - internet
 - e5a4a7e5ada6
 - tools
-title: 我的大学用什么？-互联网产品服务推荐
 ---
 
 > **「工欲善其事，必先利其器」**

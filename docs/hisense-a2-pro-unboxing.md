@@ -1,15 +1,14 @@
 ---
+title: 海信A2 Pro:一部给喜欢阅读的人准备的手机
+date: '2017-10-16'
+cover: https://c2.llyz.xyz/blog/2017/10/A2-3.jpg
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2017/10/A2-3.jpg
-date: '2017-10-16'
-layout: doc
 tags:
 - kai-xiang
 - digital
 - e7a1ace4bbb6
 - e8af84e6b58b
-title: 海信A2 Pro:一部给喜欢阅读的人准备的手机
 ---
 
 #### 写在前面

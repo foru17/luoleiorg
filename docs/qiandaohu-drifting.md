@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/09/qdh6.JPG
+title: 千岛湖•湖景•漂流
 date: '2015-09-28'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2015/09/qdh6.JPG
 tags:
 - travel
-title: 千岛湖•湖景•漂流
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2015/09/qdh6.JPG)

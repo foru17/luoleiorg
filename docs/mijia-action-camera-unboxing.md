@@ -1,13 +1,12 @@
 ---
+title: 米家小相机开箱:本是同根生，相煎也太急
+date: '2017-08-22'
+cover: https://c2.llyz.xyz/blog/2017/08/mijia/MIJIA-31.JPG
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2017/08/mijia/MIJIA-31.JPG
-date: '2017-08-22'
-layout: doc
 tags:
 - digital
 - e7a1ace4bbb6
-title: 米家小相机开箱:本是同根生，相煎也太急
 ---
 
 一周接连两篇开箱，今天这篇文章，有点意外。周一上班，突然看到微博上[相机笔记ET](https://weibo.com/etphotos)发了米家今天突然发售的「米家小相机」，4K运动相机，带触摸屏，关键是价格只要699，虽然我已经有了小蚁的4K运动相机，抱着对比和好奇，还是下单购买了这部相机。

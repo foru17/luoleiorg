@@ -1,10 +1,9 @@
 ---
+title: 旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机
+date: '2020-11-26'
+cover: https://c2.llyz.xyz/blog/2020/11/pamu/e-9.JPG
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2020/11/pamu/e-9.JPG
-date: '2020-11-26'
-layout: doc
-title: 旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机
 ---
 
 ## **在线视频**

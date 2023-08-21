@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/06/maker-time-1024x576.jpg
+title: 数字时代工匠:创客
 date: '2013-06-15'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2013/06/maker-time-1024x576.jpg
 tags:
 - e7a1ace4bbb6
-title: 数字时代工匠:创客
 ---
 
 ![maker-time](https://c2.llyz.xyz/wp-image/2013/06/maker-time-1024x576.jpg)

@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/default.cover.jpg
+title: 学会取消关注：一个微博控的退瘾路
 date: '2013-05-18'
-layout: doc
+cover: https://c2.llyz.xyz/default.cover.jpg
 tags:
 - life
-title: 学会取消关注：一个微博控的退瘾路
 ---
 
 自从走上前端路，人宅了，性格也慢慢在这种沉浸的过程中慢慢发生了一些改变，开始追求简单、专一和专注，慢慢调整心态，少了些浮躁（虽说还是挺浮躁和飘飘然），20多岁的人了，这算是我性格中的一个硬伤。

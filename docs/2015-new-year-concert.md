@@ -1,10 +1,9 @@
 ---
+title: 国家大剧院:BBC苏格兰交响乐团新年音乐会
+date: '2015-01-10'
+cover: https://c2.llyz.xyz/wp-image/2015/01/concert/music9.jpg
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/wp-image/2015/01/concert/music9.jpg
-date: '2015-01-10'
-layout: doc
-title: 国家大剧院:BBC苏格兰交响乐团新年音乐会
 ---
 
 去年一个偶然的机会，在一个失眠的夜晚，开始接触到古典音乐，读了本小书，看了些资料，系统地听了古典大家的作品，也算是一个门外汉恍恍惚惚进入了一个音乐艺术的殿堂，写了两篇文章[《光明与毁灭:天忌英才莫扎特》](https://luolei.org/classic-music-mozart/)，其中一篇[《看电影识音乐:电影中的经典古典乐》](https://luolei.org/classical-music-in-movies/)还被简书收录到《简书周刊》。

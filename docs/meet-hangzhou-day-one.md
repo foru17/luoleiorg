@@ -1,14 +1,13 @@
 ---
+title: 杭州 | 西湖
+date: '2015-09-04'
+cover: https://c2.llyz.xyz/blog/2015/09/hangzhou/hz46.JPG
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2015/09/hangzhou/hz46.JPG
-date: '2015-09-04'
-layout: doc
 tags:
 - travel
 - ricohgr
-title: 杭州 | 西湖
 ---
 
 这逢反法西斯胜利70周年，祖国放了一个三天的假，最近心情有点杂乱，想着找个清静点得地方散散心，在杭州、南京两个城市之间犹豫了阵，带着妹纸就下了一趟杭州。

@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/07/fxck-fang.jpg
-date: '2013-07-13'
-layout: doc
 title: 回记者信:关于方滨兴的一些看法
+date: '2013-07-13'
+cover: https://c2.llyz.xyz/wp-image/2013/07/fxck-fang.jpg
 ---
 
 

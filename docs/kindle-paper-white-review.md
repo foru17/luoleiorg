@@ -1,13 +1,12 @@
 ---
+title: Kindle paperwhite入手评测
+date: '2013-02-03'
+cover: https://c2.llyz.xyz/default.cover.jpg
 categories:
 - tech
-cover: https://c2.llyz.xyz/default.cover.jpg
-date: '2013-02-03'
-layout: doc
 tags:
 - kindle
 - read
-title: Kindle paperwhite入手评测
 ---
 
 几经犹豫，虽囊中羞涩，还是下决心分期买了kindle paperwhite。买的过程中也算颇为曲折，22号下午淘宝搜商家，原本纠结于kindle 4还是KPW，前者6百多，后者美版将近一千，心中略微衡量，觉得400的价格差距对于KPW功能上背光的提升，性价比不那么高，遂下单付款买了K4。

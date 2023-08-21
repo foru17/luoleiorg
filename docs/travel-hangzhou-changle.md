@@ -1,14 +1,13 @@
 ---
+title: 杭州 | 小众旅行:长乐林场
+date: '2016-12-09'
+cover: https://c2.llyz.xyz/blog/2016/11/hangzhou/hangzhou-cover.jpg
 categories:
 - travel
-cover: https://c2.llyz.xyz/blog/2016/11/hangzhou/hangzhou-cover.jpg
-date: '2016-12-09'
-layout: doc
 tags:
 - photography
 - travel
 - hang-zhou
-title: 杭州 | 小众旅行:长乐林场
 ---
 
 曾经同杨左计划，买了车之后，先在江浙以及周边自驾，发现多点身边的美。车牌还在摇号，中签率感人，车算是遥遥无期，但旅行自驾，租个车倒也就能解决。

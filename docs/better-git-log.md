@@ -1,11 +1,10 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/08/better-git-log.jpg
+title: 更好的git log
 date: '2013-08-14'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2013/08/better-git-log.jpg
 tags:
 - develop
 - tech
-title: 更好的git log
 ---
 
 ![better-git-log](https://c2.llyz.xyz/wp-image/2013/08/better-git-log.jpg)

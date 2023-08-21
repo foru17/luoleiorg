@@ -1,10 +1,9 @@
 ---
+title: 看电影识音乐:电影中的经典古典乐
+date: '2014-05-05'
+cover: https://c2.llyz.xyz/wp-image/2014/05/titanic-screenshot-med.jpg
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/wp-image/2014/05/titanic-screenshot-med.jpg
-date: '2014-05-05'
-layout: doc
-title: 看电影识音乐:电影中的经典古典乐
 ---
 
 去年底，一个失眠夜晚，有幸翻开了多看阅读出品的[《将古典入门进行到底》](https://www.duokan.com/book/44179)，于是，一边开着 kindle,一边用手机的虾米音乐找歌，戴着耳机，跟着作者的步伐，来了一场古典音乐的入门之旅。

@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/05/屏幕快照-2013-05-15-下午12.57.54-1024x628.png
+title: 推荐几个前端相关的国外视频
 date: '2013-05-15'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2013/05/屏幕快照-2013-05-15-下午12.57.54-1024x628.png
 tags:
 - develop
-title: 推荐几个前端相关的国外视频
 ---
 
 ![屏幕快照 2013-05-15 下午12.57.54](https://c2.llyz.xyz/wp-image/2013/05/屏幕快照-2013-05-15-下午12.57.54-1024x628.png)

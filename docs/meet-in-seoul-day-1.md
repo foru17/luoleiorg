@@ -1,17 +1,16 @@
 ---
+title: 首尔 |  DAY1:明洞・东大门
+date: '2016-04-03'
+cover: https://c2.llyz.xyz/blog/2016/04/seoul/day1/k28.JPG
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2016/04/seoul/day1/k28.JPG
-date: '2016-04-03'
-layout: doc
 tags:
 - photography
 - travel
 - ricohgr
 - han-guo
 - seoul
-title: 首尔 |  DAY1:明洞・东大门
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2016/04/seoul/day1/k28.JPG)

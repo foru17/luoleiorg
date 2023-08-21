@@ -1,14 +1,13 @@
 ---
+title: 台湾 | 精选集・ 2016十月
+date: '2016-11-23'
+cover: https://c2.llyz.xyz/blog/2016/10/taiwan/taiwan-cover.jpg
 categories:
 - travel
-cover: https://c2.llyz.xyz/blog/2016/10/taiwan/taiwan-cover.jpg
-date: '2016-11-23'
-layout: doc
 tags:
 - tai-wan
 - photography
 - travel
-title: 台湾 | 精选集・ 2016十月
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2016/10/taiwan/taiwan-cover.jpg)

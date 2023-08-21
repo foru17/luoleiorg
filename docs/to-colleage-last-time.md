@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/05/graduate-dinner-1024x683.jpg
+title: 【大学】致青春，致朋友
 date: '2013-05-21'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2013/05/graduate-dinner-1024x683.jpg
 tags:
 - e5a4a7e5ada6
-title: 【大学】致青春，致朋友
 ---
 
 ![cover](https://c2.llyz.xyz/wp-image/2013/05/graduate-dinner-1024x683.jpg)

@@ -1,8 +1,7 @@
 ---
-cover: https://www.nuffnang.com.cn/wp-content/themes/nuffnang-3.0.0/uploadedstuff/nn3/founders_img.png
-date: '2011-05-26'
-layout: doc
 title: 当我添加广告的时候我在想什么
+date: '2011-05-26'
+cover: https://www.nuffnang.com.cn/wp-content/themes/nuffnang-3.0.0/uploadedstuff/nn3/founders_img.png
 ---
 
 在google reader的订阅里看到卢松松博客写了篇关于[拿福能广告联盟](https://www.nuffnang.com.cn)的博客，最近这个拿福能在搞千人挑战活动，刚刚看了看广告还不算太伤大雅，可以选择公益广告，就想尝试一下。

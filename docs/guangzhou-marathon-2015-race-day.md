@@ -1,16 +1,15 @@
 ---
+title: 马拉松 | 2015广州马拉松・比赛日
+date: '2015-12-08'
+cover: https://c2.llyz.xyz/blog/2015/12/marathon/gz29.JPG
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/blog/2015/12/marathon/gz29.JPG
-date: '2015-12-08'
-layout: doc
 tags:
 - guangzhou
 - travel
 - ricohgr
 - run
 - e9a9ace68b89e69dbe
-title: 马拉松 | 2015广州马拉松・比赛日
 ---
 
 周五来的广州，周日跑马，周六一觉睡到10点，外面下起阴雨，大半天都呆在酒店没怎么出去。

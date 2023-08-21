@@ -1,12 +1,11 @@
 ---
+title: 我的博客从 Ghost 迁移回 Wordpress | 优化记录
+date: '2019-07-06'
+cover: https://c2.llyz.xyz/blog/2019/07/blog/wp-1.jpg
 categories:
 - code
-cover: https://c2.llyz.xyz/blog/2019/07/blog/wp-1.jpg
-date: '2019-07-06'
-layout: doc
 tags:
 - 编程
-title: 我的博客从 Ghost 迁移回 Wordpress | 优化记录
 ---
 
 如你所见，我的博客「[罗磊的独立博客](https://luolei.org)」在2019年7月，间隔3年，又一次进行了大改版。

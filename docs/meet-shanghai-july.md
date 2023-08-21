@@ -1,16 +1,15 @@
 ---
+title: 上海 | 外滩周末小逛
+date: '2015-07-04'
+cover: https://c2.llyz.xyz/blog/2015/07/shanghai/sh24.JPG
 categories:
 - photography
-cover: https://c2.llyz.xyz/blog/2015/07/shanghai/sh24.JPG
-date: '2015-07-04'
-layout: doc
 tags:
 - shanghai
 - photography
 - travel
 - ricohgr
 - life
-title: 上海 | 外滩周末小逛
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2015/07/shanghai/sh24.JPG)

@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2014/12/2014-read.jpg
+title: 【年終卷】2014年我读了哪些书？
 date: '2014-12-13'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2014/12/2014-read.jpg
 tags:
 - read
-title: 【年終卷】2014年我读了哪些书？
 ---
 
 ## 年终卷

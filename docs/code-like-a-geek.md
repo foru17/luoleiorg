@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/02/geek.jpg
+title: 非程序员别点:Geek Style开发思维、技巧、工具
 date: '2015-03-04'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2015/02/geek.jpg
 tags:
 - develop
-title: 非程序员别点:Geek Style开发思维、技巧、工具
 ---
 
 ![full-img](https://c2.llyz.xyz/blog/2015/02/geek.jpg) 首先忽略标题，不标题党点没人看。嗯哼，进入正题。

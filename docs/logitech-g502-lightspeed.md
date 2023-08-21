@@ -1,14 +1,13 @@
 ---
+title: 升级游戏鼠标：罗技 G502 LIGHTSPEED 无线版
+date: '2020-06-21'
+cover: https://c2.llyz.xyz/blog/2020/06/logitech/g-2.JPG
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2020/06/logitech/g-2.JPG
-date: '2020-06-21'
-layout: doc
 tags:
 - 外设
 - digital
 - 罗技
-title: 升级游戏鼠标：罗技 G502 LIGHTSPEED 无线版
 ---
 
 虽然家里有台配置不错的PC，也有游戏主机，但是我玩的游戏很少，大多都是FPS游戏，玩的FPS游戏也很专一，过去这十多年，基本就集中在「CS」「使命召唤」「战地」「绝地求生」之中，这两年玩得比较多的就是使命召唤和 PUBG 吃鸡了。

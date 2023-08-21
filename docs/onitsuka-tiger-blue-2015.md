@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/07/t5.JPG
-date: '2015-07-10'
-layout: doc
 title: 【开箱】鬼冢虎Onitsuka Tiger亮蓝
+date: '2015-07-10'
+cover: https://c2.llyz.xyz/blog/2015/07/t5.JPG
 ---
 
 ![full-img](https://c2.llyz.xyz/blog/2015/07/t5.JPG)

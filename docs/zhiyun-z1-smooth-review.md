@@ -1,11 +1,10 @@
 ---
-cover: https://c2.llyz.xyz/blog/2016/04/zhiyun/z10.JPG
+title: 旅拍伴侣:智云Z1-Smooth-C 2三轴稳定器
 date: '2016-04-09'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2016/04/zhiyun/z10.JPG
 tags:
 - photography
 - digital
-title: 旅拍伴侣:智云Z1-Smooth-C 2三轴稳定器
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2016/04/zhiyun/z10.JPG)

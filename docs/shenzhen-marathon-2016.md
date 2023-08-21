@@ -1,13 +1,12 @@
 ---
+title: 马拉松 | 2016深圳国际马拉松
+date: '2016-12-21'
+cover: https://c2.llyz.xyz/blog/2016/12/shenzhen/sz8.JPG
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/blog/2016/12/shenzhen/sz8.JPG
-date: '2016-12-21'
-layout: doc
 tags:
 - shenzhen
 - run
-title: 马拉松 | 2016深圳国际马拉松
 ---
 
 人这一辈子，也就这么点年头，总得找点事折腾下自己。

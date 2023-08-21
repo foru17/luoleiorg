@@ -1,14 +1,13 @@
 ---
+title: 泰国 | 曼谷军事基地 | 体验军用枪械实弹射击
+date: '2016-12-11'
+cover: https://c2.llyz.xyz/blog/2016/11/shoot/shoot-28.jpg
 categories:
 - travel
-cover: https://c2.llyz.xyz/blog/2016/11/shoot/shoot-28.jpg
-date: '2016-12-11'
-layout: doc
 tags:
 - travel
 - man-gu
 - tai-guo
-title: 泰国 | 曼谷军事基地 | 体验军用枪械实弹射击
 ---
 
 十一月，原本计划去曼谷参加「渣打曼谷马拉松」，由于泰皇驾崩，国丧期马拉松取消，机票退了心疼，干脆过去度了个三天的小假。

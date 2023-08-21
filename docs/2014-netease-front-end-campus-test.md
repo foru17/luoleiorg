@@ -1,13 +1,12 @@
 ---
+title: 2014网易前端开发笔试题笔记
+date: '2013-10-07'
+cover: https://c2.llyz.xyz/default.cover.jpg
 categories:
 - code
-cover: https://c2.llyz.xyz/default.cover.jpg
-date: '2013-10-07'
-layout: doc
 tags:
 - develop
 - e7ac94e8af95
-title: 2014网易前端开发笔试题笔记
 ---
 
 9月22日晚收到网易笔试通知，提示欢迎参加23号广州地区校招，详情笔试地点请等详细通知，结果一直到23日下午4点半，距离笔试开始只有2个半小时，才收到笔试地点的邮件和短信，这蛋疼得，于是赶在下班高峰期，赶往大学城华工。又是华工，看来各大企业都很偏爱大学城华工啊。投的岗位是杭州研发院的前端开发。

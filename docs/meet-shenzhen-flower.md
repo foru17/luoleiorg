@@ -1,15 +1,14 @@
 ---
+title: 深圳 | 花开深大，据说是中国最美的大学校园之一 | 深圳大学
+date: '2015-02-26'
+cover: https://c2.llyz.xyz/blog/2015/02/flower/f17.JPG
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2015/02/flower/f17.JPG
-date: '2015-02-26'
-layout: doc
 tags:
 - photography
 - travel
 - ricohgr
-title: 深圳 | 花开深大，据说是中国最美的大学校园之一 | 深圳大学
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2015/02/flower/f17.JPG)

@@ -1,12 +1,11 @@
 ---
+title: 马拉松 | 2014上海国际马拉松 | 跑崩了
+date: '2014-11-15'
+cover: https://c2.llyz.xyz/wp-image/2014/11/shmarathon/sh20.jpg
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/wp-image/2014/11/shmarathon/sh20.jpg
-date: '2014-11-15'
-layout: doc
 tags:
 - run
-title: 马拉松 | 2014上海国际马拉松 | 跑崩了
 ---
 
 上一次去上海还是2010年世博会，同高中同学阿水姐一起去逛了个人山人海的「东方之珠」，那一次上海之行，见识到了国人的「扎堆」能力，感受到了颇具中国特色的「排队」文化。

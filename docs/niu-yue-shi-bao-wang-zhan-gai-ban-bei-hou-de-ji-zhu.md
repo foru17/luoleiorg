@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2014/02/nytimes-redesign-1024x568.png
-date: '2014-04-27'
-layout: doc
 title: 纽约时报网站改版背后的技术
+date: '2014-04-27'
+cover: https://c2.llyz.xyz/wp-image/2014/02/nytimes-redesign-1024x568.png
 ---
 
 

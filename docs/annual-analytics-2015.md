@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/12/data-2015.jpg
-date: '2015-12-31'
-layout: doc
 title: 罗磊博客统计报告2015
+date: '2015-12-31'
+cover: https://c2.llyz.xyz/blog/2015/12/data-2015.jpg
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2015/12/data-2015.jpg)

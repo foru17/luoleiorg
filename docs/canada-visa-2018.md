@@ -1,12 +1,11 @@
 ---
+title: 加拿大 | 我可能办了一个「假」的十年多次签证
+date: '2018-04-08'
+cover: https://c2.llyz.xyz/blog/2018/04/visa.jpg
 categories:
 - travel
-cover: https://c2.llyz.xyz/blog/2018/04/visa.jpg
-date: '2018-04-08'
-layout: doc
 tags:
 - travel
-title: 加拿大 | 我可能办了一个「假」的十年多次签证
 ---
 
 上次去韩国，因为签证问题，在机场被拒绝登机，在我的推送[《旅行 | 惨痛，我在机场被拒绝登机》](https://luolei.org/korean-seoul-travel-fail/)中有分享经验教训。

@@ -1,16 +1,15 @@
 ---
+title: 日本 | DAY2 :东京・皇宫・银座・筑地市场
+date: '2016-07-05'
+cover: https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01339.jpg
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01339.jpg
-date: '2016-07-05'
-layout: doc
 tags:
 - dong-jing
 - photography
 - travel
 - japan
-title: 日本 | DAY2 :东京・皇宫・银座・筑地市场
 ---
 
 梅雨季节的东京，第一晚倒十分安静，没有什么车水马龙的喧闹，只有窗外静静的东京湾。

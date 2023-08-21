@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/12/shanghai-streed-1024x429.jpeg
+title: 【"移动"中国】Facebook 设计总监上海见闻
 date: '2013-12-05'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2013/12/shanghai-streed-1024x429.jpeg
 tags:
 - internet
-title: 【"移动"中国】Facebook 设计总监上海见闻
 ---
 
 ![shanghai-streed](https://c2.llyz.xyz/wp-image/2013/12/shanghai-streed-1024x429.jpeg)

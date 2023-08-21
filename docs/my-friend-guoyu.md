@@ -1,13 +1,12 @@
 ---
+title: 如何看待年仅 28 岁的郭宇宣布从字节跳动退休？
+date: '2020-06-16'
+cover: https://c2.llyz.xyz/blog/2020/06/guoyu/guoyu2.jpg
 categories:
 - code
-cover: https://c2.llyz.xyz/blog/2020/06/guoyu/guoyu2.jpg
-date: '2020-06-16'
-layout: doc
 tags:
 - internet
 - code
-title: 如何看待年仅 28 岁的郭宇宣布从字节跳动退休？
 ---
 
 今天看知乎，发现首页推送了一个热门话题:

@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/07/shanghai1.jpg
-date: '2015-07-13'
-layout: doc
 title: 台风来临:延时摄影
+date: '2015-07-13'
+cover: https://c2.llyz.xyz/blog/2015/07/shanghai1.jpg
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2015/07/shanghai1.jpg)

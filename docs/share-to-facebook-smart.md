@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/04/facebook0.jpg
+title: 隔山打牛:给第三方网站做Facebook的Open Graph分享优化
 date: '2015-04-10'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2015/04/facebook0.jpg
 tags:
 - facebook
-title: 隔山打牛:给第三方网站做Facebook的Open Graph分享优化
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2015/04/facebook0.jpg)

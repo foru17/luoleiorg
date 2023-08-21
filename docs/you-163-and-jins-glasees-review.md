@@ -1,15 +1,14 @@
 ---
+title: 299元的网易严选 VS 900元的 JINS | 第一次在线配近视眼镜 | ZUOLUOTV
+date: '2018-12-24'
+cover: https://c2.llyz.xyz/blog/2018/12/glasses/g-3.jpg
 categories:
 - lifestyle
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2018/12/glasses/g-3.jpg
-date: '2018-12-24'
-layout: doc
 tags:
 - zuoluotv
 - kai-xiang
 - e8af84e6b58b
-title: 299元的网易严选 VS 900元的 JINS | 第一次在线配近视眼镜 | ZUOLUOTV
 ---
 
 ## 视频

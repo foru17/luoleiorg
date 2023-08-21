@@ -1,16 +1,15 @@
 ---
+title: 视频 | 长滩岛:亚洲最美白沙滩
+date: '2016-10-13'
+cover: https://c2.llyz.xyz/blog/2016/09/pilipinas/boracay-cover.jpg
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2016/09/pilipinas/boracay-cover.jpg
-date: '2016-10-13'
-layout: doc
 tags:
 - travel
 - philippines
 - boracay
 - ma-ni-la
-title: 视频 | 长滩岛:亚洲最美白沙滩
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2016/09/pilipinas/boracay-cover.jpg)

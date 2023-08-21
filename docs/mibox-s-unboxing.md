@@ -1,14 +1,13 @@
 ---
+title: MiBox S 小米盒子国际版 | 2019年原生 AndroidTV 推荐 | VLOG31
+date: '2019-01-19'
+cover: https://c2.llyz.xyz/blog/2019/01/mibox/mibox-9.jpg
 categories:
 - tech
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2019/01/mibox/mibox-9.jpg
-date: '2019-01-19'
-layout: doc
 tags:
 - zuoluotv
 - xiao-mi
-title: MiBox S 小米盒子国际版 | 2019年原生 AndroidTV 推荐 | VLOG31
 ---
 
 ## 视频

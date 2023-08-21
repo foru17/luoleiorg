@@ -1,12 +1,11 @@
 ---
+title: 过去10年,我用过的13部手机
+date: '2017-02-24'
+cover: https://c2.llyz.xyz/blog/2017/02/phone/mum.jpg
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2017/02/phone/mum.jpg
-date: '2017-02-24'
-layout: doc
 tags:
 - digital
-title: 过去10年,我用过的13部手机
 ---
 
 2017年1月9日，iPhone 发布十周年，这条消息带给我的那种震撼，就犹如我昨天得知「陈绮贞已经42岁了」。

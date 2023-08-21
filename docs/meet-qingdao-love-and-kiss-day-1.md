@@ -1,15 +1,14 @@
 ---
+title: '青岛 | DAY1: 奥帆中心・海鲜水饺'
+date: '2015-04-09'
+cover: https://c2.llyz.xyz/blog/2015/04/qingdao/QD7.jpg
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2015/04/qingdao/QD7.jpg
-date: '2015-04-09'
-layout: doc
 tags:
 - photography
 - travel
 - qing-dao
-title: '青岛 | DAY1: 奥帆中心・海鲜水饺'
 ---
 
 清明假期跟女朋友去了一趟青岛，不错的城市，凑合的天气，虽说一大早迟到了5分钟没赶上高铁，无奈另外花了高价买了黄牛票，但总的来说还是很愉快和放松的记忆。

@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2014/10/love-original.jpg
+title: 谈情说下爱:浪漫爱情的本质和化学
 date: '2014-09-09'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2014/10/love-original.jpg
 tags:
 - read
-title: 谈情说下爱:浪漫爱情的本质和化学
 ---
 
 ![full-img](https://c2.llyz.xyz/wp-image/2014/10/love-original.jpg)

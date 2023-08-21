@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg "biketotibet"
-date: '2012-03-26'
-layout: doc
 title: 每月一个好习惯NO.1:早睡早起
+date: '2012-03-26'
+cover: https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg "biketotibet"
 ---
 
 ![biketotibet](https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg "biketotibet")

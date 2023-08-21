@@ -1,17 +1,16 @@
 ---
+title: 菲律宾 | DAY2:马尼拉•长滩岛
+date: '2016-10-10'
+cover: https://c2.llyz.xyz/blog/2016/09/pilipinas/day2/A7S2-D2-07250.jpg
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2016/09/pilipinas/day2/A7S2-D2-07250.jpg
-date: '2016-10-10'
-layout: doc
 tags:
 - photography
 - travel
 - philippines
 - boracay
 - ma-ni-la
-title: 菲律宾 | DAY2:马尼拉•长滩岛
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2016/09/pilipinas/day2/A7S2-D2-07250.jpg)

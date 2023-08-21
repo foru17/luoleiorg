@@ -1,13 +1,12 @@
 ---
+title: '5000块的硬盘盒: 世特力雷电2磁盘阵列 | 开箱  | ZUOLUOTV'
+date: '2017-08-27'
+cover: https://c2.llyz.xyz/blog/2017/08/century/century-3.JPG
 categories:
 - tech
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2017/08/century/century-3.JPG
-date: '2017-08-27'
-layout: doc
 tags:
 - digital
-title: '5000块的硬盘盒: 世特力雷电2磁盘阵列 | 开箱  | ZUOLUOTV'
 ---
 
 

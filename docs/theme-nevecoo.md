@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/02/https-ssl.jpg
-date: '2015-02-14'
-layout: doc
 title: 「辞旧迎新」新主题,更安全的罗磊独立博客
+date: '2015-02-14'
+cover: https://c2.llyz.xyz/blog/2015/02/https-ssl.jpg
 ---
 
 除旧迎新，在这新年到来的最后一周，也给博客做了下不小的升级。

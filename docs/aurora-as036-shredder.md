@@ -1,12 +1,11 @@
 ---
+title: 居家办公好物 | 震旦 AS036 桌面碎纸机开箱
+date: '2020-03-04'
+cover: https://c2.llyz.xyz/blog/2020/03/shredder/p-13.JPG
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2020/03/shredder/p-13.JPG
-date: '2020-03-04'
-layout: doc
 tags:
 - digital
-title: 居家办公好物 | 震旦 AS036 桌面碎纸机开箱
 ---
 
 2020，一场疫情，改变了很多人的生活、学习、工作方式，远程办公，上网课，不少被迫在家办公，脱离了办公室，没了办公的一些硬件环境，有时候也是挺不方便的。

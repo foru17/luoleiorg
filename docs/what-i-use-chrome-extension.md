@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/12/what-i-use.jpg
+title: 【我在用什么？】Chrome拓展插件篇
 date: '2012-12-14'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2012/12/what-i-use.jpg
 tags:
 - chrome
-title: 【我在用什么？】Chrome拓展插件篇
 ---
 
 ![what-i-use](https://c2.llyz.xyz/wp-image/2012/12/what-i-use.jpg)

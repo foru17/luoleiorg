@@ -1,12 +1,11 @@
 ---
+title: 年終卷 | 2016年我读了哪些书？
+date: '2017-02-15'
+cover: https://c2.llyz.xyz/blog/2017/02/wechat-we.png
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/blog/2017/02/wechat-we.png
-date: '2017-02-15'
-layout: doc
 tags:
 - read
-title: 年終卷 | 2016年我读了哪些书？
 ---
 
 2017年的进度条已经过去了五分之一，这短短的五分之一，算得上是我人生最重要的一个时间段，人生中的几件大事，就这么有点意料之外，情理之中，在这段时间里发生了。

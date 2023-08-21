@@ -1,14 +1,13 @@
 ---
+title: 日本旅行上网攻略:移动WIFI和SIM卡哪个好? | 左罗TV
+date: '2016-07-31'
+cover: https://c2.llyz.xyz/blog/2016/07/wifi-japan.jpg
 categories:
 - travel
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2016/07/wifi-japan.jpg
-date: '2016-07-31'
-layout: doc
 tags:
 - travel
 - japan
-title: 日本旅行上网攻略:移动WIFI和SIM卡哪个好? | 左罗TV
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2016/07/wifi-japan.jpg)

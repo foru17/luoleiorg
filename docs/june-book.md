@@ -1,10 +1,9 @@
 ---
-cover: https://img3.douban.com/lpic/s1790263.jpg
+title: 六月书单
 date: '2011-06-07'
-layout: doc
+cover: https://img3.douban.com/lpic/s1790263.jpg
 tags:
 - read
-title: 六月书单
 ---
 
 列一下6月准备看的书，话说有点担心能不能看完，期末了都。

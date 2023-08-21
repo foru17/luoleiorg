@@ -1,15 +1,14 @@
 ---
+title: '青岛 | DAY2: 八大关・天主教堂'
+date: '2015-04-10'
+cover: https://c2.llyz.xyz/blog/2015/04/qingdao/QD8.jpg
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2015/04/qingdao/QD8.jpg
-date: '2015-04-10'
-layout: doc
 tags:
 - photography
 - travel
 - qing-dao
-title: '青岛 | DAY2: 八大关・天主教堂'
 ---
 
 第二天，在酒店行政酒廊吃过早餐，酒廊位置不错，在大楼28层，半边墙的落地窗，可以看到青岛市景，就是天气不好灰蒙蒙的，当时没带相机，就没拍照。回房间收拾一下，去前台退房，叫了一辆的士，去青岛南部黄岛的温德姆银沙滩酒店，前身是凯宾斯基，后来被温德姆买了。

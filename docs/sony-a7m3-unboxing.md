@@ -1,15 +1,14 @@
 ---
+title: 开箱 | 再见了旧爱,迎小三新欢:索尼A7M3
+date: '2018-06-23'
+cover: https://c2.llyz.xyz/blog/2018/06/sony/a73-9.JPG
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2018/06/sony/a73-9.JPG
-date: '2018-06-23'
-layout: doc
 tags:
 - kai-xiang
 - photography
 - xiang-ji
 - suo-ni
-title: 开箱 | 再见了旧爱,迎小三新欢:索尼A7M3
 ---
 
 2016前的那个夏天，六月的上海，我入手了人生的第一台全画幅相机，索尼A7S2，正式加入索党。初购相机的那个周末，带着女友在上海街头拍了几组照片，也算是一段初始的记忆:[《索尼A7S2上海街头随拍》](https://luolei.org/zuoluo-life-log-sony-a7s2/)。

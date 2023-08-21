@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/10/http2.jpg
+title: 让你的网站升级到HTTP/2
 date: '2015-10-05'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2015/10/http2.jpg
 tags:
 - develop
-title: 让你的网站升级到HTTP/2
 ---
 
 ![full-img](https://c2.llyz.xyz/blog/2015/10/http2.jpg)

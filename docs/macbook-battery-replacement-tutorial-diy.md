@@ -1,11 +1,10 @@
 ---
-cover: https://c2.llyz.xyz/blog/2016/02/macbook/b1.JPG
+title: MacBook Air换电池教程
 date: '2016-02-27'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2016/02/macbook/b1.JPG
 tags:
 - digital
 - e7a1ace4bbb6
-title: MacBook Air换电池教程
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2016/02/macbook/b1.JPG)

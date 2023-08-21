@@ -1,12 +1,11 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/10/alfred-search.jpg "alfred-search"
+title: Mac效率工具 Alfred 本土搜索功能优化
 date: '2012-10-30'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2012/10/alfred-search.jpg "alfred-search"
 tags:
 - mac
 - tutorial
 - e7949fe4baa7e58a9b
-title: Mac效率工具 Alfred 本土搜索功能优化
 ---
 
 ![](https://c2.llyz.xyz/wp-image/2012/10/alfred-search.jpg "alfred-search")

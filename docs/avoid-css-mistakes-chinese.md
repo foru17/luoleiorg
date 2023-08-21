@@ -1,12 +1,11 @@
 ---
+title: 前端开发应该避免的10大 CSS 糟糕用法
+date: '2013-11-11'
+cover: https://c2.llyz.xyz/wp-image/2013/11/css-specifity-1.png
 categories:
 - code
-cover: https://c2.llyz.xyz/wp-image/2013/11/css-specifity-1.png
-date: '2013-11-11'
-layout: doc
 tags:
 - develop
-title: 前端开发应该避免的10大 CSS 糟糕用法
 ---
 
 今天在回广州的火车上看到一篇["10 CSS mistakes every web designer must avoid"](https://www.creativebloq.com/css3/avoid-css-mistakes-10135080)，想着还不错，就翻译给大家。

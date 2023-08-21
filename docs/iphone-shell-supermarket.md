@@ -1,13 +1,12 @@
 ---
+title: 带老婆去华强北买 iPhone 12 手机壳
+date: '2020-11-14'
+cover: https://c2.llyz.xyz/vlog/vlog67.jpg
 categories:
 - zuoluotv
-cover: https://c2.llyz.xyz/vlog/vlog67.jpg
-date: '2020-11-14'
-layout: doc
 tags:
 - vlog
 - zuoluotv
-title: 带老婆去华强北买 iPhone 12 手机壳
 ---
 
 ## 在线视频

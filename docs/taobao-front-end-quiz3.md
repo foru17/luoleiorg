@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-16-at-2.35.41-AM-1024x678.png
+title: 淘宝前端智勇大闯关第三季:相关知识点
 date: '2013-08-15'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-16-at-2.35.41-AM-1024x678.png
 tags:
 - javascript
-title: 淘宝前端智勇大闯关第三季:相关知识点
 ---
 
 ![Screen Shot 2013-08-16 at 2.35.41 AM](https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-16-at-2.35.41-AM-1024x678.png)

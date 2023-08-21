@@ -1,14 +1,13 @@
 ---
+title: 多卡宝 SIMBOX 评测 | 超越卡槽限制，让 iPhone 也能多卡多待  | VLOG41
+date: '2019-06-11'
+cover: https://c2.llyz.xyz/blog/2019/06/simbox/s-1.JPG
 categories:
 - tech
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2019/06/simbox/s-1.JPG
-date: '2019-06-11'
-layout: doc
 tags:
 - zuoluotv
 - digital
-title: 多卡宝 SIMBOX 评测 | 超越卡槽限制，让 iPhone 也能多卡多待  | VLOG41
 ---
 
 今天来跟大家分享一个比较小众的数码产品，目前我正在使用的手机卡还挺多的:

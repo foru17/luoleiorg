@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/blog/2016/12/oneplus/one-04555.jpg
+title: 一加3T:简单开箱 + 第一印象
 date: '2016-12-02'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2016/12/oneplus/one-04555.jpg
 tags:
 - digital
-title: 一加3T:简单开箱 + 第一印象
 ---
 
 上一台iPhone 6用了两年，水果系统也是用得有点腻了，这几个月一直在考虑把主力手机切换到Android体系，从国外的媒体上面关注到了一加3，不得不佩服下这么一个还是挺「小众」的品牌，居然在一众国外科技媒体获得了如此好评。就留下了这么一个印象。

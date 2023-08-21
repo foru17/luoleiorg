@@ -1,16 +1,15 @@
 ---
+title: 西藏 | 骑行川藏四千里:2012年的青春影像
+date: '2018-10-31'
+cover: https://c2.llyz.xyz/blog/2018/11/tibet/tibet-1.JPG
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2018/11/tibet/tibet-1.JPG
-date: '2018-10-31'
-layout: doc
 tags:
 - photography
 - travel
 - tibet
 - e9aa91e8a18c
-title: 西藏 | 骑行川藏四千里:2012年的青春影像
 ---
 
 这几天在家收拾东西，丢了很多东西，也找到了很多东西。

@@ -1,14 +1,13 @@
 ---
+title: 上海 | 2015・四月魔都行
+date: '2015-04-24'
+cover: https://c2.llyz.xyz/blog/2015/04/shanghai/sh5.JPG
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2015/04/shanghai/sh5.JPG
-date: '2015-04-24'
-layout: doc
 tags:
 - shanghai
 - photography
-title: 上海 | 2015・四月魔都行
 ---
 
 四月十二号，清明之后的周末，私事去了一趟上海。短短的几天旅程，也是一番曲折，最近这段时间，精神不好，提前一周多买票，11号周六原本安排公司体检，结果脑袋不知道怎么抽风了，一边脑袋里想着「不要与体检的时间冲突了」，一边想着「周一从上海回来，刚好可以体检」。

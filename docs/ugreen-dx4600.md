@@ -1,13 +1,12 @@
 ---
+title: 不想折腾：绿联 DX4600 国产 NAS 开箱体验
+date: '2022-11-07'
+cover: https://c2.llyz.xyz/blog/2022/11/ugreen/dx-26.JPG
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2022/11/ugreen/dx-26.JPG
-date: '2022-11-07'
-layout: doc
 tags:
 - kai-xiang
 - digital
-title: 不想折腾：绿联 DX4600 国产 NAS 开箱体验
 ---
 
 **利益相关，这是一篇没有内容要求的合作文章（要不然也不会过了一个多月也没人催稿）。**

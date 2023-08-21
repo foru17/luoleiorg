@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2014/06/zbzn.png
-date: '2014-06-28'
-layout: doc
 title: 装逼这件事
+date: '2014-06-28'
+cover: https://c2.llyz.xyz/wp-image/2014/06/zbzn.png
 ---
 
 这周在车库咖啡参加北京GDG Google I/O 直播之夜的活动，做了一个热场的闪电演讲，主题为「程序猿进阶之路」，在第二页自黑，提到这个 PPT 其实有第二个主题叫「程序猿装逼指南」。

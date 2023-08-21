@@ -1,14 +1,13 @@
 ---
+title: 香港上台攻略:大陆居民持护照、港澳通行证办理香港手机卡套餐
+date: '2019-02-25'
+cover: https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-1.jpg
 categories:
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-1.jpg
-date: '2019-02-25'
-layout: doc
 tags:
 - digital
 - ke-ji
 - e9a699e6b8af
-title: 香港上台攻略:大陆居民持护照、港澳通行证办理香港手机卡套餐
 ---
 
 ## 视频

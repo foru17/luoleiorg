@@ -1,14 +1,13 @@
 ---
+title: 背光门 | 苹果 MacBook 即将爆发的下一个质量问题 ? | Flexgate | 持续更新
+date: '2019-06-27'
+cover: https://c2.llyz.xyz/blog/2019/06/flexgate/flexgate-1.jpg
 categories:
 - tech
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2019/06/flexgate/flexgate-1.jpg
-date: '2019-06-27'
-layout: doc
 tags:
 - vlog
 - digital
-title: 背光门 | 苹果 MacBook 即将爆发的下一个质量问题 ? | Flexgate | 持续更新
 ---
 
 如果你目前使用的是 2016 或者2017 款的 MacBook，建议你最好关注一下苹果笔记本，可能要爆发的下一个屏幕质量问题，否则你要付出的，也许是高达6000人民币的维修费用。

@@ -1,15 +1,14 @@
 ---
+title: 苏州 | 博物•拙政•平江
+date: '2016-09-11'
+cover: https://c2.llyz.xyz/blog/2016/09/suzhou/day2/A7S2-D2-06259.jpg
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2016/09/suzhou/day2/A7S2-D2-06259.jpg
-date: '2016-09-11'
-layout: doc
 tags:
 - photography
 - travel
 - su-zhou
-title: 苏州 | 博物•拙政•平江
 ---
 
 苏州第二天，一个懒觉睡到中午11点才起床，退房后直接开车到苏州博物馆，前天已经提前在[苏博官网](https://www.szmuseum.com/home/index.aspx)预约了下午1点的参观票。

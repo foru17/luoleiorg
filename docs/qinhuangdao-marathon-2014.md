@@ -1,12 +1,11 @@
 ---
+title: 马拉松 | 2014秦皇岛马拉松 | 人生第一次全程马拉松
+date: '2014-09-12'
+cover: https://c2.llyz.xyz/wp-image/2014/10/marathon2.jpg
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/wp-image/2014/10/marathon2.jpg
-date: '2014-09-12'
-layout: doc
 tags:
 - run
-title: 马拉松 | 2014秦皇岛马拉松 | 人生第一次全程马拉松
 ---
 
 > 42.195公里，4小时46分钟的欢声，笑语，汗水，泪水，痛苦，麻木，坚持......迟到了一年的奖牌，拿到啦。想想自己的名字要刻在海滨秦皇岛的纪念碑上，还有点小得瑟呢（其实很得瑟 ﾉ( ´ ▽ \` )ﾉ )

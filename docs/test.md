@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2011/05/091227A029.jpg
-date: '2011-05-24'
-layout: doc
 title: 如果你来自blog.willei.com
+date: '2011-05-24'
+cover: https://c2.llyz.xyz/wp-image/2011/05/091227A029.jpg
 ---
 
 sorry，自从上次关于方校长的那片文章被大量转载后，我网站每个月的流量爆掉了，这是我的新网站和新域名。

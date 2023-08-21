@@ -1,14 +1,13 @@
 ---
+title: 理光GR:夜拍深圳湾
+date: '2015-02-28'
+cover: https://c2.llyz.xyz/blog/2015/02/szw/s10.JPG
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2015/02/szw/s10.JPG
-date: '2015-02-28'
-layout: doc
 tags:
 - photography
 - ricohgr
-title: 理光GR:夜拍深圳湾
 ---
 
 已经回到北京上班，昨晚加班到晚上十点半，一出公司，北京下起了小雪，一夜过后，今天早上一起来，草地上、路上都积起了不薄的雪，天上也飘着细絮版的雪花，想一想上周在深圳还短衣短袖，这会儿又得穿上羽绒服打起围巾了，这南北温差，也是让自己醉了。

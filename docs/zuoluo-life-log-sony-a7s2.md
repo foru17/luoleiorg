@@ -1,15 +1,14 @@
 ---
+title: 左罗日志:索尼A7S2上海街头随拍
+date: '2016-06-09'
+cover: https://c2.llyz.xyz/blog/2016/06/sony/sh17.JPG?v=1?
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2016/06/sony/sh17.JPG?v=1?
-date: '2016-06-09'
-layout: doc
 tags:
 - photography
 - travel
 - life
-title: 左罗日志:索尼A7S2上海街头随拍
 ---
 
 

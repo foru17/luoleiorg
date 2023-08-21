@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2011/06/Y珍爱一生Y”与卫生系统局长微博截图图片来源于网络.jpg "Y珍爱一生Y”与卫生系统局长微博截图图片来源于网络"
-date: '2011-06-21'
-layout: doc
 title: 江苏局长“上”微博
+date: '2011-06-21'
+cover: https://c2.llyz.xyz/wp-image/2011/06/Y珍爱一生Y”与卫生系统局长微博截图图片来源于网络.jpg "Y珍爱一生Y”与卫生系统局长微博截图图片来源于网络"
 ---
 
 昨晚算是亲历了一个新的网络热门事件，”[微博开房门](https://roll.sohu.com/20110621/n311121457.shtml)“。

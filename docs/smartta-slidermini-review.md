@@ -1,16 +1,15 @@
 ---
+title: SliderMini:可能是2018最值得期待的便携滑轨  | ZUOLUOTV | VLOG17
+date: '2018-10-23'
+cover: https://c2.llyz.xyz/vlog/vlog17.jpg
 categories:
 - zuoluotv
-cover: https://c2.llyz.xyz/vlog/vlog17.jpg
-date: '2018-10-23'
-layout: doc
 tags:
 - vlog
 - zuoluotv
 - kai-xiang
 - digital
 - e8af84e6b58b
-title: SliderMini:可能是2018最值得期待的便携滑轨  | ZUOLUOTV | VLOG17
 ---
 
 ![cover](https://c2.llyz.xyz/vlog/vlog17.jpg)

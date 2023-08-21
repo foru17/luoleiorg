@@ -1,11 +1,10 @@
 ---
-cover: https://c2.llyz.xyz/blog/2016/01/buy/cover.jpg
+title: Review of 2015:剁手篇
 date: '2016-01-15'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2016/01/buy/cover.jpg
 tags:
 - digital
 - e7a1ace4bbb6
-title: Review of 2015:剁手篇
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2016/01/buy/cover.jpg)

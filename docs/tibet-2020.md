@@ -1,14 +1,13 @@
 ---
+title: 西藏 | 五日自驾三千里，叹祖国壮美边疆 | 拉萨・羊湖・日喀则・珠峰
+date: '2020-08-04'
+cover: https://c2.llyz.xyz/blog/2020/07/tibet/guide.JPG
 categories:
 - travel
-cover: https://c2.llyz.xyz/blog/2020/07/tibet/guide.JPG
-date: '2020-08-04'
-layout: doc
 tags:
 - photography
 - travel
 - tibet
-title: 西藏 | 五日自驾三千里，叹祖国壮美边疆 | 拉萨・羊湖・日喀则・珠峰
 ---
 
 上个月，东航周末随心飞的首飞，给了云南昆明和抚仙湖，也算是不错的周末旅行和体验，那篇文章发出之后，得知有好几个网友参考我的路线，也去抚仙湖，尽微薄之力，也算是为祖国旅游业复苏出一点点小力。

@@ -1,13 +1,12 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/11/chromecast/4.JPG
+title: 目测这是第一个在大陆的谷歌Chromecast评测
 date: '2015-11-06'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2015/11/chromecast/4.JPG
 tags:
 - chromecast
 - digital
 - e7a1ace4bbb6
 - e8af84e6b58b
-title: 目测这是第一个在大陆的谷歌Chromecast评测
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2015/11/chromecast/4.JPG)  

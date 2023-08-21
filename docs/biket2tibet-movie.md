@@ -1,12 +1,11 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2012/06/bike2tibet-dream-1024x571.png
+title: 【骑行去西藏】高清原创短片《间隔年,骑行去西藏》
 date: '2012-06-17'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2012/06/bike2tibet-dream-1024x571.png
 tags:
 - travel
 - tibet
 - e9aa91e8a18c
-title: 【骑行去西藏】高清原创短片《间隔年,骑行去西藏》
 ---
 
 

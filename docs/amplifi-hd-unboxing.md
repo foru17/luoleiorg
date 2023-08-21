@@ -1,12 +1,11 @@
 ---
+title: 开箱:AMPLIFI HD - 这应该是我用过的最(贵)漂亮的路由器
+date: '2017-06-15'
+cover: https://c2.llyz.xyz/vogue/AMPLIFI-1.JPG
 categories:
 - tech
-cover: https://c2.llyz.xyz/vogue/AMPLIFI-1.JPG
-date: '2017-06-15'
-layout: doc
 tags:
 - digital
-title: 开箱:AMPLIFI HD - 这应该是我用过的最(贵)漂亮的路由器
 ---
 
 路由器，家庭网络的中心设备，对于一般家庭用户来说，配置好网络后，路由器就只剩下扮演一个默默无闻的角色的命运安排。

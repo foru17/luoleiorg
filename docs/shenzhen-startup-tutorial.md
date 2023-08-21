@@ -1,12 +1,11 @@
 ---
+title: 创业笔记 | 从0到1开公司是什么体验
+date: '2019-02-15'
+cover: https://c2.llyz.xyz/blog/2019/02/startup/c2.jpg
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/blog/2019/02/startup/c2.jpg
-date: '2019-02-15'
-layout: doc
 tags:
 - chuang-ye
-title: 创业笔记 | 从0到1开公司是什么体验
 ---
 
 上次写完[《编程五年:我辞职了》](https://luolei.org/new-journey/)后，这几个月一直在忙着处理各种杂事。18年12月底，注册了公司，这个星期，去办了公账，把我们的事业向着正规化的方向发展。

@@ -1,12 +1,11 @@
 ---
+title: 最容易获得的境外驾照:内地驾照免试换取香港十年驾照攻略
+date: '2020-06-07'
+cover: https://c2.llyz.xyz/blog/2020/06/hongkong/license.jpg
 categories:
 - travel
-cover: https://c2.llyz.xyz/blog/2020/06/hongkong/license.jpg
-date: '2020-06-07'
-layout: doc
 tags:
 - e9a699e6b8af
-title: 最容易获得的境外驾照:内地驾照免试换取香港十年驾照攻略
 ---
 
 我拿到香港驾照已经有大半年时间了，由于疫情封关和香港的社会运动，现在要去香港难度还不小，今天看到钱包里的香港驾照，想着也不拖延了，整理一下「内地驾照换香港驾照」的一些经验和攻略，分享给大家，希望对大家有帮助。

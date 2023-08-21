@@ -1,12 +1,11 @@
 ---
+title: 南京 | 一座城市,一个民族,一段历史
+date: '2012-08-03'
+cover: https://c2.llyz.xyz/wp-image/2012/08/metro-nanking.jpg
 categories:
 - travel
-cover: https://c2.llyz.xyz/wp-image/2012/08/metro-nanking.jpg
-date: '2012-08-03'
-layout: doc
 tags:
 - nanjing
-title: 南京 | 一座城市,一个民族,一段历史
 ---
 
 七月26日，晨9点50分，从广州飞往南京，参加亚洲自行车展的一个活动。

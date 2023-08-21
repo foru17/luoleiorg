@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2014/01/review-of-2013-after-1024x768.jpg
-date: '2014-01-04'
-layout: doc
 title: Review of 2013:best and worst year of my life
+date: '2014-01-04'
+cover: https://c2.llyz.xyz/wp-image/2014/01/review-of-2013-after-1024x768.jpg
 ---
 
 ![main-image](https://c2.llyz.xyz/wp-image/2014/01/review-of-2013-after-1024x768.jpg)It’s a little scared that time passed so quickly since my 2012’s annual review. It’s is 2014 at this moment and lots of things has changed in the past year.

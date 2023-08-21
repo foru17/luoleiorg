@@ -1,15 +1,14 @@
 ---
+title: 首尔 | DAY3:韩屋村・景福宫・三清洞
+date: '2016-04-04'
+cover: https://c2.llyz.xyz/blog/2016/04/seoul/day3/k37.JPG
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2016/04/seoul/day3/k37.JPG
-date: '2016-04-04'
-layout: doc
 tags:
 - travel
 - ricohgr
 - seoul
-title: 首尔 | DAY3:韩屋村・景福宫・三清洞
 ---
 
 第三天，首尔依旧好天气，今天的行程是去韩屋村。谷歌搜了一下关键字「韩屋村」，按照地图提示再下地铁，首尔地铁四通八达，还是很方便的。

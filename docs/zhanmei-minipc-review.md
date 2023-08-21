@@ -1,11 +1,10 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/11/pc11.JPG
+title: 【猫咪的暖宝宝】占美迷你PC评测体验
 date: '2015-11-04'
-layout: doc
+cover: https://c2.llyz.xyz/blog/2015/11/pc11.JPG
 tags:
 - e7a1ace4bbb6
 - e8af84e6b58b
-title: 【猫咪的暖宝宝】占美迷你PC评测体验
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2015/11/pc11.JPG)

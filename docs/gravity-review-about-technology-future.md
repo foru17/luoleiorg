@@ -1,10 +1,9 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2013/11/gravity-movie-wallpaper-iphone.jpg
+title: 地心引力:我们、科技、国家、未来
 date: '2013-11-23'
-layout: doc
+cover: https://c2.llyz.xyz/wp-image/2013/11/gravity-movie-wallpaper-iphone.jpg
 tags:
 - movies
-title: 地心引力:我们、科技、国家、未来
 ---
 
 ![Gravity](https://c2.llyz.xyz/wp-image/2013/11/gravity-movie-wallpaper-iphone.jpg)

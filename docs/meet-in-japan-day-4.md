@@ -1,17 +1,16 @@
 ---
+title: 日本 | DAY4 :仙台・松岛
+date: '2016-07-07'
+cover: https://c2.llyz.xyz/blog/2016/06/japan/day4/A7S2-D4-03134.jpg
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2016/06/japan/day4/A7S2-D4-03134.jpg
-date: '2016-07-07'
-layout: doc
 tags:
 - xian-tai
 - photography
 - travel
 - japan
 - song-dao
-title: 日本 | DAY4 :仙台・松岛
 ---
 
 日本之行的第四天，也是我们在松岛的第二天，睡到上午九点多才起床。

@@ -1,8 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/blog/2015/07/n5.jpg
-date: '2015-07-25'
-layout: doc
 title: 【开箱】Nike Free 5.0 14款
+date: '2015-07-25'
+cover: https://c2.llyz.xyz/blog/2015/07/n5.jpg
 ---
 
 ![full-img](https://c2.llyz.xyz/blog/2015/07/n5.jpg)

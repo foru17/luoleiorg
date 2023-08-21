@@ -1,13 +1,12 @@
 ---
+title: 2分钟Ins小技巧，不用手机也能发Instagram | ZUOLUOTV
+date: '2018-12-27'
+cover: https://c2.llyz.xyz/vlog/vlog26.jpg
 categories:
 - zuoluotv
-cover: https://c2.llyz.xyz/vlog/vlog26.jpg
-date: '2018-12-27'
-layout: doc
 tags:
 - zuoluotv
 - tutorial
-title: 2分钟Ins小技巧，不用手机也能发Instagram | ZUOLUOTV
 ---
 
 ![cover](https://c2.llyz.xyz/vlog/vlog26.jpg)

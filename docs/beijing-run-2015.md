@@ -1,13 +1,12 @@
 ---
+title: 跑步 | 2015北京国际长跑节 | 在天安门约跑是什么体验
+date: '2015-04-26'
+cover: https://c2.llyz.xyz/blog/2015/04/beijingrun/run3.JPG
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/blog/2015/04/beijingrun/run3.JPG
-date: '2015-04-26'
-layout: doc
 tags:
 - run
 - e9a9ace68b89e69dbe
-title: 跑步 | 2015北京国际长跑节 | 在天安门约跑是什么体验
 ---
 
 我是一个跑(pǎo)友，从大三开始，跑步已经快三年，2014年四月，参加了2014年的北京国际长跑节，随后正式开始了参加各种赛事。
