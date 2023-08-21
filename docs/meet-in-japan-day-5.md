@@ -1,7 +1,7 @@
 ---
 title: 日本 | Day5 :白石・东京
 date: '2016-07-09'
-cover: https://c2.llyz.xyz/blog/2016/06/japan/day4/A7S2-D4-03550.jpg
+cover: https://c2.llyz.xyz/blog/2016/06/japan/day5/A7S2-D5-03677.JPG
 categories:
 - photography
 - travel

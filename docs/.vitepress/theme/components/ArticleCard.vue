@@ -111,7 +111,7 @@
       </a>
     </div>
     <div
-      class="flex-none mt-auto bg-white rounded-b rounded-t-none overflow-hidden shadow-lg p-6 h-16">
+      class="flex-none mt-auto bg-white dark:bg-slate-800 rounded-b rounded-t-none overflow-hidden shadow-lg p-6 h-16">
       <div class="flex items-center justify-between">
         <p class="text-gray-400 text-base sd:text-sm md:text-sm">
           {{ date.formatShowDate }}

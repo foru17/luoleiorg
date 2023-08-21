@@ -1,12 +1,11 @@
 ---
 title: 日本 | DAY3 :仙台・威斯汀
 date: '2016-07-06'
-cover: https://c2.llyz.xyz/blog/2016/06/japan/day3/A7S2-D3-02416.jpg
+cover: https://c2.llyz.xyz/blog/2016/06/japan/day3/A7S2-D3-03010.jpg
 categories:
 - photography
 - travel
 tags:
-- dong-jing
 - photography
 - travel
 - japan

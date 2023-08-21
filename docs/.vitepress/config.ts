@@ -1,13 +1,14 @@
 import { defineConfig } from 'vitepress'
-
+import { rss } from './genFeed'
 export default defineConfig({
   title: "罗磊的独立博客",
   description: "luolei.org",
   cleanUrls: true,
-  appearance:true,
+  appearance:false,
   ignoreDeadLinks: true,
   displayAllHeaders: true,
   base:'/',
+  buildEnd: rss,
   markdown: {
     lineNumbers: true
   },
@@ -36,7 +37,8 @@ export default defineConfig({
           { text: '哔哩哔哩', link: 'https://zuoluo.tv/bilibili' },
         ]
       },
-      { text: '关于', link: 'https://twitter.com/luoleiorg' }
+      { text: '关于', link: 'https://twitter.com/luoleiorg' },
+      { text: 'RSS', link: 'https://luolei.org/rss.xml' }
     ],
     socialLinks: [
       { icon: 'twitter', link: 'https://twitter.com/luoleiorg' },

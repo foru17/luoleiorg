@@ -1,12 +1,11 @@
 ---
 title: 日本 | DAY1 :东京・洲际酒店
 date: '2016-07-04'
-cover: https://c2.llyz.xyz/blog/2016/06/japan/day1/A7S2-D1-00989.jpg
+cover: https://c2.llyz.xyz/blog/2016/06/japan/day1/A7S2-D1-01303.jpg
 categories:
 - photography
 - travel
 tags:
-- dong-jing
 - photography
 - travel
 - japan

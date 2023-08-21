@@ -1,52 +1,48 @@
 import path from 'path'
 import { writeFileSync } from 'fs'
 import { Feed } from 'feed'
-import { createContentLoader, type SiteConfig } from 'vitepress'
+import { type ContentData, createContentLoader, type SiteConfig } from 'vitepress'
 
-const baseUrl = `https://blog.vuejs.org`
-
-export async function genFeed(config: SiteConfig) {
-  const feed = new Feed({
-    title: 'The Vue Point',
-    description: 'The official blog for the Vue.js project',
+// 限制只抓取最新15篇文章,防止rss文件过大
+const MAX_FEED_ITEMS = 15;
+const id: string = 'luolei'
+const baseUrl: string = `https://luolei.org`
+type RssGenerator = (config: SiteConfig) => Promise<void>
+export const rss: RssGenerator = async (config) => {
+  const feed: Feed = new Feed({
+    title: `罗磊的独立博客`,
+    description: 'My Personal Blog',
     id: baseUrl,
     link: baseUrl,
-    language: 'en',
-    image: 'https://vuejs.org/images/logo.png',
-    favicon: `${baseUrl}/favicon.ico`,
-    copyright:
-      'Copyright (c) 2021-present, Yuxi (Evan) You and blog contributors'
+    language: 'zh-CN',
+    image: `${baseUrl}/logo.jpg`,
+    favicon: `${baseUrl}/favicon.svg`,
+    copyright: `Copyright (c) 2023 ${id}`
   })
 
-  const posts = await createContentLoader('/*.md', {
-    excerpt: true,
-    render: true
+  const posts: ContentData[] = await createContentLoader('/*.md', {
+    excerpt: false,
+    render: true,
+    transform: (rawData) => {
+      return rawData.sort((a, b) => {
+        return +new Date(b.frontmatter.date) - +new Date(a.frontmatter.date)
+      })
+    }
   }).load()
 
-  posts.sort(
-    (a, b) =>
-      +new Date(b.frontmatter.date as string) -
-      +new Date(a.frontmatter.date as string)
-  )
+  const latestPosts = posts.slice(0, MAX_FEED_ITEMS);
 
-  for (const { url, excerpt, frontmatter, html } of posts) {
+  for (const { url, excerpt, frontmatter, html } of latestPosts) {
     feed.addItem({
-      title: frontmatter.title,
+      title: frontmatter.title as string,
       id: `${baseUrl}${url}`,
       link: `${baseUrl}${url}`,
-      description: excerpt,
-      content: html,
-      author: [
-        {
-          name: frontmatter.author,
-          link: frontmatter.twitter
-            ? `https://twitter.com/${frontmatter.twitter}`
-            : undefined
-        }
-      ],
-      date: frontmatter.date
+      description: excerpt as string,
+      content: html as string,
+      author: [{ name: `${id}` }],
+      date: frontmatter.date.date
     })
   }
 
-  writeFileSync(path.join(config.outDir, 'feed.rss'), feed.rss2())
+  writeFileSync(path.join(config.outDir, 'rss.xml'), feed.rss2())
 }

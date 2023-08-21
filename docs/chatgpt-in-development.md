@@ -42,14 +42,16 @@ tags:
 
 ![](https://c2.llyz.xyz/blog/2023/06/chatgpt/c-2.jpg)
 
+```json
 {
-    "domain": \[
+    "domain": [
         "openai.com",
         "ai.com",
         "chat.openai.com.cdn.cloudflare.net",
         "openaiapi-site.azureedge.net"
-    \]
+    ]
 }
+```
 
 以上截图是我的代理链路某层路由的策略，对于这些 OpenAI 相关的域名，我都强制转发到美国服务器，确保了落地 IP 的稳定性。
 
