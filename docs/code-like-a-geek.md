@@ -28,7 +28,7 @@ title: 非程序员别点:Geek Style开发思维、技巧、工具
 
 #### 1.dotfile
 
-我的开发机器是一台Macbook Air 和 iMac 2013 ，我的服务器一台是centos，两台是Ubuntu，经常需要在不同的环境进行切换，对此，我每台设备都同步dotfile配置，只要配置一段脚本，就可以让所有的设备都使用自己常用的shell、zsh、vim配置，符合自己的开发习惯。
+我的开发机器是一台MacBook Air 和 iMac 2013 ，我的服务器一台是centos，两台是Ubuntu，经常需要在不同的环境进行切换，对此，我每台设备都同步dotfile配置，只要配置一段脚本，就可以让所有的设备都使用自己常用的shell、zsh、vim配置，符合自己的开发习惯。
 
 我过去写过一篇[《dotfiles新手教程》](https://luolei.org/dotfiles-tutorial/)，供参考。
 

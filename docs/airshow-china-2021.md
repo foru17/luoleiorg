@@ -1,7 +1,7 @@
 ---
 categories:
 - travel
-cover: https://c2.llyz.xyz/blog/2022/10/airshow/air-1.JPG
+cover: https://c2.llyz.xyz/blog/2022/10/airshow/air-27.JPG
 date: '2022-10-06'
 tags:
 - 珠海航展

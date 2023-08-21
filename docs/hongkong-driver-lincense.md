@@ -1,7 +1,7 @@
 ---
 categories:
 - travel
-cover: https://c2.llyz.xyz/blog/2020/06/hongkong/hk-1.jpg
+cover: https://c2.llyz.xyz/blog/2020/06/hongkong/license.jpg
 date: '2020-06-07'
 tags:
 - e9a699e6b8af

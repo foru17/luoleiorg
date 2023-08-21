@@ -26,7 +26,7 @@ RMBP 15 寸 2016 官方顶配：这个月刚买的笔记本，还在适应中，
 
 RMBP 15 寸 2015 顶配：过去这两年在家办公、剪辑视频的主力机器。
 
-Macbook Air 2012：我的第一台 Macbook，平时上网、查阅资料还是吃得消的。
+MacBook Air 2012：我的第一台 Macbook，平时上网、查阅资料还是吃得消的。
 
 [占美 Mini PC](https://www.taobao.com/product/%E5%8D%A0%E7%BE%8E%E8%BF%B7%E4%BD%A0%E9%9B%BB%E8%85%A6.htm)：一台无风扇的 Mini PC，安装了 Windows10，放在家里当迅雷、百度云之类的下载机。
 

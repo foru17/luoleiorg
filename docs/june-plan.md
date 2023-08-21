@@ -1,5 +1,5 @@
 ---
-cover: https://luolei.org/wp-content/uploads/2011/05/luoleired1.jpg "luoleired"
+cover: https://c2.llyz.xyz/wp-content/uploads/2011/05/luoleired1.jpg "luoleired"
 date: '2011-05-31'
 tags:
 - life
@@ -42,4 +42,4 @@ VPS这个月把VPN，SSH什么的都搞一遍先，wordpress主题方面，我�
 
 杂七杂八地先写下6月的一些模糊计划，哥应该还要再仔细地研究一下GTD，好好地规划一下。
 
-![](https://luolei.org/wp-content/uploads/2011/05/luoleired1.jpg )
+![](https://c2.llyz.xyz/wp-content/uploads/2011/05/luoleired1.jpg )

@@ -1,7 +1,7 @@
 ---
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2022/11/ugreen/dx-1.JPG
+cover: https://c2.llyz.xyz/blog/2022/11/ugreen/dx-26.JPG
 date: '2022-11-07'
 tags:
 - kai-xiang
@@ -228,8 +228,6 @@ DX4600 有两个2.5G的网口，为了解决家庭的网络瓶颈，我另外购
 接下来再来一个大文件拷贝实战，从 DX4600 里的M2硬盘里，拷贝一个37.73GB的电影到我的 MacBook，只需要2分钟左右的时间，通过观察磁盘读写，可以看到读取速度达到 310MB/s 以上，接近极限。
 
 实测下来，我直接用 Lightroom 修源文件在 DX4600 上的图，读取流畅，我老婆用 Final Cut Pro 直接进行视频编辑也流畅不会卡顿。基本可以满足轻度的专业工作需求了。
-
- 
 
 ## 总结
 

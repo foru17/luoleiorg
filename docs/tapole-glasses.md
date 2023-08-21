@@ -2,7 +2,7 @@
 categories:
 - tech
 - lifestyle
-cover: https://c2.llyz.xyz/blog/2020/06/tapole/t-4.JPG
+cover: https://c2.llyz.xyz/blog/2020/06/tapole/t-19.JPG
 date: '2020-06-12'
 title: '老婆的第一副眼镜: Tapole 钛架 + 蔡司A系列镜片'
 ---

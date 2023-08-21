@@ -1,7 +1,7 @@
 ---
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2023/06/mini/order-1.jpg
+cover: https://c2.llyz.xyz/blog/2023/06/mini/mac-5.jpg
 date: '2023-06-18'
 tags:
 - mac

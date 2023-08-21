@@ -1,7 +1,7 @@
 ---
 categories:
 - travel
-cover: https://c2.llyz.xyz/wp-image/2014/05/Paragliding-1.jpg
+cover: https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-9.jpeg
 date: '2014-04-30'
 tags:
 - nepal
@@ -9,21 +9,17 @@ tags:
 title: 「等风来:博卡拉滑翔伞飞翔」尼泊尔随记(贰)
 ---
 
-![cover](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-1.jpg)
-
 > “不管你有多着急，或者你有多害怕，我们现在都不能往前冲，冲出去也没用，飞不起来的。现在的我们只需要静静的，等风来。” 我愣了一下，在愣着的几秒钟里，感觉身体里有什么东西瞬间被撞开了，那些积郁了很久的东西。 “等风来？” 教练点点头，“如果想飞起来的话，只有勇气往前冲，是不够的。我们得停下来，什么都不要想，让自己清空，只是等风来。” --鲍鲸鲸《等风来》
 
-#### 等风来
+## 等风来
 
 继续写尼泊尔随记，准备去尼泊尔的约莫前一周，有朋友在朋友圈下面留言问到「等风来？」，一开始我还莫名这「等风来」是什么，后来才知道原来指的是电影[《等风来》](https://movie.douban.com/subject/10833923/)，正如同2012年[骑行西藏](https://luolei.org/biket2tibet-movie/)，总有人会问我是不是因为看了[《转山》](https://movie.douban.com/subject/5318669/)的缘故，我不否认的确有人是因为某部电影或者某本书，就出发去旅行做什么事情，但好吧，我真的不是。等到从尼泊尔回来了，在家倒下载了等风来看了看，尚新鲜的记忆，里面的各个场景基本也都去过，倒也好玩，像是做了一个复习。
 
 电影「等风来」这个名字的由来，与电影中男女主角最后体验的项目滑翔伞有关，玩滑翔伞有几个重要的条件除了合适的山地高度（陡坡、悬崖等等），还有就是合适的风速和风力，这次尼泊尔之行，除了在安娜普尔纳山区的徒步，还有一个项目必须介绍和推荐，那就是 Paragliding 滑翔伞。
 
-### 博卡拉
+## 博卡拉
 
 [博卡拉 Pokhara](https://lvyou.baidu.com/bokala)是一座位于尼泊尔西部的著名旅游城市，距离首都加德满都大概200公里，很近吧，但是我们坐车坐了将近10个小时，作为全球最落后的十个国家，你能感受到尼泊尔交通的状况了么？在我的记忆中，路途的大部分时候就是昏昏欲睡和时不时的噗通腾飞。
-
-<iframe class="wrap" src="https://ditu.google.cn/maps?f=d&amp;source=s_d&amp;saddr=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%8A%A0%E5%BE%B7%E6%BB%A1%E9%83%BD%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+44600&amp;daddr=pokhara&amp;geocode=FSCrpgEdVRUWBSm_qnswihnrOTHqsY3xG3wTtQ%3BFUVWrgEdcIIBBSn_dgO_e5OVOTFkIYAlO4LP9g&amp;aq=&amp;sll=27.7,85.333333&amp;sspn=0.214911,0.363579&amp;t=h&amp;hl=zh-CN&amp;brcurrent=3,0x31508e64e5c642c1:0x951daa7c349f366f,0%3B5,0,0&amp;mra=ls&amp;ie=UTF8&amp;ll=27.947029,84.659329&amp;spn=0.521931,1.347978&amp;output=embed" width="625" height="300" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 在博卡拉，我同小伙伴们留下了十分美好的记忆，如果在加德满都可以体验到尼泊尔的民俗文化，那么博卡拉就算得上是一个亲近雪山、天空、自然的地方。与曾经在尼泊尔支教一个多月的朋友聊过，有些人第一次来尼泊尔可能会在 KMT 加德满都呆比较长时间，如果第二次来，不少人就直奔博卡拉了。
 

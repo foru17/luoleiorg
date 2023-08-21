@@ -1,5 +1,5 @@
 ---
-cover: https://luolei.org/wp-content/uploads/2012/07/QQgroup1.png
+cover: https://c2.llyz.xyz/wp-content/uploads/2012/07/QQgroup1.png
 date: '2012-07-03'
 tags:
 - outsports
@@ -7,7 +7,7 @@ tags:
 title: 【一起『骑』迹】户外骑行QQ超级交流群
 ---
 
-![QQgroup](https://luolei.org/wp-content/uploads/2012/07/QQgroup1.png)
+![QQgroup](https://c2.llyz.xyz/wp-content/uploads/2012/07/QQgroup1.png)
 
 > **一起『骑』迹**     / 分类:户外、骑行、旅游
 >

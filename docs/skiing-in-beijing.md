@@ -6,7 +6,6 @@ tags:
 title: 第一次滑雪是什么感受
 ---
 
-![cover](https://c2.llyz.xyz/blog/2015/02/skiing/s4.JPG)
 
 今年公司上市，CEO带着公司一众Boss去了趟北海道滑雪，回来在年会上说了好久，什么「滑雪是个反人性的运动balblabla……」，总之是喝了不少鸡汤，老板放话说大家应该都去滑滑雪。
 

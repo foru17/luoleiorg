@@ -8,7 +8,7 @@ title: 注册成了苹果开发者
 
 ![full-img](https://c2.llyz.xyz/blog/2015/02/apple-bg2.jpg)
 
-2010年，购买了人生的第一台苹果设备iPad，2012年，购买了第一台Macbook Air，2014年，购买了一台iPad Mini，2015年一月，卖肾买了一台iPhone 6。
+2010年，购买了人生的第一台苹果设备iPad，2012年，购买了第一台MacBook Air，2014年，购买了一台iPad Mini，2015年一月，卖肾买了一台iPhone 6。
 
 2015年，3月9日，苹果婊发布前夜，成功注册成了[苹果个人开发者 Apple Developer](https://developer.apple.com/cn/programs/ios/)。
 

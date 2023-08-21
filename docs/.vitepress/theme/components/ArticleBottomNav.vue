@@ -22,14 +22,14 @@
   <div class="flex justify-center space-x-6 dark:text-gray-100 mt-6">
     <div
       v-if="prevPost"
-      class="overflow-hidden w-full h-100 relative bg-zinc-100">
+      class="overflow-hidden rounded-md w-full h-100 relative bg-zinc-100">
       <a
         :href="withBase(prevPost.url)"
         class="block h-full w-full flex items-center bg-cover bg-center hover:text-blue-600"
         :style="`
         background-image: url(${prevPost.cover})`">
         <div
-          class="flex items-center overflow-hidden max-w-xl px-2 md:px-10 rounded-md bg-gray-900 bg-opacity-30 hover:bg-opacity-10 ease-in duration-300 w-full h-40 bg-zinc-100">
+          class="flex items-center max-w-xl px-2 md:px-10 rounded-md bg-gray-900 bg-opacity-30 hover:bg-opacity-10 ease-in duration-300 w-full h-40 bg-zinc-100">
           <span
             class="a content-center break-normal text-s sd:text-large md:text-lg text-neutral-100 line-clamp-3 md:line-clamp-2"
             >{{ prevPost.title }}</span
@@ -40,14 +40,14 @@
 
     <div
       v-if="nextPost"
-      class="overflow-hidden w-full h-100 relative bg-zinc-100">
+      class="overflow-hidden rounded-md w-full h-100 relative bg-zinc-100">
       <a
         :href="withBase(nextPost.url)"
         class="block h-full w-full flex items-center bg-cover bg-center hover:text-blue-600"
         :style="`
         background-image: url(${nextPost.cover})`">
         <div
-          class="flex items-center w-full overflow-hidden max-w-7xl px-2 md:px-10 rounded-md bg-gray-900 bg-opacity-30 hover:bg-opacity-10 ease-in duration-300 w-full h-40 bg-zinc-100">
+          class="flex items-center w-full max-w-7xl px-2 md:px-10 rounded-md bg-gray-900 bg-opacity-30 hover:bg-opacity-10 ease-in duration-300 w-full h-40 bg-zinc-100">
           <span
             class="a content-center break-normal text-s sd:text-large md:text-lg text-neutral-100 line-clamp-3 md:line-clamp-2"
             >{{ nextPost.title }}</span

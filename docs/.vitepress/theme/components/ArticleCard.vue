@@ -12,6 +12,7 @@
     date: Object;
   }>();
 
+  let timeoutHandle = null;
   const imageLoaded = ref(false);
   const imageError = ref(false);
 
@@ -24,13 +25,41 @@
     imageError.value = true;
     imageLoaded.value = true; // 也设置图片为已加载，隐藏加载动画
   };
+
+  const retryLoadImage = () => {
+    // 清除旧的超时句柄
+    clearTimeout(timeoutHandle);
+
+    // 重置状态
+    imageLoaded.value = false;
+    imageError.value = false;
+
+    // 创建一个新的图片对象尝试加载
+    const img = new Image();
+    img.src = props.cover;
+    img.onload = onImageLoad;
+    img.onerror = onImageError;
+
+    // 设置超时逻辑
+    timeoutHandle = setTimeout(() => {
+      if (!imageLoaded.value) {
+        onImageError();
+      }
+    }, 10000);
+  };
+  onMounted(() => {
+    // 当组件被挂载后
+    nextTick(() => {
+      retryLoadImage();
+    });
+  });
 </script>
 
 <template>
   <div
     class="w-full w-1/1 sd:w-1/3 md:w-1/4 px-6 py-3 sd:px-3 sd:py-3 flex flex-col flex-grow flex-shrink h-100 md:h-100 ld:h-40">
     <div
-      class="flex-1 bg-white rounded-t overflow-hidden h-64 shadow-lg ease-in-out hover:shadow-2xl duration-300">
+      class="flex-1 bg-white dark:bg-slate-800 rounded-t overflow-hidden h-64 shadow-lg ease-in-out hover:shadow-2xl duration-300">
       <a
         :href="withBase(url)"
         class="flex flex-wrap no-underline hover:no-underline">
@@ -75,7 +104,7 @@
         </div>
         <div class="w-full px-6 mt-5">
           <p
-            class="font-medium break-normal text-2xl sd:text-lg md:text-lg text-gray-900 line-clamp-2">
+            class="font-medium break-normal text-2xl sd:text-lg md:text-lg text-gray-900 dark:text-slate-400 line-clamp-2">
             {{ title }}
           </p>
         </div>

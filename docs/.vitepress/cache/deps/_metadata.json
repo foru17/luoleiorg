@@ -1,17 +1,11 @@
 {
-  "hash": "e4a07ea3",
-  "browserHash": "8d5814fd",
+  "hash": "cf2fda85",
+  "browserHash": "259fa859",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/.pnpm/vue@3.2.47/node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "bdde5e6e",
-      "needsInterop": false
-    },
-    "artalk": {
-      "src": "../../../../node_modules/.pnpm/artalk@2.5.5/node_modules/artalk/dist/Artalk.es.js",
-      "file": "artalk.js",
-      "fileHash": "4a12de9a",
+      "fileHash": "42921e71",
       "needsInterop": false
     }
   },

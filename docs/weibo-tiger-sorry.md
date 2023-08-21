@@ -1,5 +1,5 @@
 ---
-cover: https://luolei.org/wp-content/uploads/2011/06/sorry.jpg "sorry"
+cover: https://c2.llyz.xyz/wp-content/uploads/2011/06/sorry.jpg "sorry"
 date: '2011-06-05'
 title: 就《围脖猛于虎》此文造成的误会道歉
 ---
@@ -24,4 +24,4 @@ title: 就《围脖猛于虎》此文造成的误会道歉
 
 最后还是对那些因为此文感到不悦的人说一声抱歉。
 
-![](https://luolei.org/wp-content/uploads/2011/06/sorry.jpg )
+![](https://c2.llyz.xyz/wp-content/uploads/2011/06/sorry.jpg )

@@ -34,7 +34,7 @@
       <!-- 首页文章列表模块 -->
 
       <ArticleList v-if="frontmatter.index" />
-      <NotFound v-else-if="page.isNotFound" />
+      <!-- <NotFound v-else-if="page.isNotFound" /> -->
 
       <!-- <Home /> -->
     </template>

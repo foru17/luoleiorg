@@ -4,7 +4,7 @@ export default defineConfig({
   title: "罗磊的独立博客",
   description: "luolei.org",
   cleanUrls: true,
-  appearance:false,
+  appearance:true,
   ignoreDeadLinks: true,
   displayAllHeaders: true,
   markdown: {

@@ -4,8 +4,6 @@ date: '2015-02-14'
 title: 「辞旧迎新」新主题,更安全的罗磊独立博客
 ---
 
-![cover](https://c2.llyz.xyz/blog/2015/02/https-ssl.jpg)
-
 除旧迎新，在这新年到来的最后一周，也给博客做了下不小的升级。
 
 #### 升级Ghost
@@ -14,11 +12,11 @@ title: 「辞旧迎新」新主题,更安全的罗磊独立博客
 
 #### 新主题
 
-Github地址:[Nevecoo](https://github.com/foru17/nevecoo).
+* [Github 地址:Nevecoo](https://github.com/foru17/nevecoo).
 
-博客主题一直用的去年原创的[Ghostwill](https://luolei.org/theme-ghostwill/)，感觉十分粗糙，代码也写得糟糕。
+博客主题一直用的去年原创的 [Ghostwill](https://luolei.org/theme-ghostwill/)，感觉十分粗糙，代码也写得糟糕。
 
-这次新的主题名为[Nevecoo](https://github.com/foru17/nevecoo)，名字没啥特别意思，从0到1，自己设计、重构，也算是小练手一番。
+这次新的主题名为 [Nevecoo](https://github.com/foru17/nevecoo)，名字没啥特别意思，从0到1，自己设计、重构，也算是小练手一番。
 
 ![full-img](https://c2.llyz.xyz/blog/2015/02/nevecoo6.jpg)
 

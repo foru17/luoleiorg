@@ -20,7 +20,7 @@ title: '户外必备: NITECORE EC20 和 EC4S 手电筒开箱'
 
 ![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-9.JPG)
 
-###### NITECORE EC20
+## NITECORE EC20
 
 ![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-1.JPG)
 
@@ -43,7 +43,7 @@ EC20 手电筒本身，十分小巧，放到包里没啥压力，之所以买这
 
 ![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-7.JPG) ![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-8.JPG)
 
-###### NITECORE EC4S
+## NITECORE EC4S
 
 ![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC4S-4.JPG)
 
@@ -73,7 +73,7 @@ EC4S用的两节18650电池，最高2150流明，可以闪瞎眼，支持5种亮
 
 相比我迪卡龙买的10块钱的LED手电，EC4S分量十足，危险情况下其实可以拿来砸人。
 
-#### 总结
+## 总结
 
 ![](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-11.JPG)
 

@@ -1,5 +1,5 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2014/06/learn-japanese1.jpg
+cover: https://c2.llyz.xyz/wp-image/2014/06/aiueo-hiragana-small.jpg
 date: '2014-06-06'
 title: 日语学习入门　ひらがな 书写（壹）
 ---

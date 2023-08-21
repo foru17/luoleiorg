@@ -58,7 +58,7 @@ Wang 女士提醒我们 30 天内，分别 Checking Account 存进去 1500 美�
 
 ## 其他
 
-###### WIRE指引
+## WIRE指引
 
 ![](https://c2.llyz.xyz/blog/2017/12/boa/boa6a.jpg)
 
@@ -70,7 +70,7 @@ Wire 需要的信息一般有：收款人姓名地址、收款银行的信息。
 
 **TIPS:支付宝里面有一个上银汇款，每笔手续费固定50元（接收银行入账费另算），相比银行汇款低很多。**
 
-###### BOA手机应用
+## BOA手机应用
 
 ![](https://c2.llyz.xyz/blog/2017/12/boa/boa10.jpg)
 

@@ -26,6 +26,7 @@
     "vue": "^3.2.47"
   },
   "dependencies": {
-    "artalk": "^2.5.5"
+    "artalk": "^2.5.5",
+    "tailwindcss-dark-mode": "^1.1.7"
   }
 }

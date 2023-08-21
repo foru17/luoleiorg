@@ -4,7 +4,6 @@ date: '2014-04-27'
 title: 纽约时报网站改版背后的技术
 ---
 
-![nytimes-redesign](https://c2.llyz.xyz/wp-image/2014/02/nytimes-redesign-1024x568.png)
 
 原文地址:"[The Technology Behind the NYTimes.com Redesign](https://open.blogs.nytimes.com/2014/01/08/the-technology-behind-the-nytimes-com-redesign/?_php=true&_type=blogs&_php=true&_type=blogs&_r=1)"
 
@@ -55,7 +54,7 @@ title: 纽约时报网站改版背后的技术
 
 有如此多的动态页面，我们的平台需要一个强大的反向代理来保证 PHP 后台不会崩溃。去年五月纽约时代的移动站的Varnish 系统成功给了我们信心，我们相信 Varnish 也是这次我们的最佳选择。Varnish 是高度可配置，从服务器缓存中读取速度极大地加快了。它使得那些经常变化的界面能被缓存更短时间。
 
-#### 前端优化：
+#### 前端优化
 
 利用 Grunt，我们优化了我们的代码，减少了 http 请求，现在我们的文章页包含被同步下载的三个压缩了的 css 和 js 文件，相比以前的80多个没精简的文件，这是一个显著的改善。在网页的底部，我们使用 RequireJS 异步加载多个文件进行前端渲染。无 Cookie 的 CDN 和缓存HEAD 的设置使得我们的读者将下载更少字节的代码。配合 Varnish 系统，如今我们打开一篇文章能控制在500-1000毫秒之内。
 
@@ -63,7 +62,7 @@ title: 纽约时报网站改版背后的技术
 
 开发的过程中我们还使用了图片 sprites，我们所有的图片都存在一个叫 sprite-me 的文件夹中，配合 grunt 和 less 我们可以很方便地生成和使用不同的图标和图片，确定图像的 postion 位置。最后，我们使用 Underscore 编译的 HTML 模板，所以他们可以容易地”required”，并迅速地渲染出来。
 
-#### 总结：
+#### 总结
 
 如今我们的新平台包含了更强大的发布和互动功能，我们还在不断地改进这个平台，不断地迭代。这个新平台也让我们的团队能更加敏捷地进行新的学习和开发。尽管我们还有很多遗留技术问题，但是我们已经建立了一个值得依赖的技术团队，相信以后大家能更好地开发解决问题。
 

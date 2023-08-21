@@ -6,9 +6,7 @@ tags:
 title: Web开发者和设计师必须要知道的 iOS 8 十个变化
 ---
 
-![cover](https://c2.llyz.xyz/wp-image/2014/10/ios8wel.jpg)
-
-本文原文为["iOS 8 and iPhone 6 for web developers and designers: next evolution for Safari and native webapps"](https://www.mobilexweb.com/blog/safari-ios8-iphone6-web-developers-designers)
+* [英文原文:"iOS 8 and iPhone 6 for web developers and designers: next evolution for Safari and native webapps"](https://www.mobilexweb.com/blog/safari-ios8-iphone6-web-developers-designers)
 
 译者 [@罗罗磊磊](https://luolei.org)，转载请注明。
 
@@ -16,45 +14,45 @@ title: Web开发者和设计师必须要知道的 iOS 8 十个变化
 
 ## 概述
 
-- 简介 iOS 8 上的 Safari 的更新
-- iPhone 6 和 iPhone 6 Plus
-- 新 Api 支持
-- Safari 新功能和支持
-- iOS 8 原生优化
-- Safari 插件
-- 新的设计
-- 视频增强
-- iOS 8上的JS
-- Bug 和问题
+* 简介 iOS 8 上的 Safari 的更新
+* iPhone 6 和 iPhone 6 Plus
+* 新 Api 支持
+* Safari 新功能和支持
+* iOS 8 原生优化
+* Safari 插件
+* 新的设计
+* 视频增强
+* iOS 8上的JS
+* Bug 和问题
 
 已经习惯了苹果官方的高冷，这次，苹果依旧没有更新任何与 Safari 或者 iOS 相关的文档，所以下面的所有数据和资料都是基于我自己的测试和 WWDC 上公布的信息。
 
 ## iOS 8 上的 Safari
 
-- 支持**HTML5新APIs**: WebGL (3D canvas), IndexedDB, Navigation Timing API， Crypto API
-- 混合应用: 更快的、优化的WebView
-- **支持滚动 Scroll 事件**:终于支持了！
-- **视频播放**: 全屏API，元数据API
-- HTML模板元素
-- Safari 插件:原生App可以以插件的形式读取网页DOM
-- **图片**:支持`Image Source Sets`和动态PNG`APNG`
-- **CSS**：支持`Shapes`，支持小数单位
-- 浏览器自动填写表单（支持信用卡调用摄像头扫描）
-- **网页和本地应用交互**：登录数据共享
-- EcmaScript 6 ：部分支持
-- SPDY:支持谷歌家的新网络协议了
-- 文件上传失效了(这是Bug)
-- 移除了`minimal-ui`属性
-- 支持`Yosemite`上的远程调试
+* 支持**HTML5新APIs**: WebGL (3D canvas), IndexedDB, Navigation Timing API， Crypto API
+* 混合应用: 更快的、优化的WebView
+* **支持滚动 Scroll 事件**:终于支持了！
+* **视频播放**: 全屏API，元数据API
+* HTML模板元素
+* Safari 插件:原生App可以以插件的形式读取网页DOM
+* **图片**:支持`Image Source Sets`和动态PNG`APNG`
+* **CSS**：支持`Shapes`，支持小数单位
+* 浏览器自动填写表单（支持信用卡调用摄像头扫描）
+* **网页和本地应用交互**：登录数据共享
+* EcmaScript 6 ：部分支持
+* SPDY:支持谷歌家的新网络协议了
+* 文件上传失效了(这是Bug)
+* 移除了`minimal-ui`属性
+* 支持`Yosemite`上的远程调试
 
 相比其他移动端上的浏览器，iOS 8并没有支持有些功能：
 
-- dp单位的`Media queries`
-- getUserMedia:访问本地硬件设备，捕获音频和视频的Api
-- WebRTC:网页即时通信
-- @viewport 声明
-- Datalist
-- WebP图片
+* dp单位的`Media queries`
+* getUserMedia:访问本地硬件设备，捕获音频和视频的Api
+* WebRTC:网页即时通信
+* @viewport 声明
+* Datalist
+* WebP图片
 
 ## iPhone 6 和 iPhone6 Plus
 
@@ -153,7 +151,7 @@ Safari如今支持自动补全表单，并且当Safari检测到你要填写的�
 
 于此同时，Safari也支持`autocomplete`属性，参考[latest spec](https://html.spec.whatwg.org/multipage/forms.html#autofill)。这意味着如果你在一个登录页面，Safari可以调用Keychain里的数据自动填写用户名帐号、密码。Luis Abreu写过一篇关于iOS 8安全和隐私相关的文章，推荐可以[看看](https://lmjabreu.com/post/ios-8-privacy-updates/#safari-keychain-improvements)
 
-#### RSS！
+#### RSS
 
 如果你的网站提供了RSS订阅，iOS 8用户可以直接在浏览你网页的时候在书签栏打开他。就是那个`@`图标里面有个`订阅`的按钮，虽说有点小低调，但好歹还是有嘛 ﾉ( ´ ▽ \` )ﾉ。
 
@@ -235,17 +233,17 @@ Pocket.com 已经声明即将推出针对 iOS 8的插件。
 
 这次safari新增了很多html5，css3的支持
 
-- CSS Shapes
-- CSS object-fit
-- CSS Background Blend modes
-- word-spacing
-- CSS Compositing and Blending
-- Subpixel layout 支持小数点
-- Animated PNG supported APNG格式图片
-- Parallax effects and Pull-to-refresh supported （与Scroll事件相关）
-- SVG Fragments Identifiers (for SVG Sprites)
-- Image Source Set support
-- HTML Template support
+* CSS Shapes
+* CSS object-fit
+* CSS Background Blend modes
+* word-spacing
+* CSS Compositing and Blending
+* Subpixel layout 支持小数点
+* Animated PNG supported APNG格式图片
+* Parallax effects and Pull-to-refresh supported （与Scroll事件相关）
+* SVG Fragments Identifiers (for SVG Sprites)
+* Image Source Set support
+* HTML Template support
 
 #### Animated PNG
 
@@ -317,12 +315,12 @@ Safari开始支持`<video>`的`preload="metadata"`，可以让浏览器触发`lo
 
 ## iOS 8 JavaScript相关
 
-- 部分支持`ECMAScript 6`,包括`Promises`, `Iterators`, `Maps`, `For-of`, `Weak Maps`等等。
-- **后台运行**：JavaScript会在后台继续运行（哪怕已经切换了窗口甚至Safari切换到后台，但是计时器 times 下降到1s的频率）。
-- 支持`scroll`事件：不多说了，上面介绍过。
-- Unprefixed Page Visibility AP ： 我没搞懂这个是什么（哪位知道求指导）
-- 移除`window.doNotTrack`
-- 支持`window.currentScript`
+* 部分支持`ECMAScript 6`,包括`Promises`, `Iterators`, `Maps`, `For-of`, `Weak Maps`等等。
+* **后台运行**：JavaScript会在后台继续运行（哪怕已经切换了窗口甚至Safari切换到后台，但是计时器 times 下降到1s的频率）。
+* 支持`scroll`事件：不多说了，上面介绍过。
+* Unprefixed Page Visibility AP ： 我没搞懂这个是什么（哪位知道求指导）
+* 移除`window.doNotTrack`
+* 支持`window.currentScript`
 
 9月18更新:
 
@@ -332,14 +330,14 @@ Safari开始支持`<video>`的`preload="metadata"`，可以让浏览器触发`lo
 
 说了iOS8和iPhone 的更新，再来说说目前发现的 Bug。
 
-- **不支持文件上传**！！！所有的文件上传都失效了，你能选择或者拍张照片，但是js不能获得任何数据。`HTML`或者`XMLHttpRequest`的`POST`请求也不行。但是这个问题但是在桌面启动的app没发生。
-    
-- **WKWebKit**：在新的引擎不能读取本地文件是个大问题，所以对于混合app来说，还得使用老的`UIWebView`。
-    
-- `window.prompt`可能会导致Safari崩溃
-- **附件**:语音在`input`和`labels`输入时，不管用。(当输入的时候，label不再发音)
-- 桌面app的`iframes`中,`touch`事件没有被监测到。
-- 手机休眠后，桌面app中的`Timers`和`requestAnimationFrame`回调没有执行。
+* **不支持文件上传**！！！所有的文件上传都失效了，你能选择或者拍张照片，但是js不能获得任何数据。`HTML`或者`XMLHttpRequest`的`POST`请求也不行。但是这个问题但是在桌面启动的app没发生。
+
+* **WKWebKit**：在新的引擎不能读取本地文件是个大问题，所以对于混合app来说，还得使用老的`UIWebView`。
+
+* `window.prompt`可能会导致Safari崩溃
+* **附件**:语音在`input`和`labels`输入时，不管用。(当输入的时候，label不再发音)
+* 桌面app的`iframes`中,`touch`事件没有被监测到。
+* 手机休眠后，桌面app中的`Timers`和`requestAnimationFrame`回调没有执行。
 
 ## 译者言
 

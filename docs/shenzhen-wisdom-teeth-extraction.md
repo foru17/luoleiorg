@@ -1,5 +1,5 @@
 ---
-cover: https://c2.llyz.xyz/blog/2020/06/teeth/t-1.JPG
+cover: https://c2.llyz.xyz/blog/2020/06/teeth/t-3.JPG
 date: '2020-06-24'
 tags:
 - shenzhen

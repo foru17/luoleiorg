@@ -11,7 +11,6 @@ tags:
 title: 左罗日志:索尼A7S2上海街头随拍
 ---
 
-![cover](https://c2.llyz.xyz/blog/2016/06/sony/sh17.JPG?v=1?)
 
 要干正事，入了大法神教，花了血本入了索尼的[A7S2](https://s.taobao.com/search?q=a7s2&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20160610&app=detailproduct&through=1)，蔡司的[FE35mm F2.8光圈镜头](https://s.taobao.com/search?q=fe35+2.8&imgfile=&ie=utf8)和一系列的设备，端午假期第一天，带着妹纸去南京西路拍一下街拍。
 

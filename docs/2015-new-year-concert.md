@@ -1,7 +1,7 @@
 ---
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/wp-image/2015/01/concert/music0.jpg
+cover: https://c2.llyz.xyz/wp-image/2015/01/concert/music9.jpg
 date: '2015-01-10'
 title: 国家大剧院:BBC苏格兰交响乐团新年音乐会
 ---

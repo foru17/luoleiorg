@@ -1,14 +1,14 @@
 ---
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2020/11/pamu/e-1.JPG
+cover: https://c2.llyz.xyz/blog/2020/11/pamu/e-9.JPG
 date: '2020-11-26'
 title: 旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机
 ---
 
 ## **在线视频**
 
-https://www.youtube.com/watch?v=qnMAaPKmUN8
+<https://www.youtube.com/watch?v=qnMAaPKmUN8>
 
 - [Bilibili:从9元到9000元，我包里常备的十件产品 | EDC | PaMu Quiet](https://www.bilibili.com/video/BV1uK411G74k)
 - [YouTube: 从9元到9000元，我包里常备的十件产品 | EDC | PaMu Quiet](https://www.youtube.com/watch?v=qnMAaPKmUN8)

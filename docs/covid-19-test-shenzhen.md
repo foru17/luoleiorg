@@ -1,5 +1,5 @@
 ---
-cover: https://c2.llyz.xyz/blog/2020/06/covid/c-2.JPG
+cover: https://c2.llyz.xyz/blog/2020/06/covid/v-15.JPG
 date: '2020-06-18'
 tags:
 - shenzhen

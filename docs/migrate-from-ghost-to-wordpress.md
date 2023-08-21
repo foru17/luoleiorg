@@ -69,11 +69,11 @@ Ghost 轻巧、简单、速度的特性，的确也吸引了不少程序员做�
 
 一开始装上WP的时候，再不做任何优化的情况下，速度感动得吐血，TTFB时间能到3S，属于没法用的程度。后来上了Memcached后，TTFB下降到1-2S以内，虽然访问起来速度可以接受，但是依旧慢，并且PHP + Memcached 的方案，在高并发的场景下，依旧会有大量query，CPU会爆。
 
-![](https://static.is26.com/blog/2019/07/blog/wp-1.jpg)
+![](https://c2.llyz.xyz/blog/2019/07/blog/wp-1.jpg)
 
 最终上了[OpenResty + Redis](https://www.mf8.biz/openresty-redis-cache-wp/) 的解决方案，目前TTFB是10ms+，达到秒开级别，并发测速时，CPU负载低（毕竟无Query了），由于上了缓存，博客的阅读量统计需要改成 ajax 形式，难度不大，有现成分享方案。
 
-![](https://static.is26.com/blog/2019/07/blog/wp-2.jpg)
+![](https://c2.llyz.xyz/blog/2019/07/blog/wp-2.jpg)
 
 有nginx缓存的情况下，全国测速大概这样的情况，比较欣慰，第一次见到自己博客一片绿。
 

@@ -9,7 +9,7 @@ title: 【猫咪的暖宝宝】占美迷你PC评测体验
 
 ![cover](https://c2.llyz.xyz/blog/2015/11/pc11.JPG)
 
-大概是2012年5月，我的联想Y450笔记本黑屏之后就再也亮不起来了，后来卖了Mac mini加了点钱换了Macbook Air，从那之后，就再也没用过Windows。
+大概是2012年5月，我的联想Y450笔记本黑屏之后就再也亮不起来了，后来卖了Mac mini加了点钱换了MacBook Air，从那之后，就再也没用过Windows。
 
 ![full-img](https://c2.llyz.xyz/blog/2015/10/pc1.jpg)
 
