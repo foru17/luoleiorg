@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2016/04/seoul/day2/k27.JPG
 date: '2016-04-03'
+layout: doc
 tags:
 - photography
 - travel

@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2013/08/kindle-read-1024x682.jpg
 date: '2013-08-19'
+layout: doc
 tags:
 - kindle
 - read

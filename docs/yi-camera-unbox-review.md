@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2015/04/YI9.JPG
 date: '2015-04-24'
+layout: doc
 tags:
 - digital
 title: 【开箱】小蚁防水壳

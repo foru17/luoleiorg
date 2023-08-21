@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog26.jpg
 date: '2018-12-27'
+layout: doc
 tags:
 - zuoluotv
 - tutorial

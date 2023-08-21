@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2015/11/chromecast/4.JPG
 date: '2015-11-06'
+layout: doc
 tags:
 - chromecast
 - digital

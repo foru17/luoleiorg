@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2015/10/bill.jpg
 date: '2015-10-04'
+layout: doc
 title: 你有几张「云」账单？
 ---
 

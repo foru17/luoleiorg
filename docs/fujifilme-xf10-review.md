@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2018/08/xf10/xf-5.JPG
 date: '2018-08-05'
+layout: doc
 tags:
 - fu-shi
 - kai-xiang

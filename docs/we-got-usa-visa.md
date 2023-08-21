@@ -3,6 +3,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2016/08/usa/visa5.jpg
 date: '2016-08-20'
+layout: doc
 tags:
 - travel
 - life

@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2020/03/shredder/p-13.JPG
 date: '2020-03-04'
+layout: doc
 tags:
 - digital
 title: 居家办公好物 | 震旦 AS036 桌面碎纸机开箱

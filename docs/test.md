@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2011/05/091227A029.jpg
 date: '2011-05-24'
+layout: doc
 title: 如果你来自blog.willei.com
 ---
 

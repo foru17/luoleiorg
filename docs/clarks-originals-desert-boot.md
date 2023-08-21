@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2015/07/Clarks8.JPG
 date: '2015-07-03'
+layout: doc
 title: 【开箱】美亚直邮:其乐 Clarks Originals 沙漠靴
 ---
 

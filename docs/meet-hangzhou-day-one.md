@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2015/09/hangzhou/hz46.JPG
 date: '2015-09-04'
+layout: doc
 tags:
 - travel
 - ricohgr

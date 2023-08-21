@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2018/11/ikan/ikan.jpg
 date: '2018-11-22'
+layout: doc
 tags:
 - zuoluotv
 - kai-xiang

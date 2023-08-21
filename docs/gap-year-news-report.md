@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/07/318-debt.jpg
 date: '2012-07-10'
+layout: doc
 tags:
 - tibet
 - e997b4e99a94e5b9b4

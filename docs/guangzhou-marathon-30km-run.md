@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/wp-image/2013/10/run-prepare.jpeg
 date: '2013-10-14'
+layout: doc
 tags:
 - run
 - sports

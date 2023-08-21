@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/08/read.jpg
 date: '2012-08-23'
+layout: doc
 title: 关于我的点点滴滴
 ---
 

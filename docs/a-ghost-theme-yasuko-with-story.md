@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2015/12/yasuko2.jpg
 date: '2015-12-28'
+layout: doc
 sidebarDepth: 2
 tags:
 - develop

@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog67.jpg
 date: '2020-11-14'
+layout: doc
 tags:
 - vlog
 - zuoluotv

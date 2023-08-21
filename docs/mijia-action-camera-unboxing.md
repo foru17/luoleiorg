@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2017/08/mijia/MIJIA-31.JPG
 date: '2017-08-22'
+layout: doc
 tags:
 - digital
 - e7a1ace4bbb6

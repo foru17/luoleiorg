@@ -4,6 +4,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2020/11/led/l-4.jpg
 date: '2020-11-20'
+layout: doc
 title: 这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯
 ---
 

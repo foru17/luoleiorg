@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2013/08/tiny-fool-time.jpg
 date: '2013-08-10'
+layout: doc
 tags:
 - movies
 title: 【不是影评】我对不起你，小时代

@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2014/06/young17.jpg
 date: '2014-06-09'
+layout: doc
 title: 'foru17 : 我，17，ID的故事'
 ---
 

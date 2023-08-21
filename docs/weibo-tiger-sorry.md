@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-content/uploads/2011/06/sorry.jpg "sorry"
 date: '2011-06-05'
+layout: doc
 title: 就《围脖猛于虎》此文造成的误会道歉
 ---
 

@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/08/nanking.jpg
 date: '2012-08-02'
+layout: doc
 tags:
 - chrome
 title: Gestures for Chrome:鼠标手势增强,让Chrome飞

@@ -3,6 +3,7 @@ categories:
 - code
 cover: https://c2.llyz.xyz/blog/2018/setapp/setapp0.jpg
 date: '2018-01-28'
+layout: doc
 tags:
 - mac
 - digital

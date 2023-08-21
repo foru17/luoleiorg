@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/06/bike2tibet-dream-1024x571.png
 date: '2012-06-17'
+layout: doc
 tags:
 - travel
 - tibet

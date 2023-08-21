@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-content/uploads/2012/07/QQgroup1.png
 date: '2012-07-03'
+layout: doc
 tags:
 - outsports
 - e9aa91e8a18c

@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/blog/2017/02/wechat-we.png
 date: '2017-02-15'
+layout: doc
 tags:
 - read
 title: 年終卷 | 2016年我读了哪些书？

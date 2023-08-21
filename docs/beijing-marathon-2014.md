@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon/7.jpg
 date: '2014-10-26'
+layout: doc
 tags:
 - run
 title: 马拉松 | 2014北京国际马拉松 | 雾霾中的跑马

@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2014/10/ios8wel.jpg
 date: '2014-09-24'
+layout: doc
 tags:
 - iphone
 title: Web开发者和设计师必须要知道的 iOS 8 十个变化

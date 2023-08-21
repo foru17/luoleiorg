@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog52.jpg
 date: '2019-07-02'
+layout: doc
 tags:
 - 境外手机卡
 - 手机卡

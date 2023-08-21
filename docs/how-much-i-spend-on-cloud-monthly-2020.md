@@ -4,6 +4,7 @@ categories:
 - code
 cover: https://c2.llyz.xyz/blog/2020/06/cloud/cloud1.jpg
 date: '2020-06-02'
+layout: doc
 title: 我的云账单:2020年
 ---
 

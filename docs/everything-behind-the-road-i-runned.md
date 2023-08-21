@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/blog/2015/12/tibet1.jpg
 date: '2015-06-23'
+layout: doc
 tags:
 - zhi-hu
 - run

@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/10/alfred-search.jpg "alfred-search"
 date: '2012-10-30'
+layout: doc
 tags:
 - mac
 - tutorial

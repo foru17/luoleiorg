@@ -3,6 +3,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2016/11/shoot/shoot-28.jpg
 date: '2016-12-11'
+layout: doc
 tags:
 - travel
 - man-gu

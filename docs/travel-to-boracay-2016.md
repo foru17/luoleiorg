@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2016/09/pilipinas/boracay-cover.jpg
 date: '2016-10-13'
+layout: doc
 tags:
 - travel
 - philippines

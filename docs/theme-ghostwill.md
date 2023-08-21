@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2014/04/ghostwill.jpg
 date: '2014-04-27'
+layout: doc
 title: Ghostwill 鬼才晓得
 ---
 

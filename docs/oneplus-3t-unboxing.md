@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2016/12/oneplus/one-04555.jpg
 date: '2016-12-02'
+layout: doc
 tags:
 - digital
 title: 一加3T:简单开箱 + 第一印象

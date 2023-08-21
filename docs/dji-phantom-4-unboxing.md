@@ -4,6 +4,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2016/09/dji/dji.jpg
 date: '2016-09-10'
+layout: doc
 tags:
 - digital
 title: 大疆 | 要什么iPhone7，DJI 精灵4开箱

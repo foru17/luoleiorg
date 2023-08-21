@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2016/01/buy/cover.jpg
 date: '2016-01-15'
+layout: doc
 tags:
 - digital
 - e7a1ace4bbb6

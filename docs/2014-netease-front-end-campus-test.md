@@ -3,6 +3,7 @@ categories:
 - code
 cover: https://c2.llyz.xyz/default.cover.jpg
 date: '2013-10-07'
+layout: doc
 tags:
 - develop
 - e7ac94e8af95

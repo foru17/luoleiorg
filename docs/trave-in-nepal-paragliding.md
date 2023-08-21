@@ -3,6 +3,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-9.jpeg
 date: '2014-04-30'
+layout: doc
 tags:
 - nepal
 - travel

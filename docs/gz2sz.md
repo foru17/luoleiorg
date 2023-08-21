@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/03/bike11.jpg
 date: '2012-03-10'
+layout: doc
 tags:
 - guangzhou
 - shenzhen

@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2020/07/zeiss/M-1.JPG
 date: '2020-07-05'
+layout: doc
 tags:
 - kai-xiang
 - 蔡司

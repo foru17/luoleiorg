@@ -3,6 +3,7 @@ categories:
 - code
 cover: https://c2.llyz.xyz/blog/2018/05/luosuo2.jpg
 date: '2018-05-14'
+layout: doc
 tags:
 - ispeakl
 title: 罗磊啰嗦变聪明了:给微信公众号做了个小升级

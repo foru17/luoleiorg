@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2014/01/review-of-2013-after-1024x768.jpg
 date: '2014-01-04'
+layout: doc
 title: Review of 2013:best and worst year of my life
 ---
 

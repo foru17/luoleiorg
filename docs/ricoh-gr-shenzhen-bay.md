@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2015/02/szw/s10.JPG
 date: '2015-02-28'
+layout: doc
 tags:
 - photography
 - ricohgr

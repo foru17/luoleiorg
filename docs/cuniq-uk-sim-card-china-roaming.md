@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2019/02/cuniq/s-4.jpg
 date: '2019-02-16'
+layout: doc
 tags:
 - 手机卡
 title: CUniq UK:一卡中英港三号，能在大陆漫游的英国手机卡

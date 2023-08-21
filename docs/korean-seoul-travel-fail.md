@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2018/03/korean/k19.JPG
 date: '2018-03-19'
+layout: doc
 tags:
 - travel
 - han-guo

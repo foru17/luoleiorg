@@ -4,6 +4,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2018/10/YASHICA/y-0.jpg
 date: '2018-10-17'
+layout: doc
 tags:
 - kai-xiang
 - photography

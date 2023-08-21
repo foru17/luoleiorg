@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2013/09/Unicom-360-test.jpg
 date: '2013-09-07'
+layout: doc
 tags:
 - e8af84e6b58b
 title: 深圳联通10M宽带用户评测

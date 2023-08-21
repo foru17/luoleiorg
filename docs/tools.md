@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/03/nobaidu1.jpg "nobaidu"
 date: '2012-03-24'
+layout: doc
 tags:
 - internet
 - e5a4a7e5ada6

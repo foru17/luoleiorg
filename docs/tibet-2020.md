@@ -3,6 +3,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2020/07/tibet/guide.JPG
 date: '2020-08-04'
+layout: doc
 tags:
 - photography
 - travel

@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2016/04/zhiyun/z10.JPG
 date: '2016-04-09'
+layout: doc
 tags:
 - photography
 - digital

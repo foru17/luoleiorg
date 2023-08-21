@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2016/01/netflix/cover.jpg
 date: '2016-01-09'
+layout: doc
 tags:
 - digital
 - e8af84e6b58b

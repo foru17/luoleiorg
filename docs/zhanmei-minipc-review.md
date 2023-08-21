@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2015/11/pc11.JPG
 date: '2015-11-04'
+layout: doc
 tags:
 - e7a1ace4bbb6
 - e8af84e6b58b

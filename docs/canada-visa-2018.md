@@ -3,6 +3,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2018/04/visa.jpg
 date: '2018-04-08'
+layout: doc
 tags:
 - travel
 title: 加拿大 | 我可能办了一个「假」的十年多次签证

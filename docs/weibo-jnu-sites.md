@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-content/uploads/2012/06/jnu123-screen.jpg "jnu123-screen"
 date: '2012-06-29'
+layout: doc
 tags:
 - jnu
 title: 【暨南大学微博导航】一键关注暨大热门微博

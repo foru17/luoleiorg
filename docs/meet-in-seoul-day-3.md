@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2016/04/seoul/day3/k37.JPG
 date: '2016-04-04'
+layout: doc
 tags:
 - travel
 - ricohgr

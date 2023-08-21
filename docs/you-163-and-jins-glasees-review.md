@@ -4,6 +4,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2018/12/glasses/g-3.jpg
 date: '2018-12-24'
+layout: doc
 tags:
 - zuoluotv
 - kai-xiang

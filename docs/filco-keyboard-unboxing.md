@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2017/03/flico-12.jpg
 date: '2017-03-06'
+layout: doc
 tags:
 - digital
 title: Filco 圣手二代蓝牙版:开箱体验

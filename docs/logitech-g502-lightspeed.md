@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2020/06/logitech/g-2.JPG
 date: '2020-06-21'
+layout: doc
 tags:
 - 外设
 - digital

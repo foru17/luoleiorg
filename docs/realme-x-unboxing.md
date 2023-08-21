@@ -4,6 +4,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2019/06/realme/m-14.JPG
 date: '2019-06-05'
+layout: doc
 tags:
 - zuoluotv
 - digital

@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/blog/2023/01/fit/h-1.JPG
 date: '2023-02-02'
+layout: doc
 tags:
 - sports
 title: 我如何在 7 年内胖了 40 斤，又用 90 天减掉 20 斤

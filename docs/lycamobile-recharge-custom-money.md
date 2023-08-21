@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2019/04/lyca/c-4.jpg
 date: '2019-04-03'
+layout: doc
 tags:
 - zuoluotv
 - digital

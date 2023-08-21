@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/blog/2015/04/beijingrun/run3.JPG
 date: '2015-04-26'
+layout: doc
 tags:
 - run
 - e9a9ace68b89e69dbe

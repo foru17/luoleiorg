@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2014/10/learn-online.jpg
 date: '2013-05-28'
+layout: doc
 tags:
 - ispeakl
 title: 【罗磊啰嗦】谈谈网络教育和学习

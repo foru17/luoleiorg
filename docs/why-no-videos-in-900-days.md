@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog71.jpg
 date: '2023-08-12'
+layout: doc
 tags:
 - vlog
 title: '好久不见: 我消失的900天'

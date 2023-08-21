@@ -3,6 +3,7 @@ categories:
 - code
 cover: https://c2.llyz.xyz/blog/2015/05/baidu3.jpg
 date: '2015-05-17'
+layout: doc
 title: 要加密,也要熊掌:让Ghost支持https并被百度正常收录
 ---
 

@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-content/uploads/2012/07/100_2696.jpg
 date: '2012-07-28'
+layout: doc
 title: 【转手全新Dorcus钪合金车架】
 ---
 

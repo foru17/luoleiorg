@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2015/02/skiing/s4.JPG
 date: '2015-02-14'
+layout: doc
 tags:
 - hua-xue
 title: 第一次滑雪是什么感受

@@ -3,6 +3,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2016/10/taiwan/taiwan-cover.jpg
 date: '2016-11-23'
+layout: doc
 tags:
 - tai-wan
 - photography

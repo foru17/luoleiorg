@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2016/06/sony/sh17.JPG?v=1?
 date: '2016-06-09'
+layout: doc
 tags:
 - photography
 - travel

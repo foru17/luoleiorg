@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/source/images/lookip.jpg
 date: '2015-09-07'
+layout: doc
 title: Alfred域名IP速查工具
 ---
 

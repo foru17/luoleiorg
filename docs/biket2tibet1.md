@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg
 date: '2012-04-15'
+layout: doc
 tags:
 - travel
 - tibet

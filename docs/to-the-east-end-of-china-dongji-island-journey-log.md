@@ -5,6 +5,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2016/07/dongji/day1/A7S2-D1-04333.jpg
 date: '2016-07-26'
+layout: doc
 tags:
 - dong-ji-dao
 - photography

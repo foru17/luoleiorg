@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2020/08/guide/g1.JPG
 date: '2020-08-15'
+layout: doc
 tags:
 - internet
 title: 写给大学新生的数字指南

@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog38.jpg
 date: '2019-04-09'
+layout: doc
 tags:
 - zuoluotv
 title: 我最常访问的五个小众中文网站 | VLOG38

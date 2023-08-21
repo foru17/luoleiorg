@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2013/05/profile.jpg
 date: '2013-04-09'
+layout: doc
 title: 四月谈:简历，杂想，未来
 ---
 

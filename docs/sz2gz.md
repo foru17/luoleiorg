@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/03/IMG_20120312_012310.jpg
 date: '2012-03-11'
+layout: doc
 tags:
 - guangzhou
 - shenzhen

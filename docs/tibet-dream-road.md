@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/06/bike1.jpg "bike1"
 date: '2012-06-21'
+layout: doc
 tags:
 - travel
 - tibet

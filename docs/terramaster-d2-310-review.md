@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2018/04/terra/21.jpg
 date: '2018-04-23'
+layout: doc
 title: 开箱 | 铁威马 TerraMaster  D2-310 硬盘盒
 ---
 现在我跟别人介绍自己，都是这样开头「我是一个程序员，也是一个周末摄影师和视频制作人」。

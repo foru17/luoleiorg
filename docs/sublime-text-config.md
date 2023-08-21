@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-09-at-9.23.58-PM-1024x640.png
 date: '2013-08-09'
+layout: doc
 title: 我的Sublime Text 2配置
 ---
 

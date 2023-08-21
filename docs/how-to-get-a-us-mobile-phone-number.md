@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2019/01/phone/sim-card.jpg
 date: '2019-01-24'
+layout: doc
 tags:
 - zuoluotv
 - usa

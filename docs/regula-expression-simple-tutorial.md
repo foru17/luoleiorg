@@ -3,6 +3,7 @@ categories:
 - code
 cover: https://c2.llyz.xyz/wp-image/2013/09/regual-4.png
 date: '2013-09-17'
+layout: doc
 tags:
 - develop
 - tutorial

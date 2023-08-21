@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2016/03/batter1.JPG
 date: '2016-03-02'
+layout: doc
 tags:
 - digital
 title: 便宜开箱:品胜TS-D199充电宝

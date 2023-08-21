@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2011/11/nograss.jpg
 date: '2011-11-20'
+layout: doc
 title: 草根威尼斯
 ---
 

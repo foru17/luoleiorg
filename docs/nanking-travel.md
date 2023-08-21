@@ -3,6 +3,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/wp-image/2012/08/metro-nanking.jpg
 date: '2012-08-03'
+layout: doc
 tags:
 - nanjing
 title: 南京 | 一座城市,一个民族,一段历史

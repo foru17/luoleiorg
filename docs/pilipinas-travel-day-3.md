@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2016/09/pilipinas/day3/A7S2-D3-07697.jpg
 date: '2016-10-11'
+layout: doc
 tags:
 - photography
 - travel

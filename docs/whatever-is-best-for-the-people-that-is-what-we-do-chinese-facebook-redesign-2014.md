@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2014/03/facebook.jpg
 date: '2014-04-27'
+layout: doc
 title: 我们的设计，一切为了用户-Facebook设计总监谈13年一个夭折的改版设计
 ---
 

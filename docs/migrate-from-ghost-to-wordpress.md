@@ -3,6 +3,7 @@ categories:
 - code
 cover: https://c2.llyz.xyz/blog/2019/07/blog/wp-1.jpg
 date: '2019-07-06'
+layout: doc
 tags:
 - 编程
 title: 我的博客从 Ghost 迁移回 Wordpress | 优化记录

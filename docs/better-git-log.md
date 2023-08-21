@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2013/08/better-git-log.jpg
 date: '2013-08-14'
+layout: doc
 tags:
 - develop
 - tech
@@ -21,11 +22,11 @@ git log --stat --summary 查看每个版本变动的档案和行数
 
 简要复习完毕，一般来说，默认的 git log 命令就是黑咕噜噜的，挺难看。
 
-![Screen Shot 2013-08-15 at 1.11.28 AM](https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-15-at-1.11.28-AM.png)
+![](https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-15-at-1.11.28-AM.png)
 
 如果你厌倦了上面这颜色，想换换，很简单，在终端输入下面这行代码就OK了。
 
-```git
+```bash
 git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
 ```
 
@@ -33,7 +34,7 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 
 打开终端，给上面的命令弄一个别名叫 git lg 吧。
 
-```git
+```bash
 git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 ```
 

@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2019/06/c2000/s-1.jpg
 date: '2019-06-09'
+layout: doc
 tags:
 - digital
 title: 开箱 | 平均1GB 7毛5 | 海康威视 HIKVISION C2000 1TB 固态硬盘

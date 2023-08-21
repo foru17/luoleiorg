@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2016/06/japan/day4/A7S2-D4-03134.jpg
 date: '2016-07-07'
+layout: doc
 tags:
 - xian-tai
 - photography

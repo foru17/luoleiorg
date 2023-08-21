@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2015/02/apple-bg2.jpg
 date: '2015-03-09'
+layout: doc
 tags:
 - apple
 title: 注册成了苹果开发者

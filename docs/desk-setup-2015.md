@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2015/10/des.jpg
 date: '2015-10-07'
+layout: doc
 tags:
 - life
 title: 每个程序员都应该有张木桌

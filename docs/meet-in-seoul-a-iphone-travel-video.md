@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2016/04/seoul/travel-seoul.jpg
 date: '2016-04-04'
+layout: doc
 tags:
 - photography
 - travel

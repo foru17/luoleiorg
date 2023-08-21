@@ -4,6 +4,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog50.jpg
 date: '2019-06-11'
+layout: doc
 tags:
 - vlog
 - photography

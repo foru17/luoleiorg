@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2013/05/read-may-1024x576.jpg
 date: '2013-05-13'
+layout: doc
 tags:
 - movies
 - read

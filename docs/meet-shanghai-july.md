@@ -3,6 +3,7 @@ categories:
 - photography
 cover: https://c2.llyz.xyz/blog/2015/07/shanghai/sh24.JPG
 date: '2015-07-04'
+layout: doc
 tags:
 - shanghai
 - photography

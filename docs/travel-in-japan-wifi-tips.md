@@ -4,6 +4,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2016/07/wifi-japan.jpg
 date: '2016-07-31'
+layout: doc
 tags:
 - travel
 - japan

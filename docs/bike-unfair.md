@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/08/20120802A18_brief1.jpg
 date: '2012-08-02'
+layout: doc
 title: 《羊城晚报》:唯独南航托运单车要收费
 ---
 

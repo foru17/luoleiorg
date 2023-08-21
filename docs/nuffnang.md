@@ -1,6 +1,7 @@
 ---
 cover: https://www.nuffnang.com.cn/wp-content/themes/nuffnang-3.0.0/uploadedstuff/nn3/founders_img.png
 date: '2011-05-26'
+layout: doc
 title: 当我添加广告的时候我在想什么
 ---
 

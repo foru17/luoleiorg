@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/blog/2023/01/read/book-2.JPG
 date: '2023-01-31'
+layout: doc
 tags:
 - read
 title: '我在读什么: 2023 春节读书分享'

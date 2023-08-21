@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2014/08/simplelife2.jpg
 date: '2014-08-10'
+layout: doc
 title: 八月罗嗦
 ---
 

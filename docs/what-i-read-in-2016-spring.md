@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2016/05/read.jpg
 date: '2016-05-08'
+layout: doc
 tags:
 - read
 title: 我在读什么:2016春季读书分享

@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2016/06/zuoluotv/zuoluo.jpg
 date: '2016-06-20'
+layout: doc
 tags:
 - zuoluotv
 title: 左罗TV:我们的一大步

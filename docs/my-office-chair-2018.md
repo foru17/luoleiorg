@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2018/12/sihoo/chair-2.jpg
 date: '2018-12-05'
+layout: doc
 tags:
 - zuoluotv
 - kai-xiang

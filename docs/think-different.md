@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2011/10/think-different.jpg "think different"
 date: '2011-10-06'
+layout: doc
 title: Think Different
 ---
 

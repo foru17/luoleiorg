@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2017/10/A2-3.jpg
 date: '2017-10-16'
+layout: doc
 tags:
 - kai-xiang
 - digital

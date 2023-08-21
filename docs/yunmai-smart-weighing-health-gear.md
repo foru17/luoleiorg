@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai5.JPG
 date: '2015-06-27'
+layout: doc
 tags:
 - digital
 title: 【开箱】云麦好轻

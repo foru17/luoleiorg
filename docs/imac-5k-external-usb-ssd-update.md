@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2015/11/ssd/show.jpg
 date: '2015-11-17'
+layout: doc
 tags:
 - e7a1ace4bbb6
 title: iMac 2015 5K 版外接 USB3.0 硬盘盒+SSD 系统加速体验

@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2015/02/flower/f17.JPG
 date: '2015-02-26'
+layout: doc
 tags:
 - photography
 - travel

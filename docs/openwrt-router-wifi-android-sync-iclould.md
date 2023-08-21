@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2013/02/wifi_meitu_1-1024x576.jpg
 date: '2013-02-15'
+layout: doc
 tags:
 - android
 - nas

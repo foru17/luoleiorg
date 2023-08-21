@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/vogue/AMPLIFI-06254.JPG
 date: '2017-06-19'
+layout: doc
 tags:
 - digital
 title: AMPLIFI HD -居家体验报告 | 视频

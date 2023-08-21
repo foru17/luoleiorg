@@ -4,6 +4,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog65.jpg
 date: '2020-05-26'
+layout: doc
 tags:
 - vlog
 - zuoluotv

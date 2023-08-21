@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2013/01/review-e1357051138695.jpg
 date: '2013-01-01'
+layout: doc
 title: Review of 2012
 ---
 

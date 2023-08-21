@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2013/05/learn-online-1024x575.jpg
 date: '2013-05-30'
+layout: doc
 tags:
 - ispeakl
 title: 【罗磊啰嗦】谈谈自媒体和个人品牌

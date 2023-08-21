@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog28.jpg
 date: '2019-01-12'
+layout: doc
 tags:
 - zuoluotv
 - travel

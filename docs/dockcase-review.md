@@ -4,6 +4,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2019/09/dockcase/dc-18.JPG
 date: '2019-09-11'
+layout: doc
 tags:
 - digital
 title: DockCase P1:让 MacBook Pro 电源适配器秒变拓展坞

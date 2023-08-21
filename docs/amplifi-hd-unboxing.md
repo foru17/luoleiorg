@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/vogue/AMPLIFI-1.JPG
 date: '2017-06-15'
+layout: doc
 tags:
 - digital
 title: 开箱:AMPLIFI HD - 这应该是我用过的最(贵)漂亮的路由器

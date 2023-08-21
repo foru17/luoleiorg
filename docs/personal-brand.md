@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/08/peronal-air-brand.jpg
 date: '2012-08-20'
+layout: doc
 tags:
 - internet
 title: 打造你的「虚拟身份」

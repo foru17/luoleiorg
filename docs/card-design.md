@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2011/06/j9OOA.jpg "j9OOA"
 date: '2011-06-16'
+layout: doc
 title: 名片设计一枚
 ---
 

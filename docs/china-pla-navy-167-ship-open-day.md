@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2018/11/navy/sz-15.jpg
 date: '2018-11-09'
+layout: doc
 title: 参观神州第一舰 | 中国海军深圳舰开放日 | VLOG19
 ---
 

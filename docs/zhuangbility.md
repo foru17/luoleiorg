@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2014/06/zbzn.png
 date: '2014-06-28'
+layout: doc
 title: 装逼这件事
 ---
 

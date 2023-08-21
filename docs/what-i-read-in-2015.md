@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2015/12/book.jpg
 date: '2015-12-10'
+layout: doc
 tags:
 - read
 title: 【年終卷】2015年我读了哪些书？

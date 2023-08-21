@@ -3,6 +3,7 @@ categories:
 - code
 cover: https://c2.llyz.xyz/blog/2017/12/fe/fe2.jpg
 date: '2018-02-01'
+layout: doc
 tags:
 - develop
 - code

@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2014/10/love-original.jpg
 date: '2014-09-09'
+layout: doc
 tags:
 - read
 title: 谈情说下爱:浪漫爱情的本质和化学

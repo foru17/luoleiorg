@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2014/11/whatisinmybag.jpg
 date: '2014-11-11'
+layout: doc
 title: 罗罗磊磊#你的包里有什么
 ---
 

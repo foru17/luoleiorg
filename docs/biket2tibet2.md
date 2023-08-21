@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/05/head55.jpg
 date: '2012-05-04'
+layout: doc
 tags:
 - travel
 - tibet

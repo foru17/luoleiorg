@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/default.cover.jpg
 date: '2013-02-03'
+layout: doc
 tags:
 - kindle
 - read

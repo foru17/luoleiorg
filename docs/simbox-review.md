@@ -4,6 +4,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2019/06/simbox/s-1.JPG
 date: '2019-06-11'
+layout: doc
 tags:
 - zuoluotv
 - digital

@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/default.cover.jpg
 date: '2012-09-27'
+layout: doc
 title: 软肋
 ---
 

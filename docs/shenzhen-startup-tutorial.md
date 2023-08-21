@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/blog/2019/02/startup/c2.jpg
 date: '2019-02-15'
+layout: doc
 tags:
 - chuang-ye
 title: 创业笔记 | 从0到1开公司是什么体验

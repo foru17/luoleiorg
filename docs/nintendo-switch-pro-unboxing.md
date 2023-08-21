@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2018/03/switch/pro-10.jpg
 date: '2018-03-17'
+layout: doc
 tags:
 - kai-xiang
 - digital

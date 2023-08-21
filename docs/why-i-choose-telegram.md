@@ -3,6 +3,7 @@ categories:
 - code
 cover: https://c2.llyz.xyz/blog/2019/07/telegram/tg-1.jpg
 date: '2019-07-08'
+layout: doc
 title: 我为什么选择 Telegram 来运营粉丝社群 | 规则、经验和思考
 ---
 

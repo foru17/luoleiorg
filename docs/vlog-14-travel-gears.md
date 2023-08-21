@@ -4,6 +4,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog14.jpg
 date: '2018-07-22'
+layout: doc
 tags:
 - zuoluotv
 - photography

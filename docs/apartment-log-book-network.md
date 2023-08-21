@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/house/house-map-2.JPG
 date: '2020-09-18'
+layout: doc
 tags:
 - 装修
 title: 装修脑壳痛：家庭万兆光纤网络、智能家居

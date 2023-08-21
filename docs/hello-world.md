@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2011/06/stone.jpg "stone"
 date: '2011-05-24'
+layout: doc
 title: Hello world!
 ---
 

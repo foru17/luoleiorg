@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2016/07/dongji/dongji-island.jpg
 date: '2016-07-24'
+layout: doc
 tags:
 - travel
 title: 左罗TV | 遇见,东极岛:夏季舟山团建视频节目

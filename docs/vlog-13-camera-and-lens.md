@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog13.jpg
 date: '2018-07-22'
+layout: doc
 tags:
 - vlog
 - zuoluotv

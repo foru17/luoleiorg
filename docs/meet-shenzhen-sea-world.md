@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2015/02/shenzhen/w2.JPG
 date: '2015-02-23'
+layout: doc
 tags:
 - photography
 - travel

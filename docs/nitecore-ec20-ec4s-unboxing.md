@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-10.JPG
 date: '2018-03-03'
+layout: doc
 title: '户外必备: NITECORE EC20 和 EC4S 手电筒开箱'
 ---
 

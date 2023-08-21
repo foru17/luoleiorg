@@ -5,6 +5,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2016/06/japan/blog-cover.jpg
 date: '2016-07-03'
+layout: doc
 tags:
 - travel
 title: 视频 | 遇见,日本:东京・仙台 Travel Film

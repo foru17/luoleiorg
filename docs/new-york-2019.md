@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2019/06/newyork/nyc-143.JPG
 date: '2019-06-25'
+layout: doc
 tags:
 - photography
 - travel

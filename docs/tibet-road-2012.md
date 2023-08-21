@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2018/11/tibet/tibet-1.JPG
 date: '2018-10-31'
+layout: doc
 tags:
 - photography
 - travel

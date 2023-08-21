@@ -3,6 +3,7 @@ categories:
 - code
 cover: https://ping.gz.is26.com/ChinaDNS/ChinaNet1_mini.png
 date: '2020-03-17'
+layout: doc
 title: 深圳电信宽带 / 常用公共 DNS、VPS / 性能 & 稳定性 / 实时监控数据
 ---
 

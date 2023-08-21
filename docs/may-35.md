@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2011/06/stone.jpg "stone"
 date: '2011-06-03'
+layout: doc
 title: 一年又一年，此日又此日，此人非此人。
 ---
 

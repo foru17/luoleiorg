@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2013/08/css-noise.png
 date: '2013-08-18'
+layout: doc
 tags:
 - develop
 title: 使用CSS和DataURI来添加杂色滤镜效果

@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-content/uploads/2011/05/luoleired1.jpg "luoleired"
 date: '2011-05-31'
+layout: doc
 tags:
 - life
 title: 6月计划

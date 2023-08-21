@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/10/jingdong.png "jingdong"
 date: '2012-10-09'
+layout: doc
 tags:
 - e8af84e6b58b
 title: 贵的不一定好，便宜也不一定差:vivick迷你路由器Q-W501简单评测

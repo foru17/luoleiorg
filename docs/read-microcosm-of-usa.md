@@ -3,6 +3,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/vogue/usa.png
 date: '2017-07-21'
+layout: doc
 tags:
 - travel
 - read

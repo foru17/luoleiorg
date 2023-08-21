@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/default.cover.jpg
 date: '2011-09-13'
+layout: doc
 title: 9月想
 ---
 

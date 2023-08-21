@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2016/06/japan/day4/A7S2-D4-03550.jpg
 date: '2016-07-09'
+layout: doc
 tags:
 - photography
 - travel

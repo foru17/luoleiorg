@@ -3,6 +3,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2016/11/hangzhou/hangzhou-cover.jpg
 date: '2016-12-09'
+layout: doc
 tags:
 - photography
 - travel

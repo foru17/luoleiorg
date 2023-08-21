@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/08/Sudingtian2.jpg
 date: '2012-08-07'
+layout: doc
 title: 【活出你的伟大】暨大篇
 ---
 

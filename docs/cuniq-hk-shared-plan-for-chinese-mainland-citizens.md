@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2019/02/cuniqhk/c-1.jpg
 date: '2019-02-25'
+layout: doc
 tags:
 - digital
 - ke-ji

@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/default.cover.jpg
 date: '2013-05-18'
+layout: doc
 tags:
 - life
 title: 学会取消关注：一个微博控的退瘾路

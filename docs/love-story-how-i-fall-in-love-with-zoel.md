@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/blog/2016/08/love/zh15.jpg
 date: '2016-08-05'
+layout: doc
 tags:
 - life
 title: 作为一个程序员，我是如何找到女朋友的？

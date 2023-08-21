@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2015/04/qingdao/QD7.jpg
 date: '2015-04-09'
+layout: doc
 tags:
 - photography
 - travel

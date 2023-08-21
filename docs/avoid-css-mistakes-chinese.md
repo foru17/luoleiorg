@@ -3,6 +3,7 @@ categories:
 - code
 cover: https://c2.llyz.xyz/wp-image/2013/11/css-specifity-1.png
 date: '2013-11-11'
+layout: doc
 tags:
 - develop
 title: 前端开发应该避免的10大 CSS 糟糕用法

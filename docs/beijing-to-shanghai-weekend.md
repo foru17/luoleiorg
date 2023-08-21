@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2015/04/shanghai/sh5.JPG
 date: '2015-04-24'
+layout: doc
 tags:
 - shanghai
 - photography

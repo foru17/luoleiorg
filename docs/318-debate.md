@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/07/318-debt.jpg
 date: '2012-07-12'
+layout: doc
 tags:
 - e5b79de8978fe7babf
 - e9aa91e8a18c

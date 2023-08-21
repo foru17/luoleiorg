@@ -1,6 +1,7 @@
 ---
 cover: https://www.70man.com/?p=8185
 date: '2011-07-20'
+layout: doc
 title: 我的简历被秋叶老师推荐啦
 ---
 

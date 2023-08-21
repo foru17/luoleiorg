@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2017/10/owc/owc-11.JPG
 date: '2017-10-28'
+layout: doc
 tags:
 - digital
 title: '300美元买了个雷电3拓展坞: OWC Thunderbolt 3 Dock'

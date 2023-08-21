@@ -3,6 +3,7 @@ categories:
 - code
 cover: https://c2.llyz.xyz/blog/2023/01/cloud/cloud-1.JPG
 date: '2023-01-07'
+layout: doc
 title: 我的云账单:2023年
 ---
 

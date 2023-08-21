@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-45.jpg
 date: '2018-03-10'
+layout: doc
 tags:
 - photography
 - travel

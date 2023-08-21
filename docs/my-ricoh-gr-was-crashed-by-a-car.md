@@ -5,6 +5,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2019/07/ricoh/gr-6.jpg
 date: '2019-07-05'
+layout: doc
 tags:
 - vlog
 - zuoluotv

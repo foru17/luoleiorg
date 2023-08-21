@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/default.cover.jpg
 date: '2011-06-10'
+layout: doc
 title: 征集志愿者，奖励VPN
 ---
 

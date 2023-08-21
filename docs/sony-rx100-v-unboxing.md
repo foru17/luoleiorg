@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2016/11/rx100/RX100-02690.JPG
 date: '2016-11-27'
+layout: doc
 tags:
 - photography
 - digital

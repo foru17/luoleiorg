@@ -3,6 +3,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2020/06/hongkong/license.jpg
 date: '2020-06-07'
+layout: doc
 tags:
 - e9a699e6b8af
 title: 最容易获得的境外驾照:内地驾照免试换取香港十年驾照攻略

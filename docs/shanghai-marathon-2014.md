@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/wp-image/2014/11/shmarathon/sh20.jpg
 date: '2014-11-15'
+layout: doc
 tags:
 - run
 title: 马拉松 | 2014上海国际马拉松 | 跑崩了

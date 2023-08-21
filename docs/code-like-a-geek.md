@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2015/02/geek.jpg
 date: '2015-03-04'
+layout: doc
 tags:
 - develop
 title: 非程序员别点:Geek Style开发思维、技巧、工具

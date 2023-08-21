@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2017/05/liqi/88018.png
 date: '2017-05-10'
+layout: doc
 title: 利器访谈｜罗磊｜也许是最会晒妻的程序员
 ---
 

@@ -4,6 +4,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2019/01/mibox/mibox-9.jpg
 date: '2019-01-19'
+layout: doc
 tags:
 - zuoluotv
 - xiao-mi

@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2016/06/zkin/z5.JPG
 date: '2016-06-10'
+layout: doc
 tags:
 - photography
 - digital

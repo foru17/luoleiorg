@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2017/12/boa/boa3.jpg
 date: '2017-12-20'
+layout: doc
 tags:
 - travel
 - usa

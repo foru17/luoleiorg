@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2019/11/freebuds/fb-14.jpg
 date: '2019-11-08'
+layout: doc
 title: '即刻抽离: FreeBuds 3 无线降噪耳机 - 城市旅行'
 ---
 

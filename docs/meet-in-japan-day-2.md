@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01339.jpg
 date: '2016-07-05'
+layout: doc
 tags:
 - dong-jing
 - photography

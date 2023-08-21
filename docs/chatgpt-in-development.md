@@ -3,6 +3,7 @@ categories:
 - code
 cover: https://c2.llyz.xyz/blog/2023/06/chatgpt/c-0.jpg
 date: '2023-06-09'
+layout: doc
 tags:
 - ai
 - chatgpt

@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2018/12/clip/p-1.jpg
 date: '2018-12-23'
+layout: doc
 tags:
 - zuoluotv
 - kai-xiang

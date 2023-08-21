@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2014/02/visa-n.jpg
 date: '2014-04-27'
+layout: doc
 title: 大陆居民申请尼泊尔签证（香港领事馆）2014最新攻略
 ---
 

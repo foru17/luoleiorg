@@ -1,12 +1,13 @@
 ---
-cover: https://luolei.org/2013/08/better-git-log/
+cover: https://c2.llyz.xyz/wp-image/2013/09/git_wallpaper_clean_by_black_pixel-d5wmjnw.jpg
 date: '2013-09-06'
+layout: doc
 tags:
 - tutorial
 title: Git log diff config高级进阶
 ---
 
-![git_wallpaper_clean_by_black_pixel-d5wmjnw](https://c2.llyz.xyz/wp-image/2013/09/git_wallpaper_clean_by_black_pixel-d5wmjnw.jpg)前一段时间分享了一篇[《更好的 git log》](https://luolei.org/2013/08/better-git-log/)简要介绍怎么美化 git log 命令，其中提到了 `alias`命令，今天再继续谈谈 git相关， 看看如何通过配置自己的 git config 让自己的 git 用起来更顺手。
+前一段时间分享了一篇[《更好的 git log》](https://luolei.org/2013/08/better-git-log/)简要介绍怎么美化 git log 命令，其中提到了 `alias`命令，今天再继续谈谈 git相关， 看看如何通过配置自己的 git config 让自己的 git 用起来更顺手。
 
 ## git log 进阶
 
@@ -24,7 +25,7 @@ git log --oneline --graph，则可以
 
 **查看不同时间段的 git log**
 
-```git
+```bash
 git log --until=1.minute.ago // 一分钟之前的所有 log
 git log --since=1.day.ago //一天之内的log
 git log --since=1.hour.ago //一个小时之内的 log
@@ -38,7 +39,7 @@ git log --since ==2013-08.01 --until=2013-09-07 //某个时间段的 log
 
 其中的参数对应的是
 
-```git
+```txt
 %ad  author date  // 日期
 %an author name // 作者名
 %cn committer name //提交者姓名
@@ -53,15 +54,23 @@ git log --since ==2013-08.01 --until=2013-09-07 //某个时间段的 log
 
 `git diff` 是用来比较版本之间的差异变化 balbalbala 之类的，哪里修改了，哪里添加了 balbalbala
 
-```git
-git diff HEAD //与上次 commit 之间的差别（爸爸）
-git diff HEAD^ //与上上次（爷爷）
-git diff HEAD^^ //与上上上次（曾祖父）
-git diff HEAD~5 //与前面第5次commit（好吧…祖先吧）
-git diff HEAD^..HEAD //中间是两个点比较(爸爸)和(爷爷)的差别
-git diff f5fdjsalfjdskaf..4fdklsajfdksaf //比较 两个不同 hash 值记录之间的不同
-git diff master bird //比较 branch 之间的不同
-git diff --since=1.week.ago --until=1.minute.ago //还可以根据时间来比较哦
+```bash
+#与上次 commit 之间的差别（爸爸）
+git diff HEAD 
+#与上上次（爷爷）
+git diff HEAD^ 
+# 与上上上次（曾祖父）
+git diff HEAD^^ 
+# 与前面第5次commit（好吧…祖先吧）
+git diff HEAD~5 
+#中间是两个点比较(爸爸)和(爷爷)的差别
+git diff HEAD^..HEAD 
+#比较 两个不同 hash 值记录之间的不同
+git diff f5fdjsalfjdskaf..4fdklsajfdksaf
+#比较 branch 之间的不同
+git diff master bird 
+# 根据时间来比较哦
+git diff --since=1.week.ago --until=1.minute.ago 
 ```
 
 ## git blame

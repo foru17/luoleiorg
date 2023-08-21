@@ -1,6 +1,7 @@
 ---
-cover: "https://c2.llyz.xyz/wp-image/2011/07/choose-chrome.jpg"
+cover: https://c2.llyz.xyz/wp-image/2011/07/choose-chrome.jpg
 date: '2011-07-15'
+layout: doc
 tags:
 - chrome
 - google

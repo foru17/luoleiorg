@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2022/11/ugreen/dx-26.JPG
 date: '2022-11-07'
+layout: doc
 tags:
 - kai-xiang
 - digital

@@ -4,6 +4,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog53.jpg
 date: '2019-07-03'
+layout: doc
 tags:
 - vlog
 - digital

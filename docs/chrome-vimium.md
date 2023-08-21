@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2013/05/chrome-vimium-1024x651.jpg
 date: '2013-05-26'
+layout: doc
 tags:
 - chrome
 title: 【像黑客那用Chrome】快捷键插件Vimium

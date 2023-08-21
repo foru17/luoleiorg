@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/07/dream-list1.jpg "dream-list"
 date: '2012-07-24'
+layout: doc
 title: 我的梦想清单
 ---
 

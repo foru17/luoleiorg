@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2017/08/sony/A6500-26.JPG
 date: '2017-08-18'
+layout: doc
 tags:
 - photography
 - digital

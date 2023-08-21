@@ -1,6 +1,7 @@
 ---
 cover: https://img3.douban.com/lpic/s1790263.jpg
 date: '2011-06-07'
+layout: doc
 tags:
 - read
 title: 六月书单

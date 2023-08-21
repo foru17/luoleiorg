@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2014/06/workreview.jpg
 date: '2014-06-28'
+layout: doc
 title: 最近的反思
 ---
 

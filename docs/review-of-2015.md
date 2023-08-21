@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2016/01/2015.jpg
 date: '2016-01-09'
+layout: doc
 title: Review of 2015 年度回顾
 ---
 

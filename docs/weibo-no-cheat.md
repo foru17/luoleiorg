@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/08/no-cheat.jpg
 date: '2012-08-06'
+layout: doc
 title: 【微博防骗指南】拒绝骗子,不当傻子
 ---
 

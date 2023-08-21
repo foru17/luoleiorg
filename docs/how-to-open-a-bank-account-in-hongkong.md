@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog40.jpg
 date: '2019-04-30'
+layout: doc
 tags:
 - vlog
 - zuoluotv

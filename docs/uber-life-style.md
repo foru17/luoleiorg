@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2015/07/uber.jpg
 date: '2015-07-17'
+layout: doc
 title: 打Uber的这一年
 ---
 

@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2018/11/bohol/land-83.JPG
 date: '2018-11-26'
+layout: doc
 tags:
 - photography
 - travel

@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/blog/2016/05/we1.jpg
 date: '2016-05-07'
+layout: doc
 tags:
 - photography
 - shenzhen

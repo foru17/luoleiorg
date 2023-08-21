@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/blog/2016/12/shenzhen/sz8.JPG
 date: '2016-12-21'
+layout: doc
 tags:
 - shenzhen
 - run

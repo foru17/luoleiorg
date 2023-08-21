@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/house/house-map-1.JPG
 date: '2020-08-27'
+layout: doc
 tags:
 - 装修
 title: 【装修日记：10月1日更新】：松山没有湖:，东莞三房装修 | 长期记录

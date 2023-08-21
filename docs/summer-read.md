@@ -1,7 +1,7 @@
 ---
-cover: https://c2.llyz.xyz/wp-image/2011/07/2011-07-18-12.29.27.jpg "2011-07-18
-  12.29.27"
+cover: https://c2.llyz.xyz/wp-image/2011/07/2011-07-18-12.29.27.jpg "2011-07-18 12.29.27"
 date: '2011-07-18'
+layout: doc
 tags:
 - read
 title: 假期书单

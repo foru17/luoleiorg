@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog68.jpg
 date: '2020-11-17'
+layout: doc
 title: 老鞋续命，我给一双穿了5年的沙漠靴修鞋底
 ---
 

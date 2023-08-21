@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2016/09/suzhou/day2/A7S2-D2-06259.jpg
 date: '2016-09-11'
+layout: doc
 tags:
 - photography
 - travel

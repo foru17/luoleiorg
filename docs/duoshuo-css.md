@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2012/08/duoshuo-title.jpg
 date: '2012-08-28'
+layout: doc
 title: 多说评论也玩圆角头像动画「自定义CSS:无压力小白级教程」
 ---
 

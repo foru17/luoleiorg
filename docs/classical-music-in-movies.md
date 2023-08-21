@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/wp-image/2014/05/titanic-screenshot-med.jpg
 date: '2014-05-05'
+layout: doc
 title: 看电影识音乐:电影中的经典古典乐
 ---
 

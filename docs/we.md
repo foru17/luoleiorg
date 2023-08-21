@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2011/07/1.png "1"
 date: '2011-07-30'
+layout: doc
 title: 我们离“我们”有多远
 ---
 

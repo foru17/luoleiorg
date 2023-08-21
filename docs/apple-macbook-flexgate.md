@@ -4,6 +4,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2019/06/flexgate/flexgate-1.jpg
 date: '2019-06-27'
+layout: doc
 tags:
 - vlog
 - digital

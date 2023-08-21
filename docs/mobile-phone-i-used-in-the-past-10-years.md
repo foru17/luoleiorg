@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2017/02/phone/mum.jpg
 date: '2017-02-24'
+layout: doc
 tags:
 - digital
 title: 过去10年,我用过的13部手机

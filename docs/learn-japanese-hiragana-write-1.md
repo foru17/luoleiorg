@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2014/06/aiueo-hiragana-small.jpg
 date: '2014-06-06'
+layout: doc
 title: 日语学习入门　ひらがな 书写（壹）
 ---
 

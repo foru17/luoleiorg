@@ -3,6 +3,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D22.JPG
 date: '2015-04-06'
+layout: doc
 tags:
 - digital
 - travel

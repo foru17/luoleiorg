@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2011/06/2.jpg "2"
 date: '2011-06-05'
+layout: doc
 tags:
 - internet
 title: 围脖猛于虎

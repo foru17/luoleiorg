@@ -3,6 +3,7 @@ categories:
 - code
 cover: https://c2.llyz.xyz/wechat.png
 date: '2016-11-06'
+layout: doc
 tags:
 - code
 title: 编程三年:我的程序员成长经历

@@ -3,6 +3,7 @@ categories:
 - code
 cover: https://c2.llyz.xyz/blog/2017/12/cloud/c2.jpg
 date: '2017-12-26'
+layout: doc
 title: 我的云账单:2017篇
 ---
 

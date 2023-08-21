@@ -4,6 +4,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/blog/2018/10/desk/desk-22.JPG
 date: '2018-10-30'
+layout: doc
 tags:
 - vlog
 - zuoluotv

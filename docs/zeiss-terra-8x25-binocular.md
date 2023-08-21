@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-10.JPG
 date: '2017-12-11'
+layout: doc
 tags:
 - kai-xiang
 - outsports

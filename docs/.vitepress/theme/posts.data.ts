@@ -25,7 +25,7 @@ export default createContentLoader('/*.md', {
         excerpt,
         cover: frontmatter.cover,
         date: formatDate(frontmatter.date),
-        layout: frontmatter.layout || 'doc'
+        layout: frontmatter.layout
       }))
       .sort((a, b) => b.date.time - a.date.time)
   }

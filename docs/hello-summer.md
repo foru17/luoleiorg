@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2011/07/1day.jpg "1day"
 date: '2011-07-14'
+layout: doc
 title: Hello,summer 放假啦
 ---
 

@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2014/07/googleio-web-lesson1.jpg
 date: '2014-07-04'
+layout: doc
 title: 谷歌I/O 2014:移动端网页优化建议
 ---
 

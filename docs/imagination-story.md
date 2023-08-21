@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2013/06/246559-1024x640.jpg
 date: '2013-06-03'
+layout: doc
 title: 魔幻、科幻与情怀
 ---
 

@@ -3,6 +3,7 @@ categories:
 - code
 cover: https://c2.llyz.xyz/blog/2020/06/guoyu/guoyu2.jpg
 date: '2020-06-16'
+layout: doc
 tags:
 - internet
 - code

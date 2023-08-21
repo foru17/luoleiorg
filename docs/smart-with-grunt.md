@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/wp-image/2014/03/smart-with-static.jpg
 date: '2014-04-27'
+layout: doc
 title: 让前端工作更快、更智能:利用StaticPage自动化工作流
 ---
 

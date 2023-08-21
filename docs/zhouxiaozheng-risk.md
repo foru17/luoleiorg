@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/default.cover.jpg
 date: '2011-06-19'
+layout: doc
 tags:
 - jnu
 title: 周孝正《如何面对高风险的社会》

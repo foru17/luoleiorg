@@ -3,6 +3,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog66.jpg
 date: '2020-07-31'
+layout: doc
 title: 中国网络基建有多厉害？我在珠峰测网速
 ---
 

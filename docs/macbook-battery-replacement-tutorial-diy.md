@@ -1,6 +1,7 @@
 ---
 cover: https://c2.llyz.xyz/blog/2016/02/macbook/b1.JPG
 date: '2016-02-27'
+layout: doc
 tags:
 - digital
 - e7a1ace4bbb6

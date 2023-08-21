@@ -4,6 +4,7 @@ categories:
 - zuoluotv
 cover: https://c2.llyz.xyz/vlog/vlog60.jpg
 date: '2020-04-09'
+layout: doc
 tags:
 - vlog
 title: DeepL | 从日本火到中国，据说这是一款碾压谷歌的 AI 翻译工具

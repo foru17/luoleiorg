@@ -4,6 +4,7 @@ categories:
 - travel
 cover: https://c2.llyz.xyz/blog/2015/02/hk/h1.JPG
 date: '2015-02-22'
+layout: doc
 tags:
 - photography
 - travel

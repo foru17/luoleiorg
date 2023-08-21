@@ -3,6 +3,7 @@ categories:
 - lifestyle
 cover: https://c2.llyz.xyz/blog/2015/12/marathon/gz44.JPG
 date: '2015-12-08'
+layout: doc
 tags:
 - guangzhou
 - travel

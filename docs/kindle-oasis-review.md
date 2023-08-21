@@ -3,6 +3,7 @@ categories:
 - tech
 cover: https://c2.llyz.xyz/blog/2016/05/oasis/k1.JPG
 date: '2016-05-07'
+layout: doc
 tags:
 - kindle
 - digital
