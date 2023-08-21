@@ -36,17 +36,6 @@
   const retryLoadImage = () => {
     // 清除旧的超时句柄
     clearTimeout(timeoutHandle);
-
-    // 重置状态
-    imageLoaded.value = false;
-    imageError.value = false;
-
-    // 创建一个新的图片对象尝试加载
-    const img = new Image();
-    img.src = previewImageUrl;
-    img.onload = onImageLoad;
-    img.onerror = onImageError;
-
     // 设置超时逻辑
     timeoutHandle = setTimeout(() => {
       if (!imageLoaded.value) {
