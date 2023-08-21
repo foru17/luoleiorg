@@ -4,7 +4,6 @@ date: '2015-07-17'
 cover: https://c2.llyz.xyz/blog/2015/07/uber.jpg
 ---
 
-![full-img](https://c2.llyz.xyz/blog/2015/07/uber.jpg)
 
 这两年打车、专车、拼车软件风风火火，说互联网改变生活，这交通出行方式的改变乃至「革命」，算是真真切切地给我等普通人带来了便利。
 

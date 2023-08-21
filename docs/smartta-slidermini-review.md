@@ -7,12 +7,8 @@ categories:
 tags:
 - vlog
 - zuoluotv
-- kai-xiang
 - digital
-- e8af84e6b58b
 ---
-
-![cover](https://c2.llyz.xyz/vlog/vlog17.jpg)
 
 ## 视频
 

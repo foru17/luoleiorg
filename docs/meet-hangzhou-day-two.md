@@ -1,12 +1,11 @@
 ---
 title: 杭州 | 九溪十八涧
-date: '2015-09-04'
-cover: https://c2.llyz.xyz/blog/2015/09/hangzhou/hz12.JPG
+date: '2015-09-05'
+cover: https://c2.llyz.xyz/blog/2015/09/hangzhou/hz13.JPG
 categories:
 - travel
 tags:
 - travel
-- hang-zhou
 - ricohgr
 ---
 

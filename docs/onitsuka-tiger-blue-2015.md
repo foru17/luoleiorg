@@ -4,7 +4,6 @@ date: '2015-07-10'
 cover: https://c2.llyz.xyz/blog/2015/07/t5.JPG
 ---
 
-![full-img](https://c2.llyz.xyz/blog/2015/07/t5.JPG)
 
 这是我第三次从6PM买鞋，也是海淘的第二双A家鬼冢虎，去年在美亚买了一双骚绿的鬼冢虎Runer，穿了大半年，健身、逛街感觉不错，又到年中，果断再入一双。
 

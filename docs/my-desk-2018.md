@@ -1,20 +1,19 @@
 ---
 title: 每个创作者都应该有张木桌:Timerecorder 时计 | VLOG18
 date: '2018-10-30'
-cover: https://c2.llyz.xyz/blog/2018/10/desk/desk-22.JPG
+cover: https://c2.llyz.xyz/blog/2018/10/desk/desk-21.JPG
 categories:
 - tech
 - zuoluotv
 tags:
 - vlog
 - zuoluotv
-- kai-xiang
 - photography
 ---
 
 ## 视频
 
-https://www.youtube.com/watch?v=HPldYRZVt18
+<https://www.youtube.com/watch?v=HPldYRZVt18>
 
 - [Bilibili:每个创作者都应该有张木桌 | ZUOLUOTV | VLOG18](https://www.bilibili.com/video/av35302187/#reply1166442270) : 推荐大陆用户观看。
 - [YOUTUBE:每个创作者都应该有张木桌 | Timerecorder 时计 家居 | ZUOLUOTV](https://www.youtube.com/watch?v=HPldYRZVt18) : 推荐海外用户观看

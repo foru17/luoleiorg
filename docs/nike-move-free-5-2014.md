@@ -1,10 +1,9 @@
 ---
 title: 【开箱】Nike Free 5.0 14款
 date: '2015-07-25'
-cover: https://c2.llyz.xyz/blog/2015/07/n5.jpg
+cover: https://c2.llyz.xyz/blog/2015/07/n9.jpg
 ---
 
-![full-img](https://c2.llyz.xyz/blog/2015/07/n5.jpg)
 
 上个月海淘的鞋子陆续来了，接连几个开箱，看了下鞋柜，这两年，除了居家的拖鞋，基本上所有的鞋子都是海淘的。
 

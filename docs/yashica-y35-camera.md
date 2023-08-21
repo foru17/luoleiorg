@@ -6,7 +6,6 @@ categories:
 - photography
 - tech
 tags:
-- kai-xiang
 - photography
 ---
 

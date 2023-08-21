@@ -4,7 +4,7 @@ date: '2015-09-07'
 cover: https://c2.llyz.xyz/source/images/lookip.jpg
 ---
 
-![cover](https://c2.llyz.xyz/source/images/lookip.jpg)
+
 
 工作中经常需要连接不同的服务器，人比较笨，老是记不住服务器的IP地址，记录在印象笔记中每次去查也麻烦，开终端`ping`复制粘贴也麻烦。
 
@@ -15,6 +15,8 @@ cover: https://c2.llyz.xyz/source/images/lookip.jpg
 源码都放在Github了:[foru17/alfred-lookupdomainip](https://github.com/foru17/alfred-lookupdomainip)
 
 #### 使用方法
+
+![](https://c2.llyz.xyz/source/images/lookip.jpg)
 
 - 需要Alfred Powerpack支持,请支持正版。
 
@@ -30,6 +32,6 @@ cover: https://c2.llyz.xyz/source/images/lookip.jpg
 
 接下来，爱干嘛就干嘛吧。
 
-#### 更新:
+#### 更新
 
 > 2015.9.28 增加了同时查询延时Ping值的功能
