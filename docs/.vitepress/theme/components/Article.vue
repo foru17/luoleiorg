@@ -1,6 +1,6 @@
 <script setup lang="ts">
   import { data as posts } from "../posts.data.js";
-  import { useData } from "vitepress";
+  import { useData, useRoute } from "vitepress";
   import { computed } from "vue";
   import Date from "./Date.vue";
   const { frontmatter: data } = useData();

@@ -19,9 +19,12 @@
       <ArticleMeta />
     </template>
     <template #doc-bottom> </template>
+
+    <template #doc-footer-before>
+      <ArticleBottomNav />
+    </template>
     <!-- 文章尾部 -->
     <template #doc-after>
-      <ArticleBottomNav />
       <!-- 评论模块 -->
       <ClientOnly>
         <ArticleComment />
@@ -32,11 +35,7 @@
     <!-- 主页模块 -->
     <template #home-hero-after>
       <!-- 首页文章列表模块 -->
-
       <ArticleList v-if="frontmatter.index" />
-      <!-- <NotFound v-else-if="page.isNotFound" /> -->
-
-      <!-- <Home /> -->
     </template>
   </Layout>
 </template>
