@@ -13,6 +13,8 @@ export default defineConfig({
     lineNumbers: true
   },
   head: [
+    ['meta', { name: 'keywords', content: 'ZUOLUOTV,科技,旅行,生活方式,程序员,互联网,自媒体,摄影师,编程,前端,前端工程师,罗磊,独立博客,LUOLEI,Vlog,YouTuber'}],
+    ['meta', { name: 'description', content: '我叫罗磊，来自中国深圳，程序员，前端工程师，视频节目 ZUOLUOTV 制作人，旅行摄影玩家和内容创作者，中文 Vlog 拍摄者，内容主题涉及科技、数码、互联网、摄影、旅行、生活方式等领域。'}],
     [
       'script',
       {
@@ -49,7 +51,9 @@ export default defineConfig({
     lastUpdatedText: '最后更新时间',
     footer: {
       message: `<a href="https://luolei.org/">LUOLEI.ORG</a>.`,
-      copyright: `Copyright © 2023 <a href="https://github.com/foru17" target="_blank">@foru17</a>.`
+      copyright: `Copyright © 2023 <a href="https://github.com/foru17" target="_blank">@foru17</a>.
+      <a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow" class="d-none d-lg-inline-block">粤ICP备14004235号</a>
+      `
     }
   },
 
