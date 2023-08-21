@@ -2,7 +2,7 @@
   import { computed } from "vue";
   import { useData, withBase, useRoute } from "vitepress";
   import { data as posts } from "../posts.data.js";
-
+  import { getPreviewImage } from "../utils";
   const { frontmatter: data } = useData();
 
   const route = useRoute();
@@ -14,6 +14,21 @@
   const date = computed(() => posts[findCurrentIndex()].date);
   const nextPost = computed(() => posts[findCurrentIndex() + 1]);
   const prevPost = computed(() => posts[findCurrentIndex() - 1]);
+
+  // 分别获得上一篇和下一篇文章的 getPreviewImage 后的图片地址
+  const nextPostPreviewImageUrl = computed(() => {
+    if (!nextPost.value.cover) {
+      return "";
+    }
+    return getPreviewImage(nextPost.value.cover);
+  });
+
+  const prevPostPreviewImageUrl = computed(() => {
+    if (!prevPost.value.cover) {
+      return "";
+    }
+    return getPreviewImage(prevPost.value.cover);
+  });
 </script>
 
 <template>
@@ -27,7 +42,7 @@
         :href="withBase(prevPost.url)"
         class="block h-full w-full flex items-center bg-cover bg-center hover:text-blue-600"
         :style="`
-        background-image: url(${prevPost.cover})`">
+        background-image: url(${prevPostPreviewImageUrl})`">
         <div
           class="flex items-center max-w-xl px-2 md:px-10 rounded-md bg-gray-900 bg-opacity-30 hover:bg-opacity-10 ease-in duration-300 w-full h-40 bg-zinc-100">
           <span
@@ -45,7 +60,7 @@
         :href="withBase(nextPost.url)"
         class="block h-full w-full flex items-center bg-cover bg-center hover:text-blue-600"
         :style="`
-        background-image: url(${nextPost.cover})`">
+        background-image: url(${nextPostPreviewImageUrl})`">
         <div
           class="flex items-center w-full max-w-7xl px-2 md:px-10 rounded-md bg-gray-900 bg-opacity-30 hover:bg-opacity-10 ease-in duration-300 w-full h-40 bg-zinc-100">
           <span

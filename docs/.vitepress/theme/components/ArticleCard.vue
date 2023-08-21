@@ -1,10 +1,9 @@
 <script setup lang="ts">
   import { data as posts } from "../posts.data.js";
-  import Date from "./Date.vue";
-  import { useData } from "vitepress";
-  import { withBase } from "vitepress";
+  import { useData, withBase } from "vitepress";
   const { frontmatter } = useData();
-  import { watch, nextTick, ref, onMounted } from "vue";
+  import { watch, nextTick, ref, onMounted, computed } from "vue";
+  import { getPreviewImage } from "../utils";
   const props = defineProps<{
     url: string;
     title: string;
@@ -26,6 +25,14 @@
     imageLoaded.value = true; // 也设置图片为已加载，隐藏加载动画
   };
 
+  const previewImageUrl = computed(() => {
+    if (!props.cover) {
+      console.error("Cover image URL is not provided!");
+      return "";
+    }
+    return getPreviewImage(props.cover);
+  });
+
   const retryLoadImage = () => {
     // 清除旧的超时句柄
     clearTimeout(timeoutHandle);
@@ -36,7 +43,7 @@
 
     // 创建一个新的图片对象尝试加载
     const img = new Image();
-    img.src = props.cover;
+    img.src = previewImageUrl;
     img.onload = onImageLoad;
     img.onerror = onImageError;
 
@@ -67,7 +74,7 @@
           class="overflow-hidden w-full h-60 md:h-40 ld:h-40 relative bg-zinc-100">
           <img
             loading="lazy"
-            :src="cover"
+            :src="previewImageUrl"
             @load="onImageLoad"
             @error="onImageError"
             :class="{

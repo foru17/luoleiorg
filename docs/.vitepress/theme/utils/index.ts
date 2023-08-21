@@ -28,6 +28,11 @@ export function formatDate(d: any, fmt = 'yyyy-MM-dd hh:mm:ss') {
     return fmt
   }
   
+  export function getPreviewImage(url: string) {
+    return `https://img.llyz.xyz/${url}`;
+  }
+
+
   export function isCurrentWeek(date: Date, target?: Date) {
     const now = target || new Date()
     const today = new Date(now.getFullYear(), now.getMonth(), now.getDate())
