@@ -1,0 +1,56 @@
+---
+title: "香港 | 我带女朋友第一次去香港"
+date: "2015-02-22"
+categories: 
+  - "photography"
+  - "travel"
+tags: 
+  - "photography"
+  - "travel"
+  - "ricohgr"
+  - "e9a699e6b8af"
+---
+
+假期带妹纸回家过年，年前去了趟香港，用理光GR随手拍了些照片。妹纸第一次来香港，也就带她随便逛逛街，遇见，香港。
+
+这个时间点，不像平时周末和黄金周，人不多，过关都没什么人。
+
+![full-img](https://static.is26.com/blog/2015/02/hk/h1.JPG)
+
+从深圳湾过的关，坐巴士到落马洲地铁站转港铁。
+
+![full-img](https://static.is26.com/blog/2015/02/hk/h2.JPG)
+
+天星码头，海风，阳光，坐天星小轮也算是闹市中的小闲暇。
+
+![full-img](https://static.is26.com/blog/2015/02/hk/h4.JPG)
+
+好像是在尖沙咀，过马路的时候，叫妹纸转头，抓拍一张。
+
+![full-img](https://static.is26.com/blog/2015/02/hk/h5.JPG)
+
+香港会展中心门前的雪糕车，9块钱一个球，现在想想跟内地物价也都差不多嘛。
+
+![full-img](https://static.is26.com/blog/2015/02/hk/h6m.JPG)
+
+去太平山的路上遇到最高终审法院，好老的房子。
+
+![full-img](https://static.is26.com/blog/2015/02/hk/h7.JPG)
+
+1881广场来个合影，各种奢侈品，都不买起 ﾉ( ´ ▽ \` )ﾉ。
+
+![full-img](https://static.is26.com/blog/2015/02/hk/h8.JPG)
+
+去太平山缆车车站的路上的教堂。
+
+![full-img](https://static.is26.com/blog/2015/02/hk/h9.JPG)
+
+到了缆车车站发现排队的人至少有100米，两人决定爬上去，坡很陡，人很少，山下繁华世界，山上清风鸟语，也是一种反差之美。
+
+![full-img](https://static.is26.com/blog/2015/02/hk/h10.JPG)
+
+太平山顶，48港币一人的观景台，天气尚好，上次来这里的时候全是雾气什么都没看到，好不容易挤到个位置，长曝光一张很多人都熟悉的香港夜景，也是第一次亲眼看到这经典的香港印象。
+
+![full-img](https://static.is26.com/blog/2015/02/hk/h12.JPG)
+
+上山下山缆车都排起了长队，就直接坐15路小巴下山了，去了星光大道，再长曝光一张经典维港夜景。
