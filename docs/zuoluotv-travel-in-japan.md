@@ -1,20 +1,20 @@
 ---
-title: 视频 | 遇见,日本:东京・仙台 Travel Film
-date: '2016-07-03'
-cover: https://c2.llyz.xyz/blog/2016/06/japan/blog-cover.jpg
 categories:
 - photography
 - travel
 - zuoluotv
+cover: https://c2.llyz.xyz/blog/2016/06/japan/blog-cover.jpg
+date: '2016-07-03'
 tags:
 - travel
+title: 视频 | 遇见,日本:东京・仙台 Travel Film
 ---
 
 2016年6月底，跟杨左第一次去日本，在东京、仙台、松岛和白石游玩了五天。行程虽匆忙，也体会到了日本这个国家的文化和文明。
 
 今天，也是我们左罗TV的第一集，分享一部我跟杨左的旅行视频：「遇见,日本」
 
-## 在线视频
+## 视频
 
 - [优酷网:左罗日志 | 遇见,日本 | 东京-仙台-松岛-白石 五日行](https://v.youku.com/v_show/id_XMTYzMDI5OTU4OA==.html) : 推荐大陆用户观看。
 - [Youtube:Travel in Japan - | SONY A7S2 & Yi Camera 4K & DJI Phantom 3](https://www.youtube.com/watch?v=gR_jg1cYPbQ) : 推荐海外用户观看

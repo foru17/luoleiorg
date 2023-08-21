@@ -1,6 +1,6 @@
 ---
 title: 首尔 |  DAY2:首尔塔・梨花女子大学
-date: '2016-04-03'
+date: '2016-04-04'
 cover: https://c2.llyz.xyz/blog/2016/04/seoul/day2/k27.JPG
 categories:
 - photography

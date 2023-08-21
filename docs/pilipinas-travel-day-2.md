@@ -9,13 +9,10 @@ tags:
 - photography
 - travel
 - philippines
-- boracay
-- ma-ni-la
 ---
 
-![cover](https://c2.llyz.xyz/blog/2016/09/pilipinas/day2/A7S2-D2-07250.jpg)
 
-#### 导航
+## 导航
 
 * * *
 

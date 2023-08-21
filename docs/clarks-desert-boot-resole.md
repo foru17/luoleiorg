@@ -6,7 +6,7 @@ categories:
 - zuoluotv
 ---
 
-## 在线视频
+## 视频
 
 ![](https://c2.llyz.xyz/vlog/vlog68.jpg)
 

@@ -8,8 +8,6 @@ categories:
 
 ## **在线视频**
 
-<https://www.youtube.com/watch?v=qnMAaPKmUN8>
-
 - [Bilibili:从9元到9000元，我包里常备的十件产品 | EDC | PaMu Quiet](https://www.bilibili.com/video/BV1uK411G74k)
 - [YouTube: 从9元到9000元，我包里常备的十件产品 | EDC | PaMu Quiet](https://www.youtube.com/watch?v=qnMAaPKmUN8)
 

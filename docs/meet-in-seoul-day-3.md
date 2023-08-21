@@ -1,6 +1,6 @@
 ---
 title: 首尔 | DAY3:韩屋村・景福宫・三清洞
-date: '2016-04-04'
+date: '2016-04-05'
 cover: https://c2.llyz.xyz/blog/2016/04/seoul/day3/k37.JPG
 categories:
 - photography

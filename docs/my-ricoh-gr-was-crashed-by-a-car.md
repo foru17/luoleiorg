@@ -14,7 +14,7 @@ tags:
 - 视频
 ---
 
-## 在线视频
+## 视频
 
 - [哔哩哔哩:我最喜欢的一台相机，被车压坏了 | ZUOLUOTV | VLOG54: 推荐大陆用户观看](https://zuoluo.tv/vlog-54)
 - [YouTube:我最喜欢的一台相机，被车压坏了 | ZUOLUOTV | VLOG54: 推荐境外朋友观看](https://www.youtube.com/watch?v=uq7kaxSTcbs)

@@ -16,7 +16,7 @@ tags:
 
 清洗机牌子叫ASHMORE，有点奇怪的名字「更多灰」，上张大妈搜了一下优惠券，最终300多的价格入手。
 
-## 在线视频
+## 视频
 
 <https://www.youtube.com/watch?v=RfFjxcMUMjQ>
 

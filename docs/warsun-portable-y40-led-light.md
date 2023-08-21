@@ -7,9 +7,7 @@ categories:
 - zuoluotv
 ---
 
-## 在线视频
-
-<https://www.youtube.com/watch?v=PuxRpqykn1c>
+## 视频
 
 - [Bilibili:这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯](https://www.bilibili.com/video/BV1XD4y1Q7ri)
 - [YouTube: 这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯](https://www.youtube.com/watch?v=PuxRpqykn1c)

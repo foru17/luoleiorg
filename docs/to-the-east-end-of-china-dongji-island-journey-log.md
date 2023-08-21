@@ -1,7 +1,7 @@
 ---
 title: 东极岛 | 我们去了大陆最东的那个岛
 date: '2016-07-26'
-cover: https://c2.llyz.xyz/blog/2016/07/dongji/day1/A7S2-D1-04333.jpg
+cover: https://c2.llyz.xyz/blog/2016/07/dongji/dji/DJI-D3-4.jpg
 categories:
 - photography
 - travel
@@ -30,14 +30,12 @@ tags:
 
 鉴于时间和精力有限，最后还是放弃了使用达芬奇，二是直接使用Final Cut Pro的基础调色，最终出来的成片效果，在小屏设备上观感还是挺好的。
 
-#### 在线视频
-
-<https://www.youtube.com/watch?v=GIcWco3KEfk>
+## 视频
 
 - [优酷网:遇见,东极岛|去大陆最东的岛屿团建是什么体验](https://v.youku.com/v_show/id_XMTY1NTY5NDI4OA==.html) : 推荐大陆用户观看。
 - [Youtube:Travel to the East End of China | Dongji Island | SONY A7S2 & Yi Camera 4K & DJI Phantom 3](https://www.youtube.com/watch?v=GIcWco3KEfk) : 推荐海外用户观看
 
-#### 设备&&剪辑
+## 设备&&剪辑
 
 - 相机:索尼A7S2 / Slog3模式
 - 运动相机:小蚁运动相机4K
@@ -65,7 +63,7 @@ Code、读书、写作、健身、旅行、视频，一个一个关键字串起�
 
 感谢这些年来遇到的一个又一个人，我的朋友、同事、同学，感谢这些年来的机会和机遇。让自己能有机会和能力接触更广阔的世界。
 
-#### DAY0:上海>舟山
+## DAY0:上海>舟山
 
 回到我们的「遇见，东极岛」，在上一篇左罗TV的博文[《遇见,东极岛:去大陆最东的岛屿团建是什么体验?》](https://luolei.org/to-the-east-end-of-china-dongji-island/)中，我和杨左用十分钟的视频记录了我们的这次旅途。
 
@@ -105,7 +103,7 @@ Code、读书、写作、健身、旅行、视频，一个一个关键字串起�
 
 驾车到几百米外的海边堤坝，看跨海大桥，大家高位俯拍，再来一张合照，作为一个摄影师，就只能相机后面入不了镜了。
 
-#### DAY1 舟山>东极岛
+## DAY1 舟山>东极岛
 
 ![full-img](https://c2.llyz.xyz/blog/2016/07/dongji/day1/A7S2-D1-04041.jpg)
 
@@ -285,7 +283,7 @@ Code、读书、写作、健身、旅行、视频，一个一个关键字串起�
 
 回到房间，铺开装备，房间的条件倒不错，就是由于供电不稳定，老是停电，随身带一个手电还是挺有必要的。
 
-#### DAY2 日出 > 环岛徒步
+## DAY2 日出 > 环岛徒步
 
 ![full-img](https://c2.llyz.xyz/blog/2016/07/dongji/day2/A7S2-D2-04417.jpg)
 
@@ -409,7 +407,7 @@ Code、读书、写作、健身、旅行、视频，一个一个关键字串起�
 
 今天也真是够累的，就早早的休息吧。
 
-#### DAY3 东极岛 > 舟山 > 上海
+## DAY3 东极岛 > 舟山 > 上海
 
 ![full-img](https://c2.llyz.xyz/blog/2016/07/dongji/dji/DJI-D3-1.jpg)
 

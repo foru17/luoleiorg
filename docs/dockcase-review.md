@@ -15,7 +15,7 @@ tags:
 
 DockCase 是一个专门针对 MBP 用户设计的拓展坞，当时看到这个产品的时候，我的感觉就是「纳尼，居然还能这么玩」。这次刚好收到这个产品，用了一周，依旧老习惯，跟大家分享一下开箱。
 
-## 在线视频
+## 视频
 
 - [Bilibili:DockCase | 让 MacBook Pro 电源适配器秒变 USB 拓展坞 | ZUOLUOTV | VLOG56](https://www.bilibili.com/video/av67737763)
 - [YouTube:DockCase | 让 MacBook Pro 电源适配器秒变 USB 拓展坞 | ZUOLUOTV | VLOG56](https://www.youtube.com/watch?v=6JEW9lsqMjA)

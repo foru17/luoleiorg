@@ -9,7 +9,7 @@ tags:
 - vlog
 ---
 
-#### 在线视频
+#### 视频
 
 - [哔哩哔哩:从日本火到中国，据说这是一款碾压谷歌的 AI 翻译工具 | DeepL | VLOG60](https://www.bilibili.com/video/BV17C4y1s7Xt)
 - [YouTube: 从日本火到中国，据说这是一款碾压谷歌的 AI 翻译工具 | DeepL Translator | ZUOLUOTV | VLOG60](https://www.youtube.com/watch?v=Cg_an934Unc)

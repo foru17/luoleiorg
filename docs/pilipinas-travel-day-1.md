@@ -1,7 +1,7 @@
 ---
 title: 菲律宾 | DAY1:马尼拉
 date: '2016-10-09'
-cover: https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06973.jpg
+cover: https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06965.jpg
 categories:
 - photography
 - travel
@@ -12,9 +12,7 @@ tags:
 - ma-ni-la
 ---
 
-![cover](https://c2.llyz.xyz/blog/2016/09/pilipinas/day1/A7S2-D1-06973.jpg)
-
-#### 导航
+## 导航
 
 * * *
 

@@ -7,7 +7,7 @@ categories:
 - travel
 ---
 
-## 在线视频
+## 视频
 
 https://www.youtube.com/watch?v=apCf8nGMivk
 

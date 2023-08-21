@@ -21,7 +21,7 @@ categories:
 - [BikeTo美骑网](https://biketo.com)
 - [8264户外](https://www.8264.com)
 
-## 视频中提到的
+## 提到的内容
 
 - [蓝标魅力,旅行神器:蔡司 大地8x25ED 便携望远镜](https://luolei.org/zeiss-terra-8x25-binocular/)
 - [骑行西藏](https://luolei.org/tag/tibet/)

@@ -12,8 +12,6 @@ tags:
 
 ## 视频
 
-<https://www.youtube.com/watch?v=8m\_GwEHd2NQ>
-
 - [Bilibili:iOS12.2 正式版隐藏功能 | 如何免费开通 iPhone Visual Voicemail 语音信箱功能](https://www.bilibili.com/video/av47498069/) : 推荐大陆用户观看。
 - [YOUTUBE:iOS12.2 正式版隐藏功能 | 如何免费开通 iPhone Visual Voicemail 语音信箱](https://www.youtube.com/watch?v=8m_GwEHd2NQ) : 推荐海外用户观看
 

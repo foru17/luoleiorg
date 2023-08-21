@@ -16,16 +16,16 @@ tags:
 
 注册非心血来潮，一是测试需求，开发接触到[cordova](https://cordova.apache.org/)，Hybird应用调试，需要用到Xcode，二是这段时间写了点后端，可以拼拼凑凑自己写个API搭个后端，有一个App的点子，原型也已经想好了，iOS8和iPhone5以上经过测试，目测流畅性与Native无差太多，准备通过Hybird的方式实现。
 
-#### 在哪注册
+## 在哪注册
 
 [iOS Developer Program](https://developer.apple.com/cn/programs/ios/)，苹果官网。
 
-#### 需要什么
+## 需要什么
 
 - Apple ID
 - 信用卡:仅支持信用卡，会核对注册姓名和信用卡账单姓名
 
-#### 小插曲
+## 小插曲
 
 下午提交的，通过招行VISA支付，填写表格的时候好像遇到了一个苹果网站的Bug，应该是很久之前注册过Apple Developer Program，当时填写的姓名是英文 Luo Luo，这下提交的时候，显示姓名是Luo Luo，按照网站提示去Account Setting修改，结果进去后发现Apple ID对应的姓名是 Luo Lei，修改后，返回网页，还是Luo Luo。
 

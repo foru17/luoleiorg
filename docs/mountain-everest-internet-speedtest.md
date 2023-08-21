@@ -6,7 +6,7 @@ categories:
 - zuoluotv
 ---
 
-![cover](<https://c2.llyz.xyz/vlog/vlog66.jpg>)
+## 视频
 
 - [Bilibili:中国网络基建有多厉害？我在珠峰测网速 | ZUOLUOTV](https://www.bilibili.com/video/BV1Gz4y1Q7Mz)
 - [YouTube:中国网络基建有多厉害？我在珠峰测网速 | ZUOLUOTV](https://www.youtube.com/watch?v=xg7ZrgOb8Ik)

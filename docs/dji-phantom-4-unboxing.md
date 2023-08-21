@@ -11,7 +11,7 @@ tags:
 
 ![cover](https://c2.llyz.xyz/blog/2016/09/dji/dji.jpg)
 
-#### 在线视频
+#### 视频
 
 https://www.youtube.com/watch?v=D8Qao5NeXcE
 

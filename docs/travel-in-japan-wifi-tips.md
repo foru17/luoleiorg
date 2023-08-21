@@ -21,7 +21,7 @@ tags:
 - [优酷网:日本旅行上网攻略:移动WIFI和SIM卡哪个好?](https://v.youku.com/v_show/id_XMTY2NjAyMTI0NA==.html) : 推荐大陆用户观看。
 - [Youtube:日本旅行上网攻略:移动WIFI和SIM卡哪个好? | 左罗TV第二谈](https://www.youtube.com/watch?v=ebR1at-pDJE) : 推荐海外用户观看
 
-#### 在线视频
+#### 视频
 
 #### 左罗TV
 

@@ -276,8 +276,8 @@ tags:
 
 如果想测试自己的内网速率，比较简单的方法是在内网两台设备之间互相拷贝大文件。比较精确的方法，可以通过自己架设测速服务器或者通过iperf3.
 
-- [https://github.com/librespeed/speedtest](<https://LibreSpeed>: 开源自建测试服务)
-- [https://github.com/esnet/iperf](<https://ipef3> 测速悠久的测试工具)
+- [LibreSpeed](https://github.com/librespeed/speedtest): 开源自建测试服务
+- [ipef3](https://github.com/esnet/iperf) 测速悠久的测试工具
 
 ## 总结
 

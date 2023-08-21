@@ -31,7 +31,7 @@ tags:
 - [优酷网:遇见,东极岛|去大陆最东的岛屿团建是什么体验](https://v.youku.com/v_show/id_XMTY1NTY5NDI4OA==.html) : 推荐大陆用户观看。
 - [Youtube:Travel to the East End of China | Dongji Island | SONY A7S2 & Yi Camera 4K & DJI Phantom 3](https://www.youtube.com/watch?v=GIcWco3KEfk) : 推荐海外用户观看
 
-#### 在线视频
+#### 视频
 
 视频格式为mp4,分辨率540p,共191MB大小，流量党慎重。
 
