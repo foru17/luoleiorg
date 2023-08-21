@@ -12,6 +12,8 @@
   }>();
 
   let timeoutHandle = null;
+  const imgRef = ref<HTMLImageElement | null>(null);
+
   const imageLoaded = ref(false);
   const imageError = ref(false);
 
@@ -21,6 +23,7 @@
   };
 
   const onImageError = () => {
+    console.log("image error", props.cover);
     imageError.value = true;
     imageLoaded.value = true; // 也设置图片为已加载，隐藏加载动画
   };
@@ -46,6 +49,9 @@
   onMounted(() => {
     // 当组件被挂载后
     nextTick(() => {
+      if (imgRef.value?.complete) {
+        imageLoaded.value = true;
+      }
       retryLoadImage();
     });
   });
@@ -63,6 +69,7 @@
           class="overflow-hidden w-full h-60 md:h-40 ld:h-40 relative bg-zinc-100">
           <img
             loading="lazy"
+            ref="imgRef"
             :src="previewImageUrl"
             @load="onImageLoad"
             @error="onImageError"
