@@ -2,7 +2,7 @@
 categories:
 - tech
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2019/09/ultrasonic/c-1.JPG
+cover: https://c2.llyz.xyz/blog/2019/09/ultrasonic/c-12.JPG
 date: '2019-09-18'
 tags:
 - vlog

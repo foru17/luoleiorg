@@ -2,12 +2,10 @@
 categories:
 - tech
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2019/09/dockcase/dc-1.JPG
+cover: https://c2.llyz.xyz/blog/2019/09/dockcase/dc-18.JPG
 date: '2019-09-11'
 tags:
-- kai-xiang
 - digital
-- e7a1ace4bbb6
 title: DockCase P1:让 MacBook Pro 电源适配器秒变拓展坞
 ---
 
@@ -18,8 +16,6 @@ title: DockCase P1:让 MacBook Pro 电源适配器秒变拓展坞
 DockCase 是一个专门针对 MBP 用户设计的拓展坞，当时看到这个产品的时候，我的感觉就是「纳尼，居然还能这么玩」。这次刚好收到这个产品，用了一周，依旧老习惯，跟大家分享一下开箱。
 
 ## 在线视频
-
-https://www.youtube.com/watch?v=6JEW9lsqMjA
 
 - [Bilibili:DockCase | 让 MacBook Pro 电源适配器秒变 USB 拓展坞 | ZUOLUOTV | VLOG56](https://www.bilibili.com/video/av67737763)
 - [YouTube:DockCase | 让 MacBook Pro 电源适配器秒变 USB 拓展坞 | ZUOLUOTV | VLOG56](https://www.youtube.com/watch?v=6JEW9lsqMjA)
@@ -119,7 +115,7 @@ MBP原来的87W电源重量就不轻，合体后分量还是挺足的。
 
 ## 关键参数
 
-<table class="goodsTable"><tbody><tr><td>Compatibility</td><td>MacBook Pro 15'' 87W USB-C Power Charger</td></tr><tr><td>Input &amp; Output</td><td>USB-C PD 2.0</td></tr><tr><td>Protocols</td><td>QC: QC 3.0/ BC 1.2/ Apple Fast Charge / Samsung Fast Charge/ MTK PE 1.1/ PE 2.0/ Huawei FCP/SCP USB-A*3: BC 1.2/ Apple Fast Charge/ Samsung Fast Charge</td></tr><tr><td>Output Power</td><td><strong>USB-C: 70W Max</strong> USB-A Total: 16W (The output power of USB-A ports will vary with the power USB-C port occupied) <strong>USB-A1 (QC)</strong>: 4V/3.6A, 5V/3.2A, 7V/2.25A, 9V/1.7A, 12V/1.3A USB-A2: 5V/2.4A MAX USB-A3: 5V/2.4A MAX USB-A4: 5V/2.4A MAX</td></tr><tr><td>Output Ports</td><td>1* USB-C Female 1* QC 3* USB-A Charge</td></tr><tr><td>Dimensions</td><td>116.5*85*33.6 mm</td></tr><tr><td>Weight</td><td>100g</td></tr></tbody></table>
+<table class="goodsTable"><tbody><tr><td>Compatibility</td><td>MacBook Pro 15'' 87W USB-C Power Charger</td></tr><tr><td>Input &amp; Output</td><td>USB-C PD 2.0</td></tr><tr><td>Protocols</td><td>QC: QC 3.0/ BC 1.2/ Apple Fast Charge / Samsung Fast Charge/ MTK PE 1.1/ PE 2.0/ Huawei FCP/SCP USB-A*3: BC 1.2/ Apple Fast Charge/ Samsung Fast Charge</td></tr><tr><td>Output Power</td><td><strong>USB-C: 70W Max</strong> USB-A Total: 16W (The output power of USB-A ports will vary with the power USB-C port occupied) <strong>USB-A1 (QC)</strong>: 4V/3.6A, 5V/3.2A, 7V/2.25A, 9V/1.7A, 12V/1.3A USB-A2: 5V/2.4A MAX USB-A3: 5V/2.4A MAX USB-A4: 5V/2.4A MAX</td></tr><tr><td>Output Ports</td><td>1* USB-C Female 1*QC 3* USB-A Charge</td></tr><tr><td>Dimensions</td><td>116.5*85*33.6 mm</td></tr><tr><td>Weight</td><td>100g</td></tr></tbody></table>
 
 上面是DockCase的一些关键参数。支持QC快充。
 

@@ -5,14 +5,10 @@ categories:
 cover: https://c2.llyz.xyz/blog/2017/08/century/century-3.JPG
 date: '2017-08-27'
 tags:
-- kai-xiang
 - digital
-- e7a1ace4bbb6
-- e8af84e6b58b
 title: '5000块的硬盘盒: 世特力雷电2磁盘阵列 | 开箱  | ZUOLUOTV'
 ---
 
-![cover](https://c2.llyz.xyz/blog/2017/08/century/century-3.JPG)
 
 ​这个星期接连收到好几个快递，连着来了好几个开箱。这个周末，继续ZUOLUOTV的VLOG。这一次的开箱是世特力雷电2磁盘阵列。
 

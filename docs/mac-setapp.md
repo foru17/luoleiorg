@@ -9,9 +9,7 @@ tags:
 title: Setapp 体验:每个月 $9.9 订阅 Mac 软件
 ---
 
-![cover](https://c2.llyz.xyz/blog/2018/setapp/setapp0.jpg)
-
-#### 前言
+## 前言
 
 过去这两年，自从加入内容创作领域，自己所购买的正版软件和正版服务也越来越多。这种变化，跟自己的心态变化还是有很大的关系。
 
@@ -38,17 +36,17 @@ Setapp上所有的软件，均是在自己的独立桌面APP进行管理，安�
 
 不同于Mac默认的APP安装在`/应用程序/`目录下，为了与其他APP隔离，所有通过Setapp安装的应用，均在`/应用程序/Setapp/`下，如果你之前已经安装过相关程序了，两者可以共存，不会互相影响。
 
-#### 常用软件推荐
+## 常用软件推荐
 
 最后介绍并推荐一下 Setapp 下比较不错的软件，下面说的 Setapp 都包含在Setapp的付费订阅之中，不用再额外付费。
 
-###### 1.Clean My Mac
+### 1.Clean My Mac
 
 ![](https://c2.llyz.xyz/blog/2018/setapp/setapp6.jpg)
 
 [CleanMyMac3](https://cleanmymac.com/)，**原价$39.95美元**，Mac下大名鼎鼎的清理软件，可以有效清除干净软件残余。
 
-###### 2.Paste2
+### 2.Paste2
 
 ![](https://c2.llyz.xyz/blog/2018/setapp/setapp4.jpg)
 
@@ -60,27 +58,27 @@ Setapp上所有的软件，均是在自己的独立桌面APP进行管理，安�
 
 [Sip](https://sipapp.io/)，**原价$10美元**，同样是一款对于程序员(尤其是前端工程师)和设计师来说超级实用的取色工具，可以截取屏幕上的任意色彩，转换成相应的进制格式（这个对程序员很使用），并且能够记录你的取色记录，在进行UI设计时，能够很方便在不同色彩之间进行切换。
 
-###### 4.Ulysses
+### 4.Ulysses
 
 ![](https://c2.llyz.xyz/blog/2018/setapp/setapp7.jpg)
 
 [Ulyssesapp](https://ulyssesapp.com/)，单独的软件目前也是用付费订阅制，**每个月￥26元**，应该算是 Mac 下最好的 Markdown 写作软件了，曾经拿了2016年苹果设计大奖。如果你是 Ulysee 的正版用户，那么我觉得你真心不如换成 Setapp 来订阅。
 
-###### 5.Disk Drill
+### 5.Disk Drill
 
 ![](https://c2.llyz.xyz/blog/2018/setapp/setapp8.jpg)
 
 [Disk Drill](https://www.cleverfiles.com/cn/)，有免费版（限制功能），专业版价格是**$89美元**，Mac下专业的数据恢复软件，推荐给摄影爱好者用。我是一个摄影爱好者，有十多张SD卡，遇到过好几次SD损坏的情况，数据一定程度上能够靠Disk Drill来恢复。数据丢失和损坏这东西，遇到一次就能让你苦不堪言，拿一个正版的数据软件，有备无患。
 
-###### 6.Archiver
+### 6.Archiver
 
 [archiverapp](https://archiverapp.com/)，原价**$19.99**美元，Mac下一款简单实用的压缩解压工具，支持的格式也比较齐全。
 
-###### 7.Dowine
+### 7.Dowine
 
 [Dowine](https://software.charliemonroe.net/downie.php)，原价**$19.99**美元，直接复制Youtube的链接，就能够下载Youtube上的视频到本地，过去我一直实用[youtube-dl](https://rg3.github.io/youtube-dl/)命令行工具来进行下载，Dowine更加适合小白用户，能够选择分辨率。适合需要经常从Youtube上面扒视频的用户。
 
-#### 其他
+## 其他
 
 上面只介绍了一些我正在使用的比较好的应用，剩下的90多个应用分属不同的种类，有些应用对于国内用户也不一定适用，建议大家可以先看下Setapp的所有软件列表[Must-have apps for your Mac | Setapp](https://setapp.com/apps)，看下有没有你需要的应用。
 

@@ -2,7 +2,7 @@
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2016/09/suzhou/day2/A7S2-D2-06095.jpg
+cover: https://c2.llyz.xyz/blog/2016/09/suzhou/day2/A7S2-D2-06259.jpg
 date: '2016-09-11'
 tags:
 - photography

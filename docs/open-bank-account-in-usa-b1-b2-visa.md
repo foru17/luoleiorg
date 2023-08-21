@@ -1,7 +1,7 @@
 ---
 categories:
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2017/12/boa/boa4.jpg
+cover: https://c2.llyz.xyz/blog/2017/12/boa/boa3.jpg
 date: '2017-12-20'
 tags:
 - travel
@@ -10,8 +10,6 @@ title: 美国银行开户攻略 | Bank Of America | 视频 + 图文 | 2020更新
 ---
 
 ## 视频
-
-https://www.youtube.com/watch?v=Or7euv5dfMQ
 
 - [Bilibili:去美国旅行，记得去办个真正的美国银行卡 | 中国游客也能办 | ZUOLUOTV | VLOG29](https://www.bilibili.com/video/av40985033) : 推荐大陆用户观看。
 - [YOUTUBE:美国银行开户攻略 | 去美国旅行，记得去办个真正的美国本地银行卡 | ZUOLUOTV | VLOG29](https://www.youtube.com/watch?v=Or7euv5dfMQ) : 推荐海外用户观看

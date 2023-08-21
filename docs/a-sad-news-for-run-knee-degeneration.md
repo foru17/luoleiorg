@@ -3,7 +3,6 @@ cover: https://c2.llyz.xyz/wp-image/2014/05/xigai-blog-2.jpg
 date: '2014-05-18'
 tags:
 - run
-- e9a9ace68b89e69dbe
 title: 一个令我担心的诊断结果
 ---
 

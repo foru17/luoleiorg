@@ -7,14 +7,13 @@ tags:
 title: 一个有故事的主题:珠峰上的Yasuko
 ---
 
-
 为了国内备案，博客停止解析将近半个月，今天[罗磊的独立博客](https://luolei.org)重新上线，迁移到国内阿里云，进行了不少重构和优化，现在进入博客，速度体验上应该可以有一个飞跃性的提升。
 
 新的博客主题名叫「Yasuko 康子\]，依旧开源在[Github/Yasuko](https://github.com/foru17/Yasuko)上，只需稍作配置，就能用到你自己的[Ghost](https://ghost.org/)博客上。
 
 ## 首先讲一个故事
 
-这篇博文开头，我先不讲Ghost这个主题有什么新功能，我要讲一个叫[难波康子（Namba Yasuko)](https://ja.wikipedia.org/wiki/%E9%9B%A3%E6%B3%A2%E5%BA%B7%E5%AD%90)的日本女人的故事。
+这篇博文开头，我先不讲Ghost这个主题有什么新功能，我要讲一个叫[难波康子 Namba Yasuko](https://ja.wikipedia.org/wiki/%E9%9B%A3%E6%B3%A2%E5%BA%B7%E5%AD%90)的日本女人的故事。
 
 1949年，战后三年，难波康子出生在日本东京大田区，1967年，十八岁的难波康子高中毕业，进入早稻田大学，并且加入了学校的登山俱乐部，随后开始了自己的登山生涯。毕业之后，难波康子进入了物流巨鳄UPS，收入颇丰，但是她坚持登山的爱好并且持续付诸行动。
 
@@ -77,7 +76,7 @@ server {
 
 我的大部分图片都是放在又拍云的CDN上，又拍云已经赞助我的博客几年了，在这里再说一下感谢。图片向来是网络请求的大头，这一次，在图片加载上面做了几个处理。
 
-A.主要图片均lazyload:
+**A.主要图片均lazyload:**
 
 延迟加载，只有滑动到可视区域才加载，Ghost改动Markdown渲染引擎不够方便，但是编辑的时候可以直接写html，需要直接把的代码写在编辑器里。
 
@@ -86,7 +85,7 @@ A.主要图片均lazyload:
 <img src="https://c2.llyz.xyz/blog/2015/12/book.jpg" class="lazy cover" alt="cover">
 ```
 
-B.WebP图片和分辨率适配
+**B.WebP图片和分辨率适配**
 
 根据设备浏览器是否支持WebP，是否是手机，利用又拍云的图形处理接口，分别加载不同格式，不同分辨率的图片，大大优化了图片的大小。
 
@@ -99,7 +98,6 @@ webPCheck: function(feature, callback) {
         var img = new Image();
         img.onload = function() {
             var result = (img.width > 0) && (img.height > 0);
-            console.log('支持Webp');
             ImageSmartLoader.isWebPSupported = true;
             ImageSmartLoader.webPLoader();
         };
@@ -129,7 +127,7 @@ if (settings.webP_load == true) {
 }
 ```
 
-C.进一步优化Iconfont
+**C**.**进一步优化Iconfont**
 
 ![full-img](https://c2.llyz.xyz/blog/2015/12/iconfont.png)
 
@@ -193,7 +191,7 @@ Github、知乎在iPhone上的效果。
 
 考虑元旦的时候把这个功能抽出来做一个组件，方便任意网站调用。需要维护对应的域名表。
 
-D.多说评论、webfont懒加载
+**D**.多说评论、**webfont懒加载**
 
 ```javascript
 /*异步加载js*/

@@ -1,12 +1,9 @@
 ---
 cover: https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-10.JPG
 date: '2018-03-03'
-tags:
-- kai-xiang
 title: '户外必备: NITECORE EC20 和 EC4S 手电筒开箱'
 ---
 
-![cover](https://c2.llyz.xyz/blog/2018/03/nitecore/EC20-10.JPG)
 
 去年美西自驾之前，想着在途中拍点花絮，买了一个望远镜[蔡司大地8x25ED望远镜](https://luolei.org/zeiss-terra-8x25-binocular/)，50号公路、拱门国家公园、优胜美地，这个望远镜带给我们许多新视野。
 

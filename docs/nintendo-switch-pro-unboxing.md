@@ -7,7 +7,6 @@ tags:
 title: '童心也要 Pro: 任天堂 Switch Pro 手柄开箱'
 ---
 
-![cover](https://c2.llyz.xyz/blog/2018/03/switch/pro-10.jpg)
 
 春节去香港，带回来了一台任天堂 Switch，写了一篇[《越长大越童心:任天堂 Switch 马里奥奥德赛同捆版 开箱》](https://luolei.org/nintendo-switch-unboxing/)。
 

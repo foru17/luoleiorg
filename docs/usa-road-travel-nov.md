@@ -2,7 +2,7 @@
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2018/03/usa-nov/usa-map-1.jpg
+cover: https://c2.llyz.xyz/blog/2018/03/usa-nov/usa-70.jpg
 date: '2018-03-27'
 tags:
 - photography

@@ -2,7 +2,7 @@
 categories:
 - tech
 - zuoluotv
-cover: https://c2.llyz.xyz/default.cover.jpg
+cover: https://c2.llyz.xyz/vlog/vlog14.jpg
 date: '2018-07-22'
 tags:
 - zuoluotv
@@ -13,12 +13,10 @@ title: 摄影师必备的7个小设备 | VLOG14
 
 ## 视频
 
-https://www.youtube.com/watch?v=Y7RTG5vaY2E
-
 - [Bilibili:摄影师必备的7个小设备:旅行摄影配件分享| ZUOLUOTV | VLOG14](https://www.bilibili.com/video/av27485079) : 推荐大陆用户观看。
 - [YOUTUBE:摄影师必备的7个小设备 | TRAVEL CAMERA GEAR| ZUOLUOTV | VLOG14](https://www.youtube.com/watch?v=Y7RTG5vaY2E) : 推荐海外用户观看
 
-#### 物品清单
+## 物品清单
 
 - [公牛环球旅行USB转换器](https://zuoluo.tv/travel-power)
 - [小米4口 USB 充电器](https://zuoluo.tv/mi-power-4-usb)

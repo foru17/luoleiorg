@@ -1,11 +1,10 @@
 ---
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/wp-image/2014/11/shmarathon/sh1.jpg
+cover: https://c2.llyz.xyz/wp-image/2014/11/shmarathon/sh20.jpg
 date: '2014-11-15'
 tags:
 - run
-- e9a9ace68b89e69dbe
 title: 马拉松 | 2014上海国际马拉松 | 跑崩了
 ---
 

@@ -7,11 +7,8 @@ tags:
 - photography
 - travel
 - hang-zhou
-- zi-jia
 title: 杭州 | 小众旅行:长乐林场
 ---
-
-![cover](https://c2.llyz.xyz/blog/2016/11/hangzhou/hangzhou-cover.jpg)
 
 曾经同杨左计划，买了车之后，先在江浙以及周边自驾，发现多点身边的美。车牌还在摇号，中签率感人，车算是遥遥无期，但旅行自驾，租个车倒也就能解决。
 
@@ -27,12 +24,12 @@ title: 杭州 | 小众旅行:长乐林场
 
 就有了我们今天的这篇游记。老习惯，首先奉上这次我们杭州之行的视频作品:
 
-#### 观看地址:
+## 观看地址
 
 - [优酷网:遇见,杭州 | 长乐林场航拍](https://v.youku.com/v_show/id_XMTg1MjUxNjcxMg==.html) : 推荐大陆用户观看。
 - [Autumn in Hangzhou | Travel Story Film | SONY A7S2 & DJI Phantom 4](https://www.youtube.com/watch?v=FeFIjZheYpw) : 推荐海外用户观看
 
-#### Travel Day
+## Travel Day
 
 ![full-img](https://c2.llyz.xyz/blog/2016/11/hangzhou/A7S2-D2-02388.jpg)
 
@@ -174,7 +171,7 @@ title: 杭州 | 小众旅行:长乐林场
 
 远远地拍两张特写，也有点日本乡间的味道。
 
-#### 关于熊简
+## 关于熊简
 
 感谢我们的摄影师朋友熊简，随我们拍了一天。
 

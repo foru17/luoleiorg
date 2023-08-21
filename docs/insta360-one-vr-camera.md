@@ -4,16 +4,13 @@ categories:
 cover: https://c2.llyz.xyz/blog/2017/09/insta/insta-1.JPG
 date: '2017-09-19'
 tags:
-- kai-xiang
 - digital
-- xiang-ji
-- e7a1ace4bbb6
+
 title: Insta360 Nano:一个让我对VR感兴趣的全景相机
 ---
 
-![cover](https://c2.llyz.xyz/blog/2017/09/insta/insta-1.JPG)
 
-#### 写在前面
+## 写在前面
 
 开头谈点虚的，纵观历史，人类也是个有趣的物种，从人类诞生智慧伊始或者文明的伊始，就开始尝试用不同的物体、媒介，来记录、描述这个世界。
 

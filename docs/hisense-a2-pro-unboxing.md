@@ -1,7 +1,7 @@
 ---
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2017/10/kindle.JPG
+cover: https://c2.llyz.xyz/blog/2017/10/A2-3.jpg
 date: '2017-10-16'
 tags:
 - kai-xiang

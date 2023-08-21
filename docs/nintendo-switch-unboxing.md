@@ -1,10 +1,9 @@
 ---
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2018/03/switch/hk-3.jpg
+cover: https://c2.llyz.xyz/blog/2018/03/switch/switch-24.JPG
 date: '2018-03-01'
 tags:
-- kai-xiang
 - digital
 title: 越长大越童心:任天堂 Switch 马里奥奥德赛同捆版 开箱
 ---

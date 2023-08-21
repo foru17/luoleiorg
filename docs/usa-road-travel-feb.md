@@ -2,7 +2,7 @@
 categories:
 - photography
 - travel
-cover: https://c2.llyz.xyz/blog/2018/03/usa-feb/road-book.jpg
+cover: https://c2.llyz.xyz/blog/2018/03/usa-feb/usa-45.jpg
 date: '2018-03-10'
 tags:
 - photography

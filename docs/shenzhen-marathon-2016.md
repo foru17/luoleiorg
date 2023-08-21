@@ -1,12 +1,11 @@
 ---
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/wp-image/2014/10/marathon2.jpg
+cover: https://c2.llyz.xyz/blog/2016/12/shenzhen/sz8.JPG
 date: '2016-12-21'
 tags:
 - shenzhen
 - run
-- e9a9ace68b89e69dbe
 title: 马拉松 | 2016深圳国际马拉松
 ---
 

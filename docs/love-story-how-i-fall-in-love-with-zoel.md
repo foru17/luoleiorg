@@ -1,7 +1,7 @@
 ---
 categories:
 - lifestyle
-cover: https://c2.llyz.xyz/blog/2016/08/love/zh1.jpg
+cover: https://c2.llyz.xyz/blog/2016/08/love/zh15.jpg
 date: '2016-08-05'
 tags:
 - life
@@ -9,7 +9,7 @@ title: 作为一个程序员，我是如何找到女朋友的？
 ---
 
 > 在知乎看到这个问题，想着七夕就要来了，那就干脆写一下我跟杨左的故事吧。
-> 
+>
 > ```
 > 作者：罗磊
 > 链接：https://www.zhihu.com/question/38200429/answer/115126843

@@ -3,7 +3,7 @@ categories:
 - photography
 - travel
 - zuoluotv
-cover: https://c2.llyz.xyz/blog/2016/07/dongji/yi/YI-D1-0018.jpg
+cover: https://c2.llyz.xyz/blog/2016/07/dongji/day1/A7S2-D1-04333.jpg
 date: '2016-07-26'
 tags:
 - dong-ji-dao
@@ -30,9 +30,9 @@ title: 东极岛 | 我们去了大陆最东的那个岛
 
 鉴于时间和精力有限，最后还是放弃了使用达芬奇，二是直接使用Final Cut Pro的基础调色，最终出来的成片效果，在小屏设备上观感还是挺好的。
 
-#### 在线视频:
+#### 在线视频
 
-https://www.youtube.com/watch?v=GIcWco3KEfk
+<https://www.youtube.com/watch?v=GIcWco3KEfk>
 
 - [优酷网:遇见,东极岛|去大陆最东的岛屿团建是什么体验](https://v.youku.com/v_show/id_XMTY1NTY5NDI4OA==.html) : 推荐大陆用户观看。
 - [Youtube:Travel to the East End of China | Dongji Island | SONY A7S2 & Yi Camera 4K & DJI Phantom 3](https://www.youtube.com/watch?v=GIcWco3KEfk) : 推荐海外用户观看

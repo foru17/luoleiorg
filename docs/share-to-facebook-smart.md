@@ -73,7 +73,9 @@ Facebook官方对此也鼓励网页中包含这些信息，供更友好地在Fac
 
 下面举个例子，只需要访问下面的链接，就能进行跳转。注意，url中的参数，都需要`encode`转码。
 
-\`[https://www.cmcm.com/activity/cm-fb-deeplink/cmnow.php?language=en&shareurl=http%3A%2F%2Fwww.buzzfeed.com%2Fstaceygrant%2Fwe-already-know-the-answer%3Fs%3Dmobile](https://www.cmcm.com/activity/cm-fb-deeplink/cmnow.php?language=en&shareurl=http%3A%2F%2Fwww.buzzfeed.com%2Fstaceygrant%2Fwe-already-know-the-answer%3Fs%3Dmobile)_app&title=Can+We+Guess+Your+Favorite+Movie+Of+All+Time%3F&sitename=Life&des&imgsrc=http%3A%2F%2Fd23u97t244g2mp.cloudfront.net%2F20150408%2Flist%2F29550ab39527.jpg&cmurl=cleanmasterlink%3A%2F%2Fwebview%2Fhttp%3A%2F%2Fwww.buzzfeed.com%2Fstaceygrant%2Fwe-already-know-the-answer%3Fs%3Dmobile_app
+`
+https://www.cmcm.com/activity/cm-fb-deeplink/cmnow.php?language=en&shareurl=http%3A%2F%2Fwww.buzzfeed.com%2Fstaceygrant%2Fwe-already-know-the-answer%3Fs%3Dmobile_app&title=Can+We+Guess+Your+Favorite+Movie+Of+All+Time%3F&sitename=Life&des&imgsrc=http%3A%2F%2Fd23u97t244g2mp.cloudfront.net%2F20150408%2Flist%2F29550ab39527.jpg&cmurl=cleanmasterlink%3A%2F%2Fwebview%2Fhttp%3A%2F%2Fwww.buzzfeed.com%2Fstaceygrant%2Fwe-already-know-the-answer%3Fs%3Dmobile_app
+`
 
 `<body>`
 

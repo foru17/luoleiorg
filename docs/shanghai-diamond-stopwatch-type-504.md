@@ -2,11 +2,8 @@
 categories:
 - tech
 - lifestyle
-cover: https://c2.llyz.xyz/blog/2017/12/stopwatch/youtube-stopwatch.jpg
+cover: https://c2.llyz.xyz/blog/2017/12/stopwatch/watch-12.JPG
 date: '2017-12-08'
-tags:
-- kai-xiang
-- e7a1ace4bbb6
 title: 200块买了块国产表:上海钻石牌504机械秒表
 ---
 

@@ -1,7 +1,7 @@
 ---
 categories:
 - tech
-cover: https://c2.llyz.xyz/blog/2018/06/sony/a73-29.JPG
+cover: https://c2.llyz.xyz/blog/2018/06/sony/a73-9.JPG
 date: '2018-06-23'
 tags:
 - kai-xiang
