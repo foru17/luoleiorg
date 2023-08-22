@@ -29,7 +29,7 @@ export function formatDate(d: any, fmt = 'yyyy-MM-dd hh:mm:ss') {
   }
   
   export function getPreviewImage(url: string) {
-    return `https://img.llyz.xyz/${url}`;
+    return `https://img.llyz.xyz/${url}/w=1200`;
   }
 
 
