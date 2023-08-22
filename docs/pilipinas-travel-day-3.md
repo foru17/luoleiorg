@@ -290,7 +290,7 @@ Diniwid Beach属于私人沙滩，仅供这里的酒店开放，面积不大，�
 
 路边一个休息的小贩，视觉错位还以为他背了一个翅膀。
 
-![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day3/A7S2-D3-07717.jpg?ver=1)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/day3/A7S2-D3-07717.jpg)
 
 收回无人机，步行去D-mall大街，这壮观的电线呀，在路上还遇到上午潜水的北京教练。
 
@@ -320,7 +320,7 @@ Diniwid Beach属于私人沙滩，仅供这里的酒店开放，面积不大，�
 
 太阳还在海平面上，暖色的夕阳洒在海面上，十分美丽。
 
-![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/drone/day3/DJI-D3-0090.jpg?ver=1)
+![full-img](https://c2.llyz.xyz/blog/2016/09/pilipinas/drone/day3/DJI-D3-0090.jpg)
 
 不少落日帆船也从白沙滩那边出发了，驶向深海。
 

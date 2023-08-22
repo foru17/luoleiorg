@@ -167,7 +167,7 @@ Code、读书、写作、健身、旅行、视频，一个一个关键字串起�
 
 用理光GR也来拍一张村子。
 
-![full-img](https://c2.llyz.xyz/blog/2016/07/dongji/day1/A7S2-D1-04166.jpg?ver=1)
+![full-img](https://c2.llyz.xyz/blog/2016/07/dongji/day1/A7S2-D1-04166.jpg)
 
 中午时分，气温不高，但是颇为晒，中午在宾馆的饭店吃了一个海鲜大餐，其余人就在楼下的房间玩杀人游戏了，我跟妹纸带着无人机，决定去旅店后面的山顶放无人机。
 
@@ -225,7 +225,7 @@ Code、读书、写作、健身、旅行、视频，一个一个关键字串起�
 
 船开了约半小时，我们来到岛另外一边的岩石旁，这里的浪比较小，就在这里抛锚海钓。
 
-![full-img](https://c2.llyz.xyz/blog/2016/07/dongji/day1/A7S2-D1-04274.jpg?ver=1)
+![full-img](https://c2.llyz.xyz/blog/2016/07/dongji/day1/A7S2-D1-04274.jpg)
 
 我们大部队分成了两艘船，来到小岛的另一侧，开始海钓，我们这船战果不佳，只钓上来三条，对面船收获倒不少，钓上来十几只，晚上还加餐了。
 
@@ -249,7 +249,7 @@ Code、读书、写作、健身、旅行、视频，一个一个关键字串起�
 
 回到宾馆放了一下行李，拿起无人机，赶紧回到海边的码头航拍，夕阳的场景不能错过。
 
-![full-img](https://c2.llyz.xyz/blog/2016/07/dongji/dji/DJI-D1-16.jpg?ver=2)
+![full-img](https://c2.llyz.xyz/blog/2016/07/dongji/dji/DJI-D1-16.jpg)
 
 远处的太阳就要落山了，天空被染成一片橙色。
 

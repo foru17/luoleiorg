@@ -22,7 +22,7 @@ tags:
 
 这一次我们体验的射击场叫 Bangkok Military Shooting ，日本人开的，位于曼谷城区日本人聚集区 Thaniya Palaze，已经有16年历史。
 
-![](https://c2.llyz.xyz/blog/2016/11/shoot/map.jpg?ver=1)
+![](https://c2.llyz.xyz/blog/2016/11/shoot/map.jpg)
 
 射击场的官方网站地址是 [bangkokshooting.com](https://bangkokshooting.com/) ，网页提供日中英三语，虽然接待的大多是日本游客，但是老板英语特别好，沟通无障碍。
 

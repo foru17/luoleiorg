@@ -34,9 +34,13 @@ tags:
 
 ![](https://c2.llyz.xyz/blog/2018/11/bohol/land-3.JPG) 我们坐的第一班渡轮，在船上遇到一对台湾来的母女，聊了一阵。暴雨，加上船上冷气开得很大，差点没把我冻死。
 
-![](https://c2.llyz.xyz/blog/2018/11/bohol/land-4.JPG) 终于到达了酒店。我们入住的是[贝尔福度假酒店](https://www.booking.com/hotel/ph/the-belleview-resort.zh-cn.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaDGIAQGYASu4AQfIAQzYAQHoAQH4AQyIAgGoAgM;sid=16c1afa5127997a7bd952ee775ed1b34)，五星级，位置在薄荷岛北边。
+![](https://c2.llyz.xyz/blog/2018/11/bohol/land-4.JPG)
 
-![](https://c2.llyz.xyz/blog/2018/11/bohol/land-5.JPG) 酒店的硬件还是很不错的，这也是我们这几天住的最好的酒店。
+终于到达了酒店。我们入住的是[贝尔福度假酒店](https://www.booking.com/hotel/ph/the-belleview-resort.zh-cn.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaDGIAQGYASu4AQfIAQzYAQHoAQH4AQyIAgGoAgM;sid=16c1afa5127997a7bd952ee775ed1b34)，五星级，位置在薄荷岛北边。
+
+![](https://c2.llyz.xyz/blog/2018/11/bohol/land-5.JPG)
+
+酒店的硬件还是很不错的，这也是我们这几天住的最好的酒店。
 
 ![](https://c2.llyz.xyz/blog/2018/11/bohol/land-7.JPG) 酒店的泳池，下面就是私人沙滩。
 

@@ -83,7 +83,7 @@ categories:
 
 ## **手机APP**
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/s-1.JPG?ver=1)
+![](https://c2.llyz.xyz/blog/2020/11/pamu/s-1.JPG)
 
 来到手机控制部分， PaMu Quiet 的APP就比较简单了，首页只有简单的添加设备，模式切换功能。
 

@@ -65,7 +65,7 @@ Netflix拥有全平台应用，iOS、Android、Xbox、智能机顶盒均有，�
 
 Netflix有一个家庭成员的概念，一个帐号，可以选择多个User，每个User都可以有不同的记录，有点Xbox Live的概念，还有一个儿童专用的帐号，根据不同家庭成员的不同爱好，推荐不一样的节目。
 
-![full-img](https://c2.llyz.xyz/blog/2016/01/netflix/ios1.jpg?ver)
+![full-img](https://c2.llyz.xyz/blog/2016/01/netflix/ios1.jpg)
 
 进入首页，依旧是节目幕墙的概念，是不是跟Web端很像，后续再体验iPhone，Android，Xbox等设备，发现所有的App都采用这个形式，Netflix全平台用户体验十分统一，没有什么学习成本，所以下面的博文，就不会再单独iPhone和Android上的App，因为都差不多。
 
@@ -107,7 +107,7 @@ Netflix是最先支持Google Chromecast的应用之一，完美支持推送到�
 
 #### Xbox体验
 
-![full-img](https://c2.llyz.xyz/blog/2016/01/netflix/x1.jpg?ver=1)
+![full-img](https://c2.llyz.xyz/blog/2016/01/netflix/x1.jpg)
 
 家里有一个Xbox One，作为微软家庭娱乐中心的核心产品，Netflix在Xbox上也有自己独立的APP，可以直接在Xbox的商店中免费下载。
 
