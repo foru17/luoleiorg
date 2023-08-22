@@ -1,7 +1,7 @@
 <script setup lang="ts">
-  import { onMounted, onUnmounted } from "vue";
+  import { onMounted, onUnmounted, watch, nextTick } from "vue";
   import DefaultTheme from "vitepress/theme";
-  import { useData } from "vitepress";
+  import { useData, useRouter } from "vitepress";
   import Article from "./Article.vue";
   import ArticleMeta from "./ArticleMeta.vue";
   import ArticleList from "./ArticleList.vue";
@@ -14,24 +14,43 @@
   const { Layout } = DefaultTheme;
 
   let observer: IntersectionObserver | null = null;
+  const router = useRouter();
+
+  const lazyLoadImages = () => {
+    const images = document.querySelectorAll("img[data-src]");
+    observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            const img = entry.target as HTMLImageElement;
+            img.src = getArticleLazyImage(img.dataset.src!);
+            img.removeAttribute("data-src");
+            observer!.unobserve(img);
+          }
+        });
+      },
+      {
+        rootMargin: "360px", // 提前200px加载
+      }
+    );
+    images.forEach((img) => observer!.observe(img));
+  };
 
   onMounted(() => {
-    const images = document.querySelectorAll("img[data-src]");
-
-    observer = new IntersectionObserver((entries) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting) {
-          const img = entry.target as HTMLImageElement;
-          img.src = getArticleLazyImage(img.dataset.src!);
-          img.removeAttribute("data-src");
-          observer!.unobserve(img);
-        }
-      });
+    nextTick(() => {
+      lazyLoadImages();
     });
-
-    images.forEach((img) => observer!.observe(img));
   });
-
+  watch(router.route, () => {
+    // 清除上一次的监听
+    if (observer) {
+      observer.disconnect();
+      observer = null;
+    }
+    nextTick(() => {
+      lazyLoadImages();
+    });
+  });
   onUnmounted(() => {
     if (observer) {
       observer.disconnect();

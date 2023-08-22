@@ -187,7 +187,7 @@ DX4600 是4盘位NAS，采用卡扣式可抽拉硬盘仓。
 
 ![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-5.JPG)
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-6.JPG?ver=1)
+![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-6.JPG)
 
 ![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-9.JPG)
 

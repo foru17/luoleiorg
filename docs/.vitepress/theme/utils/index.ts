@@ -33,7 +33,11 @@ export function formatDate(d: any, fmt = 'yyyy-MM-dd hh:mm:ss') {
   }
 
   export function getArticleLazyImage(url: string) {
-    return `https://img.llyz.xyz/${url}/w=1600`;
+    return `https://img.llyz.xyz/${url}/w=1200`;
+  }
+
+  export function getArticleBlurImage(url: string) {
+    return `https://img.llyz.xyz/${url}/w=800,blur=10`;
   }
 
   export function isCurrentWeek(date: Date, target?: Date) {
