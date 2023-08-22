@@ -1,4 +1,5 @@
 <script setup lang="ts">
+  import { onMounted, onUnmounted } from "vue";
   import DefaultTheme from "vitepress/theme";
   import { useData } from "vitepress";
   import Article from "./Article.vue";
@@ -7,9 +8,36 @@
   import ArticleComment from "./ArticleComment.vue";
   import ArticleBottomNav from "./ArticleBottomNav.vue";
   import NotFound from "./NotFound.vue";
+  import { getArticleLazyImage } from "../utils";
 
   const { page, frontmatter } = useData();
   const { Layout } = DefaultTheme;
+
+  let observer: IntersectionObserver | null = null;
+
+  onMounted(() => {
+    const images = document.querySelectorAll("img[data-src]");
+
+    observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          const img = entry.target as HTMLImageElement;
+          img.src = getArticleLazyImage(img.dataset.src!);
+          img.removeAttribute("data-src");
+          observer!.unobserve(img);
+        }
+      });
+    });
+
+    images.forEach((img) => observer!.observe(img));
+  });
+
+  onUnmounted(() => {
+    if (observer) {
+      observer.disconnect();
+      observer = null;
+    }
+  });
 </script>
 
 <template>

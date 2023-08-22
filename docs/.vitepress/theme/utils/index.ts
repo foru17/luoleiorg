@@ -32,6 +32,9 @@ export function formatDate(d: any, fmt = 'yyyy-MM-dd hh:mm:ss') {
     return `https://img.llyz.xyz/${url}/w=1200`;
   }
 
+  export function getArticleLazyImage(url: string) {
+    return `https://img.llyz.xyz/${url}/w=1600`;
+  }
 
   export function isCurrentWeek(date: Date, target?: Date) {
     const now = target || new Date()

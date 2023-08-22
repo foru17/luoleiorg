@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { rss } from './genFeed'
+import markdownImagePlugin from './markdownPlugin';
 export default defineConfig({
   title: "罗磊的独立博客",
   description: "luolei.org",
@@ -10,7 +11,10 @@ export default defineConfig({
   base:'/',
   buildEnd: rss,
   markdown: {
-    lineNumbers: true
+    lineNumbers: true,
+    config: (md) => {
+      md.use(markdownImagePlugin);
+    },
   },
   head: [
     ['meta', { name: 'keywords', content: 'ZUOLUOTV,科技,旅行,生活方式,程序员,互联网,自媒体,摄影师,编程,前端,前端工程师,罗磊,独立博客,LUOLEI,Vlog,YouTuber'}],
