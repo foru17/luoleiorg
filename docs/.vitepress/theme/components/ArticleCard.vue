@@ -44,7 +44,7 @@
       if (!imageLoaded.value) {
         onImageError();
       }
-    }, 10000);
+    }, 15000);
   };
   onMounted(() => {
     // 当组件被挂载后
