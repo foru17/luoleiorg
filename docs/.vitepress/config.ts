@@ -1,6 +1,18 @@
 import { defineConfig } from 'vitepress'
+import { RssPlugin, RSSOptions } from 'vitepress-plugin-rss'
 import { rss } from './genFeed'
+
 import markdownImagePlugin from './markdownPlugin';
+
+
+const RSS: RSSOptions = {
+  title: '罗磊的独立博客',
+  baseUrl:`https://luolei.org`,
+  copyright: 'Copyright (c) 罗磊的独立博客',
+  filename: 'rss.xml',
+}
+
+
 export default defineConfig({
   title: "罗磊的独立博客",
   description: "luolei.org",
@@ -9,12 +21,15 @@ export default defineConfig({
   ignoreDeadLinks: true,
   displayAllHeaders: true,
   base:'/',
-  buildEnd: rss,
+  // buildEnd: rss,
   markdown: {
     lineNumbers: true,
     config: (md) => {
       md.use(markdownImagePlugin);
     },
+  },
+  vite:{
+    plugins: [RssPlugin(RSS)]
   },
   head: [
     ['meta', { name: 'keywords', content: 'ZUOLUOTV,科技,旅行,生活方式,程序员,互联网,自媒体,摄影师,编程,前端,前端工程师,罗磊,独立博客,LUOLEI,Vlog,YouTuber'}],
