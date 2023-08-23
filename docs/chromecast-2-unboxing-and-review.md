@@ -16,13 +16,13 @@ tags:
 
 国内由于众所周知的原因，大量的国外服务实际上是处于不可用状态，这个Chromecast在墙内能有什么样的表现，下面就做一个稍微深度的评测和体验。
 
-#### 0.网络环境
+## 0.网络环境
 
 为了正常使用谷歌服务，我在家庭部署了一套无痛发扬科学发展观、学习先进技术的网络方案，具体可以参考之前写过的文章[《极路由Shadowsocks家庭无痛翻墙实践》](https://luolei.org/hiwifi-shadowsocks/)，使用了日本的IP和美国的IP进行学习加速。
 
 只有满足了网络条件，才能正常访问谷歌Store、下载、安装、体验后续文章中提到的一系列服务和网站。
 
-#### 1.开箱
+## 1.开箱
 
 ![full-img](https://c2.llyz.xyz/blog/2015/11/chromecast/1.JPG)
 
@@ -86,7 +86,7 @@ Chromecast 2.0采用的是HDMI线和机身一体设计，直接一根HDMI小尾�
 
 下面，就是我们的设置和体验时间啦。
 
-#### 2.初始化设置
+## 2.初始化设置
 
 ![full-img](https://c2.llyz.xyz/blog/2015/11/chromecast/s1.JPG)
 
@@ -118,7 +118,7 @@ Chromecast 2.0采用的是HDMI线和机身一体设计，直接一根HDMI小尾�
 
 可以投射炸弹了，Bomb……
 
-#### 3.APP体验
+## 3.APP体验
 
 ![full-img](https://c2.llyz.xyz/blog/2015/11/chromecast/android5.jpg)
 
@@ -156,7 +156,7 @@ iOS上的Youtbe客户端也支持这个功能，大家可能发现了，我在An
 
 TED对Chromecast的适配做的也挺不错，可以选择多语言字幕。Hulu和Netflix鉴于我没有帐号，就没有测试了，大家有条件可以自己体验。
 
-#### 4.Android镜像体验
+## 4.Android镜像体验
 
 ![full-img](https://c2.llyz.xyz/blog/2015/11/chromecast/game2.JPG)
 
@@ -176,7 +176,7 @@ TED对Chromecast的适配做的也挺不错，可以选择多语言字幕。Hulu
 
 > 小明又开Party了，他要演示自己的极品飞车神机，这下小桂子和小李子不用再靠着他盯着他那小小的屏幕了，可以直接看着电视，一起飙车一起High。
 
-#### 5.Chrome To Chromecast体验
+## 5.Chrome To Chromecast体验
 
 名字中带着Chrome的名称，当然浏览器Chrome的推送也是必不可少的，由于众所周知的原因，上面所说的几个软件不少中国用户都无法正常使用，接下来的，对于中国用户来说，就实用多了，某种意义上，就凭这个功能，就值得购买这个Chromecast。
 
@@ -212,7 +212,7 @@ TED对Chromecast的适配做的也挺不错，可以选择多语言字幕。Hulu
 
 `超清`画质播放罗辑思维，画质十分清晰。
 
-#### \-1.总结
+## 总结
 
 看到这里，想必你对Chromecast有了比较直观的了解。35美元的售价，约合人民币224元，对于已经习惯了一众人民币199元，或者299元的电视棒或者盒子类产品来说，可以说也不便宜。
 

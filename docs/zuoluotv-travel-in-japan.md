@@ -16,7 +16,7 @@ title: 视频 | 遇见,日本:东京・仙台 Travel Film
 
 ## 视频
 
-- [优酷网:左罗日志 | 遇见,日本 | 东京-仙台-松岛-白石 五日行](https://v.youku.com/v_show/id_XMTYzMDI5OTU4OA==.html) : 推荐大陆用户观看。
+- [优酷网: 遇见,日本 | 东京-仙台-松岛-白石 五日行](https://v.youku.com/v_show/id_XMTYzMDI5OTU4OA==.html) : 推荐大陆用户观看。
 - [Youtube:Travel in Japan - | SONY A7S2 & Yi Camera 4K & DJI Phantom 3](https://www.youtube.com/watch?v=gR_jg1cYPbQ) : 推荐海外用户观看
 
 ## 设备 && 剪辑
