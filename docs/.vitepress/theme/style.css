@@ -5,7 +5,8 @@
 :root {
   --c-brand: #3eaf7c;
   --c-brand-light: #4abf8a;
-  .VPHome{
+  
+  & .VPHome {
     padding-bottom: 64px;
   }
 }

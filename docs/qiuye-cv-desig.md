@@ -12,6 +12,5 @@ cover: https://c2.llyz.xyz/wp-image/2011/07/qiuye-blog.jpg
 
 每个人以后都有可能要做ppt，一个好的ppt能给你的presentation带来不一样得效果。
 
-秋叶老师的博客：[https://www.70man.com](https://www.70man.com/)
-
-秋叶老师的微博：[https://weibo.com/qiuyeppt](https://weibo.com/qiuyeppt)
+* 秋叶老师的博客：[https://www.70man.com](https://www.70man.com/)
+* 秋叶老师的微博：[https://weibo.com/qiuyeppt](https://weibo.com/qiuyeppt)
