@@ -14,10 +14,15 @@
   const { Layout } = DefaultTheme;
 
   let observer: IntersectionObserver | null = null;
+  let timeoutId: ReturnType<typeof setTimeout> | null = null;
   const router = useRouter();
 
+  let imagesToLoad: HTMLImageElement[] = [];
+
   const lazyLoadImages = () => {
-    const images = document.querySelectorAll("img[data-src]");
+    const allImages = Array.from(document.querySelectorAll("img[data-src]")); // 转换 NodeList 为数组
+    imagesToLoad = imagesToLoad.concat(allImages);
+
     observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {
@@ -26,19 +31,55 @@
             img.src = getArticleLazyImage(img.dataset.src!);
             img.removeAttribute("data-src");
             observer!.unobserve(img);
+
+            imagesToLoad = imagesToLoad.filter((image) => image !== img);
           }
         });
       },
       {
-        rootMargin: "360px", // 提前200px加载
+        rootMargin: "1080px",
       }
     );
-    images.forEach((img) => observer!.observe(img));
+    imagesToLoad.forEach((img) => observer!.observe(img));
+  };
+
+  const forceLoadImages = (startIndex = 0, batchSize = 10) => {
+    let loadedCount = 0;
+
+    for (
+      let i = startIndex;
+      i < imagesToLoad.length && loadedCount < batchSize;
+      i++
+    ) {
+      const imageElement = imagesToLoad[i] as HTMLImageElement;
+      imageElement.src = getArticleLazyImage(imageElement.dataset.src!);
+      imageElement.removeAttribute("data-src");
+
+      if (observer) {
+        observer.unobserve(imageElement);
+      }
+
+      loadedCount++;
+    }
+
+    imagesToLoad = imagesToLoad.slice(loadedCount);
+
+    if (imagesToLoad.length > 0) {
+      timeoutId = setTimeout(() => {
+        forceLoadImages(0);
+      }, 10000);
+    } else if (timeoutId) {
+      clearTimeout(timeoutId);
+      timeoutId = null;
+    }
   };
 
   onMounted(() => {
     nextTick(() => {
       lazyLoadImages();
+      timeoutId = setTimeout(() => {
+        forceLoadImages();
+      }, 5000); // 5 秒开始提前加载图片
     });
   });
   watch(router.route, () => {
@@ -46,6 +87,10 @@
     if (observer) {
       observer.disconnect();
       observer = null;
+    }
+    if (timeoutId) {
+      clearTimeout(timeoutId);
+      timeoutId = null;
     }
     nextTick(() => {
       lazyLoadImages();
@@ -55,6 +100,10 @@
     if (observer) {
       observer.disconnect();
       observer = null;
+    }
+    if (timeoutId) {
+      clearTimeout(timeoutId);
+      timeoutId = null;
     }
   });
 </script>
