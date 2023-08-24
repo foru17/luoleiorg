@@ -40,7 +40,12 @@
         rootMargin: "1080px",
       }
     );
-    imagesToLoad.forEach((img) => observer!.observe(img));
+
+    if (imagesToLoad.length < 10) {
+      forceLoadImages(0, imagesToLoad.length);
+    } else {
+      imagesToLoad.forEach((img) => observer!.observe(img));
+    }
   };
 
   const forceLoadImages = (startIndex = 0, batchSize = 10) => {

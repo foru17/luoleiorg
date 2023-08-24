@@ -2,7 +2,7 @@
   import { computed } from "vue";
   import { data as posts } from "../posts.data.js";
   import { useData, withBase } from "vitepress";
-  import { getPreviewImage } from "../utils";
+  import { getBannerImage } from "../utils";
 
   const { frontmatter } = useData();
 
@@ -10,9 +10,8 @@
   const cover = computed(() => frontmatter.value.cover);
   const date = computed(() => frontmatter.value.date);
   const formatShowDate = computed(() => frontmatter.value.formatShowDate);
-
-  const previewImageUrl = computed(() => {
-    return getPreviewImage(frontmatter.value.cover);
+  const bannerImageUrl = computed(() => {
+    return getBannerImage(frontmatter.value.cover);
   });
 </script>
 
@@ -21,7 +20,7 @@
     <div
       class="h-64 rounded-md overflow-hidden bg-cover bg-center"
       :style="`
-        background-image: url(${previewImageUrl})`">
+        background-image: url(${bannerImageUrl})`">
       <div class="bg-gray-900 bg-opacity-30 flex items-center h-full">
         <div class="px-10 max-w-xl">
           <h2 class="text-3xl text-white break-normal font-bold">
