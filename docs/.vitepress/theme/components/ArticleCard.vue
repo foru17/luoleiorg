@@ -68,7 +68,6 @@
         <div
           class="overflow-hidden w-full h-60 md:h-40 ld:h-40 relative bg-zinc-100">
           <img
-            loading="lazy"
             ref="imgRef"
             :src="previewImageUrl"
             @load="onImageLoad"
