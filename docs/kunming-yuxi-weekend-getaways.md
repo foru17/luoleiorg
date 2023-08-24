@@ -1,7 +1,7 @@
 ---
 title: 云南 | 东航周末随心飞，昆明玉溪两日行 | 抚仙湖 磨豆山
 date: '2020-06-29'
-cover: https://c2.llyz.xyz/blog/2020/06/yunnan/y-0.JPG
+cover: https://c2.llyz.xyz/blog/2020/06/yunnan/y-37.JPG
 categories:
 - travel
 tags:
@@ -32,8 +32,6 @@ tags:
 ## 航班
 
 ![](https://c2.llyz.xyz/blog/2020/06/yunnan/y-0.JPG)
-
- 
 
 疫情这大半年以来，好久都没有出门了，憋得慌。东航在深圳的航班不多，但是也有几条路线时间还不错。上个周末（6月27、28日）是「周末随心飞」活动开始后的第一个周末。我和老婆，利用这个机会，安排了一次「**深圳 <> 昆明**」的行程。
 

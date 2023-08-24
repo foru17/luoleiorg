@@ -33,7 +33,7 @@ export function getPreviewImage(url: string) {
 }
 
 export function getBannerImage(url: string) {
-  return `https://img.llyz.xyz/${url}/w=1200`;
+  return `https://img.llyz.xyz/${url}/w=800`;
 }
 
 export function getArticleLazyImage(url: string) {

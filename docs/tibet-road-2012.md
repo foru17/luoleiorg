@@ -1,7 +1,7 @@
 ---
 title: 西藏 | 骑行川藏四千里:2012年的青春影像
 date: '2018-10-31'
-cover: https://c2.llyz.xyz/blog/2018/11/tibet/tibet-1.JPG
+cover: https://c2.llyz.xyz/blog/2018/11/tibet/tibet-47.JPG
 categories:
 - photography
 - travel

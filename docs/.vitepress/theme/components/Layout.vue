@@ -19,6 +19,15 @@
 
   let imagesToLoad: HTMLImageElement[] = [];
 
+  const handleImageError = (event: Event) => {
+    const imgElement = event.target as HTMLImageElement;
+    const originalSrc = imgElement.getAttribute("data-original-src");
+    if (originalSrc) {
+      imgElement.src = originalSrc;
+    }
+    imgElement.removeEventListener("error", handleImageError); // 只尝试加载备用资源一次
+  };
+
   const lazyLoadImages = () => {
     const allImages = Array.from(document.querySelectorAll("img[data-src]")); // 转换 NodeList 为数组
     imagesToLoad = imagesToLoad.concat(allImages);
@@ -28,6 +37,7 @@
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
             const img = entry.target as HTMLImageElement;
+            img.addEventListener("error", handleImageError);
             img.src = getArticleLazyImage(img.dataset.src!);
             img.removeAttribute("data-src");
             observer!.unobserve(img);
@@ -57,6 +67,7 @@
       i++
     ) {
       const imageElement = imagesToLoad[i] as HTMLImageElement;
+      imageElement.addEventListener("error", handleImageError);
       imageElement.src = getArticleLazyImage(imageElement.dataset.src!);
       imageElement.removeAttribute("data-src");
 

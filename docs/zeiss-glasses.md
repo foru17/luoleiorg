@@ -1,7 +1,7 @@
 ---
 title: ZEISS 三连：蔡司镜架、钻立方镜片、蔡司原厂加工近视眼镜
 date: '2020-07-05'
-cover: https://c2.llyz.xyz/blog/2020/07/zeiss/M-1.JPG
+cover: https://c2.llyz.xyz/blog/2020/07/zeiss/z-5.JPG
 categories:
 - tech
 tags:
