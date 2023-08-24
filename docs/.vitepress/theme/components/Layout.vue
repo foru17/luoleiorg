@@ -1,4 +1,6 @@
 <script setup lang="ts">
+  import * as Sentry from "@sentry/vue";
+  import { Integrations } from "@sentry/tracing";
   import { onMounted, onUnmounted, watch, nextTick } from "vue";
   import DefaultTheme from "vitepress/theme";
   import { useData, useRouter } from "vitepress";
@@ -105,6 +107,16 @@
       clearTimeout(timeoutId);
       timeoutId = null;
     }
+  });
+
+  Sentry.init({
+    dsn: "https://a9c45d2c2987407a91347ae2a72eda5d@sentry.is26.com/2",
+    integrations: [
+      new Integrations.BrowserTracing({
+        tracingOrigins: ["localhost", "luolei.org", /^\//],
+      }),
+    ],
+    tracesSampleRate: 1.0, // 将其设置为 1.0 以收集100％的事务，或者将其降低以采样较少的事务
   });
 </script>
 
