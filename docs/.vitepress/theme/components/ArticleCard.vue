@@ -9,6 +9,7 @@
     title: string;
     cover: string;
     date: Object;
+    categories: string[];
   }>();
 
   let timeoutHandle = null;
@@ -66,7 +67,7 @@
         :href="withBase(url)"
         class="flex flex-wrap no-underline hover:no-underline">
         <div
-          class="overflow-hidden w-full h-60 md:h-40 ld:h-40 relative bg-zinc-100">
+          class="overflow-hidden w-full h-60 md:h-40 ld:h-40 relative bg-zinc-100 dark:bg-slate-700">
           <img
             ref="imgRef"
             :src="previewImageUrl"
@@ -86,27 +87,31 @@
               <span
                 class="animate-ping absolute inline-flex h-full w-full rounded-full bg-sky-100 opacity-75"></span>
               <span
-                class="relative inline-flex rounded-full h-10 w-10 bg-slate-200"></span>
+                class="relative inline-flex rounded-full h-10 w-10 bg-slate-200 dark:bg-slate-600"></span>
             </span>
 
             <div
               v-if="imageError"
-              class="hidden md:block w-0 h-0 mt-1 border-l-[20px] border-l-transparent border-t-[30px] border-t-slate-200 border-r-[20px] border-r-transparent"></div>
+              class="md:block w-0 h-0 mt-1 border-l-[20px] border-l-transparent border-t-[30px] border-t-slate-200 dark:border-t-slate-600 border-r-[20px] border-r-transparent"></div>
             <div class="flex-1 space-y-6 py-1">
-              <div class="h-8 md:h-4 bg-slate-200 rounded"></div>
+              <div
+                class="h-8 md:h-4 bg-slate-200 dark:bg-slate-600 rounded"></div>
               <div class="space-y-3">
                 <div class="grid grid-cols-3 gap-4">
-                  <div class="h-8 md:h-4 bg-slate-200 rounded col-span-2"></div>
-                  <div class="h-8 md:h-4 bg-slate-200 rounded col-span-1"></div>
+                  <div
+                    class="h-8 md:h-4 bg-slate-200 dark:bg-slate-600 rounded col-span-2"></div>
+                  <div
+                    class="h-8 md:h-4 bg-slate-200 dark:bg-slate-600 rounded col-span-1"></div>
                 </div>
-                <div class="h-8 md:h-4 bg-slate-200 rounded"></div>
+                <div
+                  class="h-8 md:h-4 bg-slate-200 dark:bg-slate-600 rounded"></div>
               </div>
             </div>
           </div>
         </div>
         <div class="w-full px-6 mt-5">
           <p
-            class="font-medium break-normal text-2xl sd:text-lg md:text-lg text-gray-900 dark:text-slate-400 line-clamp-2">
+            class="font-medium break-normal text-xl sd:text-lg md:text-xl text-gray-800 dark:text-slate-300 line-clamp-2">
             {{ title }}
           </p>
         </div>
@@ -115,7 +120,8 @@
     <div
       class="flex-none mt-auto bg-white dark:bg-slate-800 rounded-b rounded-t-none overflow-hidden shadow-lg p-6 h-16">
       <div class="flex items-center justify-between">
-        <p class="text-gray-400 text-base sd:text-sm md:text-sm">
+        <p
+          class="text-gray-400 dark:text-slate-500 text-sm sd:text-sm md:text-sm">
           {{ date.formatShowDate }}
         </p>
       </div>

@@ -4,6 +4,7 @@ date: '2023-06-18'
 cover: https://c2.llyz.xyz/blog/2023/06/mini/mac-5.jpg
 categories:
 - tech
+- 开箱
 tags:
 - mac
 ---

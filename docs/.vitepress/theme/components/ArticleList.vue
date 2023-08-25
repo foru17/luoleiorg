@@ -12,6 +12,7 @@
       title: post.title,
       cover: post.cover,
       date: post.date,
+      categories: post.categories,
     };
   });
 
@@ -62,12 +63,13 @@
       class="w-full text-xl md:text-2xl text-gray-800 leading-normal rounded-t">
       <div class="flex flex-wrap justify-between pt-12 -mx-3 sd:mx-1 md:mx-0">
         <ArticleCard
-          v-for="{ url, title, date, cover } of articleList"
+          v-for="{ url, title, date, cover, categories } of articleList"
           :key="url"
           :url="url"
           :title="title"
           :date="date"
-          :cover="cover" />
+          :cover="cover"
+          :categories="categories" />
       </div>
     </div>
     <div class="flex justify-center space-x-6 dark:text-gray-100 mt-6">
@@ -78,19 +80,21 @@
         :class="{
           'cursor-not-allowed': !hasPrevPage,
           'bg-gray-100 dark:bg-gray-800  text-neutral-300': !hasPrevPage,
-          'bg-white dark:bg-gray-900 hover:bg-neutral-100 hover:shadow-[0_8px_9px_-4px_rgba(203,203,203,0.3),0_4px_18px_0_rgba(203,203,203,0.2)] focus:bg-neutral-100 focus:shadow-[0_8px_9px_-4px_rgba(203,203,203,0.3),0_4px_18px_0_rgba(203,203,203,0.2)] focus:outline-none focus:ring-0 active:bg-neutral-200 active:shadow-[0_8px_9px_-4px_rgba(203,203,203,0.3),0_4px_18px_0_rgba(203,203,203,0.2)] dark:shadow-[0_4px_9px_-4px_rgba(251,251,251,0.3)] dark:hover:shadow-[0_8px_9px_-4px_rgba(251,251,251,0.1),0_4px_18px_0_rgba(251,251,251,0.05)] dark:focus:shadow-[0_8px_9px_-4px_rgba(251,251,251,0.1),0_4px_18px_0_rgba(251,251,251,0.05)] dark:active:shadow-[0_8px_9px_-4px_rgba(251,251,251,0.1),0_4px_18px_0_rgba(251,251,251,0.05)]':
+          'bg-white dark:bg-gray-900 text-neutral-500 hover:bg-neutral-100  dark:hover:bg-gray-800 ':
             hasPrevPage,
         }"
-        class="inline-block bg-white rounded-t px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-neutral-800 shadow-[0_4px_9px_-4px_#cbcbcb] transition duration-150 ease-in-out">
+        class="inline-block bg-white dark:text-slate-500 shadow-md rounded px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal transition duration-150 ease-in-out">
         {{ !hasPrevPage ? "第一页" : "上一页" }}
       </button>
       <p class="text-center font-medium md:text-sm mt-2.5 w-12">
-        <a class="inline-block underline decoration-pink-500">{{
-          pageNumber
-        }}</a
-        >/<a class="inline-block underline decoration-indigo-500">{{
-          pageTotal
-        }}</a>
+        <a
+          class="inline-block underline decoration-pink-500 text-neutral-500 dark:text-neutral-500"
+          >{{ pageNumber }}</a
+        ><span class="text-neutral-900 dark:text-neutral-500">/</span
+        ><a
+          class="inline-block underline decoration-indigo-500 text-neutral-500 dark:text-neutral-500"
+          >{{ pageTotal }}</a
+        >
       </p>
       <button
         type="button"
@@ -99,10 +103,10 @@
         :class="{
           'cursor-not-allowed': !hasNextPage,
           'bg-gray-100 dark:bg-gray-800  text-neutral-300': !hasNextPage,
-          'bg-white dark:bg-gray-900 hover:bg-neutral-100 hover:shadow-[0_8px_9px_-4px_rgba(203,203,203,0.3),0_4px_18px_0_rgba(203,203,203,0.2)] focus:bg-neutral-100 focus:shadow-[0_8px_9px_-4px_rgba(203,203,203,0.3),0_4px_18px_0_rgba(203,203,203,0.2)] focus:outline-none focus:ring-0 active:bg-neutral-200 active:shadow-[0_8px_9px_-4px_rgba(203,203,203,0.3),0_4px_18px_0_rgba(203,203,203,0.2)] dark:shadow-[0_4px_9px_-4px_rgba(251,251,251,0.3)] dark:hover:shadow-[0_8px_9px_-4px_rgba(251,251,251,0.1),0_4px_18px_0_rgba(251,251,251,0.05)] dark:focus:shadow-[0_8px_9px_-4px_rgba(251,251,251,0.1),0_4px_18px_0_rgba(251,251,251,0.05)] dark:active:shadow-[0_8px_9px_-4px_rgba(251,251,251,0.1),0_4px_18px_0_rgba(251,251,251,0.05)]':
+          'bg-white dark:bg-gray-900 text-neutral-500 hover:bg-neutral-100 dark:hover:bg-gray-800 ':
             hasNextPage,
         }"
-        class="inline-block rounded-t px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-neutral-800 shadow-[0_4px_9px_-4px_#cbcbcb] transition duration-150 ease-in-out">
+        class="inline-block bg-white rounded dark:text-slate-500 shadow-md px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-neutral-800 transition duration-150 ease-in-out">
         {{ !hasNextPage ? "结束" : "下一页" }}
       </button>
     </div>
