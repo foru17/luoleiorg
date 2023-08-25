@@ -79,8 +79,8 @@
         :disabled="!hasPrevPage"
         :class="{
           'cursor-not-allowed': !hasPrevPage,
-          'bg-gray-100 dark:bg-gray-800  text-neutral-300': !hasPrevPage,
-          'bg-white dark:bg-gray-900 text-neutral-500 hover:bg-neutral-100  dark:hover:bg-gray-800 ':
+          'bg-gray-100 dark:bg-zinc-900  text-neutral-300': !hasPrevPage,
+          'bg-white dark:bg-zinc-800 text-neutral-500 hover:bg-neutral-100  dark:hover:bg-zinc-800 ':
             hasPrevPage,
         }"
         class="inline-block bg-white dark:text-slate-500 shadow-md rounded px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal transition duration-150 ease-in-out">
@@ -102,8 +102,8 @@
         @click="nextPage()"
         :class="{
           'cursor-not-allowed': !hasNextPage,
-          'bg-gray-100 dark:bg-gray-800  text-neutral-300': !hasNextPage,
-          'bg-white dark:bg-gray-900 text-neutral-500 hover:bg-neutral-100 dark:hover:bg-gray-800 ':
+          'bg-gray-100 dark:bg-zinc-900  text-neutral-300': !hasNextPage,
+          'bg-white dark:bg-zinc-800 text-neutral-500 hover:bg-neutral-100 dark:hover:bg-zinc-800 ':
             hasNextPage,
         }"
         class="inline-block bg-white rounded dark:text-slate-500 shadow-md px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-neutral-800 transition duration-150 ease-in-out">

@@ -60,9 +60,9 @@
 
 <template>
   <div
-    class="w-full w-1/1 sd:w-1/3 md:w-1/4 px-6 py-3 sd:px-3 sd:py-3 flex flex-col flex-grow flex-shrink h-100 md:h-100 ld:h-40">
+    class="w-full w-1/1 sd:w-1/3 md:w-1/4 px-4 py-3 sd:px-3 flex flex-col flex-grow flex-shrink h-100 md:h-100 ld:h-40">
     <div
-      class="flex-1 bg-white dark:bg-slate-800 rounded-t overflow-hidden h-64 shadow-lg ease-in-out hover:shadow-2xl duration-300">
+      class="flex-1 bg-white dark:bg-zinc-800 rounded-t overflow-hidden h-64 shadow-lg ease-in-out hover:shadow-2xl duration-300">
       <a
         :href="withBase(url)"
         class="flex flex-wrap no-underline hover:no-underline">
@@ -111,17 +111,17 @@
         </div>
         <div class="w-full px-6 mt-5">
           <p
-            class="font-medium break-normal text-xl sd:text-lg md:text-xl text-gray-800 dark:text-slate-300 line-clamp-2">
+            class="font-medium antialiased break-normal text-xl sd:text-lg md:text-lg text-gray-800 dark:text-slate-300 line-clamp-2">
             {{ title }}
           </p>
         </div>
       </a>
     </div>
     <div
-      class="flex-none mt-auto bg-white dark:bg-slate-800 rounded-b rounded-t-none overflow-hidden shadow-lg p-6 h-16">
+      class="flex-none mt-auto bg-white dark:bg-zinc-800 rounded-b rounded-t-none overflow-hidden shadow-lg p-6 h-16">
       <div class="flex items-center justify-between">
         <p
-          class="text-gray-400 dark:text-slate-500 text-sm sd:text-sm md:text-sm">
+          class="text-gray-400 dark:text-slate-400 text-sm sd:text-sm md:text-sm">
           {{ date.formatShowDate }}
         </p>
       </div>

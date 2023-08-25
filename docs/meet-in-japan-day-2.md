@@ -1,7 +1,7 @@
 ---
 title: 日本 | DAY2 :东京・皇宫・银座・筑地市场
 date: '2016-07-05'
-cover: https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01627.jpg
+cover: https://img.llyz.xyz/https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01675M.jpg/w=1200
 categories:
 - photography
 - travel
