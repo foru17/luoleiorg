@@ -1,0 +1,116 @@
+<script setup lang="ts">
+  import { computed, ref, watch } from "vue";
+  import { useData, withBase, useRoute, useRouter } from "vitepress";
+  import { data } from "../posts.data.js";
+  import { categoryMap } from "../constant"; // 导入分类映射
+
+  const route = useRoute();
+  const router = useRouter();
+
+  const getUrlCategory = () => {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get("category") || null;
+  };
+  const currentCategory = ref(getUrlCategory());
+
+  const isCategoryExist = computed(() => {
+    return categoriesMeta.value.some(
+      (cat) => cat.text === currentCategory.value
+    );
+  });
+
+  watch(
+    route,
+    (newRoute) => {
+      // 当URL更改时，此函数会被调用
+      currentCategory.value = getUrlCategory();
+    },
+    { immediate: true }
+  );
+
+  const categoriesMeta = computed(() => {
+    const categoryCounts: Record<string, number> = {};
+
+    for (const post of data) {
+      for (const category of post.categories || []) {
+        if (!categoryCounts[category]) {
+          categoryCounts[category] = 0;
+        }
+        categoryCounts[category]++;
+      }
+    }
+
+    const allCategories = [
+      ...new Set(data.flatMap((post) => post.categories || [])),
+    ];
+
+    return allCategories
+      .map((categoryText) => {
+        const detail = getCategoryDetail(categoryText);
+        return {
+          name: detail.name,
+          text: detail.text,
+          count: categoryCounts[categoryText] || 0,
+          isHome: detail.isHome,
+        };
+      })
+      .filter((category) => category.isHome); // 只保留 isHome 为 true 的分类
+  });
+
+  function getCategoryDetail(text: string) {
+    const category = categoryMap.find((cat) => cat.text === text);
+    if (category) {
+      return category;
+    } else {
+      return {
+        text,
+        name: text,
+        isHome: false,
+      };
+    }
+  }
+
+  const goCategory = (category: string) => {
+    router.go(`?category=${category}`);
+  };
+  const goHome = () => {
+    router.go(`/`);
+  };
+</script>
+
+<template>
+  <div class="container px-4 md:px-0 max-w-7xl mx-auto">
+    <div h class="w-full ld:h-40 px-4 mt-3">
+      <div class="w-full flex items-center justify-between">
+        <!-- 遍历  {{ categoriesMeta }} ,展示 isHome 为 true 的分类 -->
+        <div class="flex m-auto">
+          <span
+            @click="goHome()"
+            :class="{
+              'text-rose-400 dark:text-rose-400':
+                !isCategoryExist || !currentCategory,
+            }"
+            class="home-nav-title relative text-center bg-transparent text-black dark:text-slate-300 hover:text-rose-400 rounded-xl px-3 py-1 text-sm md:text-base mr-2">
+            最新<i class="hidden md:inline-block text-slate-300 ml-3">/</i>
+          </span>
+          <span
+            v-for="(category, index) of categoriesMeta"
+            :key="index"
+            @click="goCategory(category.text)"
+            :class="{
+              'text-rose-400 dark:text-rose-400':
+                category.text === currentCategory,
+            }"
+            class="home-nav-title inline-block text-center ml-1 bg-transparent hover:text-rose-400 text-black dark:text-slate-300 rounded-xl px-3 md:px-3 py-1 text-sm md:text-base mr-2">
+            {{ category.name
+            }}<i
+              class="hidden md:inline-block text-slate-300 ml-3"
+              :class="{ 'md:hidden': index === categoriesMeta.length - 1 }"
+              >/</i
+            >
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>

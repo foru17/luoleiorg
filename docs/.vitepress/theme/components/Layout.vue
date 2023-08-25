@@ -2,6 +2,8 @@
   import { onMounted, onUnmounted, watch, nextTick } from "vue";
   import DefaultTheme from "vitepress/theme";
   import { useData, useRouter } from "vitepress";
+
+  import CategoryNav from "./CategoryNav.vue";
   import Article from "./Article.vue";
   import ArticleMeta from "./ArticleMeta.vue";
   import ArticleList from "./ArticleList.vue";
@@ -162,7 +164,9 @@
       </ClientOnly>
     </template>
     <template #aside-outline-before> </template>
-    <template #home-hero-before> </template>
+    <template #home-hero-before>
+      <CategoryNav />
+    </template>
     <!-- 主页模块 -->
     <template #home-hero-after>
       <!-- 首页文章列表模块 -->

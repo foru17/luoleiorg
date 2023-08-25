@@ -1,6 +1,6 @@
 <script setup lang="ts">
   import { data as posts } from "../posts.data.js";
-  import { useData, withBase } from "vitepress";
+  import { useData, withBase, useRouter } from "vitepress";
   const { frontmatter } = useData();
   import { watch, nextTick, ref, onMounted, computed } from "vue";
   import { getPreviewImage } from "../utils";
@@ -12,6 +12,7 @@
     categories: string[];
   }>();
 
+  const router = useRouter();
   let timeoutHandle = null;
   const imgRef = ref<HTMLImageElement | null>(null);
 
@@ -47,6 +48,11 @@
       }
     }, 15000);
   };
+
+  const goCategory = (category: string) => {
+    router.go(`?category=${category}`);
+  };
+
   onMounted(() => {
     // 当组件被挂载后
     nextTick(() => {
@@ -67,7 +73,7 @@
         :href="withBase(url)"
         class="flex flex-wrap no-underline hover:no-underline">
         <div
-          class="overflow-hidden w-full h-60 md:h-40 ld:h-40 relative bg-zinc-100 dark:bg-slate-700">
+          class="overflow-hidden w-full h-60 md:h-40 ld:h-40 relative bg-zinc-100 dark:bg-neutral-900">
           <img
             ref="imgRef"
             :src="previewImageUrl"
@@ -124,6 +130,17 @@
           class="text-gray-400 dark:text-slate-400 text-sm sd:text-sm md:text-sm">
           {{ date.formatShowDate }}
         </p>
+
+        <!-- 如果分类categories存在,则渲染第一个分类 -->
+        <div v-if="categories" class="flex space-x-2">
+          <span
+            v-for="(category, index) of categories.slice(0, 1)"
+            :key="index"
+            @click="goCategory(category)"
+            class="inline-block hidden border bg-transparent rounded px-2 py-0 text-sm font-semibold text-gray-300 dark:text-slate-300 mr-2">
+            {{ category }}
+          </span>
+        </div>
       </div>
     </div>
   </div>
