@@ -33,6 +33,27 @@
     const end = pageNumber.value * pageSize;
     return posts.slice(start, end);
   });
+
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth", // 使用平滑的滚动效果，如果不需要平滑滚动，可以删除此行
+    });
+  };
+
+  const prevPage = () => {
+    if (pageNumber.value > 1) {
+      pageNumber.value--;
+      scrollToTop();
+    }
+  };
+
+  const nextPage = () => {
+    if (pageNumber.value < pageTotal) {
+      pageNumber.value++;
+      scrollToTop();
+    }
+  };
 </script>
 
 <template>
@@ -51,7 +72,7 @@
     </div>
     <div class="flex justify-center space-x-6 dark:text-gray-100 mt-6">
       <button
-        @click="pageNumber--"
+        @click="prevPage()"
         type="button"
         :disabled="!hasPrevPage"
         :class="{
@@ -74,7 +95,7 @@
       <button
         type="button"
         :disabled="!hasNextPage"
-        @click="pageNumber++"
+        @click="nextPage()"
         :class="{
           'cursor-not-allowed': !hasNextPage,
           'bg-gray-100 dark:bg-gray-800  text-neutral-300': !hasNextPage,

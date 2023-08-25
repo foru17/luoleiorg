@@ -1,7 +1,7 @@
 ---
 title: 深圳电信宽带 / 常用公共 DNS、VPS / 性能 & 稳定性 / 实时监控数据
 date: '2020-03-17'
-cover: https://ping.gz.is26.com/ChinaDNS/ChinaNet1_mini.png
+cover: https://ping.gz.is26.com/ChinaDNS/ChinaNet1_last_108000.png
 categories:
 - code
 ---
@@ -29,8 +29,6 @@ categories:
 202.96.128.166
 
 ![](https://ping.gz.is26.com/ChinaDNS/ChinaNet2_mini.png)
-
- 
 
 ![](https://ping.gz.is26.com/ChinaDNS/ChinaNet2_last_108000.png)
 
@@ -108,8 +106,6 @@ dns.rubyfish.cn
 
 ![](https://ping.gz.is26.com/ChinaDNS/ZKDChinaNet_last_108000.png)
 
- 
-
 ## 国外公共 DNS 数据
 
 #### Google
@@ -153,8 +149,6 @@ dns.rubyfish.cn
 ![](https://ping.gz.is26.com/DNS/CloudflareDNS2_mini.png)
 
 ![](https://ping.gz.is26.com/DNS/CloudflareDNS2_last_108000.png)
-
- 
 
 ## 境内外VPS数据
 

@@ -23,7 +23,8 @@
         background-image: url(${bannerImageUrl})`">
       <div class="bg-gray-900 bg-opacity-30 flex items-center h-full">
         <div class="px-10 max-w-xl">
-          <h2 class="text-3xl text-white break-normal font-bold">
+          <h2
+            class="text-3xl text-white break-normal font-bold line-clamp-4 sd: line-clamp-3 md: line-clamp-2">
             {{ title }}
           </h2>
           <p class="inline-block mt-2 text-slate-200">发布时间: {{ date }}</p>

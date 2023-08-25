@@ -91,15 +91,15 @@
 
             <div
               v-if="imageError"
-              class="w-0 h-0 mt-1 border-l-[20px] border-l-transparent border-t-[30px] border-t-slate-200 border-r-[20px] border-r-transparent"></div>
+              class="hidden md:block w-0 h-0 mt-1 border-l-[20px] border-l-transparent border-t-[30px] border-t-slate-200 border-r-[20px] border-r-transparent"></div>
             <div class="flex-1 space-y-6 py-1">
-              <div class="h-4 bg-slate-200 rounded"></div>
+              <div class="h-8 md:h-4 bg-slate-200 rounded"></div>
               <div class="space-y-3">
                 <div class="grid grid-cols-3 gap-4">
-                  <div class="h-4 bg-slate-200 rounded col-span-2"></div>
-                  <div class="h-4 bg-slate-200 rounded col-span-1"></div>
+                  <div class="h-8 md:h-4 bg-slate-200 rounded col-span-2"></div>
+                  <div class="h-8 md:h-4 bg-slate-200 rounded col-span-1"></div>
                 </div>
-                <div class="h-4 bg-slate-200 rounded"></div>
+                <div class="h-8 md:h-4 bg-slate-200 rounded"></div>
               </div>
             </div>
           </div>

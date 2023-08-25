@@ -166,3 +166,30 @@ span.lang {
 .VPNavBarTitle .title{
   font-family:  "SourceHanSerifCN-Bold";
 }
+
+.vp-doc div[class*='language-'] pre::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color:#75767d ;
+	border-radius: 10px;
+}
+
+
+.vp-doc div[class*='language-'] pre::-webkit-scrollbar{
+  background-color: #F5F5F5;
+  height: 8px;
+  border-radius: 12px;
+  border: 6px solid rgba(0,0,0,0.2);
+}
+
+.vp-doc div[class*='language-'] pre::-webkit-scrollbar-thumb
+{
+  border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #555;
+}
+
+
+.vp-doc [class*='language-'] code{
+
+}
