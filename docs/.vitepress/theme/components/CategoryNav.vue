@@ -71,7 +71,7 @@
   );
 
   const goCategory = (category: string) => {
-    router.go(`?category=${category}`);
+    router.go(`/?category=${category}`);
   };
 </script>
 

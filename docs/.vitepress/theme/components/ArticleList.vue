@@ -3,7 +3,6 @@
   import { useData, withBase, useRoute, useRouter } from "vitepress";
   import { data } from "../posts.data.js";
   import ArticleCard from "./ArticleCard.vue";
-
   const route = useRoute();
   const router = useRouter();
 
@@ -38,6 +37,13 @@
 
   // watch(categoryFilter, async (newCategory) => {
   //   pageNumber.value = 1;
+  // });
+
+  // watchEffect(() => {
+  //   pageNumber.value = getUrlPageNumber();
+  //   categoryFilter.value = getUrlCategory();
+  //   console.log("[List WatchEffect] categoryFilter", categoryFilter.value);
+  //   console.log("[List WatchEffect] pageNumber", pageNumber.value);
   // });
 
   watch(

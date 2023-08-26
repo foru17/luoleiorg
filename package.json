@@ -28,6 +28,7 @@
   "dependencies": {
     "@sentry/tracing": "^7.64.0",
     "@sentry/vue": "^7.64.0",
+    "@vueuse/core": "^10.4.0",
     "artalk": "^2.5.5",
     "postcss-nested": "^6.0.1",
     "postcss-nesting": "^12.0.1",

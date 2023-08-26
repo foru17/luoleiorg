@@ -11,6 +11,9 @@ dependencies:
   '@sentry/vue':
     specifier: ^7.64.0
     version: 7.64.0(vue@3.2.47)
+  '@vueuse/core':
+    specifier: ^10.4.0
+    version: 10.4.0(vue@3.2.47)
   artalk:
     specifier: ^2.5.5
     version: 2.5.5
