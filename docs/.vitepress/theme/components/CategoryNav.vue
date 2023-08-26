@@ -1,5 +1,5 @@
 <script setup lang="ts">
-  import { computed, ref, watch } from "vue";
+  import { computed, ref, watch, onMounted, watchEffect, nextTick } from "vue";
   import { useData, withBase, useRoute, useRouter } from "vitepress";
   import { data } from "../posts.data.js";
   import { categoryMap } from "../constant"; // 导入分类映射
@@ -8,25 +8,12 @@
   const router = useRouter();
 
   const getUrlCategory = () => {
-    const urlParams = new URLSearchParams(window.location.search);
-    return urlParams.get("category") || null;
+    if (typeof window !== "undefined") {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get("category") || null;
+    }
   };
   const currentCategory = ref(getUrlCategory());
-
-  const isCategoryExist = computed(() => {
-    return categoriesMeta.value.some(
-      (cat) => cat.text === currentCategory.value
-    );
-  });
-
-  watch(
-    route,
-    (newRoute) => {
-      // 当URL更改时，此函数会被调用
-      currentCategory.value = getUrlCategory();
-    },
-    { immediate: true }
-  );
 
   const categoriesMeta = computed(() => {
     const categoryCounts: Record<string, number> = {};
@@ -57,6 +44,12 @@
       .filter((category) => category.isHome); // 只保留 isHome 为 true 的分类
   });
 
+  const isCategoryExist = computed(() => {
+    return categoriesMeta.value.some(
+      (cat) => cat.text === currentCategory.value
+    );
+  });
+
   function getCategoryDetail(text: string) {
     const category = categoryMap.find((cat) => cat.text === text);
     if (category) {
@@ -69,12 +62,16 @@
       };
     }
   }
+  watch(
+    route,
+    () => {
+      currentCategory.value = getUrlCategory();
+    },
+    { immediate: true }
+  );
 
   const goCategory = (category: string) => {
     router.go(`?category=${category}`);
-  };
-  const goHome = () => {
-    router.go(`/`);
   };
 </script>
 
@@ -84,31 +81,31 @@
       <div class="w-full flex items-center justify-between">
         <!-- 遍历  {{ categoriesMeta }} ,展示 isHome 为 true 的分类 -->
         <div class="flex m-auto">
-          <span
-            @click="goHome()"
+          <a
+            :href="`/`"
             :class="{
-              'text-rose-400 dark:text-rose-400':
-                !isCategoryExist || !currentCategory,
+              'text-rose-400 dark:text-rose-400': !isCategoryExist,
+              'text-black dark:text-slate-300': isCategoryExist,
             }"
-            class="home-nav-title relative text-center bg-transparent text-black dark:text-slate-300 hover:text-rose-400 rounded-xl px-3 py-1 text-sm md:text-base mr-2">
+            class="home-nav-title relative text-center hover:text-rose-400 rounded-xl px-3 py-1 text-sm md:text-base mr-2">
             最新<i class="hidden md:inline-block text-slate-300 ml-3">/</i>
-          </span>
-          <span
+          </a>
+
+          <a
             v-for="(category, index) of categoriesMeta"
-            :key="index"
+            :key="category.text"
             @click="goCategory(category.text)"
+            class="home-nav-title inline-block text-center ml-1 hover:text-rose-400 rounded-xl px-3 md:px-3 py-1 text-sm md:text-base mr-2"
             :class="{
-              'text-rose-400 dark:text-rose-400':
-                category.text === currentCategory,
-            }"
-            class="home-nav-title inline-block text-center ml-1 bg-transparent hover:text-rose-400 text-black dark:text-slate-300 rounded-xl px-3 md:px-3 py-1 text-sm md:text-base mr-2">
-            {{ category.name
-            }}<i
+              'text-rose-400': category.text === currentCategory,
+            }">
+            {{ category.name }}
+            <i
               class="hidden md:inline-block text-slate-300 ml-3"
               :class="{ 'md:hidden': index === categoriesMeta.length - 1 }"
               >/</i
             >
-          </span>
+          </a>
         </div>
       </div>
     </div>

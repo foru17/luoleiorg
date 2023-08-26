@@ -25,7 +25,6 @@
   };
 
   const onImageError = () => {
-    console.log("image error", props.cover);
     imageError.value = true;
     imageLoaded.value = true; // 也设置图片为已加载，隐藏加载动画
   };

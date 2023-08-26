@@ -1,9 +1,11 @@
 <script setup lang="ts">
-  import { computed, ref, watch } from "vue";
-  import { useData, withBase, useRoute } from "vitepress";
+  import { computed, ref, watch, onMounted, nextTick, watchEffect } from "vue";
+  import { useData, withBase, useRoute, useRouter } from "vitepress";
   import { data } from "../posts.data.js";
-  import Date from "./Date.vue";
   import ArticleCard from "./ArticleCard.vue";
+
+  const route = useRoute();
+  const router = useRouter();
 
   const posts = data.map((post) => ({
     url: post.url,
@@ -13,64 +15,55 @@
     categories: post.categories || [],
   }));
 
-  const isEmpty = posts.length === 0;
   const pageSize = 12;
 
   const getUrlPageNumber = () => {
-    const urlParams = new URLSearchParams(window.location.search);
-    return Number(urlParams.get("page")) || 1;
+    if (typeof window !== "undefined") {
+      const urlParams = new URLSearchParams(window.location.search);
+      return Number(urlParams.get("page")) || 1;
+    }
+    return 1;
   };
 
   const getUrlCategory = () => {
-    const urlParams = new URLSearchParams(window.location.search);
-    return urlParams.get("category") || null;
+    if (typeof window !== "undefined") {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get("category") || null;
+    }
+    return null;
   };
 
   const pageNumber = ref(getUrlPageNumber());
   const categoryFilter = ref(getUrlCategory());
 
-  const syncURLWithState = () => {
-    const url = new URL(window.location.href);
-    url.searchParams.set("page", String(pageNumber.value));
-
-    if (categoryFilter.value) {
-      url.searchParams.set("category", categoryFilter.value);
-    } else {
-      url.searchParams.delete("category");
-    }
-
-    window.history.pushState({}, "", url.toString());
-  };
-
-  watch(categoryFilter, (newCategory) => {
-    pageNumber.value = 1;
-    syncURLWithState();
-  });
-
-  const route = useRoute();
+  // watch(categoryFilter, async (newCategory) => {
+  //   pageNumber.value = 1;
+  // });
 
   watch(
     route,
-    (newRoute) => {
-      // 当URL更改时，此函数会被调用
-      categoryFilter.value = getUrlCategory();
+    () => {
       pageNumber.value = getUrlPageNumber();
+      categoryFilter.value = getUrlCategory();
+      console.log("[List Watch] categoryFilter", categoryFilter.value);
+      console.log("[List Watch] pageNumber", pageNumber.value);
     },
     { immediate: true }
-  ); // immediate ensures the function runs immediately upon initialization
-
-  const hasNextPage = computed(() => pageNumber.value < pageTotal.value);
-  const hasPrevPage = computed(() => pageNumber.value > 1);
+  );
 
   const filteredPosts = computed(() => {
-    return categoryFilter.value
+    const filtered = categoryFilter.value
       ? posts.filter((post) => post.categories.includes(categoryFilter.value))
       : posts;
+    return filtered;
   });
 
   const pageTotal = computed(() =>
     Math.ceil(filteredPosts.value.length / pageSize)
   );
+
+  const hasNextPage = computed(() => pageNumber.value < pageTotal.value);
+  const hasPrevPage = computed(() => pageNumber.value > 1);
 
   const articleList = computed(() => {
     const start = (pageNumber.value - 1) * pageSize;
@@ -79,15 +72,21 @@
   });
 
   const scrollToTop = () => {
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth",
-    });
+    if (typeof window !== "undefined") {
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth",
+      });
+    }
   };
 
   const changePage = (page: number) => {
     pageNumber.value = page;
-    syncURLWithState();
+    const { searchParams } = new URL(window.location.href);
+    searchParams.delete("page");
+    searchParams.append("page", page);
+    console.log("[changePage]", pageNumber.value);
+    router.go(`?${searchParams.toString()}`);
     scrollToTop();
   };
 
@@ -103,6 +102,8 @@
     }
   };
 </script>
+
+<!-- 其他的 template 部分保持不变 -->
 
 <template>
   <div class="container px-4 md:px-0 max-w-7xl mx-auto -mt-4">

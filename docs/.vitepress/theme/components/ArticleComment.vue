@@ -1,7 +1,6 @@
 <script setup lang="ts">
   import "artalk/dist/Artalk.css";
   import { watch, nextTick, ref, onMounted } from "vue";
-  import { data } from "../posts.data.js";
   import { useData, useRouter } from "vitepress";
 
   const artalkEl = ref<HTMLElement | null>(null);

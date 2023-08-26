@@ -1,22 +1,19 @@
 <script setup lang="ts">
   import { computed } from "vue";
-  import { data as posts } from "../posts.data.js";
   import { useData, withBase, useRouter } from "vitepress";
   import { getBannerImage } from "../utils";
 
   const { frontmatter } = useData();
   const router = useRouter();
   const title = computed(() => frontmatter.value.title);
-  const cover = computed(() => frontmatter.value.cover);
   const date = computed(() => frontmatter.value.date);
   const categories = computed(() => frontmatter.value.categories);
-  const formatShowDate = computed(() => frontmatter.value.formatShowDate);
   const bannerImageUrl = computed(() => {
     return getBannerImage(frontmatter.value.cover);
   });
 
   const goCategory = (category: string) => {
-    router.go(`?category=${category}`);
+    router.go(`/?category=${category}`);
   };
 </script>
 
