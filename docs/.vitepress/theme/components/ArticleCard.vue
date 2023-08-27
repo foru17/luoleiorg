@@ -65,81 +65,78 @@
 
 <template>
   <div
-    class="w-full w-1/1 sd:w-1/3 md:w-1/4 px-4 py-3 sd:px-3 flex flex-col flex-grow flex-shrink h-100 md:h-100 ld:h-40">
-    <div
-      class="flex-1 bg-white dark:bg-zinc-800 rounded-t overflow-hidden h-64 shadow-lg ease-in-out hover:shadow-2xl duration-300">
-      <a
-        :href="withBase(url)"
-        class="flex flex-wrap no-underline hover:no-underline">
+    class="flex-1 bg-white dark:bg-zinc-800 rounded-t overflow-hidden h-64 shadow-lg ease-in-out hover:shadow-2xl duration-300">
+    <a
+      :href="withBase(url)"
+      class="flex flex-wrap no-underline hover:no-underline">
+      <div
+        class="overflow-hidden w-full h-60 md:h-40 ld:h-40 relative bg-zinc-100 dark:bg-neutral-900">
+        <img
+          ref="imgRef"
+          :src="previewImageUrl"
+          @load="onImageLoad"
+          @error="onImageError"
+          :class="{
+            'opacity-0': !imageLoaded,
+            'opacity-100': imageLoaded && !imageError,
+            'opacity-0 delay-0': imageLoaded && imageError,
+          }"
+          class="absolute top-0 left-0 h-full w-full object-cover rounded-t hover:scale-105 ease-in duration-300" />
         <div
-          class="overflow-hidden w-full h-60 md:h-40 ld:h-40 relative bg-zinc-100 dark:bg-neutral-900">
-          <img
-            ref="imgRef"
-            :src="previewImageUrl"
-            @load="onImageLoad"
-            @error="onImageError"
-            :class="{
-              'opacity-0': !imageLoaded,
-              'opacity-100': imageLoaded && !imageError,
-              'opacity-0 delay-0': imageLoaded && imageError,
-            }"
-            class="absolute top-0 left-0 h-full w-full object-cover rounded-t hover:scale-105 ease-in duration-300" />
-          <div
-            v-if="!imageLoaded || imageError"
-            :class="{ 'animate-pulse': !imageLoaded }"
-            class="flex space-x-4 mt-6 p-2">
-            <span v-if="!imageError" class="relative flex h-10 w-10">
-              <span
-                class="animate-ping absolute inline-flex h-full w-full rounded-full bg-sky-100 opacity-75"></span>
-              <span
-                class="relative inline-flex rounded-full h-10 w-10 bg-slate-200 dark:bg-slate-600"></span>
-            </span>
+          v-if="!imageLoaded || imageError"
+          :class="{ 'animate-pulse': !imageLoaded }"
+          class="flex space-x-4 mt-6 p-2">
+          <span v-if="!imageError" class="relative flex h-10 w-10">
+            <span
+              class="animate-ping absolute inline-flex h-full w-full rounded-full bg-sky-100 opacity-75"></span>
+            <span
+              class="relative inline-flex rounded-full h-10 w-10 bg-slate-200 dark:bg-slate-600"></span>
+          </span>
 
+          <div
+            v-if="imageError"
+            class="md:block w-0 h-0 mt-1 border-l-[20px] border-l-transparent border-t-[30px] border-t-slate-200 dark:border-t-slate-600 border-r-[20px] border-r-transparent"></div>
+          <div class="flex-1 space-y-6 py-1">
             <div
-              v-if="imageError"
-              class="md:block w-0 h-0 mt-1 border-l-[20px] border-l-transparent border-t-[30px] border-t-slate-200 dark:border-t-slate-600 border-r-[20px] border-r-transparent"></div>
-            <div class="flex-1 space-y-6 py-1">
+              class="h-8 md:h-4 bg-slate-200 dark:bg-slate-600 rounded"></div>
+            <div class="space-y-3">
+              <div class="grid grid-cols-3 gap-4">
+                <div
+                  class="h-8 md:h-4 bg-slate-200 dark:bg-slate-600 rounded col-span-2"></div>
+                <div
+                  class="h-8 md:h-4 bg-slate-200 dark:bg-slate-600 rounded col-span-1"></div>
+              </div>
               <div
                 class="h-8 md:h-4 bg-slate-200 dark:bg-slate-600 rounded"></div>
-              <div class="space-y-3">
-                <div class="grid grid-cols-3 gap-4">
-                  <div
-                    class="h-8 md:h-4 bg-slate-200 dark:bg-slate-600 rounded col-span-2"></div>
-                  <div
-                    class="h-8 md:h-4 bg-slate-200 dark:bg-slate-600 rounded col-span-1"></div>
-                </div>
-                <div
-                  class="h-8 md:h-4 bg-slate-200 dark:bg-slate-600 rounded"></div>
-              </div>
             </div>
           </div>
         </div>
-        <div class="w-full px-6 mt-5">
-          <p
-            class="font-medium antialiased break-normal text-xl sd:text-lg md:text-lg text-gray-800 dark:text-slate-300 line-clamp-2">
-            {{ title }}
-          </p>
-        </div>
-      </a>
-    </div>
-    <div
-      class="flex-none mt-auto bg-white dark:bg-zinc-800 rounded-b rounded-t-none overflow-hidden shadow-lg p-6 h-16">
-      <div class="flex items-center justify-between">
+      </div>
+      <div class="w-full px-6 mt-5">
         <p
-          class="text-gray-400 dark:text-slate-400 text-sm sd:text-sm md:text-sm">
-          {{ date.formatShowDate }}
+          class="font-medium antialiased break-normal text-xl sd:text-lg md:text-lg text-gray-800 dark:text-slate-300 line-clamp-2">
+          {{ title }}
         </p>
+      </div>
+    </a>
+  </div>
+  <div
+    class="flex-none mt-auto bg-white dark:bg-zinc-800 rounded-b rounded-t-none overflow-hidden shadow-lg p-6 h-16">
+    <div class="flex items-center justify-between">
+      <p
+        class="text-gray-400 dark:text-slate-400 text-sm sd:text-sm md:text-sm">
+        {{ date.formatShowDate }}
+      </p>
 
-        <!-- 如果分类categories存在,则渲染第一个分类 -->
-        <div v-if="categories" class="flex space-x-2">
-          <span
-            v-for="(category, index) of categories.slice(0, 1)"
-            :key="index"
-            @click="goCategory(category)"
-            class="inline-block hidden border bg-transparent rounded px-2 py-0 text-sm font-semibold text-gray-300 dark:text-slate-300 mr-2">
-            {{ category }}
-          </span>
-        </div>
+      <!-- 如果分类categories存在,则渲染第一个分类 -->
+      <div v-if="categories" class="flex space-x-2">
+        <span
+          v-for="(category, index) of categories.slice(0, 1)"
+          :key="index"
+          @click="goCategory(category)"
+          class="inline-block hidden border bg-transparent rounded px-2 py-0 text-sm font-semibold text-gray-300 dark:text-slate-300 mr-2">
+          {{ category }}
+        </span>
       </div>
     </div>
   </div>

@@ -1,10 +1,23 @@
 <script setup lang="ts">
   import { computed, ref, watch, onMounted, nextTick, watchEffect } from "vue";
   import { useData, withBase, useRoute, useRouter } from "vitepress";
+  import { useBrowserLocation } from "@vueuse/core";
   import { data } from "../posts.data.js";
+  import { useCurrentCategory, useCurrentPageKey } from "../configProvider";
   import ArticleCard from "./ArticleCard.vue";
+
   const route = useRoute();
   const router = useRouter();
+
+  const location = useBrowserLocation();
+
+  // 获得当前页面的页码
+  const pageKey = useCurrentPageKey();
+
+  // 获得当前页面的分类
+  const categoryKey = useCurrentCategory();
+
+  const currentCategory = computed(() => categoryKey.value);
 
   const posts = data.map((post) => ({
     url: post.url,
@@ -16,50 +29,9 @@
 
   const pageSize = 12;
 
-  const getUrlPageNumber = () => {
-    if (typeof window !== "undefined") {
-      const urlParams = new URLSearchParams(window.location.search);
-      return Number(urlParams.get("page")) || 1;
-    }
-    return 1;
-  };
-
-  const getUrlCategory = () => {
-    if (typeof window !== "undefined") {
-      const urlParams = new URLSearchParams(window.location.search);
-      return urlParams.get("category") || null;
-    }
-    return null;
-  };
-
-  const pageNumber = ref(getUrlPageNumber());
-  const categoryFilter = ref(getUrlCategory());
-
-  // watch(categoryFilter, async (newCategory) => {
-  //   pageNumber.value = 1;
-  // });
-
-  // watchEffect(() => {
-  //   pageNumber.value = getUrlPageNumber();
-  //   categoryFilter.value = getUrlCategory();
-  //   console.log("[List WatchEffect] categoryFilter", categoryFilter.value);
-  //   console.log("[List WatchEffect] pageNumber", pageNumber.value);
-  // });
-
-  watch(
-    route,
-    () => {
-      pageNumber.value = getUrlPageNumber();
-      categoryFilter.value = getUrlCategory();
-      console.log("[List Watch] categoryFilter", categoryFilter.value);
-      console.log("[List Watch] pageNumber", pageNumber.value);
-    },
-    { immediate: true }
-  );
-
   const filteredPosts = computed(() => {
-    const filtered = categoryFilter.value
-      ? posts.filter((post) => post.categories.includes(categoryFilter.value))
+    const filtered = currentCategory.value
+      ? posts.filter((post) => post.categories.includes(currentCategory.value))
       : posts;
     return filtered;
   });
@@ -68,12 +40,12 @@
     Math.ceil(filteredPosts.value.length / pageSize)
   );
 
-  const hasNextPage = computed(() => pageNumber.value < pageTotal.value);
-  const hasPrevPage = computed(() => pageNumber.value > 1);
+  const hasNextPage = computed(() => pageKey.value < pageTotal.value);
+  const hasPrevPage = computed(() => pageKey.value > 1);
 
   const articleList = computed(() => {
-    const start = (pageNumber.value - 1) * pageSize;
-    const end = pageNumber.value * pageSize;
+    const start = (pageKey.value - 1) * pageSize;
+    const end = pageKey.value * pageSize;
     return filteredPosts.value.slice(start, end);
   });
 
@@ -87,44 +59,66 @@
   };
 
   const changePage = (page: number) => {
-    pageNumber.value = page;
     const { searchParams } = new URL(window.location.href);
+    console.log("[List] changePage", page);
+    pageKey.value = page;
     searchParams.delete("page");
     searchParams.append("page", page);
-    console.log("[changePage]", pageNumber.value);
-    router.go(`?${searchParams.toString()}`);
+    router.go(
+      `${location.value.origin}${router.route.path}?${searchParams.toString()}`
+    );
     scrollToTop();
   };
 
   const prevPage = () => {
-    if (pageNumber.value > 1) {
-      changePage(pageNumber.value - 1);
+    if (pageKey.value > 1) {
+      changePage(pageKey.value - 1);
     }
   };
 
   const nextPage = () => {
-    if (pageNumber.value < pageTotal.value) {
-      changePage(pageNumber.value + 1);
+    if (pageKey.value < pageTotal.value) {
+      changePage(pageKey.value + 1);
     }
   };
-</script>
 
-<!-- 其他的 template 部分保持不变 -->
+  watch(
+    location,
+    () => {
+      console.log("[List Watch] location", location.value);
+      if (location.value.href) {
+        const { searchParams } = new URL(location.value.href);
+        if (searchParams.has("page")) {
+          pageKey.value = Number(searchParams.get("page"));
+        } else {
+          pageKey.value = 1;
+        }
+      }
+
+      console.log("[List Watch] categoryFilter", currentCategory.value);
+      console.log("[List Watch] pageKey", pageKey.value);
+    },
+    { immediate: true }
+  );
+</script>
 
 <template>
   <div class="container px-4 md:px-0 max-w-7xl mx-auto -mt-4">
     <div
       class="w-full text-xl md:text-2xl text-gray-800 leading-normal rounded-t">
-      <div class="flex flex-wrap justify-between pt-12 -mx-3 sd:mx-1 md:mx-0">
-        <ArticleCard
+      <ul class="flex flex-wrap justify-between pt-12 -mx-3 sd:mx-1 md:mx-0">
+        <li
+          class="w-full w-1/1 sd:w-1/3 md:w-1/4 px-4 py-3 sd:px-3 flex flex-col flex-grow flex-shrink h-100 md:h-100 ld:h-40"
           v-for="{ url, title, date, cover, categories } of articleList"
-          :key="url"
-          :url="url"
-          :title="title"
-          :date="date"
-          :cover="cover"
-          :categories="categories" />
-      </div>
+          :key="url">
+          <ArticleCard
+            :url="url"
+            :title="title"
+            :date="date"
+            :cover="cover"
+            :categories="categories" />
+        </li>
+      </ul>
     </div>
     <div class="flex justify-center space-x-6 dark:text-gray-100 mt-6">
       <button
@@ -143,7 +137,7 @@
       <p class="text-center font-medium md:text-sm mt-2.5 w-12">
         <a
           class="inline-block underline decoration-pink-500 text-neutral-500 dark:text-neutral-500"
-          >{{ pageNumber }}</a
+          >{{ pageKey }}</a
         ><span class="text-neutral-900 dark:text-neutral-500">/</span
         ><a
           class="inline-block underline decoration-indigo-500 text-neutral-500 dark:text-neutral-500"

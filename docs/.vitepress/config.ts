@@ -1,4 +1,4 @@
-import { defineConfig } from "vitepress";
+import { defineConfig, HeadConfig } from "vitepress";
 import { RssPlugin, RSSOptions } from "vitepress-plugin-rss";
 import { rss } from "./genFeed";
 
@@ -59,6 +59,20 @@ export default defineConfig({
       "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-TG5VK8GPSG');",
     ],
   ],
+  transformHead: ({ pageData }) => {
+    const head: HeadConfig[] = [];
+
+    head.push([
+      "meta",
+      { property: "og:title", content: pageData.frontmatter.title },
+    ]);
+    head.push([
+      "meta",
+      { property: "og:description", content: pageData.frontmatter.title },
+    ]);
+
+    return head;
+  },
   themeConfig: {
     logo: "./logo.svg",
     nav: [

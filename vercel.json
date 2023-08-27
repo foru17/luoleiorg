@@ -1,7 +1,6 @@
 {
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/:path*", "destination": "/index.html" },
     { "source": "/rss", "destination": "/rss.xml" },
     { "source": "/feed", "destination": "/rss.xml" },
     { "source": "/feed/", "destination": "/rss.xml" }

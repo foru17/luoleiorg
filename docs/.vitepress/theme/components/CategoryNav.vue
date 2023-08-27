@@ -1,19 +1,17 @@
 <script setup lang="ts">
   import { computed, ref, watch, onMounted, watchEffect, nextTick } from "vue";
   import { useData, withBase, useRoute, useRouter } from "vitepress";
+  import { useBrowserLocation } from "@vueuse/core";
   import { data } from "../posts.data.js";
+  import { useCurrentCategory, useCurrentPageKey } from "../configProvider";
   import { categoryMap } from "../constant"; // 导入分类映射
 
   const route = useRoute();
   const router = useRouter();
+  const location = useBrowserLocation();
 
-  const getUrlCategory = () => {
-    if (typeof window !== "undefined") {
-      const urlParams = new URLSearchParams(window.location.search);
-      return urlParams.get("category") || null;
-    }
-  };
-  const currentCategory = ref(getUrlCategory());
+  const pageKey = useCurrentPageKey();
+  const currentCategory = useCurrentCategory();
 
   const categoriesMeta = computed(() => {
     const categoryCounts: Record<string, number> = {};
@@ -62,17 +60,36 @@
       };
     }
   }
+
+  const goHome = () => {
+    currentCategory.value = null;
+    pageKey.value = 1;
+    router.go("/");
+  };
+
+  const goCategory = (category: string) => {
+    currentCategory.value = category;
+    pageKey.value = 1;
+    const { searchParams } = new URL(window.location.href!);
+    searchParams.delete("category");
+    searchParams.append("category", String(category));
+    router.go(
+      `${location.value.origin}${router.route.path}?${searchParams.toString()}`
+    );
+  };
+
   watch(
-    route,
+    location,
     () => {
-      currentCategory.value = getUrlCategory();
+      if (location.value.href) {
+        const { searchParams } = new URL(location.value.href);
+        if (searchParams.has("category")) {
+          currentCategory.value = searchParams.get("category");
+        }
+      }
     },
     { immediate: true }
   );
-
-  const goCategory = (category: string) => {
-    router.go(`/?category=${category}`);
-  };
 </script>
 
 <template>
@@ -82,7 +99,7 @@
         <!-- 遍历  {{ categoriesMeta }} ,展示 isHome 为 true 的分类 -->
         <div class="flex m-auto">
           <a
-            :href="`/`"
+            @click="goHome()"
             :class="{
               'text-rose-400 dark:text-rose-400': !isCategoryExist,
               'text-black dark:text-slate-300': isCategoryExist,
