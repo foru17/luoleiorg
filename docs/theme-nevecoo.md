@@ -1,16 +1,18 @@
 ---
 title: 「辞旧迎新」新主题,更安全的罗磊独立博客
 date: '2015-02-14'
+categories:
+- code
 cover: https://c2.llyz.xyz/blog/2015/02/https-ssl.jpg
 ---
 
 除旧迎新，在这新年到来的最后一周，也给博客做了下不小的升级。
 
-#### 升级Ghost
+## 升级Ghost
 
 依旧是拽酷炫的[Ghost](https://ghost.org/)，升级到了最新的0.58，支持在编辑文章的时候直接选择封面图片，支持tag编辑等等功能，期待Ghost在1.0.0能给我们带来一个惊喜，API相关的开发已经在官方的Roadmap里了。
 
-#### 新主题
+## 新主题
 
 * [Github 地址:Nevecoo](https://github.com/foru17/nevecoo).
 
@@ -40,7 +42,7 @@ cover: https://c2.llyz.xyz/blog/2015/02/https-ssl.jpg
 
 现在Nevecoo 版本号还是0.0.1，在Github上开源，年后将继续优化交互细节，优化前端性能。
 
-#### 全站加密Https
+## 全站加密 https
 
 如果你注意到地址栏，应该发现地址栏前多了一个小钥匙，没错，现在博客已经升级到https协议，相对来说，更加安全。SSL证书使用的是StartSSL Class1，有兴趣的朋友可以自行谷歌搜索相关的申请教程。
 

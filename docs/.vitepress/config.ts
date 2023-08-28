@@ -50,13 +50,13 @@ export default defineConfig({
       "script",
       {
         async: true,
-        src: "https://www.googletagmanager.com/gtag/js?id=G-TG5VK8GPSG",
+        src: "https://www.googletagmanager.com/gtag/js?id=UA-21856187-2",
       },
     ],
     [
       "script",
       {},
-      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-TG5VK8GPSG');",
+      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'UA-21856187-2');",
     ],
   ],
   transformHead: ({ pageData }) => {
@@ -84,8 +84,7 @@ export default defineConfig({
           { text: "哔哩哔哩", link: "https://zuoluo.tv/bilibili" },
         ],
       },
-      { text: "关于", link: "https://twitter.com/luoleiorg" },
-      { text: "RSS", link: "https://luolei.org/rss.xml" },
+      { text: "关于", link: "https://github.com/foru17" },
     ],
     socialLinks: [
       { icon: "twitter", link: "https://twitter.com/luoleiorg" },

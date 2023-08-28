@@ -3,7 +3,7 @@
   import { useData, withBase, useRoute, useRouter } from "vitepress";
   import { useBrowserLocation } from "@vueuse/core";
   import { data } from "../posts.data.js";
-  import { useCurrentCategory, useCurrentPageKey } from "../configProvider";
+  import { useCurrentCategoryKey, useCurrentPageKey } from "../configProvider";
   import { categoryMap } from "../constant"; // 导入分类映射
 
   const route = useRoute();
@@ -11,7 +11,7 @@
   const location = useBrowserLocation();
 
   const pageKey = useCurrentPageKey();
-  const currentCategory = useCurrentCategory();
+  const currentCategory = useCurrentCategoryKey();
 
   const categoriesMeta = computed(() => {
     const categoryCounts: Record<string, number> = {};
@@ -64,7 +64,7 @@
   const goHome = () => {
     currentCategory.value = null;
     pageKey.value = 1;
-    router.go("/");
+    router.go(`${window.location.origin}${router.route.path}`);
   };
 
   const goCategory = (category: string) => {
@@ -84,7 +84,7 @@
       if (location.value.href) {
         const { searchParams } = new URL(location.value.href);
         if (searchParams.has("category")) {
-          currentCategory.value = searchParams.get("category");
+          currentCategory.value = searchParams.get("category") || null;
         }
       }
     },

@@ -5,10 +5,7 @@ cover: https://c2.llyz.xyz/blog/2017/10/A2-3.jpg
 categories:
 - tech
 tags:
-- kai-xiang
 - digital
-- e7a1ace4bbb6
-- e8af84e6b58b
 ---
 
 #### 写在前面

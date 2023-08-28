@@ -1,20 +1,19 @@
 ---
 title: Ghostwill 鬼才晓得
 date: '2014-04-27'
+categories:
+- tech
 cover: https://c2.llyz.xyz/wp-image/2014/04/ghostwill.jpg
 ---
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/04/ghostwill.jpg)
 
 构思了一个多月，这个周末在公司加(tōu)班(lǎn)敲了20h+的代码，终于还是把博客从 wordpress 迁移到了去年新出来的 [Ghost](https://ghost.org/) 博客平台，Ghost其简单、快速、开源的特性，迅速地吸引了国内外不少开发者使用。
 
 简单地介绍一下 Ghost 的特征:
 
-1.Markdown:使用 [Markdown](https://jianshu.io/p/q81RER)，过去一年多，自己已经转成使用 Markdown 写作，还是很方便的。Wordpress 虽然能通过插件的方式支持 MD ，可还是略不方便，每次都是在 Mac 上用 [Mou](https://mouapp.com/) 或者在[简书](https://jianshu.io)写完后再把 HTML 源码拷过来，方法略 low。
+* **Markdown**:使用 [Markdown](https://jianshu.io/p/q81RER)，过去一年多，自己已经转成使用 Markdown 写作，还是很方便的。Wordpress 虽然能通过插件的方式支持 MD ，可还是略不方便，每次都是在 Mac 上用 [Mou](https://mouapp.com/) 或者在[简书](https://jianshu.io)写完后再把 HTML 源码拷过来，方法略 low。
 
-2.Nodejs: 速度超快，作为一个前端兼 JS 渣，还是了解 Nodejs 的性能强大之处，尤其是博客这种简单的需求，如果 Wordpress 是小恶魔的大斧头，又大，又粗，又黑（我说的是事实好么！！你看下面图好么）。
-
-![wrap](https://qiniu.is26.com/tyrion-lannister-small.jpeg)
+* **Nodejs**: 速度超快，作为一个前端兼 JS 渣，还是了解 Nodejs 的性能强大之处，尤其是博客这种简单的需求，如果 Wordpress 是小恶魔的大斧头，又大，又粗，又黑（我说的是事实好么！！你看下面图好么）。
 
 那么Ghost就像是一把 [瓦雷利亚钢利刃](https://zh.asoiaf.wikia.com/wiki/%E7%93%A6%E9%9B%B7%E5%88%A9%E4%BA%9A%E9%92%A2?variant=zh) 。
 
@@ -34,7 +33,7 @@ cover: https://c2.llyz.xyz/wp-image/2014/04/ghostwill.jpg
 
 但是，作为一个自称"GEEK"的前(qiao)端(dai)工(ma)程(de)师(zha)，还用 Wordpress ，总有种逼格不够高的感觉。前段时间WP到3.9后，自己的博客JS代码出现兼容问题（啊多么痛的领悟，不要问我八哥从哪里来），太蛋疼了，遂袖子一卷，撸(qiao)起(dai)来(ma)，干脆就破罐子破摔，想着之前的那个 WP 主题也太粗糙了，女儿太丑了，还是赶出去算了，撸个新姑娘出来。
 
-#### Ghostwill
+## Ghostwill
 
 这个主题叫 [Ghostwill](https://github.com/foru17/ghostwill) ，中文名还没想好，暂时就叫「鬼才晓得」吧，已经放在 Github 开源了，请尽情撸，俗话说大家撸才是真的撸嘛，现在版本还是1.0.0。
 
@@ -105,16 +104,16 @@ css 压缩,js 压缩，采用[又拍云](https://www.upyun.com/?md=luolei)CDN全
 
 2014.4月30日更新:
 
-- 图片延迟加载(这个要改 Ghost core 代码，略危险）
-- Menu 响应式处理
-- 中文搜索功能
-- iconfont 需添加更多的常用网站
-- 交互优化:加载动画、页面切换转场动画
-- 代码高亮优化:4月30日现在有点问题
-- 低版本浏览器和微信内置浏览器的兼容性问题（坑啊！！！）
-- 社交分享url分享方法
-- 后台编辑直接把图片上传到又拍云or七牛等第三方（需要等 Ghost 官方API开发迭代）。
-- 前端优化:进一步语义化 HTML 和 CSS，优化js逻辑，减少重绘，目前优化还粗放，线上版本还比较粗放。
+* 图片延迟加载(这个要改 Ghost core 代码，略危险）
+* Menu 响应式处理
+* 中文搜索功能
+* iconfont 需添加更多的常用网站
+* 交互优化:加载动画、页面切换转场动画
+* 代码高亮优化:4月30日现在有点问题
+* 低版本浏览器和微信内置浏览器的兼容性问题（坑啊！！！）
+* 社交分享url分享方法
+* 后台编辑直接把图片上传到又拍云or七牛等第三方（需要等 Ghost 官方API开发迭代）。
+* 前端优化:进一步语义化 HTML 和 CSS，优化js逻辑，减少重绘，目前优化还粗放，线上版本还比较粗放。
 
 嗯哼，这就是一个「鬼才晓得」的主题。
 

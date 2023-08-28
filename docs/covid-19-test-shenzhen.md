@@ -1,6 +1,8 @@
 ---
 title: 深圳核酸检测经验分享
 date: '2020-06-18'
+categories:
+- lifestyle
 cover: https://c2.llyz.xyz/blog/2020/06/covid/v-15.JPG
 tags:
 - shenzhen

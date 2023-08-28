@@ -3,7 +3,7 @@
   import { useData, withBase, useRoute, useRouter } from "vitepress";
   import { useBrowserLocation } from "@vueuse/core";
   import { data } from "../posts.data.js";
-  import { useCurrentCategory, useCurrentPageKey } from "../configProvider";
+  import { useCurrentCategoryKey, useCurrentPageKey } from "../configProvider";
   import ArticleCard from "./ArticleCard.vue";
 
   const route = useRoute();
@@ -11,11 +11,8 @@
 
   const location = useBrowserLocation();
 
-  // 获得当前页面的页码
-  const pageKey = useCurrentPageKey();
-
   // 获得当前页面的分类
-  const categoryKey = useCurrentCategory();
+  const categoryKey = useCurrentCategoryKey();
 
   const currentCategory = computed(() => categoryKey.value);
 
@@ -40,14 +37,17 @@
     Math.ceil(filteredPosts.value.length / pageSize)
   );
 
-  const hasNextPage = computed(() => pageKey.value < pageTotal.value);
-  const hasPrevPage = computed(() => pageKey.value > 1);
+  // 获得当前页面的页码
+  const pageKey = useCurrentPageKey();
 
   const articleList = computed(() => {
     const start = (pageKey.value - 1) * pageSize;
-    const end = pageKey.value * pageSize;
+    const end = start + pageSize;
     return filteredPosts.value.slice(start, end);
   });
+
+  const hasNextPage = computed(() => pageKey.value < pageTotal.value);
+  const hasPrevPage = computed(() => pageKey.value > 1);
 
   const scrollToTop = () => {
     if (typeof window !== "undefined") {
@@ -60,7 +60,6 @@
 
   const changePage = (page: number) => {
     const { searchParams } = new URL(window.location.href);
-    console.log("[List] changePage", page);
     pageKey.value = page;
     searchParams.delete("page");
     searchParams.append("page", page);
@@ -85,21 +84,21 @@
   watch(
     location,
     () => {
-      console.log("[List Watch] location", location.value);
       if (location.value.href) {
         const { searchParams } = new URL(location.value.href);
         if (searchParams.has("page")) {
+          console.log("[watch 触发]", searchParams.get("page"));
           pageKey.value = Number(searchParams.get("page"));
         } else {
           pageKey.value = 1;
         }
       }
-
-      console.log("[List Watch] categoryFilter", currentCategory.value);
-      console.log("[List Watch] pageKey", pageKey.value);
     },
     { immediate: true }
   );
+  onMounted(() => {
+    console.log("On mounted hasPrevPage:", hasPrevPage.value);
+  });
 </script>
 
 <template>
@@ -124,13 +123,11 @@
       <button
         @click="prevPage()"
         type="button"
-        :disabled="!hasPrevPage"
-        :class="{
-          'cursor-not-allowed': !hasPrevPage,
-          'bg-gray-100 dark:bg-zinc-900  text-neutral-300': !hasPrevPage,
-          'bg-white dark:bg-zinc-800 text-neutral-500 hover:bg-neutral-100  dark:hover:bg-zinc-800 ':
-            hasPrevPage,
-        }"
+        :class="
+          hasPrevPage
+            ? 'bg-white dark:bg-zinc-800 text-neutral-500 hover:bg-neutral-100 dark:hover:bg-zinc-800'
+            : 'bg-gray-100 dark:bg-zinc-900 text-neutral-300'
+        "
         class="inline-block bg-white dark:text-slate-300 shadow-md rounded px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal transition duration-150 ease-in-out">
         {{ !hasPrevPage ? "第一页" : "上一页" }}
       </button>

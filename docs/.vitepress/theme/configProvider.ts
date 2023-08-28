@@ -34,6 +34,6 @@ export function useCurrentPageKey() {
   return inject(currentPageKey);
 }
 
-export function useCurrentCategory() {
+export function useCurrentCategoryKey() {
   return inject(currentCategoryKey);
 }

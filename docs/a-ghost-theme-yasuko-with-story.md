@@ -1,6 +1,8 @@
 ---
 title: 一个有故事的主题:珠峰上的Yasuko
 date: '2015-12-28'
+categories:
+- code
 cover: https://c2.llyz.xyz/blog/2015/12/yasuko2.jpg
 tags:
 - develop

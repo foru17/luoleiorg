@@ -1,9 +1,10 @@
 <script setup lang="ts">
-  import { computed } from "vue";
-  import { useData, withBase, useRouter } from "vitepress";
+  import { ref, computed, onMounted, watch, nextTick } from "vue";
+  import { useData, withBase, useRoute, useRouter } from "vitepress";
   import { getBannerImage } from "../utils";
 
   const { frontmatter } = useData();
+  const route = useRoute();
   const router = useRouter();
   const title = computed(() => frontmatter.value.title);
   const date = computed(() => frontmatter.value.date);
@@ -15,6 +16,32 @@
   const goCategory = (category: string) => {
     router.go(`/?category=${category}`);
   };
+  const pageHits = ref<number>(0);
+
+  const fetchPageHits = async () => {
+    try {
+      const response = await fetch("//stat.luolei.org/api/ga");
+      const data = await response.json();
+      const currentPageHit = data.find(
+        (item: any) => item.page === `${route.path}/`
+      );
+
+      if (currentPageHit) {
+        pageHits.value = currentPageHit.hit;
+      }
+    } catch (error) {
+      console.error("Error fetching page hits:", error);
+    }
+  };
+
+  onMounted(fetchPageHits);
+
+  watch(
+    () => router.route.data.relativePath,
+    () => {
+      fetchPageHits();
+    }
+  );
 </script>
 
 <template>
@@ -40,7 +67,12 @@
               {{ category }}
             </span>
           </div>
-          <p class="inline-block mt-2 text-slate-200">发布时间: {{ date }}</p>
+          <p class="inline-block mt-2 text-base text-slate-200 mr-5">
+            发布时间: {{ date }}
+          </p>
+          <p class="block md:inline-block mt-2 text-base text-slate-200">
+            阅读量: {{ pageHits }}
+          </p>
           <p class="mt-2 text-white"></p>
         </div>
       </div>

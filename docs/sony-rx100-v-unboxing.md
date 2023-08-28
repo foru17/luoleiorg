@@ -1,13 +1,15 @@
 ---
 title: 索尼RX100 M5简单开箱
 date: '2016-11-27'
+categories:
+- photography
+- tech
 cover: https://c2.llyz.xyz/blog/2016/11/rx100/RX100-02690.JPG
 tags:
 - photography
 - digital
 ---
 
-![cover](https://c2.llyz.xyz/blog/2016/11/rx100/RX100-02690.JPG)
 
 今年我的相机升级到全画幅的索尼A7S2，之前的[理光GR](https://luolei.org/tag/ricohgr/)用得少，就转手给了朋友。
 
