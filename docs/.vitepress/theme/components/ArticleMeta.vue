@@ -20,7 +20,7 @@
 
   const fetchPageHits = async () => {
     try {
-      const response = await fetch("//stat.luolei.org/api/ga");
+      const response = await fetch("https://stat.luolei.org/api/ga");
       const data = await response.json();
       const currentPageHit = data.find(
         (item: any) => item.page === `${route.path}/`
@@ -34,12 +34,14 @@
     }
   };
 
-  onMounted(fetchPageHits);
+  onMounted(() => {
+    // fetchPageHits();
+  });
 
   watch(
     () => router.route.data.relativePath,
     () => {
-      fetchPageHits();
+      // fetchPageHits();
     }
   );
 </script>
@@ -70,9 +72,9 @@
           <p class="inline-block mt-2 text-base text-slate-200 mr-5">
             发布时间: {{ date }}
           </p>
-          <p class="block md:inline-block mt-2 text-base text-slate-200">
+          <!-- <p class="block md:inline-block mt-2 text-base text-slate-200">
             阅读量: {{ pageHits }}
-          </p>
+          </p> -->
           <p class="mt-2 text-white"></p>
         </div>
       </div>
