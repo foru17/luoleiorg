@@ -4,6 +4,7 @@ date: '2019-01-24'
 cover: https://c2.llyz.xyz/blog/2019/01/phone/sim-card.jpg
 categories:
 - zuoluotv
+- hot
 tags:
 - zuoluotv
 - usa

@@ -25,21 +25,16 @@
       }
     }
 
-    const allCategories = [
-      ...new Set(data.flatMap((post) => post.categories || [])),
-    ];
-
-    return allCategories
-      .map((categoryText) => {
-        const detail = getCategoryDetail(categoryText);
+    return categoryMap
+      .map((categoryDetail) => {
         return {
-          name: detail.name,
-          text: detail.text,
-          count: categoryCounts[categoryText] || 0,
-          isHome: detail.isHome,
+          name: categoryDetail.name,
+          text: categoryDetail.text,
+          count: categoryCounts[categoryDetail.text] || 0,
+          isHome: categoryDetail.isHome,
         };
       })
-      .filter((category) => category.isHome); // 只保留 isHome 为 true 的分类
+      .filter((category) => category.isHome);
   });
 
   const isCategoryExist = computed(() => {
@@ -65,6 +60,11 @@
     currentCategory.value = null;
     pageKey.value = 1;
     router.go(`${window.location.origin}${router.route.path}`);
+  };
+  const goHot = () => {
+    currentCategory.value = "hot";
+    pageKey.value = 1;
+    router.go(`${window.location.origin}${router.route.path}?category=hot`);
   };
 
   const goCategory = (category: string) => {
@@ -93,7 +93,7 @@
 </script>
 
 <template>
-  <div class="container px-4 md:px-0 max-w-7xl mx-auto">
+  <div class="container px=1 md:px-4 md:px-0 max-w-7xl mx-auto">
     <div h class="w-full ld:h-40 px-4 mt-3">
       <div class="w-full flex items-center justify-between">
         <!-- 遍历  {{ categoriesMeta }} ,展示 isHome 为 true 的分类 -->
@@ -107,7 +107,11 @@
             class="home-nav-title relative text-center hover:text-rose-400 rounded-xl px-3 py-1 text-sm md:text-base mr-2">
             最新<i class="hidden md:inline-block text-slate-300 ml-3">/</i>
           </a>
-
+          <!-- <a
+            @click="goHot()"
+            class="home-nav-title relative text-center hover:text-rose-400 rounded-xl px-3 py-1 text-sm md:text-base mr-2">
+            热门<i class="hidden md:inline-block text-slate-300 ml-3">/</i>
+          </a> -->
           <a
             v-for="(category, index) of categoriesMeta"
             :key="category.text"

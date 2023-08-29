@@ -2,6 +2,16 @@
 
 export const categoryMap = [
   {
+    text: "hot",
+    name: "热门",
+    isHome: true,
+  },
+  {
+    text: "zuoluotv",
+    name: "视频",
+    isHome: true,
+  },
+  {
     text: "code",
     name: "编程",
     isHome: true,
@@ -9,11 +19,6 @@ export const categoryMap = [
   {
     text: "tech",
     name: "数码",
-    isHome: true,
-  },
-  {
-    text: "zuoluotv",
-    name: "视频",
     isHome: true,
   },
   {

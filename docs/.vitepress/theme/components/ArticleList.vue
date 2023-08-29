@@ -14,23 +14,35 @@
   // 获得当前页面的分类
   const categoryKey = useCurrentCategoryKey();
 
+  const isArticleListHitsFetched = ref<boolean>(false);
+
   const currentCategory = computed(() => categoryKey.value);
 
-  const posts = data.map((post) => ({
-    url: post.url,
-    title: post.title,
-    cover: post.cover,
-    date: post.date,
-    categories: post.categories || [],
-  }));
+  const posts = ref(
+    data.map((post) => ({
+      url: post.url,
+      title: post.title,
+      cover: post.cover,
+      date: post.date,
+      categories: post.categories || [],
+      hit: 0, // 添加 hit 字段并初始化为 0
+    }))
+  );
 
   const pageSize = 12;
 
   const filteredPosts = computed(() => {
-    const filtered = currentCategory.value
-      ? posts.filter((post) => post.categories.includes(currentCategory.value))
-      : posts;
-    return filtered;
+    // 如果category为hot，则按照hit排序
+    if (currentCategory.value === "hot") {
+      return sortPostsByHit(posts.value); //
+    } else {
+      const filtered = currentCategory.value
+        ? posts.value.filter((post) =>
+            post.categories.includes(currentCategory.value)
+          )
+        : posts.value;
+      return filtered;
+    }
   });
 
   const pageTotal = computed(() =>
@@ -58,6 +70,10 @@
     }
   };
 
+  const sortPostsByHit = (posts) => {
+    return posts.filter((post) => post.hit > 0).sort((a, b) => b.hit - a.hit); // 根据 hit 字段大小从大到小排列
+  };
+
   const changePage = (page: number) => {
     const { searchParams } = new URL(window.location.href);
     pageKey.value = page;
@@ -81,13 +97,28 @@
     }
   };
 
+  const fetchArticleListHits = async () => {
+    try {
+      const response = await fetch(`https://st.luolei.org/ga`);
+      const { data } = await response.json();
+      data.forEach((item) => {
+        const post = posts.value.find((p) => p.url === item.page);
+        if (post) {
+          post.hit = item.hit;
+        }
+        isArticleListHitsFetched.value = true;
+      });
+    } catch (error) {
+      console.error("Error fetching page hits:", error);
+    }
+  };
+
   watch(
     location,
     () => {
       if (location.value.href) {
         const { searchParams } = new URL(location.value.href);
         if (searchParams.has("page")) {
-          console.log("[watch 触发]", searchParams.get("page"));
           pageKey.value = Number(searchParams.get("page"));
         } else {
           pageKey.value = 1;
@@ -96,7 +127,9 @@
     },
     { immediate: true }
   );
+
   onMounted(() => {
+    fetchArticleListHits();
     console.log("On mounted hasPrevPage:", hasPrevPage.value);
   });
 </script>
@@ -108,14 +141,16 @@
       <ul class="flex flex-wrap justify-between pt-12 -mx-3 sd:mx-1 md:mx-0">
         <li
           class="w-full w-1/1 sd:w-1/3 md:w-1/4 px-4 py-3 sd:px-3 flex flex-col flex-grow flex-shrink h-100 md:h-100 ld:h-40"
-          v-for="{ url, title, date, cover, categories } of articleList"
+          v-for="{ url, title, date, cover, categories, hit } of articleList"
           :key="url">
           <ArticleCard
             :url="url"
             :title="title"
             :date="date"
             :cover="cover"
-            :categories="categories" />
+            :categories="categories"
+            :hit="hit"
+            :isArticleListHitsFetched="isArticleListHitsFetched" />
         </li>
       </ul>
     </div>
