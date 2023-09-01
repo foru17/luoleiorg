@@ -8,12 +8,9 @@ tags:
 - guangzhou
 - travel
 - jnu
-- ricohgr
 - run
-- e9a9ace68b89e69dbe
 ---
 
-![cover](https://c2.llyz.xyz/blog/2015/12/marathon/gz44.JPG)
 
 两个小时的飞机，从浦东T2到广州白云机场，时隔将近一年半，又一次回到了广州，上一次回来，还是从北京到广州回学校参加毕业答辩，这一次，也是抱着任务而来，这个吃力的任务，就是我连续放了两年鸽子的广州马拉松。
 

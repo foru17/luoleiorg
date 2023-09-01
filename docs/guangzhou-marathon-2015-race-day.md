@@ -1,7 +1,7 @@
 ---
 title: 马拉松 | 2015广州马拉松・比赛日
 date: '2015-12-08'
-cover: https://c2.llyz.xyz/blog/2015/12/marathon/gz29.JPG
+cover: https://c2.llyz.xyz/blog/2015/12/marathon/gz54.JPG
 categories:
 - lifestyle
 tags:
@@ -9,7 +9,6 @@ tags:
 - travel
 - ricohgr
 - run
-- e9a9ace68b89e69dbe
 ---
 
 周五来的广州，周日跑马，周六一觉睡到10点，外面下起阴雨，大半天都呆在酒店没怎么出去。
@@ -66,7 +65,7 @@ tags:
 
 人已经很多了，广马也是分区起跑，最前面的是特邀选手黑人大哥，然后就是我们A组全程选手了。
 
-#### 开跑
+## 开跑
 
 ![full-img](https://c2.llyz.xyz/blog/2015/12/marathon/i3.JPG)
 
@@ -98,7 +97,7 @@ tags:
 
 最后50米冲刺，腿已经很酸痛了，还是保持节奏跑过了终点。
 
-#### 完赛
+## 完赛
 
 ![full-img](https://c2.llyz.xyz/blog/2015/12/marathon/gz48.JPG)
 
@@ -130,7 +129,7 @@ tags:
 
 酒店退房延迟到下午两点，趁着还有点时间，赶回酒店冲个凉，妹纸在地铁上盯着我，发现我的脸上全是白色颗粒，摸到手上尝了尝还有点咸，这些白色的东西，就是我汗液中的盐，4小时有氧下来，出了大量的汗水，汗水蒸发，在皮肤上留下了身体里的盐，味道还真是不错，纯天然的哦。
 
-#### 成绩
+## 成绩
 
 ![full-img](https://c2.llyz.xyz/blog/2015/12/marathon/guangma-new.jpg)
 

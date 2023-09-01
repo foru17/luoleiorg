@@ -5,11 +5,8 @@ cover: https://c2.llyz.xyz/blog/2015/11/chromecast/4.JPG
 tags:
 - chromecast
 - digital
-- e7a1ace4bbb6
-- e8af84e6b58b
 ---
 
-![cover](https://c2.llyz.xyz/blog/2015/11/chromecast/4.JPG)  
 2015年9月30日谷歌正式发布了新的Chromecast，不再是又黑又粗的黑棒棒，这下变成了彩色的小胖蝌蚪。
 
 10月底直接在Google Store刷招行VISA卡买了一红一黑两个Chromecast，历时约两个星期，今天快递送到了家门口。

@@ -18,6 +18,8 @@
 
   const currentCategory = computed(() => categoryKey.value);
 
+  const pageSize = 12;
+
   const posts = ref(
     data.map((post) => ({
       url: post.url,
@@ -28,8 +30,6 @@
       hit: 0, // 添加 hit 字段并初始化为 0
     }))
   );
-
-  const pageSize = 12;
 
   const filteredPosts = computed(() => {
     // 如果category为hot，则按照hit排序

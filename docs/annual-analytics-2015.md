@@ -4,7 +4,6 @@ date: '2015-12-31'
 cover: https://c2.llyz.xyz/blog/2015/12/data-2015.jpg
 ---
 
-![cover](https://c2.llyz.xyz/blog/2015/12/data-2015.jpg)
 
 写博客八年，从第一个域名willei.com开始，一直到现在的luolei.org，写独立博客也已经有五个年头，过去一直没有公开过博客相关的数据，这年末最后一天，想着干脆来公布一下博客的相关的数据，也当做是[罗磊的独立博客](https://luolei.org)的年度总结。
 
@@ -38,7 +37,7 @@ cover: https://c2.llyz.xyz/blog/2015/12/data-2015.jpg
 
 33.95%的流量是来自其他网站的外链，直接访问的占32.13%，来自搜索引擎的占31%，差不多33分，谷歌的SEO效果尚好，几个小尾关键字（尤其是技术相关关键字），我的博客都是排名第一或者在第一页。
 
-#### 1.十大流量文章
+## 1.十大流量文章
 
 ![full-img](https://c2.llyz.xyz/blog/2015/12/data3.jpg)
 
@@ -55,7 +54,7 @@ cover: https://c2.llyz.xyz/blog/2015/12/data-2015.jpg
 - 9.[不带套，狠狠X](https://luolei.org/needless/)
 - 10.[「辞旧迎新」新主题,更安全的罗磊独立博客 Nevecoo](https://luolei.org/theme-nevecoo/)
 
-#### 2.访客特征
+## 2.访客特征
 
 ###### 2.1地理位置
 

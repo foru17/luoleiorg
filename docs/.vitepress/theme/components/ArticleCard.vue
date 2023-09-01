@@ -14,6 +14,7 @@
     isArticleListHitsFetched: boolean;
   }>();
 
+  const hotArticleViews = 5000;
   const router = useRouter();
   let timeoutHandle = null;
   const imgRef = ref<HTMLImageElement | null>(null);
@@ -147,7 +148,7 @@
         </svg>
 
         <svg
-          v-if="isArticleListHitsFetched && hit <= 5000"
+          v-if="isArticleListHitsFetched && hit <= hotArticleViews"
           class="icon text-gray-400 dark:text-slate-400 fill-blue-600 mt-px"
           viewBox="0 0 1024 1024"
           xmlns="http://www.w3.org/2000/svg"
@@ -165,7 +166,7 @@
         </svg>
 
         <svg
-          v-if="isArticleListHitsFetched && hit > 5000"
+          v-if="isArticleListHitsFetched && hit > hotArticleViews"
           class="icon text-red-400 dark:text-red-700 fill-blue-600 -mt-0"
           viewBox="0 0 1024 1024"
           width="14"
@@ -179,7 +180,7 @@
         <p
           v-if="isArticleListHitsFetched"
           :class="{
-            'text-red-400 dark:text-red-700': hit > 5000,
+            'text-red-400 dark:text-red-700': hit > hotArticleViews,
           }"
           class="text-gray-400 dark:text-slate-400 text-sm sd:text-sm md:text-sm ml-px">
           {{ hit }}

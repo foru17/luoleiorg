@@ -6,7 +6,6 @@ tags:
 - ispeakl
 ---
 
-![cover](https://c2.llyz.xyz/blog/2016/02/2016v.jpg)
 
 今天看了一个TED的一个视频[古樂朋(Nicholas Christakis): 人際關係的潛在影響](https://www.ted.com/talks/nicholas_christakis_the_hidden_influence_of_social_networks?language=zh-tw#t-1071333)，主讲人通过长时间的研究和数据积累，用可视化的方式，讲到了一个人的社交网络对其本身的影响。
 

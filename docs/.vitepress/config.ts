@@ -19,7 +19,7 @@ export default defineConfig({
   ignoreDeadLinks: true,
   displayAllHeaders: true,
   base: "/",
-  // buildEnd: rss,
+  buildEnd: rss,
   markdown: {
     lineNumbers: true,
     config: (md) => {
@@ -27,7 +27,7 @@ export default defineConfig({
     },
   },
   vite: {
-    plugins: [RssPlugin(RSS)],
+    // plugins: [RssPlugin(RSS)],
   },
   head: [
     [
