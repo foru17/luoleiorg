@@ -5,6 +5,7 @@
 :root {
   --c-brand: #3eaf7c;
   --c-brand-light: #4abf8a;
+  
 }
 
 
@@ -23,6 +24,7 @@ p img {
 
 .link {
   color: var(--c-brand);
+  
 }
 
 .link:hover {
@@ -162,7 +164,7 @@ span.lang {
 
 }
 .VPContent .VPHome {
-  padding-bottom: 64px;
+  padding-bottom: 32px;
 }
 .VPNavBarTitle .title{
   font-family:  "SourceHanSerifCN-Bold";
@@ -170,6 +172,10 @@ span.lang {
 
 .home-nav-title{
   font-family:  "SourceHanSerifCN-Bold";
+}
+.vp-doc {
+  font-family: -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei",Helvetica, Arial, sans-serif;
+
 }
 
 .vp-doc div[class*='language-'] pre::-webkit-scrollbar-track

@@ -104,19 +104,15 @@
               'text-rose-400 dark:text-rose-400': !isCategoryExist,
               'text-black dark:text-slate-300': isCategoryExist,
             }"
-            class="home-nav-title relative text-center hover:text-rose-400 rounded-xl px-3 py-1 text-sm md:text-base mr-2">
+            class="home-nav-title relative text-center hover:text-rose-400 rounded-xl px-3 py-1 text-sm md:text-base mr-0 ml-0 md:ml-1 md:mr-2">
             最新<i class="hidden md:inline-block text-slate-300 ml-3">/</i>
           </a>
-          <!-- <a
-            @click="goHot()"
-            class="home-nav-title relative text-center hover:text-rose-400 rounded-xl px-3 py-1 text-sm md:text-base mr-2">
-            热门<i class="hidden md:inline-block text-slate-300 ml-3">/</i>
-          </a> -->
+
           <a
             v-for="(category, index) of categoriesMeta"
             :key="category.text"
             @click="goCategory(category.text)"
-            class="home-nav-title inline-block text-center ml-1 hover:text-rose-400 rounded-xl px-3 md:px-3 py-1 text-sm md:text-base mr-2"
+            class="home-nav-title inline-block text-center hover:text-rose-400 rounded-xl px-3 md:px-3 py-1 text-sm md:text-base mr-0 ml-0 md:ml-1 md:mr-2"
             :class="{
               'text-rose-400': category.text === currentCategory,
             }">

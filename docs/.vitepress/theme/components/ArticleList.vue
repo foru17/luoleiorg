@@ -138,7 +138,8 @@
   <div class="container px-4 md:px-0 max-w-7xl mx-auto -mt-4">
     <div
       class="w-full text-xl md:text-2xl text-gray-800 leading-normal rounded-t">
-      <ul class="flex flex-wrap justify-between pt-12 -mx-3 sd:mx-1 md:mx-0">
+      <ul
+        class="flex flex-wrap justify-between pt-6 md:pt-12 -mx-3 sd:mx-1 md:mx-0">
         <li
           class="w-full w-1/1 sd:w-1/3 md:w-1/4 px-4 py-3 sd:px-3 flex flex-col flex-grow flex-shrink h-100 md:h-100 ld:h-40"
           v-for="{ url, title, date, cover, categories, hit } of articleList"

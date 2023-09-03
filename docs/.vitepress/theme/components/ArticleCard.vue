@@ -117,7 +117,7 @@
       </div>
       <div class="w-full px-6 mt-5">
         <p
-          class="font-medium antialiased break-normal text-base sd:text-lg md:text-lg text-gray-800 dark:text-slate-300 line-clamp-2">
+          class="h-auto md:h-14 font-medium antialiased break-normal text-base sd:text-lg md:text-lg text-gray-800 dark:text-slate-300 line-clamp-2">
           {{ title }}
         </p>
       </div>
