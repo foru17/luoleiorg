@@ -199,6 +199,9 @@ span.lang {
 
 }
 
+a:active,&:visited,&:link,&:hover,&:focus{
+    -webkit-tap-highlight-color:transparent;
+}
 
 /* 暗夜模式 */
 
