@@ -73,11 +73,12 @@
               {{ category }}
             </span>
           </div> -->
-          <p class="inline-block mt-2 text-base text-slate-200 mr-5">
+          <p class="inline-block mt-2 text-sm md:text-sm text-slate-200 mr-5">
             发布时间: {{ date }}
           </p>
 
-          <p class="block md:inline-block mt-2 text-base text-slate-200">
+          <p
+            class="block md:inline-block mt-2 text-sm md:text-sm text-slate-200">
             阅读量:
             <i v-if="isPageHitsFetched" class="not-italic">{{ pageHits }}</i
             ><span v-if="!isPageHitsFetched" role="status" class="inline-block">

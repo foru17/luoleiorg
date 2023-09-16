@@ -58,7 +58,7 @@ export function isCurrentWeek(date: Date, target?: Date) {
 export function formatShowDate(date: Date | string) {
   const source = date ? +new Date(date) : +new Date();
   const now = +new Date();
-  const diff = now - source;
+  const diff = now - source > 0 ? now - source : 60 * 1000;
   const oneSeconds = 1000;
   const oneMinute = oneSeconds * 60;
   const oneHour = oneMinute * 60;
@@ -66,7 +66,6 @@ export function formatShowDate(date: Date | string) {
   const oneWeek = oneDay * 7;
   const oneMonth = oneDay * 30;
   const oneYear = oneDay * 365;
-
   if (diff < oneMinute) {
     return `${Math.floor(diff / oneSeconds)}秒前`;
   }

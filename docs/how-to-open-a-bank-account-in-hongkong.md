@@ -1,5 +1,5 @@
 ---
-title: 2020 香港银行开户攻略 | 境外投资必备，如何拥有一个香港银行卡
+title: 香港银行开户攻略 | 境外投资必备，如何拥有一个香港银行卡
 date: '2019-04-30'
 cover: https://c2.llyz.xyz/vlog/vlog40.jpg
 categories:

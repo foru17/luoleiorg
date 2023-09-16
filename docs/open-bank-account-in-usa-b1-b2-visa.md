@@ -1,5 +1,5 @@
 ---
-title: 美国银行开户攻略 | Bank Of America | 视频 + 图文 | 2020更新
+title: 美国银行开户攻略 | Bank Of America | 视频 + 图文 
 date: '2017-12-20'
 cover: https://c2.llyz.xyz/blog/2017/12/boa/boa3.jpg
 categories:
