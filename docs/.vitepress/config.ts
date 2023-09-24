@@ -76,12 +76,12 @@ export default defineConfig({
   themeConfig: {
     logo: "./logo.svg",
     nav: [
-      { text: "ZUOLUOTV™", link: "https://zuoluo.tv/youtube" },
+      { text: "ZUOLUOTV™", link: "https://youtube.com/zuoluotv" },
       {
         text: "视频",
         items: [
-          { text: "YouTube", link: "https://zuoluo.tv/youtube" },
-          { text: "哔哩哔哩", link: "https://zuoluo.tv/bilibili" },
+          { text: "YouTube", link: "https://youtube.com/zuoluotv" },
+          { text: "哔哩哔哩", link: "https://space.bilibili.com/7388950" },
         ],
       },
       { text: "关于", link: "https://github.com/foru17" },
