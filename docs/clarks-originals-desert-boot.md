@@ -1,5 +1,5 @@
 ---
-title: 【开箱】美亚直邮:其乐 Clarks Originals 沙漠靴
+title: 开箱 | 美亚直邮:其乐 Clarks Originals 沙漠靴
 date: '2015-07-03'
 cover: https://c2.llyz.xyz/blog/2015/07/Clarks8.JPG
 ---
@@ -11,39 +11,39 @@ cover: https://c2.llyz.xyz/blog/2015/07/Clarks8.JPG
 
 清关物流走的是易客满，全程Track供[参考:轨迹查询](https://www.ecmsglobal.com/oms/showtracking?trackingno=APEJFK1010123422&lang=zh)
 
-![full-img](https://c2.llyz.xyz/blog/2015/07/Clarks11.JPG)
+![](https://c2.llyz.xyz/blog/2015/07/Clarks11.JPG)
 
 箱子上下、两侧都有Clarks红底白字的Logo。
 
-![full-img](https://c2.llyz.xyz/blog/2015/07/Clarks10.JPG)  
+![](https://c2.llyz.xyz/blog/2015/07/Clarks10.JPG)  
 掀起盖头，一张油纸把鞋子盖着。
 
-![full-img](https://c2.llyz.xyz/blog/2015/07/Clarks9.JPG)
+![](https://c2.llyz.xyz/blog/2015/07/Clarks9.JPG)
 
 一只鞋带上有着其乐的Logo吊牌。
 
-![full-img](https://c2.llyz.xyz/blog/2015/07/Clarks3.JPG)
+![](https://c2.llyz.xyz/blog/2015/07/Clarks3.JPG)
 
 越南产，Clarks另外有个系列是中国产的。这漂洋过海一圈，还比在产地便宜差不多一半，也是醉了。
 
-![full-img](https://c2.llyz.xyz/blog/2015/07/Clarks7.JPG)
+![](https://c2.llyz.xyz/blog/2015/07/Clarks7.JPG)
 
 这双Clarks买的是美码9.5，我在美国海淘的鞋子都是10码D宽，国内对应是43或者43.5，买Clarks之前还担心码数不对，在去专卖店体验的时候试了下9码，感觉有点松，想着糟了难道买大了，这双到手后上脚试了下，结果刚刚好，难道中国码和越南码还有差异 ╮(╯\_╰)╭ 。
 
-![full-img](https://c2.llyz.xyz/blog/2015/07/Clarks4.JPG)
+![](https://c2.llyz.xyz/blog/2015/07/Clarks4.JPG)
 
-![full-img](https://c2.llyz.xyz/blog/2015/07/Clarks8.JPG)
+![](https://c2.llyz.xyz/blog/2015/07/Clarks8.JPG)
 
 真容照片，牛皮的质感，让人第一眼就爱上了。
 
-![full-img](https://c2.llyz.xyz/blog/2015/07/Clarks5.JPG)
+![](https://c2.llyz.xyz/blog/2015/07/Clarks5.JPG)
 
 细节一角。
 
-![full-img](https://c2.llyz.xyz/blog/2015/07/Clarks6.JPG)
+![](https://c2.llyz.xyz/blog/2015/07/Clarks6.JPG)
 
 细节一角。
 
-![full-img](https://c2.llyz.xyz/blog/2015/07/Clarks2m.JPG)
+![](https://c2.llyz.xyz/blog/2015/07/Clarks2m.JPG)
 
 附送一张上（妹纸）小脚的照片。

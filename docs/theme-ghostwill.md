@@ -27,7 +27,7 @@ cover: https://c2.llyz.xyz/wp-image/2014/04/ghostwill.jpg
 
 最新的 Wordpress 3.9设计和交互上已经扁平化，后台做了不小的更新，可谓说更加易用。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/04/wordpress.png)
+![](https://c2.llyz.xyz/wp-image/2014/04/wordpress.png)
 
 自己用着 WP 还算顺手，写过两个主题，其中一个[【WP原创主题】愿望盒子V1](https://luolei.org/will-box-one-theme/) 采用瀑布流，还被好几个网站用了，有段时间看百度统计有奇怪得的域名来源，点进去一看用的是我的主题，结果大家都不换代码，让我情何以堪，好吧，还是我懒的原因直接把自己网站的主题不改，放在 [Github](https://github.com/foru17/will-box) 上了。
 
@@ -43,7 +43,7 @@ cover: https://c2.llyz.xyz/wp-image/2014/04/ghostwill.jpg
 
 现在一个网站不是响应式都不好意思拿出手了。Ghostwill 针对移动设备做了优化，暂时是比较简单的处理，下一步将对菜单导航和交互做进一步优化和处理，详情请看 Github Commit log和该文章的更新日志 Update log 。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/04/ghost-mobile.png)
+![](https://c2.llyz.xyz/wp-image/2014/04/ghost-mobile.png)
 
 ### 自定义Cover image
 

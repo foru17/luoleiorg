@@ -1,7 +1,7 @@
 ---
 title: 编程三年:我的程序员成长经历
 date: '2016-11-06'
-cover: https://c2.llyz.xyz/wechat.png
+cover: https://c2.llyz.xyz/blog/2016/11/qq3.jpg
 categories:
 - code
 tags:

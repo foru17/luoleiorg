@@ -32,7 +32,7 @@ tags:
 
 ![cover](https://c2.llyz.xyz/blog/2016/01/fbx.jpg)
 
-![full-img](https://c2.llyz.xyz/blog/2016/01/fbx.jpg)
+![](https://c2.llyz.xyz/blog/2016/01/fbx.jpg)
 
 文章中有一段：
 

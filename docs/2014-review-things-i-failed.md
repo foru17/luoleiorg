@@ -1,5 +1,5 @@
 ---
-title: 【年終卷】2014年我没干成什么
+title: 年終卷 | 2014年我没干成什么
 date: '2014-12-28'
 cover: https://c2.llyz.xyz/wp-image/2014/12/review-2014-fail.jpg
 ---

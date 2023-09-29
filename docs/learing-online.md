@@ -1,5 +1,5 @@
 ---
-title: 【罗磊啰嗦】谈谈网络教育和学习
+title: 罗磊啰嗦 | 谈谈网络教育和学习
 date: '2013-05-28'
 cover: https://c2.llyz.xyz/wp-image/2014/10/learn-online.jpg
 tags:

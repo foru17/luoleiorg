@@ -6,7 +6,7 @@ tags:
 - digital
 ---
 
-![full-img](https://c2.llyz.xyz/blog/2015/03/yicamer.jpg)
+![](https://c2.llyz.xyz/blog/2015/03/yicamer.jpg)
 
 上周入手了一个小蚁运动相机，相比Gopro两三千的价位，这价格不到四百的小蚁，还是一个可以给平时的出游和生活带来新视角的性价比体验方案。
 
@@ -24,10 +24,10 @@ tags:
 
 放上去年在尼泊尔用Gopro3(带防水壳)，今年在北京南山滑雪用Gopro4的图(带防水壳)，供大家做参考对比。全部都是Photoshop 原图压缩到1200宽，高画质Jpeg输出。
 
-![full-img](https://c2.llyz.xyz/blog/2015/03/gopro3.JPG)
+![](https://c2.llyz.xyz/blog/2015/03/gopro3.JPG)
 
-![full-img](https://c2.llyz.xyz/blog/2015/03/gopro4.JPG)
+![](https://c2.llyz.xyz/blog/2015/03/gopro4.JPG)
 
-![full-img](https://c2.llyz.xyz/blog/2015/03/yicamera-show.jpg)
+![](https://c2.llyz.xyz/blog/2015/03/yicamera-show.jpg)
 
 都是在光线充足的情况下拍摄的，好坏大家自己看感觉吧。晚上拍的照片就不评论了，不管是Gopro还是小蚁，都是渣。

@@ -10,6 +10,6 @@ VPS好爽哈哈哈哈哈哈哈啊哈。
 
 测试测试
 
-![https://c2.llyz.xyz/wp-image/2011/05/091227A029.jpg](https://c2.llyz.xyz/wp-image/2011/05/091227A029.jpg)
+![](https://c2.llyz.xyz/wp-image/2011/05/091227A029.jpg)
 
 一切反动派都是纸老虎，纸老虎

@@ -11,7 +11,7 @@ cover: https://c2.llyz.xyz/blog/2015/12/data-2015.jpg
 
 对于我来说，我更倾向于将那种有内容，尤其是原创内容，有一定深度的写作者才当做博客。这两年，还是很欣喜看到RSS的精神继续以其他形式继续发扬光大，[简书](https://www.jianshu.com/)、[知乎专栏](https://www.zhihu.com/question/21388193)、[微信公众号](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MzQyMg==&mid=404995085&idx=1&sn=8c3d37419cb314922317a89c9436abff)等，都算得上做得不错的平台。
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/blog.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/blog.jpg)
 
 除了平台的发展，也时不时能发现坚持有写独立博客的人，尤其是坚持写独立博客的开发者，每次搜索什么东西，或者从社区或者其他渠道发现一个新的博客，总能欣喜一番。周围的朋友中，坚持写博客的朋友也有，除了朋友圈，从博客也能更深地了解到这些朋友最近的思考。
 
@@ -25,7 +25,7 @@ cover: https://c2.llyz.xyz/blog/2015/12/data-2015.jpg
 
 #### 0.总览:UV和PV
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/data1.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/data1.jpg)
 
 过去这一年，总共有**42666**个访客，贡献了约**14万**的PV，日均**116**UV和约**400**PV，今年的统计数据相比去年下降比较多，一个很大的原因就是百度停止搜录了我的博客，具体原因还不清楚，也懒得去管了。怀疑是上半年[博客升级到https](https://luolei.org/ghost-https-baidu-seo-support/)而当时百度不支持收录https链接，另外怀疑是由于某些诸如翻墙之类的敏感词，让百度把我的域名加入了黑名单。
 
@@ -33,13 +33,13 @@ cover: https://c2.llyz.xyz/blog/2015/12/data-2015.jpg
 
 #### 0.1来源
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/data11.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/data11.jpg)
 
 33.95%的流量是来自其他网站的外链，直接访问的占32.13%，来自搜索引擎的占31%，差不多33分，谷歌的SEO效果尚好，几个小尾关键字（尤其是技术相关关键字），我的博客都是排名第一或者在第一页。
 
 ## 1.十大流量文章
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/data3.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/data3.jpg)
 
 过去这一年阅读次数最多的十篇文章分别是:
 
@@ -58,41 +58,41 @@ cover: https://c2.llyz.xyz/blog/2015/12/data-2015.jpg
 
 ###### 2.1地理位置
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/data4.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/data4.jpg)
 
 作为一个中文博客，约57%的流量来自中国大陆，12.92%的流量来自美国，排名第三的是日本，香港和台湾地区的用户排名第五和六，挺好奇地是居然还有6.58%的用户来自俄罗斯。
 
 ##### 2.2 年龄段
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/data5.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/data5.jpg)
 
 将近59.54%的用户在25-34岁之间，25.87%在18-24岁之间，嗯哼，我的博客大多是年轻人来看。
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/data6.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/data6.jpg)
 
 87.48%男性，从我的博客大多是科技+运动+数码来看，看样子还是爷们比较会看我的博客。
 
 ###### 2.4设备平台
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/data9.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/data9.jpg)
 
 83.10%的用户是桌面浏览器，14.66%的用户是移动端，2.24%的用户是平板，来自电脑上的用户还是大头，应该不少都是外链和搜索引擎过来的。
 
 ###### 2.5浏览器
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/data7.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/data7.jpg)
 
 喜闻乐见，超过70%的用户都是Chrome用户，加上Firefox、Safari，可以确定90%以上的用户使用的是高级浏览器，也正是依照这个数据，我的博客很早就放弃了对IE8以下的支持。
 
 ###### 2.6操作系统
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/data8.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/data8.jpg)
 
 57%的用户是Window，22.69%的用户是Mac，iOS和Android持平。Mac用户加上上面几个数据的匹配特征，基本可以确定不少访客应该是IT业界的同行。
 
 ###### 2.7屏幕分辨率
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/data10.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/data10.jpg)
 
 将近20%的用户是1080p高清，分辨率是各种千奇百怪，也可以看得出移动端设备上的各种奇特分辨率，当前端去适配不同分辨率的设备真不容易。
 
@@ -100,25 +100,25 @@ cover: https://c2.llyz.xyz/blog/2015/12/data-2015.jpg
 
 有不少朋友还是通过RSS订阅工具来阅读我的博客，目前主流的RSS工具上。
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/data13.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/data13.jpg)
 
 Feedly上共有606个订阅。
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/data12.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/data12.jpg)
 
 inoreader上也有46人统计
 
 ## 4.公众号&&其他平台
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/data14.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/data14.jpg)
 
 微信上目前有328人订阅了我的公众账号「罗磊啰嗦」，对于微信公众账号，由于个人不喜欢微信这种封闭的环境（有悖于互联网信息自由流通的精神），我过去这一年倒没有怎么投入精力在微信公众号上，对于涨粉、转发这些事情也不关心，都是自然增长的用户。
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/data15.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/data15.jpg)
 
 [简书](https://www.jianshu.com/users/oxFLs6/latest_articles)上目前有299个粉丝，收获了741个喜欢。
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/data16.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/data16.jpg)
 
 [知乎](https://www.zhihu.com/people/luolei)上目前有1544个粉丝，收获了2628个赞同，837个感谢。
 

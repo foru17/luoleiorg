@@ -122,7 +122,7 @@ app.get("/test", function(req, res) {
 
 试着访问一些`localhost:3000/test`页面，网页直接跳转到`https://this.is26.com`网站，同时在谷歌统计的实时后台，我们收到了一个`/somepage`的`pageview`和实时事件。
 
-![full-img](https://c2.llyz.xyz/blog/2015/09/ga/track2.jpg)
+![](https://c2.llyz.xyz/blog/2015/09/ga/track2.jpg)
 
 这时，市场的同事说，要统计**很多**渠道的数据。这个时候，我们干脆就做成接口的形式，让运营和市场的同事直接自己修改URL生成他们所需要的URL吧。
 
@@ -146,7 +146,7 @@ https://this.is26.com/redirection?dest=粗粮商城&tid=新天地&url=http%3A%2F
 
 根据这样定制，就可以十分方便地在GA后台，查看到渠道的效果啦。
 
-![full-img](https://dn-is26.qbox.me/track4.jpg)
+![](https://dn-is26.qbox.me/track4.jpg)
 
 #### 后记
 

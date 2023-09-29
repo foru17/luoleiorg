@@ -1,12 +1,12 @@
 ---
-title: 【开箱】云麦好轻
+title: 开箱 | 云麦好轻
 date: '2015-06-27'
 cover: https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai5.JPG
 tags:
 - digital
 ---
 
-![full-img](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai5.JPG)
+![](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai5.JPG)
 
 前段时间，在猎豹离职同事群中，看到一个前同事的创业产品[云麦好轻Color](https://www.iyunmai.com/)，一看价格，倒也是惊讶了，才99人民币，京东618那天甚至卖到了68元。
 
@@ -16,39 +16,39 @@ tags:
 
 两天体验下来，个人对他的评价很不错。下面放一点图片，另说说自己的一些看法。
 
-![full-img](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai4.JPG)
+![](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai4.JPG)
 
 包装盒十分质朴，很低调的包装。
 
-![full-img](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai5.JPG)
+![](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai5.JPG)
 
 我购买的是居家白，比较百搭，放在家里也不会显得突兀，最吸引人的当然就是正面的那块不小的显示屏，上面可以显示诸多数据。
 
-![full-img](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai6.JPG)
+![](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai6.JPG)
 
 正面有云麦的LOGO，十分低调，由于整体设计和做工，给人比较高端的感觉。
 
-![full-img](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai3.JPG)
+![](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai3.JPG)
 
 正面有四个金属样式的白条，应该就是测体脂用的接触装置，测量的时候脚需要接触到这四个触条，才能正常测量体脂。
 
-![full-img](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai7.JPG)
+![](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai7.JPG)
 
 站上去试一下，显示器上显示的重量数值会逐渐变大，最后稳定在你当前的重量，早晨晚上称有1KG左右的差异（跟人体有关），测量体脂需要稍等片刻。
 
-![full-img](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai8.JPG)
+![](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai8.JPG)
 
 换一个角度看显示屏，有中英文单位。
 
-![full-img](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai9.JPG)
+![](https://c2.llyz.xyz/blog/2015/06/yunmai/yunmai9.JPG)
 
 使用的是4节七号电池，放在背后，自带了四个，但是没电了。
 
-![full-img](https://c2.llyz.xyz/blog/2015/06/yunmai/ys1.PNG)
+![](https://c2.llyz.xyz/blog/2015/06/yunmai/ys1.PNG)
 
 APP设计不错，基础的数据、UI都给人不错的感觉。
 
-![full-img](https://c2.llyz.xyz/blog/2015/06/yunmai/ys2.PNG)
+![](https://c2.llyz.xyz/blog/2015/06/yunmai/ys2.PNG)
 
 APP的整体颜色风格会随着你的体重等数值的变化而有渐变，属于做得不错的设计细节。
 

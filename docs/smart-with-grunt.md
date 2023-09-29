@@ -4,7 +4,7 @@ date: '2014-04-27'
 cover: https://c2.llyz.xyz/wp-image/2014/03/smart-with-static.jpg
 ---
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/03/smart-with-static.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/03/smart-with-static.jpg)
 
 对于前端的工作，经常会有专题页或者静态页的需求，这段时间做了几个静态页面的需求，自己摸索出了一些门道，在这里分享一下自己对此类开发工作的一些经验和流程，以及自己的一些思考，希望能对大家有所帮助。
 
@@ -117,19 +117,19 @@ git clone https://github.com/foru17/StaticPage.git
 mv StaticPage NewProject
 ```
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto1.png)
+![](https://c2.llyz.xyz/wp-image/2014/03/auto1.png)
 
 2.新的文件夹建好了，我们用常用编辑器打开看看，可以看到文件结构十分明了:
 
 首先，养成好习惯，在文档中写上该项目的一些信息，嗯哼，留下自己的印记嘛。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto2.png)
+![](https://c2.llyz.xyz/wp-image/2014/03/auto2.png)
 
 当然，首先别忘了把`package.json`和`Gruntfile.js`里的项目名词改一下，注意`package.json`中的名称只能使用英文，否则会报错。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto3.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/03/auto3.jpg)
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto4.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/03/auto4.jpg)
 
 3.接下来，我们按照文档，安装npm依赖包，当然是在`NewProject`的目录下执行。
 
@@ -137,7 +137,7 @@ mv StaticPage NewProject
 npm install
 ```
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto5.png)  
+![](https://c2.llyz.xyz/wp-image/2014/03/auto5.png)  
 经过漫长的等待（国内访问npm官网速度有点慢:可以使用淘宝的npm镜像，方法参考[cnpm](https://cnpmjs.org/)），安装好后，我们就可以进行开发啦。
 
 4.针对开发，我们设置了几套方法，分别是
@@ -150,21 +150,21 @@ npm install
 
 需要注意的是，我们发布到FTP服务器时，需要在`Gruntfile.js`中进行相应的配置，配置如图。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto6.jpg)  
+![](https://c2.llyz.xyz/wp-image/2014/03/auto6.jpg)  
 这时，我们做一个简单的页面，执行`grunt watch:base`，这时候如果我们修改css文件或者js文件，终端会自动显示监测到的变化，并且检查是否出错（会提示什么文件哪一行出错），最终压缩好了`min.style.css`。 ![auto2](https://c2.llyz.xyz/wp-image/2014/03/auto7.jpg)
 
 经过开发，终于搞掂了，接下来我们就要发布上线了，先打包下，执行`grunt bundle`
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto8.jpg)  
+![](https://c2.llyz.xyz/wp-image/2014/03/auto8.jpg)  
 稍等几秒，看到我们的小mac正在奋力进行一系列工作：清空原先的文件、复制、压缩、打包……Bingo！
 
 这个时候，我们进到我们的文件目录，一个简单好看的`.zip`压缩包已经生成啦，打开一看，里面是干干净净的代码（全部是`build/`文件夹中的文件 ）：代码哥哥轻轻地走了，就如同他轻轻地来，不带走一片多余的文件~ ~
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto9.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/03/auto9.jpg)
 
 咳咳，压缩好了，这下可以发送给测试的同学，或者就自己上传到FTP吧。执行一下`grunt publish`。（此处用另外一个例子演示下），噔噔噔噔，这时我们用FTP客户端登录下我们的FTP看看，最新的文件都上来啦，当然，也是干干净净的代码。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/03/auto10.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/03/auto10.jpg)
 
 #### 总结
 

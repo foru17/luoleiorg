@@ -2,7 +2,6 @@
   import { ref, computed, onMounted, watch, nextTick } from "vue";
   import { useData, withBase, useRoute, useRouter } from "vitepress";
   import { getBannerImage } from "../utils";
-
   const { frontmatter } = useData();
   const route = useRoute();
   const router = useRouter();
@@ -18,6 +17,7 @@
   };
   const pageHits = ref<number>(0);
   const isPageHitsFetched = ref<boolean>(false);
+
   const fetchPageHits = async () => {
     try {
       const response = await fetch(

@@ -23,39 +23,39 @@ tags:
 
 但是从Oasis的定价和定位来说，他注定走的就不是一个亲民和平价的路线，负责性价比的产品线是KPW，至于Oasis的目标群体，可以说就是Kindle的重度用户。
 
-![full-img](https://c2.llyz.xyz/blog/2016/05/oasis/k1.JPG)
+![](https://c2.llyz.xyz/blog/2016/05/oasis/k1.JPG)
 
 这次Oasis的包装是一个偏方正的盒子，封面上印有皮套的颜色。
 
-![full-img](https://c2.llyz.xyz/blog/2016/05/oasis/k2.JPG)
+![](https://c2.llyz.xyz/blog/2016/05/oasis/k2.JPG)
 
 这次我购买的是棕色皮套的Oasis，质感还不错。
 
-![full-img](https://c2.llyz.xyz/blog/2016/05/oasis/k8.JPG)
+![](https://c2.llyz.xyz/blog/2016/05/oasis/k8.JPG)
 
 皮套和Kindle Oasis的机身采用磁性贴附，可以拆卸，皮套中有额外的电池供电，这样的设计，让此代Kindle Oasis成为有史以来续航最长(戴着皮套)和最薄(取下皮套)的设备，感觉亚马逊在玩文字游戏，好奸诈的广告。
 
-![full-img](https://c2.llyz.xyz/blog/2016/05/oasis/k4.JPG)
+![](https://c2.llyz.xyz/blog/2016/05/oasis/k4.JPG)
 
 取下皮套手持，Oasis有实体翻页按键，也自带重力感应，可以随着左右手持的变化自动转向。
 
-![full-img](https://c2.llyz.xyz/blog/2016/05/oasis/k6.JPG)
+![](https://c2.llyz.xyz/blog/2016/05/oasis/k6.JPG)
 
 戴上皮套手持，分量略重了一点点，心理的安全感足了很多，不担心手滑掉地上了。
 
-![full-img](https://c2.llyz.xyz/blog/2016/05/oasis/k10.JPG)
+![](https://c2.llyz.xyz/blog/2016/05/oasis/k10.JPG)
 
 Oasis这一代分辨率跟Voyage一样，看书的颗粒度基本没有，质感和体验很好。
 
-![full-img](https://c2.llyz.xyz/blog/2016/05/oasis/k5.JPG)
+![](https://c2.llyz.xyz/blog/2016/05/oasis/k5.JPG)
 
 之前我的老KPW一直用多看的系统，Kindle 5.6.1更新后UI变了不少，感觉还不错。
 
-![full-img](https://c2.llyz.xyz/blog/2016/05/oasis/k12.JPG)
+![](https://c2.llyz.xyz/blog/2016/05/oasis/k12.JPG)
 
 KPW1代，KPW2代和Oasis的合影，相比之下，Oasis真的是小巧和精致了不少。
 
-![full-img](https://c2.llyz.xyz/blog/2016/05/oasis/k11.JPG)
+![](https://c2.llyz.xyz/blog/2016/05/oasis/k11.JPG)
 
 正面对比，Oasis矮了不少，三个设备的屏幕大小倒都是一样，但是明显Oasis的屏占比大多了。
 

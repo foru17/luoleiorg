@@ -6,7 +6,7 @@ tags:
 - develop
 ---
 
-![full-img](https://c2.llyz.xyz/blog/2015/10/http2.jpg)
+![](https://c2.llyz.xyz/blog/2015/10/http2.jpg)
 
 相比前端界、APP开发中各种新事物层出不穷，服务端的新标准和新技术相对而言关注的人就少多了，这些标准、技术是互联网的基石，可是跟消费者、用户有点距离，什么毫秒级别100%的乃至500%的性能提升，多少KB字节的优化balabala对于用户来说也是没有多大感受，某种程度上，觉得倒蛮心疼的，吃水的不会记得挖井的人，吃好水的人记不住保护环境的人，最后记住的都是饮水机的代言人。
 
@@ -102,13 +102,13 @@ nginx: [warn] invalid parameter "spdy": ngx_http_spdy_module was superseded by n
 
 这个时候回到你的浏览器，打开开发者工具，进入`网络Network`，打开`Protocol`。
 
-![full-img](https://c2.llyz.xyz/blog/2015/10/http-dev.jpg)
+![](https://c2.llyz.xyz/blog/2015/10/http-dev.jpg)
 
 刷新一下你的网页，主域的`Protocol`已经变了成了`h2`，这就意味着已经成功升级到HTTP/2。
 
 或者使用Chrome的网络工具，在地址栏中输入`chrome://net-internals/#http2`
 
-![full-img](https://c2.llyz.xyz/blog/2015/10/http2-chrome.jpg)
+![](https://c2.llyz.xyz/blog/2015/10/http2-chrome.jpg)
 
 这个时候，应该也能看到你网站的请求信息，`Protocol Negotiated`一栏也已经变成了`h2`。
 

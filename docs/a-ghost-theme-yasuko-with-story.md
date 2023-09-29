@@ -25,7 +25,7 @@ sidebarDepth: 2
 
 难波康子是第二位登上世界七大高峰的日本女性，出身名门，企业高层，算得上是日本男权社会中的一个标杆性人物，她的死，在日本社会造成了很大的影响。
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/everest96.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/everest96.jpg)
 
 今年上映的电影[《绝命海拔》](https://movie.douban.com/subject/22265299/)之中，讲述的就是96年这次珠峰事故的故事，推荐大家有机会可以去看看。上图的前排右一就是难波康子。
 
@@ -45,7 +45,7 @@ sidebarDepth: 2
 
 这次依旧是通过阿里云的备案流程，增加了一个备案主体，将luolei.org这个域名在国内备案，12月10日阿里云提交备案申请，28日批准备案，流程还是比较顺利的，详细的过程可以看下图。
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/aliyun2.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/aliyun2.jpg)
 
 ### 1.1 海外访客进行反向代理加速
 
@@ -70,7 +70,7 @@ server {
     }
 ```
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/ping.png)
+![](https://c2.llyz.xyz/blog/2015/12/ping.png)
 
 测速下，国内外的延迟优化还是很明显的，当然，实际上到网站还需要加上DO机房到阿里云的延迟，只需要两个机房的线路能保持稳定，也是可以接受的。
 
@@ -131,15 +131,15 @@ if (settings.webP_load == true) {
 
 **C**.**进一步优化Iconfont**
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/iconfont.png)
+![](https://c2.llyz.xyz/blog/2015/12/iconfont.png)
 
 这一次重新用[Sketch](https://www.sketchapp.com)整理了常见的社交网站icon，加入了国内常见的V2EX、知乎、简书等网站的icon，调用起来更加方便。通过阿里云[iconfont.cn](https://iconfont.cn)生成，字体font部署在阿里云CDN上。文章中也依旧增加了自动给引用的URL标识logo的功能。
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/icon1.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/icon1.jpg)
 
 豆瓣，维基百科在iPhone上的显示效果，十分清晰。
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/icon2.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/icon2.jpg)
 
 Github、知乎在iPhone上的效果。
 
@@ -235,11 +235,11 @@ E.其他优化
 
 除了性能上的优化，这次[Yasuko](https://github.com/foru17/Yasuko)主题在UI、体验上均做了较大的改善，着重优化了移动端上的阅读体验和细节，围绕内容而设计。
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/show1.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/show1.jpg)
 
 首页和文章列表页面更加紧凑，关键字和入口更加清晰，采取镜像显示模式，显示缩略图和文章摘要。
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/show2.jpg)
+![](https://c2.llyz.xyz/blog/2015/12/show2.jpg)
 
 文章页增强阅读体验，对于字体、行高、间距等均做过调试，让不同系统、不同分辨率和不同浏览器下均能获得良好的感受。
 

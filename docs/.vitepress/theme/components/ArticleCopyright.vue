@@ -2,7 +2,6 @@
   import { ref, computed, onMounted, watch, nextTick } from "vue";
   import { useData, withBase, useRoute, useRouter } from "vitepress";
   import { getBannerImage } from "../utils";
-  import { categoryMap } from "../constant";
 
   const { frontmatter } = useData();
   const route = useRoute();

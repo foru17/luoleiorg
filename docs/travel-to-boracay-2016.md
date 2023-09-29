@@ -16,19 +16,15 @@ tags:
 
 #### 导航
 
-* * *
-
 - **[左罗TV | 遇见,长滩岛:去亚洲最美白沙滩拍妹纸是什么体验](https://luolei.org/travel-to-boracay-2016/)**
-- [【遇见】菲律宾DAY1: 马尼拉](https://luolei.org/pilipinas-travel-day-1/)
-- [【遇见】菲律宾DAY2: 马尼拉•长滩岛](https://luolei.org/pilipinas-travel-day-2/)
-- [【遇见】菲律宾DAY3: 长滩岛](https://luolei.org/pilipinas-travel-day-3/)
-- [【遇见】菲律宾DAY4: 长滩岛•马尼拉](https://luolei.org/pilipinas-travel-day-4/)
-
-* * *
+- [遇见 | 菲律宾DAY1: 马尼拉](https://luolei.org/pilipinas-travel-day-1/)
+- [遇见 | 菲律宾DAY2: 马尼拉•长滩岛](https://luolei.org/pilipinas-travel-day-2/)
+- [遇见 | 菲律宾DAY3: 长滩岛](https://luolei.org/pilipinas-travel-day-3/)
+- [遇见 | 菲律宾DAY4: 长滩岛•马尼拉](https://luolei.org/pilipinas-travel-day-4/)
 
 #### 视频
 
-#### 观看地址:
+#### 观看地址
 
 - [优酷网:遇见,长滩岛| 去亚洲最美白沙滩拍妹纸是什么体验](https://v.youku.com/v_show/id_XMTc0MDYzMTg5Mg==.html) : 推荐大陆用户观看。
 - [Youtube:Boracay Island | Travel Story Film | SONY A7S2 & Yi Camera 4K & DJI Phantom 4](https://www.youtube.com/watch?v=tX9d8H9fOpU) : 推荐海外用户观看
@@ -45,8 +41,6 @@ tags:
 
 鉴于主题，在马尼拉的场景只在前序场景带过。实际上在马尼拉也拍了不少航拍素材，过段时间会再单独出一个菲律宾航拍特辑，欢迎关注。
 
-* * *
-
 最后在这里也公开一下自己的微信公众账号「罗磊啰嗦」，已经积累了一段时间，扫描下方二维码即可关注，如果你是从我的博客知道我的公众账号的，欢迎跟我打招呼，暗号就叫「罗磊啰嗦」就可以了。
 
 ![](https://c2.llyz.xyz/wechat.png)
@@ -56,5 +50,3 @@ tags:
 **记得截图**，直接在微信里发送截图我给公众号就可以了。
 
 我会不定期地收集各位的各种问题，关于工作、关于学习、关于成长、关于旅行，会挑选一些问题统一公开在我的博客回答。
-
-* * *

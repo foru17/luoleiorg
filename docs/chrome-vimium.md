@@ -1,5 +1,5 @@
 ---
-title: 【像黑客那用Chrome】快捷键插件Vimium
+title: 像黑客那用Chrome | 快捷键插件 Vimium
 date: '2013-05-26'
 cover: https://c2.llyz.xyz/wp-image/2013/05/chrome-vimium-1024x651.jpg
 tags:
@@ -18,7 +18,7 @@ chrome 是我平时用得最多的浏览器了，过去曾经写过几篇跟 chr
 
 Vimium就是这么一款让你不用鼠标，就能快速实现基本 chrome 所有操作的插件：打开新网页，上下滚动，返回倒退，切换标签……安装好这个插件后，在chrome网页下，按下键盘「？」，就能看到所有的功能清单。
 
-![full-img](https://c2.llyz.xyz/wp-image/2013/05/vimium-function.png)
+![](https://c2.llyz.xyz/wp-image/2013/05/vimium-function.png)
 
 在这里附上几篇其他人的博文，自己就不再重复写做无用功了，大家看过之后，基本就能对掌握viumium入门的所有信息了。
 
@@ -48,4 +48,4 @@ Vimium就是这么一款让你不用鼠标，就能快速实现基本 chrome �
 
 以后会断断续续地保持博客更新的频率，大家可以关注我的微信公共帐号「罗磊啰嗦」，扫扫下面二维码就能关注了，大家有什么问题也可以通过微信直接交流。
 
-> ![full-img](https://c2.llyz.xyz/wp-image/2013/05/weixin-code-150x150.jpg)罗磊啰嗦 微信号: speakl (意为speak loud) 「坚持优质原创内容，致力于传播美好的思想，分享有价值的信息」」
+> ![](https://c2.llyz.xyz/wp-image/2013/05/weixin-code-150x150.jpg)罗磊啰嗦 微信号: speakl (意为speak loud) 「坚持优质原创内容，致力于传播美好的思想，分享有价值的信息」」

@@ -17,19 +17,19 @@ tags:
 
 逃开了帝都的冬天，2000公里的距离，这南方鹏城，倒是让人觉得春意暖暖，路边树上的叶子已经落了不少，有些已经出了新芽，不知名的各种花也开始了新一年的绽放。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f1.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f1.JPG)
 
 家在深大旁边，走路约十分钟就到了，还是假期，学校里没有什么人，篮球场上只有少些人打球。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f8.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f8.JPG)
 
 公告栏上挂满了各种广告，培训、出租、社团，已经工作一年，再看大学的这些海报，倒也是唏嘘，幼稚也好、迷茫也罢、酸甜苦辣，大学注定是让一个人终身难忘的记忆，于我，以后等到合适时机我会详细写写。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f2.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f2.JPG)
 
 从桂庙的西门进去，沿着马路慢慢闲逛，走到一个小花园，里面各种盆栽和植物。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f3.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f3.JPG)
 
 进来深大已经五点，时间略晚，只剩下最后的阳光，抓紧时间，赶紧拍照，尝试了下逆光，糖水片好像就是这种吧？
 
@@ -37,53 +37,53 @@ tags:
 
 年前买了这台心水许久的理光GR，也算是达成了自己的一个小小愿望，到放假这一个多月来，拍了近三千张照片，记录下生活许些片段，倒觉得这也算得上是自己的一个正确选择。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f4.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f4.JPG)
 
 走到一个大棚，妹纸穿着素色白衬衫，与背景一反差，在阳光的照耀下，特别有质感，赶紧拍了好几张。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f5.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f5.JPG)
 
 小花园里的小桥，深圳应该也算是花园城市了吧，这几年走了深圳几个公园，没人的时候，觉得约上好友一起逛的话，特别爽。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f12.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f12.JPG)
 
 同一个位置，近距离抓拍一张，妹纸的笑容让人特别温暖。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f16.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f16.JPG)
 
 淹不死人的文山湖，许多周围的住户带着小孩来这边玩，以前我爸妈也经常带着我弟过来这边抓鱼。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f6.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f6.JPG)
 
 连接湖中央小道的小道。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f7.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f7.JPG)
 
 湖边的留学生宿舍，墙上开满了紫色的蔷薇，恰好墙上有一处空缺，叫妹纸站到中央，咔嚓记录这一瞬间。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f9.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f9.JPG)
 
 遇到一株大花紫薇，已经开满了粉红的花朵，特别漂亮。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f10.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f10.JPG)
 
 亚热带城市，棕榈树是不可少的，这也算是南方的一种特色吧。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f11.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f11.JPG)
 
 盆栽也都开花了，刚刚搜了下，发现现在路边的植物基本都不认识，也挺不好意思的，长期电脑电视手机，身边自然的这些东西和生命都变得陌生了。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f14.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f14.JPG)
 
 > 桃花浅深处，似匀深浅妆。春风助肠断，吹落白衣裳。
 
 唐代诗人元稹的这首「桃花」，应该最能配上这两张照片了吧，今天最让人惊讶的发现，即将出小花园的时候，回首一树嫣红。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f15.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f15.JPG)
 
 乱花渐欲迷人眼。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/flower/f18.JPG)
+![](https://c2.llyz.xyz/blog/2015/02/flower/f18.JPG)
 
 再往南边走，来到深大的新图书馆。深圳市、广州市图书馆、国家图书馆都去逛过，都是那种高大威武的建筑。深大的这座新图书馆相比之下小了许多，有欧美和香港大学的风格，自己倒更喜欢这种小而方便的图书馆。
 

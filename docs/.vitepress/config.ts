@@ -17,7 +17,6 @@ export default defineConfig({
   cleanUrls: true,
   appearance: false,
   ignoreDeadLinks: true,
-  displayAllHeaders: true,
   base: "/",
   buildEnd: rss,
   markdown: {
@@ -49,7 +48,7 @@ export default defineConfig({
     [
       "script",
       {
-        async: true,
+        async: "",
         src: "https://www.googletagmanager.com/gtag/js?id=G-TG5VK8GPSG",
       },
     ],

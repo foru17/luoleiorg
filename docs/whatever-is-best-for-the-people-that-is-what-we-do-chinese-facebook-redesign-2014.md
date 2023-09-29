@@ -6,7 +6,7 @@ cover: https://c2.llyz.xyz/wp-image/2014/03/facebook.jpg
 
 ![](https://c2.llyz.xyz/wp-image/2014/03/facebook.jpg)
 
-**原文地址**:"[Whatever’s Best For The People, That’s What We Do](https://medium.com/p/ed75a0ee7641)"
+**原文地址**:[Whatever’s Best For The People, That’s What We Do](https://medium.com/p/ed75a0ee7641)
 
 今天早些时候，[Dustin Curtis](https://dcurt.is/facebooks-predicament)写了一篇关于Facebook去年的桌面端设计改版的文章[《Facebook的窘境:当设计逐利而行》](https://dcurt.is/facebooks-predicament)。
 
@@ -32,14 +32,7 @@ Dustin做出了几个推测，认为我们的那次改版更多的是为了短�
 
 作为一个设计师，我为我们所做和坚持的感到自豪和骄傲。
 
-![facebook-redesign-2014](https://c2.llyz.xyz/wp-image/2014/03/facebook-2014-redesign.png)
+## 备注
 
-* * *
-
-译者[@罗罗磊磊](https://weibo.com/foru17)，译文[罗磊的独立博客：《我们的设计，一切为了用户》](https://luolei.org/whatever-is-best-for-the-people-that-is-what-we-do-chinese-facebook-redesign-2014/)
-
-_注_:
-
-_[Julie Zhuo](https://www.juliezhuo.com/)_:美籍华人，出生于上海，12岁随家人移民美国，毕业于斯坦福大学，现就职于Facebook ，任产品设计总监。
-
-_[Dustin Curtis](https://dcurt.is/)_:旧金山，YCombinator创始人之一，各种创业企业。
+- [Julie Zhuo](https://www.juliezhuo.com/):美籍华人，出生于上海，12岁随家人移民美国，毕业于斯坦福大学，现就职于Facebook ，任产品设计总监。
+- [Dustin Curtis](https://dcurt.is/):旧金山，YCombinator创始人之一，各种创业企业。

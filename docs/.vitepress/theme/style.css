@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 :root {
+  --vp-c-bg: #fafafa;
   --c-brand: #3eaf7c;
   --c-brand-light: #4abf8a;
   --vp-c-brand: #60a5fa;
@@ -174,6 +175,7 @@ span.lang {
 .vp-doc {
   font-family: -apple-system, "PingFang SC", "Hiragino Sans GB",
     "Microsoft YaHei", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 
 .vp-doc div[class*="language-"] pre::-webkit-scrollbar-track {
@@ -199,10 +201,15 @@ span.lang {
 }
 
 .vp-doc a {
-  /* display: inline-flex; */
   position: relative;
   align-items: center;
   vertical-align: bottom;
+  font-weight: 600;
+}
+.vp-doc a:hover {
+  text-decoration: none;
+  opacity: 0.8;
+  text-decoration: underline;
 }
 
 .vp-doc a .favicon {

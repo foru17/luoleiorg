@@ -26,7 +26,7 @@ cover: https://c2.llyz.xyz/source/images/lookip.jpg
 
 - 可直接输入完整URL，会自动解析出域名。
 
-![full-img](https://c2.llyz.xyz/source/images/cip2.jpg)
+![](https://c2.llyz.xyz/source/images/cip2.jpg)
 
 回车即可复制IP地址到剪贴版。
 

@@ -1,5 +1,5 @@
 ---
-title: 【年終卷】2015年我读了哪些书？
+title: 年終卷 | 2015年我读了哪些书？
 date: '2015-12-10'
 cover: https://c2.llyz.xyz/blog/2015/12/book.jpg
 tags:
@@ -12,7 +12,7 @@ tags:
 熟悉我的朋友，看到这个标题，应该知道这是我每年两次的读书总结。这个总结，也是我坚持了三年的老习惯了。
 
 - [我在读什么:2015春季读书分享](https://luolei.org/what-i-read-in-2015-spring/)
-- [【年終卷】2014年我读了哪些书？](https://luolei.org/what-i-read-in-2014/)
+- [年終卷 | 2014年我读了哪些书？](https://luolei.org/what-i-read-in-2014/)
 - [我在读什么:2014春季读书分享](https://luolei.org/what-i-read-in-2014-spring/)
 - [《2013年我看过哪些值得推荐的好书？》](https://luolei.org/books-i-read-in-2013/)
 

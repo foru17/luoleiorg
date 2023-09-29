@@ -1,5 +1,5 @@
 ---
-title: 【WP原创主题】愿望盒子V1
+title: WP原创主题 | 愿望盒子V1
 date: '2013-05-12'
 categories:
 - code

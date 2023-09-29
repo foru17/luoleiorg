@@ -17,96 +17,96 @@ tags:
 
 ## 体验
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04719.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04719.jpg)  
 酒店位于金陵东路，单独的一栋楼，距离人民广场地铁站约900米，地理位置还是不错的。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04712.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04712.jpg)  
 如果是来上海出差，或者安排了浦西的旅行，住在这里还是挺方便的。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04896.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04896.jpg)  
 很久没住过如家了，这也是我第一次体验如家精选，大堂比较宽敞，空间很大，可能是因为周日的原因，并没有什么人。
 
 在这里要表扬一下前台服务人员，进出几次，每次见到我们都会问好，表现出了职业的服务水平。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04909.jpg)  
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04910.jpg)
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04909.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04910.jpg)
 
 精选给人的第一印象还是挺不同的，国内连锁酒店为摆脱过去「大学生开房酒店」的印象，这样的尝试和努力还是很值得肯定的。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04885.jpg)  
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04918.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04885.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04918.jpg)  
 大堂里休息区域有咖啡机。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04876.jpg)  
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04899.jpg)
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04876.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04899.jpg)
 
 在大堂等候些许，就坐电梯去我们的房间了，电梯需要刷卡才能去对应楼层。这一次体验的是「印象房」，下面这段是官方描叙 Slogn:
 
 > 如家精选酒店印象房，倡导商旅途中视觉、听觉、味觉、嗅觉、触觉等“五感”全方位体验，满足高品位商旅人士的社交情感需求，将人文关怀融入产品和服务之中，为工作和生活带来无限灵感。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04725.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04725.jpg)  
 我们的房间在6层，走廊里铺了地毯，地毯能够有效减少住客行走（尤其是拖着行李箱）带来的噪音，步行前往我们房间途中，听到其他房间里面人大声交谈的声音，这个嘛，就有点让人尴尬了。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04847.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04847.jpg)  
 这一次印象房体验，也包含了「智能」主题。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/rujia1.jpg)
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/rujia1.jpg)
 
 官方提供了一个「掌上如家」的APP，号称预定、入住、开门、控制房内灯光和智能设备一条龙服务。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04827.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04827.jpg)  
 这一次我们预定的是高级商务房，实际入住的是印象房，价格比假日普通房型略便宜，如果考虑上地理位置因素，这个价格对于商旅人士还是不错的（不少公司的单日住宿限额是500元）。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/rujia2.gif)  
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04864.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/rujia2.gif)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04864.jpg)  
 尝试使用APP的「一键开门」功能，但是提示「暂无门锁」，最后用传统的房卡开门了。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04752.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04752.jpg)  
 酒店房间约35平米，想到地处人民广场，还是可以理解的。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04733.jpg)  
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04750.jpg)  
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04735.jpg)  
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04746.jpg)
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04733.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04750.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04735.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04746.jpg)
 
 鉴于空间，酒店卫生间也不大，提供了干湿分离的淋浴间，简单的洗浴用品，相比其他国际品牌中端定位的酒店，还是有点差距。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04759.jpg)  
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04765.jpg)  
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04769.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04759.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04765.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04769.jpg)  
 双人床宽一米八，房间的灯光是暖色调，比较容易让人放松，灯光挺多的。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/gif1.gif)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/gif1.gif)  
 上床躺一躺，连上WIFI刷下微博和朋友圈。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04771.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04771.jpg)  
 床头两侧的插座有控制房间灯光的按钮，插座上有一个USB口，就不用插自己的USB头了，表扬一下。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04786.jpg)  
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04813.jpg)
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04786.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04813.jpg)
 
 房间一角提供了书桌。尴尬的是，刚刚表扬了床头的USB插口，结果办公需要的书桌，却只提供了普通的墙壁插座，墙上的路由器有网线孔，但是没有找到网线在哪。
 
 对于我们这种出门带一大堆数码设备的旅客来说，就略微麻烦了（所以我们平时出行都会带上排插！）。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04795.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04795.jpg)  
 房间里能搜到酒店WIFI，信号不错，无需密码，就能通过游客身份连上网（但是做网速限制），通过网页端手机短信验证后，就能解除限速。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04817.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04817.jpg)  
 书桌的设计有一个让人尴尬的细节，书桌本来不宽，贴着墙，墙上方的电视柜又占了一定的空间，就出现了打开 Macbook 后，屏幕顶到了电视柜，没法往里移动。比如说现在我正在这里写文章，手臂就只能无可奈何地架在空中。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04842.jpg)  
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04845.jpg)
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04842.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04845.jpg)
 
 在床上玩了一会电脑，用新手机自拍几张，网速还是不错的，不知道住客多的时候网络情况咋样。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04852.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/DSC04852.jpg)  
 来体验一下「掌上如家」的「智能控制」功能，进入APP里的「房间遥控」，就能通过APP来控制房间的灯光、窗帘等。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/ru3.jpg)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/ru3.jpg)  
 原理应该是房间的灯光、窗帘等设备都联上了互联网，用户在APP上操作后，就远程发送指令过来当前的房间了。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/homeplus/rujia3.gif)  
+![](https://c2.llyz.xyz/blog/2016/12/homeplus/rujia3.gif)  
 APP上切换灯光模式后，稍等约半秒，房间的灯光就发生了变化。建议可以在APP更加的明显位置，放置「智能遥控」功能的按钮。
 
 ## 感受

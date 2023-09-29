@@ -12,31 +12,31 @@ tags:
 
 交了9块钱定金，28号付了余下的90元尾款，第二天就从深圳发货了，品胜官方旗舰店，走的是申通快递，第三天送到了上海公司，速度还是很不错的。
 
-![full-img](https://c2.llyz.xyz/blog/2016/03/batter2.JPG)
+![](https://c2.llyz.xyz/blog/2016/03/batter2.JPG)
 
 包装还挺大的，2W毫安的容量，体积在这里。
 
-![full-img](https://c2.llyz.xyz/blog/2016/03/batter3.JPG)
+![](https://c2.llyz.xyz/blog/2016/03/batter3.JPG)
 
 拆开后就是充电宝机体和附送的USB线。
 
-![full-img](https://c2.llyz.xyz/blog/2016/03/batter4.JPG)
+![](https://c2.llyz.xyz/blog/2016/03/batter4.JPG)
 
 磨砂外壳，质感还行。
 
-![full-img](https://c2.llyz.xyz/blog/2016/03/batter5.JPG)
+![](https://c2.llyz.xyz/blog/2016/03/batter5.JPG)
 
 背面写着电池的规格信息。
 
-![full-img](https://c2.llyz.xyz/blog/2016/03/batter6.JPG)
+![](https://c2.llyz.xyz/blog/2016/03/batter6.JPG)
 
 这个充电宝一个亮点就是有个LCD的显示屏，可是显示当前剩余电量和充电信息。
 
-![full-img](https://c2.llyz.xyz/blog/2016/03/batter7.JPG)
+![](https://c2.llyz.xyz/blog/2016/03/batter7.JPG)
 
 顶部有3个孔，分别是充电，2安的USB口和1安的USB口。
 
-![full-img](https://c2.llyz.xyz/blog/2016/03/batter8.JPG)
+![](https://c2.llyz.xyz/blog/2016/03/batter8.JPG)
 
 充电的时候会提示USB口使用状况。
 

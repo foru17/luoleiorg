@@ -1,5 +1,5 @@
 ---
-title: 【骑行去西藏.叁】归来谈（经验-攻略-分享-问答）
+title: 骑行去西藏.叁 | 归来谈（经验-攻略-分享-问答）
 date: '2012-06-21'
 cover: https://c2.llyz.xyz/wp-image/2012/06/bike1.jpg "bike1"
 tags:

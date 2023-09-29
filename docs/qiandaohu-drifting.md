@@ -12,27 +12,27 @@ tags:
 
 周日漂流用小蚁运动相机拍了一个小短片，这里的漂流没有清远的刺激，妹纸是第一次体验。
 
-![full-img](https://c2.llyz.xyz/blog/2015/09/q3.jpg)
+![](https://c2.llyz.xyz/blog/2015/09/q3.jpg)
 
 周五下午从公司出发，将近五个小时的车程，到达千岛湖的时候已经晚上9点，第二天换房，酒店给我升级到套房，感觉还不错。
 
-![full-img](https://c2.llyz.xyz/blog/2015/09/q6.jpg)
+![](https://c2.llyz.xyz/blog/2015/09/q6.jpg)
 
 房间有个客厅，很大的落地窗，就是网络不咋D。
 
-![full-img](https://c2.llyz.xyz/blog/2015/09/q4.jpg)
+![](https://c2.llyz.xyz/blog/2015/09/q4.jpg)
 
 房间有一个大阳台，可以看到湖景。
 
-![full-img](https://c2.llyz.xyz/blog/2015/09/q5.jpg)
+![](https://c2.llyz.xyz/blog/2015/09/q5.jpg)
 
 夜晚的时候，很安静，和妹纸坐在阳台上吹风聊天。
 
-![full-img](https://c2.llyz.xyz/blog/2015/09/q2.JPG)
+![](https://c2.llyz.xyz/blog/2015/09/q2.JPG)
 
 周日的时候不少同事去坐船了，我同妹纸没去，下午的时候去码头等他们，拍一张合影。
 
-![full-img](https://c2.llyz.xyz/blog/2015/09/q1.JPG)
+![](https://c2.llyz.xyz/blog/2015/09/q1.JPG)
 
 小周末后大变化。
 

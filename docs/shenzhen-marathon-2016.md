@@ -11,7 +11,7 @@ tags:
 
 人这一辈子，也就这么点年头，总得找点事折腾下自己。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/marathon2.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/10/marathon2.jpg)
 
 2014年8月31日，河北秦皇岛，跑了人生的第一个全程马拉松。
 
@@ -21,15 +21,15 @@ tags:
 
 这个想法，也就这么成了我的「人生马拉松计划」。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon-3.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon-3.jpg)
 
 2014年10月19日，在PM2.5爆表的北京，跑了北京马拉松，创了一个PB( Personal Best )，4小时28分。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/11/shmarathon/sh20.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/11/shmarathon/sh20.jpg)
 
 2014年11月2日，一个人来到魔都，上海马拉松，半程刷了个最好记录1分56秒，下半程膝盖伤发，创了个最差成绩:5小时34分。
 
-![full-img](https://c2.llyz.xyz/blog/2015/12/marathon/gz49.JPG)
+![](https://c2.llyz.xyz/blog/2015/12/marathon/gz49.JPG)
 
 2015年12月6日，时隔一年，带着杨左去了趟广州，跑了我连续放了两届鸽子的广州马拉松，让人惊喜的是，在这座求学、生活了四年的城市，过去一年都没怎么训练的我，居然跑出了4小时34分的成绩。
 
@@ -61,7 +61,7 @@ tags:
 
 简单吃了点饭，开车带着家人去东莞看房。在东莞，倒车没注意，出了个小事故，碰了车屁股，回到深圳，发现忘记带跑步腰包，跑到蛇口迪卡侬，买了个腰包和能量棒，安排修车，一顿折腾，舟车劳顿。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz1.JPG)
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz1.JPG)
 
 这一次深圳马拉松改由智美承办，相比以前的承办商靠谱了不少。招商银行、中信和华为几个大赞助商，送了挺多「广告」。准备好参赛用品，12点才睡觉。
 
@@ -71,73 +71,73 @@ tags:
 
 #### 比赛日
 
-周日，早晨6点，三部手机的闹钟，吵醒了我，起床，叫了辆Uber，前往起跑点福田市民中心。 ![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma1.jpg) 过来的路上，深南大道并没封路，到达市民中心时，这里已经进行了交通管制，有巴士企图从这里过，交警对着司机大吼「你们没收到通知哇！」。
+周日，早晨6点，三部手机的闹钟，吵醒了我，起床，叫了辆Uber，前往起跑点福田市民中心。 ![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma1.jpg) 过来的路上，深南大道并没封路，到达市民中心时，这里已经进行了交通管制，有巴士企图从这里过，交警对着司机大吼「你们没收到通知哇！」。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma2.jpg) 早晨7点的福田，晨光洒在路边的高楼，12月底了，北京已经下雪，上海也开启了冻成狗模式，这里是依旧繁密茂盛的绿树，全国绿化率最高的城市，真好。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma2.jpg) 早晨7点的福田，晨光洒在路边的高楼，12月底了，北京已经下雪，上海也开启了冻成狗模式，这里是依旧繁密茂盛的绿树，全国绿化率最高的城市，真好。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma3.jpg) 7点出头，来了不少人，路中央的引导牌，指引参赛者前往各自的区域。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma3.jpg) 7点出头，来了不少人，路中央的引导牌，指引参赛者前往各自的区域。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma5.jpg) 这次马拉松，忘记带腰包，忘记带跑步眼镜，也忘记带运动外套，早晨还是有点冷，里面穿着短袖的T恤，外面套了个毛衫保暖。坐车过来路上已经吃了三个面包，离起跑还有一个钟，再吃点积累能量。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma5.jpg) 这次马拉松，忘记带腰包，忘记带跑步眼镜，也忘记带运动外套，早晨还是有点冷，里面穿着短袖的T恤，外面套了个毛衫保暖。坐车过来路上已经吃了三个面包，离起跑还有一个钟，再吃点积累能量。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma6.jpg) 去年跑广马的时候体重跟现在差不多，这一次穿的是2014年上马的衣服，鞋子是伴我跑了四次马拉松的索康尼，家里倒还有其他两双专业跑鞋。最终选择索康尼，主要还是因为轻便和舒适。这双鞋基本上就是跑马穿，跑完这次，也差不多该退休了。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma6.jpg) 去年跑广马的时候体重跟现在差不多，这一次穿的是2014年上马的衣服，鞋子是伴我跑了四次马拉松的索康尼，家里倒还有其他两双专业跑鞋。最终选择索康尼，主要还是因为轻便和舒适。这双鞋基本上就是跑马穿，跑完这次，也差不多该退休了。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma7.jpg) 没戴帽子，也没有导汗头带，杨左用皮带帮我扎了一下头发，一脸憔悴的我，是挺邋遢的。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma7.jpg) 没戴帽子，也没有导汗头带，杨左用皮带帮我扎了一下头发，一脸憔悴的我，是挺邋遢的。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz2.JPG) 检录进场了，由于腰包空间有限，放不下一加3t，这一次还是用iPhone6随身拍。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz2.JPG) 检录进场了，由于腰包空间有限，放不下一加3t，这一次还是用iPhone6随身拍。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz3.JPG) 广场里已经有不少参赛者，自拍的自拍，热身的热身，好不热闹。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz3.JPG) 广场里已经有不少参赛者，自拍的自拍，热身的热身，好不热闹。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz7.JPG) 进入起跑区，我的号码牌是A区，最前面，起跑区域还是挺宽的，密密麻麻都是人。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz7.JPG) 进入起跑区，我的号码牌是A区，最前面，起跑区域还是挺宽的，密密麻麻都是人。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz6.JPG)
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz6.JPG)
 
 空中有CCTV的直播直升机，在我们头顶盘旋，这也是央视第一次直播深圳马拉松，毕竟办了几届，规格还是上来了。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz8.JPG) 8点，发令枪响，起跑了，没有领导讲话（也可能是我没听到）。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz8.JPG) 8点，发令枪响，起跑了，没有领导讲话（也可能是我没听到）。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz9.JPG) 来个自拍，逆光。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz9.JPG) 来个自拍，逆光。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz10.JPG) 路上见到了一个坐着轮椅的参赛者，朝他喊了句「加油哥们」，必须鼓励。话说这哥们比我还快。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz10.JPG) 路上见到了一个坐着轮椅的参赛者，朝他喊了句「加油哥们」，必须鼓励。话说这哥们比我还快。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz11.JPG) 跑马中间的感受，就不在这里多说，总结大概就是「头20公里舒畅，后20公里忍耐」，以前几次马拉松，都差不多是32-35公里撞墙，这次20公里体力就下降得厉害，从深圳湾（大约20公里）折返之后，明显感觉到体力已经不行，腿的酸痛感也加剧，就开始走走停停。等到了32公里，已经是3小时50分钟。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz11.JPG) 跑马中间的感受，就不在这里多说，总结大概就是「头20公里舒畅，后20公里忍耐」，以前几次马拉松，都差不多是32-35公里撞墙，这次20公里体力就下降得厉害，从深圳湾（大约20公里）折返之后，明显感觉到体力已经不行，腿的酸痛感也加剧，就开始走走停停。等到了32公里，已经是3小时50分钟。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz12.JPG) 从福田跑到南山，再从南山跑到罗湖，途径华侨城、深圳湾、后海（我家！），深南大道的确漂亮，一路绿荫花开，相比北上广，深圳马拉松这一路风景，绝对算是最漂亮的。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz12.JPG) 从福田跑到南山，再从南山跑到罗湖，途径华侨城、深圳湾、后海（我家！），深南大道的确漂亮，一路绿荫花开，相比北上广，深圳马拉松这一路风景，绝对算是最漂亮的。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz13.JPG) 最后5公里的折返点，前头蓝色的大楼就是深圳的老地标「地王大厦」。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz13.JPG) 最后5公里的折返点，前头蓝色的大楼就是深圳的老地标「地王大厦」。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma10.jpg) ![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma11.jpg) 十分开心，这一次跑马，妈妈，弟弟还有杨左，在终点前面一百多米的马路边等我，本来她们是打算在深圳湾给我加油的，结果我跑过了，她们还没来。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma10.jpg) ![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma11.jpg) 十分开心，这一次跑马，妈妈，弟弟还有杨左，在终点前面一百多米的马路边等我，本来她们是打算在深圳湾给我加油的，结果我跑过了，她们还没来。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma12.jpg)
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma12.jpg)
 
 杨左一见到我就大喊，跑到路边，跟他们合个影，我弟这鬼脸，也真是。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma13.jpg) 跟妈妈弟弟左左拍完照，拖着一双又重又痛的腿，继续跑完最后一百米。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma13.jpg) 跟妈妈弟弟左左拍完照，拖着一双又重又痛的腿，继续跑完最后一百米。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz14.JPG) 枪声成绩5小时27分。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz14.JPG) 枪声成绩5小时27分。
 
 20公里被430兔子超了，倒数10公里被500的兔子超了，最后5公里折返，眼见着530的兔子在后面1公里多，想着还是不能太放纵自己，还是争取530以内，心里估算了下配速，果然还是525。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz15.JPG) 在这里特别感谢一位新朋友旭哥。跑到华侨城的时候，突然听到有人叫「磊哥」，回头一看，原来是一位群里的跑友，腾讯微信的同事，说是从我的博客认识我，后来进了我的交流群，机缘巧合，居然就这么在路上碰到了。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/sz15.JPG) 在这里特别感谢一位新朋友旭哥。跑到华侨城的时候，突然听到有人叫「磊哥」，回头一看，原来是一位群里的跑友，腾讯微信的同事，说是从我的博客认识我，后来进了我的交流群，机缘巧合，居然就这么在路上碰到了。
 
 旭哥也是个马拉松爱好者，这是他的第三个全马，比我瘦多了，20公里后，我两一同节奏跑完了全程，事后我觉得挺不好意思，觉得拖了他的配速，说实话，有个伴一起跑，一路聊天，互相鼓劲，的确要比一个人跑有意思多了。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma14.jpg) ![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma15.jpg)
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma14.jpg) ![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma15.jpg)
 
 拿到奖牌了，每年一个马拉松，2016的目标达成！
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma18.jpg) 跟妈妈和弟弟来个合照。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma18.jpg) 跟妈妈和弟弟来个合照。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma19.jpg) 跟我家杨左也来个合照。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma19.jpg) 跟我家杨左也来个合照。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma22.jpg) 这块松拓Ambtion2，也陪我一起跑过了五个马拉松，芬兰品质，值得信赖。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma22.jpg) 这块松拓Ambtion2，也陪我一起跑过了五个马拉松，芬兰品质，值得信赖。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/data.png) 松拓记录的配速数据，可以看到，头2个小时，配速基本还是能稳定在5分半到6分钟的样子，下半程配速就断崖式降落了，惨不忍睹。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/data.png) 松拓记录的配速数据，可以看到，头2个小时，配速基本还是能稳定在5分半到6分钟的样子，下半程配速就断崖式降落了，惨不忍睹。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/result.png) 官方成绩也反应了这一点，20公里2小时06分钟，相比上一次广马1小时50分多慢了15分钟，还算正常，不至于太难看。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/result.png) 官方成绩也反应了这一点，20公里2小时06分钟，相比上一次广马1小时50分多慢了15分钟，还算正常，不至于太难看。
 
 五次马拉松，我也总结出一个完赛规律：只要头半程能控制在2小时30分钟之内，后面的20公里，走走停停，哪怕全走路，只要能保持9分的配速，三个半小时也是可以搞定的。
 
-![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma20.jpg) ![full-img](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma21.jpg) 一个得之不易的奖牌。
+![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma20.jpg) ![](https://c2.llyz.xyz/blog/2016/12/shenzhen/ma21.jpg) 一个得之不易的奖牌。
 
 人生马拉松计划，每年一个马拉松，也是给自己点小压力和动力，让自己能坚持锻炼，保持体能。
 
@@ -147,4 +147,4 @@ tags:
 
 有一个叫「罗磊啰嗦」的公众号，会不定期地收集各位的问题:关于工作、关于学习、关于成长、关于旅行。会挑选一些问题统一在我的博客和公众号回答。
 
-![full-img](https://c2.llyz.xyz/wechat.png)
+![](https://c2.llyz.xyz/wechat.png)

@@ -25,15 +25,15 @@ tags:
 
 相比加德满都的嘈杂和高物价（相对的，对于天朝来客来说，都是超低物价），博卡拉适合长期停留，同等规格的酒店，在加德满都可能报价 1500 到 2000 尼泊尔卢布（官方汇率 15比 1 的样子），在博卡拉只要 800 就能搞到。同时博卡拉环境更佳（也是相对的），有美丽的[费瓦湖](https://lvyou.baidu.com/feiwahu/)，租一艘小船，沐浴着晨光或者曦样，游荡在湖面上，看远方的雪山，看白云，看天上的滑翔伞，用手抚一抚冰凉的水面，嗯哼，那天下午我就是这么渡过的。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/fewa-lake-2-cut.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/05/fewa-lake-2-cut.jpg)
 
 同行的博士大叔与姐姐一艘船，背后的是湖心岛，岛上有一个印度教的神庙，大叔和姐姐上岛了，我觉得远，就没去了。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/fewa-lake-cut.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/05/fewa-lake-cut.jpg)
 
 至于我嘛：妹妹你坐船头，哥哥我苦逼划船哟，嗯哼，我就光荣地当了新疆哈萨克族妹纸的船夫，这个妹纸也够欢乐的，一路自拍个没停，还挺会自拍的。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/fewa-lake-3.jpeg)
+![](https://c2.llyz.xyz/wp-image/2014/05/fewa-lake-3.jpeg)
 
 日落时分的费瓦湖胖，哎呀我拍照技术渣，加上那天天气有点雾霾霾的，颜色不够鲜艳呢。
 
@@ -53,19 +53,19 @@ tags:
 
 到了你飞行的那天，滑翔伞公司的员工会开着面包车（还挺高级的）来博卡拉各个宾馆接人，博卡拉也不大，转一下就接完全部人了。不是直接去山上飞，一般都是先到市内的滑翔伞公司门店集合，等其他游客、等教练，签订合约，当然，还有交钱。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-4.jpeg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-4.jpeg)
 
 在车内来个合影，坐我后面的是一个澳洲的游客，祖籍斯里兰卡，今年刚大学毕业，跟他聊了挺久，后来还互相加了脸书。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-2.jpeg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-2.jpeg)
 
 就是这个公司！！！
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-17.jpeg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-17.jpeg)
 
 在集合地，我们飞行小分队来个合影（东莞的姐姐去洗手间了），大家注意旁边的墙上有不少各国游客玩滑翔伞的照片，各种欢乐，看样子玩得挺 High 的。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-1.jpeg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-1.jpeg)
 
 每个人都要签署一份协议（详细内容我没看），包含个人信息、护照号码、收费价格、紧急联系人之类的，还有一些免责条款吧。
 
@@ -75,55 +75,55 @@ tags:
 
 坐着面包车，一般都是跟教练一起的，扑通扑通开上山，这个时候该主动主动了，挑几个顺眼的教练，勾搭勾搭，问问「Wher are your from?」之类的话题，说说「I want fly with you」（我要与你双飞）之类的油皮话，先预订嘛，等会下车就直接跟过去，帅的人，拍照的时候才不亏嘛。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-6.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-6.jpg)
 
 到了山坡，一个约莫30度的小坡，等会就是从这里冲下去，先晒晒太阳，喝几口小水，抹抹防晒霜，教练们这个时候会整理伞具摆好阵势。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-5.jpeg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-5.jpeg)
 
 等一小会，就该自己穿上装备了，一个头盔，一个吊带，把裤子神马的系好，小东西都放包里，相机手机可以拿在手上上天，别掉了就好，教练才不管你，反正你东西掉了人家也不用赔对吧。照片是我们帅气的浪哥。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-7.jpeg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-7.jpeg)
 
 这是与浪哥一起双飞的尼泊尔教练（心中弱弱吐槽尼玛都没人给我拍照，都给你们拍了）
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-10.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-10.jpg)
 
 等风来，一阵风吹过，教练会招呼你"GO GO GO”，把握好节奏，向前冲去，哪怕前面万丈深渊，冲向那光明的天……
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-11.jpeg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-11.jpeg)
 
 这位貌似是一个来自深圳的驴友，他后面的教练是美国科罗拉多的，科罗拉多也是户外圣地啊。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-9.jpeg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-9.jpeg)
 
 蓝天，白云，老鹰，普通青年在空中高唱「我要飞得更高……」，文艺青年唱「 I believe i can fly」，二逼青年「哎呀妈呀啊啊啊啊啊」。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-12.jpeg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-12.jpeg)
 
 这一批游客都去双飞了，留下寂寞，留下我。好吧，其实我是第二天才飞的。大家可以看到我们起飞的这个山，相对海拔还是挺高的。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-13.jpeg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-13.jpeg)
 
 我们是第二天中午10点飞的，一起飞的是一群中国大妈，遇到了一点冲突耽误了点时间，11点上的山，天气不错，还是昨天那群教练，见到我他们还很高兴又聊了几句。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-15.jpeg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-15.jpeg)
 
 跟我一起飞的是个高高瘦瘦的美国人，还不错，在空中玩了 Roll 翻滚，还给我拍了不少照片。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/GOPR5393.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/05/GOPR5393.jpg)
 
 在空中，倒的确是玩 high 了，感受着脚下的风，感受着阳光（戴风镜上天是一个正确的选择），十分幸运的是真的有老鹰向我们这边飞来，所谓「与鹰同翔」，这种感觉太赞了，忍不住装模作样敬个军礼，喊了句" Yes ,Captain".意淫一下自己是个战斗(鸡)机飞行员
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-18.jpeg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-18.jpeg)
 
 这张照片是教练自己用 Gopro 给我拍的，大家可以看到前方已经有许多的滑翔伞，在空中看其他人飞翔，也是一番景象啊。当然也可以看得出这的确是一个很受大家欢迎的项目，不贵（国内随便吃顿饭就上好几百了好么）。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-20.jpeg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-20.jpeg)
 
 下方就是著名的费瓦湖，滑翔的过程中有一段时间是在湖上盘旋，我就是在湖上玩翻滚的，特刺激。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-16.jpeg)
+![](https://c2.llyz.xyz/wp-image/2014/05/Paragliding-fly-16.jpeg)
 
 飞了约莫25分钟，降落到费瓦湖边的一块空地上，降落速度不快，前面的人首先落地，膝盖稍微弯曲做一下缓冲就好。最后跟这个教练握了个手，合影了一张。
 

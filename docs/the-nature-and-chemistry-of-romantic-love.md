@@ -6,7 +6,7 @@ tags:
 - read
 ---
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/love-original.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/10/love-original.jpg)
 
 初二的时候，我在每周语文老师布置的周记作业里，写下了这句话：
 

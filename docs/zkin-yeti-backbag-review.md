@@ -30,61 +30,61 @@ tags:
 
 包的型号Zkin Yeti，灰色颜值赞 ，全包防水。
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/zkin/z1.JPG)
+![](https://c2.llyz.xyz/blog/2016/06/zkin/z1.JPG)
 
 从Zkin国内经销商淘宝店购置，上海隔天就送到了。有一个塑料包包裹着。
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/zkin/z2.JPG)
+![](https://c2.llyz.xyz/blog/2016/06/zkin/z2.JPG)
 
 第一印象，灰色比较低调，包外材质是尼龙，防水溅。
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/zkin/z3.JPG)
+![](https://c2.llyz.xyz/blog/2016/06/zkin/z3.JPG)
 
 侧面，好大的Logo挂牌。
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/zkin/z4.JPG)
+![](https://c2.llyz.xyz/blog/2016/06/zkin/z4.JPG)
 
 侧脸45度，才用纽扣式配合拉练的开关，设计和外观还行，但是卡扣这些小细节给人的感觉是质感配不上这个价格，总觉得有点强度不够。
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/zkin/z5.JPG)
+![](https://c2.llyz.xyz/blog/2016/06/zkin/z5.JPG)
 
 Logo特写。Zkin走的是潮牌路线，性价比不算高，属于颜值系，看国外的广告，也都是请明星出境使用，黑人、陈小春都有用这个包。
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/zkin/z9.JPG)
+![](https://c2.llyz.xyz/blog/2016/06/zkin/z9.JPG)
 
 下部的相机收纳部分，内胆分隔可以自己移动搭配，放一个机身，两个定焦，再加一个变焦或者闪光灯问题不大，当然，对于更多镜头组的话，就不用考虑了，容量在这里限制。
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/zkin/z11.JPG)
+![](https://c2.llyz.xyz/blog/2016/06/zkin/z11.JPG)
 
 两边都有侧开口，方便横着拿东西出来，里面放了一个Rode的枪麦和品胜的2W毫安电池。防盗性嘛，见仁见智。
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/zkin/z15.JPG)
+![](https://c2.llyz.xyz/blog/2016/06/zkin/z15.JPG)
 
 顶部收纳，可以放一些随身的小物件，钱包什么的，刚好放下一个乐拍DS1（微单稳定器）和智云手机（运动相机）稳定器，再加一个章鱼三脚架，对于我来说，刚好解决了我的需求。
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/zkin/z14.JPG)
+![](https://c2.llyz.xyz/blog/2016/06/zkin/z14.JPG)
 
 上部收纳空间，也提供侧边拉练开头拿东西出来。
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/zkin/z12.JPG)
+![](https://c2.llyz.xyz/blog/2016/06/zkin/z12.JPG)
 
 背后有专门的电脑包，放13寸MacBook Air正合适，当然，一般肯定不背电脑，随身带iPad Pro。
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/zkin/z10.JPG)
+![](https://c2.llyz.xyz/blog/2016/06/zkin/z10.JPG)
 
 前方的袋子，里面有几个小分割，方便放电池，储存卡之类，我的电池，都专门拿盒子收纳了起来，空间刚好塞进去。
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/zkin/z7.JPG)
+![](https://c2.llyz.xyz/blog/2016/06/zkin/z7.JPG)
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/zkin/z8.JPG)
+![](https://c2.llyz.xyz/blog/2016/06/zkin/z8.JPG)
 
 侧挂三脚架啊，实用的是富宝图X-4i便携，这里要吐槽一下，侧挂三脚架还是挺不方便的，总是甩来甩去，下方有一个三脚架的收纳底袋，挂下面倒可以固定住。
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/zkin/z19.JPG)
+![](https://c2.llyz.xyz/blog/2016/06/zkin/z19.JPG)
 
 包自带一个防水罩，收纳在包底部的隔层袋里面，一开始我心里还想怎么没有袋子，难道忘记给我送了。
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/zkin/z20.JPG)
+![](https://c2.llyz.xyz/blog/2016/06/zkin/z20.JPG)
 
 这是补拍的照片，Zkin这个包给人感觉就是好多袋子！好多格子！各种互通，可以看出设计的时候还是花了心思了。
 

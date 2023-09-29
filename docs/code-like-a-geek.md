@@ -6,7 +6,7 @@ tags:
 - develop
 ---
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/geek.jpg) 首先忽略标题，不标题党点没人看。嗯哼，进入正题。
+![](https://c2.llyz.xyz/blog/2015/02/geek.jpg) 首先忽略标题，不标题党点没人看。嗯哼，进入正题。
 
 工作了一年，这一年，用一句话来形容，差不多就是：
 
@@ -48,9 +48,9 @@ iMac放在公司，Macbook随身，前端项目多而杂，不知道什么时候
 
 很早之前，就养成用Evernote做笔记和整理资料的习惯，不管是读书笔记、技术学习摘要，正在进行的开发项目需求、代码片段，都会根据分类，摘要后记录到印象笔记。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/yxbj.png)
+![](https://c2.llyz.xyz/blog/2015/02/yxbj.png)
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/yxbj2.png)
+![](https://c2.llyz.xyz/blog/2015/02/yxbj2.png)
 
 不是每个人的大脑都能记录长串的信息，对此，我的方法是这样的：**大脑负责浅索引，印象笔记进行深记忆**。
 
@@ -82,7 +82,7 @@ VIM同样安装了一些插件，过段时间分享下自己的Vim插件和配�
 
 Mac上的神器，可以自己写插件，来实现一系列操作。过去曾经写过一篇[《Mac效率工具 Alfred 本土搜索功能优化》](https://luolei.org/mac-alfred/)，供参考。下图就是我通过alfred直接调用Dash查询JavaScript文档（需要Alfred插件）。
 
-![full-img](https://c2.llyz.xyz/blog/2015/02/alfred.png)
+![](https://c2.llyz.xyz/blog/2015/02/alfred.png)
 
 #### 9.快捷键
 
@@ -102,7 +102,7 @@ Chrome的快捷键、Sublime的快捷键、OSX系统的快捷键，Gmail的快�
 
 前端开发中，我会用到Grunt和Gulp来自动化自己的工作流，使用Sass来进行CSS预处理，对于图片精灵、图片压缩，自己配置好了之后，全部交给机器来做。对此我写过一篇文章[《让前端工作更快、更智能:利用StaticPage自动化工作流》](https://luolei.org/rang-qian-duan-gong-zuo-geng-kuai-geng-zhi-neng-li-yong-staticpagezi-dong-hua-gong-zuo-liu/)
 
-![full-img](https://file.is26.com/wp-image/2014/03/smart-with-static.jpg)
+![](https://file.is26.com/wp-image/2014/03/smart-with-static.jpg)
 
 ## 小结
 

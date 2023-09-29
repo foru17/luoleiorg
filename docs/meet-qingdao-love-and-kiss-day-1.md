@@ -8,7 +8,6 @@ categories:
 tags:
 - photography
 - travel
-- qing-dao
 ---
 
 清明假期跟女朋友去了一趟青岛，不错的城市，凑合的天气，虽说一大早迟到了5分钟没赶上高铁，无奈另外花了高价买了黄牛票，但总的来说还是很愉快和放松的记忆。
@@ -27,7 +26,7 @@ tags:
 
 北京来回青岛的交通，去程是高铁，总路程需要大概5个小时，高铁票价每人316元；回程是飞机，回程机票两人加上机建燃油也才600多，北京青岛属于短程，交通还是很方便的，适合短途出游。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/qingdao/yinxiang1.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/qingdao/yinxiang1.jpg)
 
 一路的住宿、交通、景点、美食，精确到小时的行程（实际操作不会这么严格），并且把一些事先在网路上看到的青岛相关的资料，我都记录在印象笔记里。
 
@@ -45,60 +44,60 @@ tags:
 
 不愉快的插曲，但是好歹还是上车了。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/yi-1.JPG)
+![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/yi-1.JPG)
 
 在火车站，给妹纸拍了一张逆光，效果还不错。总之，不愉快的就都留在北京吧，开始了假期旅途。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/qingdao/QD1.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/qingdao/QD1.jpg)
 
 下午三点半，到达青岛，青岛火车站外面，小走几百米，就是青岛著名的一个景点栈桥，今天青岛天气还行，蓝天，出太阳，不冷不热。火车站的的士都不愿打表并且拒载，想着也不急，用百度地图查了下路线，坐公交前往东区市政府旁边的酒店，这次住的是青岛中心假日酒店，由于是会员，入住还送了一份小礼物，酒店区位不错，旁边就是奥帆中心和五四广场。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/qingdao/QD2.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/qingdao/QD2.jpg)
 
 小走几部，到了奥帆中心，正好碰上日落十分，摄影的Magic Hour，拍了一组逆光。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/qingdao/QD3.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/qingdao/QD3.jpg)
 
 海滨城市，海角的另外一边就是五四广场。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/qingdao/QD4.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/qingdao/QD4.jpg)
 
 由于今天还不是正式的清明节（我是请了一天假，提前一天走的，刚好错过了出程和回程的高峰），海边人不多。与妹纸慢慢悠悠走在海边，吹着海风，看着海鸥。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/qingdao/QD5.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/qingdao/QD5.jpg)
 
 魔法时刻，碰到海边的一个望远镜，刚好可以借做一个拍照的小道具。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/qingdao/QD6.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/qingdao/QD6.jpg)
 
 每次给妹纸拍照，都很喜欢妹纸回眸和侧脸。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/qingdao/QD7.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/qingdao/QD7.jpg)
 
 后面就是奥帆码头，2008北京奥运会的水上项目，不少就在这里举行。还有一个很大的火炬。
 
 太阳慢慢下山了，不，下海了ﾉ( ´ ▽ \` )ﾉ，有点冷了，去了奥帆中心附近一家叫「船歌鱼水饺」的餐厅，吃了几个青岛的特色菜。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/qingdao/fd3.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/qingdao/fd3.jpg)
 
 青岛特色海鲜水饺，69一盘20个，差不多普通水饺的三倍价格，黑色的是墨鱼水饺，味道很不错，值得一尝。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/qingdao/fd1.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/qingdao/fd1.jpg)
 
 流亭猪蹄，也是青岛特色菜，属于凉菜，味道还行。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/qingdao/fd2.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/qingdao/fd2.jpg)
 
 来到海边，怎么能不吃海味，辣炒蛤蜊。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/qingdao/QD42.JPG)
+![](https://c2.llyz.xyz/blog/2015/04/qingdao/QD42.JPG)
 
 晚上回到酒店，房间楼层比较高，这边应该也算是青岛的CBD之类的吧。
 
 小插曲，凌晨时分，两人都饿了，下去找到了一个路边的烧烤摊给，吃了传说中的青岛「野馄饨」，6块钱，一大碗，现包，那美味，这性价比，大赞。
 
-#### 遇见青岛系列
+## 遇见青岛系列
 
-- [【遇见】青岛，DAY2](https://luolei.org/meet-qingdao-love-and-kiss-day-2/)
-- [【遇见】青岛，DAY3](https://luolei.org/meet-qingdao-love-and-kiss-day-3/)
+- [遇见 | 青岛，DAY2](https://luolei.org/meet-qingdao-love-and-kiss-day-2/)
+- [遇见 | 青岛，DAY3](https://luolei.org/meet-qingdao-love-and-kiss-day-3/)
 - [旅游装逼指南：一吻定「青」，如何让你的旅途(至少)看起来更加精彩](https://luolei.org/kiss-and-love-in-qingdao-yi-camera/)

@@ -20,8 +20,8 @@ tags:
 
 欢迎各位点击下面的链接关注或者订阅我们，多谢:
 
-- [【优酷自频道】:左罗TV](https://i.youku.com/i/UMjQyNzQ2NTA4)
-- [【Youtube Channel】:ZuoluoTv](https://www.youtube.com/channel/UCFCs9KNL6f2ZMKsoU7rjbkg)
+- [优酷:左罗TV](https://i.youku.com/i/UMjQyNzQ2NTA4)
+- [Youtube Channel:ZUOLUOTV](https://www.youtube.com/channel/UCFCs9KNL6f2ZMKsoU7rjbkg)
 - [新浪微博:@罗罗磊磊](https://weibo.com/foru17)
 - [新浪微博:@杨杨左左](https://www.weibo.com/809033993?is_all=1)
 - [Instagram:@foru17](https://www.instagram.com/foru17/)

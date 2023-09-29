@@ -83,9 +83,9 @@ tags:
 #### 导航
 
 - [我在读什么:2016春季读书分享](https://luolei.org/what-i-read-in-2016-spring/)
-- [【年終卷】2015年我读了哪些书？](https://luolei.org/what-i-read-in-2015/)
+- [年終卷 | 2015年我读了哪些书？](https://luolei.org/what-i-read-in-2015/)
 - [我在读什么:2015春季读书分享](https://luolei.org/what-i-read-in-2015-spring/)
-- [【年終卷】2014年我读了哪些书？](https://luolei.org/what-i-read-in-2014/)
+- [年終卷 | 2014年我读了哪些书？](https://luolei.org/what-i-read-in-2014/)
 - [我在读什么:2014春季读书分享](https://luolei.org/what-i-read-in-2014-spring/)
 - [《2013年我看过哪些值得推荐的好书？》](https://luolei.org/books-i-read-in-2013/)
 
@@ -97,8 +97,8 @@ tags:
 
 欢迎各位点击下面的链接关注或者订阅我们，多谢:
 
-- [【优酷自频道】:左罗TV](https://i.youku.com/i/UMjQyNzQ2NTA4)
-- [【Youtube Channel】:ZuoluoTv](https://www.youtube.com/channel/UCFCs9KNL6f2ZMKsoU7rjbkg)
+- [优酷:左罗TV](https://i.youku.com/i/UMjQyNzQ2NTA4)
+- [Youtube:ZUOLUOTV](https://www.youtube.com/channel/UCFCs9KNL6f2ZMKsoU7rjbkg)
 - [新浪微博:@罗罗磊磊](https://weibo.com/foru17)
 - [新浪微博:@杨杨左左](https://www.weibo.com/809033993?is_all=1)
 - [Instagram:@foru17](https://www.instagram.com/foru17/)

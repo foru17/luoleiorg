@@ -14,9 +14,9 @@ tags:
 
 某种程度上，一个人读什么书，可以反应一个人的某些性格、兴趣和特征，过去这四年读的百来本书，一定意义上也是过去这几年自己内心的思考和探索旅程。
 
-- [【年終卷】2015年我读了哪些书？](https://luolei.org/what-i-read-in-2015/)
+- [年終卷 | 2015年我读了哪些书？](https://luolei.org/what-i-read-in-2015/)
 - [我在读什么:2015春季读书分享](https://luolei.org/what-i-read-in-2015-spring/)
-- [【年終卷】2014年我读了哪些书？](https://luolei.org/what-i-read-in-2014/)
+- [年終卷 | 2014年我读了哪些书？](https://luolei.org/what-i-read-in-2014/)
 - [我在读什么:2014春季读书分享](https://luolei.org/what-i-read-in-2014-spring/)
 - [《2013年我看过哪些值得推荐的好书？》](https://luolei.org/books-i-read-in-2013/)
 

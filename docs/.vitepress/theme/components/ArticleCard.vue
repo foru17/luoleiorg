@@ -117,14 +117,14 @@
       </div>
       <div class="w-full px-6 mt-5">
         <p
-          class="h-auto md:h-14 font-medium antialiased break-normal text-base sd:text-lg md:text-lg text-gray-800 dark:text-slate-300 line-clamp-2">
+          class="h-auto md:h-12 font-medium antialiased break-normal text-base sd:text-lg md:text-base text-gray-800 dark:text-slate-300 line-clamp-2">
           {{ title }}
         </p>
       </div>
     </a>
   </div>
   <div
-    class="flex-none mt-auto bg-white dark:bg-zinc-800 rounded-b rounded-t-none overflow-hidden shadow-lg p-6 h-16">
+    class="flex-none mt-auto bg-white dark:bg-zinc-800 rounded-b rounded-t-none overflow-hidden shadow-lg px-6 py-3 h-12">
     <div class="flex items-center justify-between">
       <p
         class="text-gray-400 dark:text-slate-400 text-sm sd:text-sm md:text-sm">
@@ -167,7 +167,7 @@
 
         <svg
           v-if="isArticleListHitsFetched && hit > hotArticleViews"
-          class="icon text-red-400 dark:text-red-700 fill-blue-600 -mt-0"
+          class="icon text-red-400 dark:text-red-500 fill-blue-600 -mt-0"
           viewBox="0 0 1024 1024"
           width="14"
           height="14">
@@ -180,7 +180,7 @@
         <p
           v-if="isArticleListHitsFetched"
           :class="{
-            'text-red-400 dark:text-red-700': hit > hotArticleViews,
+            'text-red-400 dark:text-red-500': hit > hotArticleViews,
           }"
           class="text-gray-400 dark:text-slate-400 text-sm sd:text-sm md:text-sm ml-px">
           {{ hit }}

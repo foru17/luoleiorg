@@ -6,7 +6,7 @@ tags:
 - movies
 ---
 
-![full-img](https://c2.llyz.xyz/blog/2015/snowden.jpg)
+![](https://c2.llyz.xyz/blog/2015/snowden.jpg)
 
 昨天搜奥斯卡电影，发现了2015年度最佳纪录片[《第四公民》](https://zh.wikipedia.org/wiki/%E7%AC%AC%E5%9B%9B%E5%85%AC%E6%B0%91)，今天找到[种子](https://www.bttiantang.com/s.php?q=%E7%AC%AC%E5%9B%9B%E5%85%AC%E6%B0%91&sitesearch=www.bttiantang.com&domains=bttiantang.com&hl=zh-CN&ie=UTF-8&oe=UTF-8)，下了1080p的全高清片源，找了中英字幕，一个人在家静静地看完。
 
@@ -16,15 +16,15 @@ tags:
 
 纪录片十分出色，完整记录了斯洛登与调查记者Glenn Greenwald及《卫报》记者Ewen MacAskill接触、见面、现身、避难的完整过程。很大的篇幅是两位记者与斯洛登在香港会面的头七天在酒店里的对话，穿插了大量不同国家政府的回应和调查的新闻资料。
 
-![full-img](https://c2.llyz.xyz/blog/2015/snowden2.jpg)
+![](https://c2.llyz.xyz/blog/2015/snowden2.jpg)
 
 一开始的颇有黑客色彩的命令行里的双向通信加密，还让人觉得有点造作，而Glenn Greenwald在斯洛登拿着红布罩挡着输密码的时候，还显得一脸「多此一举」的表情。
 
-![full-img](https://c2.llyz.xyz/blog/2015/snowden3.jpg)
+![](https://c2.llyz.xyz/blog/2015/snowden3.jpg)
 
 可是到纪录片最后，美国政府以反间谍罪通缉斯洛登，英国、德国等几国政府均采取一系列相关行动的时候，最后当Glenn Greenwald再次见到已经在俄罗斯政治避难的斯洛登，交流关于美国监听德国功大量人员的资料的时候，他自己却选择了用笔写下关键字，以防止有人通过任何的设备、网络等窃听。
 
-![full-img](https://c2.llyz.xyz/blog/2015/snowden4s.jpg)
+![](https://c2.llyz.xyz/blog/2015/snowden4s.jpg)
 
 生活在一个威权国家，每个人都很难保证自己的权利不受到侵犯。相比政治上的民主，我倒更关注「自由」，这是一个很少有人关注民主，甚至很少有人关注自由的地方。
 
@@ -74,7 +74,7 @@ tags:
 
 ## 后记
 
-![full-img](https://c2.llyz.xyz/blog/2015/snowden6.jpg)
+![](https://c2.llyz.xyz/blog/2015/snowden6.jpg)
 
 写完这篇文章，世界上如此多的巧合，打开微信，在大学的群里看到朋友昨天发了一篇文章，讲的就是我的这篇文章中提到的这位牛姓老师，点进去已经看不到此文，从缩略简介上来看，你懂的，祝他平安。
 

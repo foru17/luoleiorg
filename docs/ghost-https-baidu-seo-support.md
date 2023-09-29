@@ -88,11 +88,11 @@ server {
 
 要检查自己的https站点是否能被百度正常收录，可以使用百度的[《百度站长工具:抓取诊断》](https://zhanzhang.baidu.com/crawltools/index?site=https://luolei.org/)。
 
-![full-img](https://c2.llyz.xyz/blog/2015/05/baidu3.jpg)
+![](https://c2.llyz.xyz/blog/2015/05/baidu3.jpg)
 
 利用这个工具，可以测试指定页面的抓取结果，也可以测试PC端和移动端爬虫不同的抓取结果。
 
-![full-img](https://c2.llyz.xyz/blog/2015/05/baidu2.jpg)
+![](https://c2.llyz.xyz/blog/2015/05/baidu2.jpg)
 
 桌面端百度爬虫的UA是
 
@@ -102,7 +102,7 @@ Mozilla/5.0 (compatible; Baiduspider/2.0; +https://www.baidu.com/search/spider.h
 
 如果正常抓取，会返回HTTP头和页面内容。
 
-![full-img](https://c2.llyz.xyz/blog/2015/05/baidu1.jpg)
+![](https://c2.llyz.xyz/blog/2015/05/baidu1.jpg)
 
 需要注意的是，移动端爬虫的UA有所差异：
 

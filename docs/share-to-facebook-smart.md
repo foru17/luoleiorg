@@ -14,7 +14,7 @@ tags:
 
 Facebook对于网页，提供了`Open Graph Object`的解决方案。同Google类似，Facebook也有自己的爬虫，当你分享一个网页的时候，Facebook的爬虫也会抓取你指定网页的内容，并在你的网页上展示以下图样式卡片的方式展示出来。包含标题、简介、缩略图、来源网站，点击后可以跳转到指定的网站。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/facebook1.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/facebook1.jpg)
 
 Facebook的爬虫，会优先抓取网页中的`<title>`和`<meta>`标签的中`description`来作为标题和描述的来源，并且默认按照上下顺序抓取`<body>`中的`<img>`来作为缩略图。
 
@@ -29,7 +29,7 @@ Facebook的爬虫，会优先抓取网页中的`<title>`和`<meta>`标签的中`
 
 > 用户的时间和屏幕很宝贵，不要污染了用户的视线。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/facebook2.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/facebook2.jpg)
 
 对于这个问题，我们想了一个曲线救国的方法，既然第三方网站不可控，那么我们可不可以做一个中转网页，来控制这些内容。
 
@@ -96,19 +96,19 @@ https://www.cmcm.com/activity/cm-fb-deeplink/cmnow.php?language=en&shareurl=http
 
 注意的是，`og:url` 务必填写当前中转页面的url`$escaped_link`
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/facebook3.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/facebook3.jpg)
 
 如果你的初始url是`a.com`，而通过`php`或者`js`进行跳转到`b.com`，最终facebook收录的还是`b.com`的资料。而如果设置了`og:url`，则只会抓取`og:url`中的url对应网页中的`<meta>`信息，而忽略了跳转。
 
 试一试我们刚刚的链接，查看下源代码。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/facebook4.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/facebook4.jpg)
 
 已经是符合Facebook的页面，都是我们指定的信息。
 
 再在Facebook的[Open Graph Object Debugger](https://developers.facebook.com/tools/debug/og/object/)中测试下，也已经是我们需要的样式。
 
-![full-img](https://c2.llyz.xyz/blog/2015/04/facebook5m.jpg)
+![](https://c2.llyz.xyz/blog/2015/04/facebook5m.jpg)
 
 **注意**:Facebook抓取网页需要一定的时间，所以有时候如果显示不是你预期的效果，也是正常的，一般等一会，再分享，就都是正常的了。
 

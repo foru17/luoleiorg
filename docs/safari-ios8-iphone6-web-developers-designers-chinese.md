@@ -77,7 +77,7 @@ iPhone 6 和 iPhone6 Plus 是苹果继 iPhone 5 后的又一款不同尺寸和�
 
 直到上周，所有的 iPhone 和 iPod 使用的都是`320px`的屏幕宽度。iPhone 6 和 Plus 相比前代更加宽，给我们带来了更多的空间，苹果终于决定加宽浏览器宽度了。但是苹果奇葩的是使用了一套特殊的屏幕像素值。大部分`4.7~5寸`的安卓设备的`viewport`宽设为`360px`，iPhone 6上却是`375px`，大部分`5.5寸`安卓机器（比如说三星Note）的`viewport`宽为`400`，iPhone 6 plus 上却是十分怪异的`414px` （╮(╯\_╰)╭ 苹果你这样折腾是闹哪样啊）。这意味着相比同样尺寸的安卓机器，iPhone 6用户大概要少看`4%`的内容。也许这并不是什么大问题，但是你也许还是得检查下你的网站是否适配。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/iphone6.png)
+![](https://c2.llyz.xyz/wp-image/2014/10/iphone6.png)
 
 适配新iPhone，你可以使用下面两段`<meta>`
 
@@ -125,7 +125,7 @@ iPhone 6对应的图片大小是`750×1294`，iPhone 6 Plus 对应的是`1242×2
 
 你可以在微软的这个[FishGl](https://fishgl.com/)测试下 iOS 8 Safarai上进行3D渲染的效果。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/webgl.png)
+![](https://c2.llyz.xyz/wp-image/2014/10/webgl.png)
 
 **IndexdDB**是W3C继起用`WebSQL`后推出的新的标准，随着 iOS支持 `IndexedDB`，我们能在不同的手机浏览器上使用同一套数据库API。
 
@@ -137,7 +137,7 @@ iPhone 6对应的图片大小是`750×1294`，iPhone 6 Plus 对应的是`1242×2
 
 iPhone处于横屏的时候,iPad（横竖均可），如果你用手指捏放屏幕（比如说你想放大网页），你会进入一个`标签预览模式`，用起来倒是挺方面，可是可能会与你在网页上使用的`gesturechange`事件所冲突，如果你要使用自定义缩放事件，首先爱你你得`event.preventDefault()`来阻止浏览器的默认事件。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/zoomios.PNG)
+![](https://c2.llyz.xyz/wp-image/2014/10/zoomios.PNG)
 
 #### 取消 MINIMAL-UI
 
@@ -147,7 +147,7 @@ iPhone处于横屏的时候,iPad（横竖均可），如果你用手指捏放屏
 
 Safari如今支持自动补全表单，并且当Safari检测到你要填写的是信用卡的时候他会允许你开启摄像头直接扫描实体信用卡。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/scancard.png)
+![](https://c2.llyz.xyz/wp-image/2014/10/scancard.png)
 
 于此同时，Safari也支持`autocomplete`属性，参考[latest spec](https://html.spec.whatwg.org/multipage/forms.html#autofill)。这意味着如果你在一个登录页面，Safari可以调用Keychain里的数据自动填写用户名帐号、密码。Luis Abreu写过一篇关于iOS 8安全和隐私相关的文章，推荐可以[看看](https://lmjabreu.com/post/ios-8-privacy-updates/#safari-keychain-improvements)
 
@@ -155,29 +155,29 @@ Safari如今支持自动补全表单，并且当Safari检测到你要填写的�
 
 如果你的网站提供了RSS订阅，iOS 8用户可以直接在浏览你网页的时候在书签栏打开他。就是那个`@`图标里面有个`订阅`的按钮，虽说有点小低调，但好歹还是有嘛 ﾉ( ´ ▽ \` )ﾉ。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/rssios.jpg)
+![](https://c2.llyz.xyz/wp-image/2014/10/rssios.jpg)
 
 #### 工具栏
 
 现在地址栏和工具栏就变成半透明了。在 iOS 7上只有地址栏是半透明的。这意味着初次加载的时候网页可视区域变得更大（包含了底部的工具栏）。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/bottom-toolbar-300x109.png)
+![](https://c2.llyz.xyz/wp-image/2014/10/bottom-toolbar-300x109.png)
 
 #### iPad上的更新
 
 iOS 7以后，使用iPhone上的Safari浏览网页，滚动的时候会自动隐藏工具栏（ipad不会），iOS 8 ipad也有了这个细节上的变化（横竖都有）。不同的是，在横向模式的时候，iPad上面还有一小条，iPhone则是全屏。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/ipad1.png)
+![](https://c2.llyz.xyz/wp-image/2014/10/ipad1.png)
 
 除此之外，Safari在横屏模式开启侧边栏会保持原有的`viewport`大小，只会改变`aspect-ratio`
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/ipadios8.PNG)
+![](https://c2.llyz.xyz/wp-image/2014/10/ipadios8.PNG)
 
 #### 书签icon和常用网站
 
 Safari终于支持收藏夹里和书签里的网页附带网站的icon图标。当你在地址栏输入关键字搜索的时候，同样会展示网站的icon（ipad刚刚我测试了下没有）。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/icon1.png)
+![](https://c2.llyz.xyz/wp-image/2014/10/icon1.png)
 
 #### 跨平台切换
 
@@ -209,7 +209,7 @@ Safari终于支持收藏夹里和书签里的网页附带网站的icon图标。�
 
 你可以在 [HTML5Test.com](https://html5test.com/)这里测试下你webapp的性能。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/html5test.png)
+![](https://c2.llyz.xyz/wp-image/2014/10/html5test.png)
 
 对于那种包壳应用和webviewe应用来说，这个变化是十分重要的。比如说iOS上的Chrome和Facebook本地应用中的网页应用（我们猎豹的电池医生、手机猎豹也大量应用webview）。根据一份报告，`11.5%`的iOS流量是来自基于`webview`的应用。
 
@@ -223,11 +223,11 @@ iOS 8上的Safar 是第一个支持插件和拓展的系统预装浏览器（Fir
 
 除了苹果在WWDC上演示的功能，Safari的这个改进意味着浏览网页会有极大的体验改善。比如说你可以在Safari直接调用1Password或者LastPassword 保存的帐号密码登录，如果你的iPhone 有 Touch ID指纹识别，你甚至可以直接指纹验证登录。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/action.png)
+![](https://c2.llyz.xyz/wp-image/2014/10/action.png)
 
 Pocket.com 已经声明即将推出针对 iOS 8的插件。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/pocket2.png)
+![](https://c2.llyz.xyz/wp-image/2014/10/pocket2.png)
 
 ## 前端和设计师的福利
 
@@ -273,7 +273,7 @@ Fragment identifiers from SVG is a method to link to one specific fragment or po
 
 利用`mix-blend-mode`这个新属性支持我们把不同形状的不同元素合成到一张图片，这是Adobe在HTML5方面新出的一个功能。在他们的[网站](https://adobe.github.io/web-platform/demos/compositing/)上你能看到演示的DEMO和文档。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/blend.png)
+![](https://c2.llyz.xyz/wp-image/2014/10/blend.png)
 
 从Adobe官网的例子演示来看，似乎变形是生效了，合成并没有生效（我Mac Chrome也没生效）。
 
@@ -281,7 +281,7 @@ Fragment identifiers from SVG is a method to link to one specific fragment or po
 
 CSS 形状也是Adobe新出的一个特性。对于这个特性，推荐下W3Cplus上的[《CSS Shapes 101》](https://www.w3cplus.com/css3/css-shapes-101.html)。个人还是很看好这个特性的推广和应用的，能给我们的网页设计带来更多的可能性。
 
-![full-img](https://c2.llyz.xyz/wp-image/2014/10/shapes.png)
+![](https://c2.llyz.xyz/wp-image/2014/10/shapes.png)
 
 #### Image Source Set
 

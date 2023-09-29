@@ -1,5 +1,5 @@
 ---
-title: 【骑行去西藏.貳】出发前
+title: 骑行去西藏.貳 | 出发前
 date: '2012-05-04'
 cover: https://c2.llyz.xyz/wp-image/2012/05/head55.jpg
 tags:

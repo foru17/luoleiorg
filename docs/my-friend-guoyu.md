@@ -137,9 +137,9 @@ tags:
 
 ![](https://pic4.zhimg.com/80/v2-4e9f03cf149f84191f89effb2e970ab9_1440w.jpg)
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/japan/day4/A7S2-D4-03567.jpg)
+![](https://c2.llyz.xyz/blog/2016/06/japan/day4/A7S2-D4-03567.jpg)
 
-![full-img](https://c2.llyz.xyz/blog/2016/06/japan/day5/A7S2-D5-03763.jpg)
+![](https://c2.llyz.xyz/blog/2016/06/japan/day5/A7S2-D5-03763.jpg)
 
 第二次去日本的时候，是2016年跨年，我和老婆在大阪，郭宇恰好一个人在京都，他单身后，依旧满世界飞，想着好久不见了，他倒也挺客气，还专门坐车跑来大阪，请我和老婆吃了一顿烧鸟。
 

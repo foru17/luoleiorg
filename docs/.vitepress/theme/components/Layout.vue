@@ -101,13 +101,17 @@
 
   const addFavicon = () => {
     const aTags = document.querySelectorAll(".main a");
+
     aTags.forEach((aTag) => {
       const domain = aTag.getAttribute("href")?.split("/")[2];
-      if (domain) {
-        const img = document.createElement("img");
-        img.src = getFaviconUrl(domain);
-        img.classList.add("favicon");
-        aTag.prepend(img);
+
+      // 如果域名存在且无 favicon 的 img 标签
+      if (domain && !aTag.querySelector("img.favicon")) {
+        const faviconUrl = getFaviconUrl(domain);
+        const faviconImg = document.createElement("img");
+        faviconImg.src = faviconUrl;
+        faviconImg.className = "favicon";
+        aTag.prepend(faviconImg);
       }
     });
   };

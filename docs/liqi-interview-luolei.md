@@ -38,7 +38,7 @@ MacBook Air 2012：我的第一台 Macbook，平时上网、查阅资料还是�
 
 键盘：HHKB Professional2 键盘：老婆送的，60 键尺寸放在背包里刚好，每天上下班都带着。
 
-![full-img](https://c2.llyz.xyz/blog/2017/05/liqi/07493-1547x1024.png)
+![](https://c2.llyz.xyz/blog/2017/05/liqi/07493-1547x1024.png)
 
 鼠标：有线[罗技 G502](https://gaming.logitech.com/zh-cn/product/g502-proteus-core-tunable-gaming-mouse) 和无线鼠标[罗技 G602](https://gaming.logitech.com/zh-cn/product/g602-wireless-gaming-mouse)，两个键盘都支持自定义按键，能记忆在鼠标自身的内存中，到公司换 iMac 无缝切换。
 
@@ -46,17 +46,17 @@ NAS：[群晖 DS216 + II](https://www.synology.com/zh-cn/products/DS216+II) ，�
 
 **摄影类：**
 
-![full-img](https://c2.llyz.xyz/blog/2017/05/liqi/88018.png)
+![](https://c2.llyz.xyz/blog/2017/05/liqi/88018.png)
 
 [​索尼 A7S2](https://item.jd.com/10721202699.html)：搭配 FE55 f/1.8、FE35 f/2.8、FE2870 三个头，旅行摄影、拍摄视频用，机身小巧，全画幅，4K，算得上市目前消费级市场的顶级相机了，当时购买的时候主要就是考虑一步到位，拍照拍视频还是很给力的，缺点也有，大法的镜头太贵了。
 
 [索尼 RX100V](https://item.jd.com/3965552.html)：黑卡 5，卡片机中的王者，价格也很感人，性能和参数在便携式相机中应该找不到对手了，很难想象这么一台小机器有这么多强大的功能。
 
-![full-img](https://c2.llyz.xyz/blog/2017/05/liqi/79107-1532x1024.png)
+![](https://c2.llyz.xyz/blog/2017/05/liqi/79107-1532x1024.png)
 
 [精灵 4](https://www.dji.com/cn/phantom-4)：我 2016 年最喜欢的数码产品，让我们旅行的时候拥有下很不一样的视角镜头。如果再给我一个机会，我会果断选择 Mavic，便携比性能重要多了。
 
-![full-img](https://c2.llyz.xyz/blog/2017/05/liqi/22183-1534x1024.png)
+![](https://c2.llyz.xyz/blog/2017/05/liqi/22183-1534x1024.png)
 
 [小蚁 4K](https://www.xiaoyi.com/zh/)：运动相机我使用的是国产品牌小蚁 4K，对标的是 Gopro4 旗舰，触屏体验和续航比 Gopro4 好很多，价格很有优势，在这里还是推荐一下。
 
@@ -66,11 +66,11 @@ NAS：[群晖 DS216 + II](https://www.synology.com/zh-cn/products/DS216+II) ，�
 
 Kindle：我是一个读书爱好者，在过去得四五年里平均每年保持读 35-40 本书的习惯，也是 Kindle 的重度用户，拥有 Kindle Paperwhite1/2 和最新的 Oasis，在这里推荐 KPW，性价比高。
 
-![full-img](https://c2.llyz.xyz/blog/2017/05/liqi/62990-1546x1024.png)
+![](https://c2.llyz.xyz/blog/2017/05/liqi/62990-1546x1024.png)
 
 BOSE QC35：老婆送给我的耳机，降噪神器，冬天戴着还能当耳罩防风保暖，坐飞机坐车可以有效隔绝噪音，大大提高旅途幸福感。
 
-![full-img](https://c2.llyz.xyz/blog/2017/05/liqi/73490-1532x1024.png)
+![](https://c2.llyz.xyz/blog/2017/05/liqi/73490-1532x1024.png)
 
 Bose SoundLink：小巧的蓝牙音响，室内音效对于我来说很满意了。
 
@@ -78,7 +78,7 @@ Bose SoundLink：小巧的蓝牙音响，室内音效对于我来说很满意了
 
 印象笔记：我是 Evernote 的重度用户，平时的大量资料、文档都是通过印象笔记整理，全终端同步十分方便。
 
-![full-img](https://c2.llyz.xyz/blog/2017/05/liqi/86900-1422x1024.jpg)
+![](https://c2.llyz.xyz/blog/2017/05/liqi/86900-1422x1024.jpg)
 
 [MOOM](https://manytricks.com/moom/)：OSX 下一款快速分屏软件，自定义不同快捷键对应不同的分屏模式，对于经常开多个编辑器、浏览器窗口的用户来说十分便利。
 
@@ -86,7 +86,7 @@ Bose SoundLink：小巧的蓝牙音响，室内音效对于我来说很满意了
 
 [Alfred3](https://www.alfredapp.com/)：使用最多的几个功能:翻译，查 IP 来源，自己还写了一个查 IP 的插件 Alfred 域名 IP 速查。
 
-![full-img](https://c2.llyz.xyz/blog/2017/05/liqi/26195.png)
+![](https://c2.llyz.xyz/blog/2017/05/liqi/26195.png)
 
 [Clipmenu](https://www.clipmenu.com/)：剪贴板神器，可以记录所有拷贝过的文本、图片等等，拷贝历史代码片段、文案、图片特别方便，大大提高了 OSX 下复制粘贴的效率。
 
@@ -98,11 +98,11 @@ Bose SoundLink：小巧的蓝牙音响，室内音效对于我来说很满意了
 
 对于程序员来说，一个大桌子，两个大显示器，一个好的键盘，一个通畅的高速网络，就已经足够了。对于摄影爱好者来说，我就十分希望有一个采光良好、空间够大的房间。类似 LG 5K 显示器广告中这个镜头的地方。
 
-![full-img](https://c2.llyz.xyz/blog/2017/05/liqi/17183-1851x1024.jpeg)
+![](https://c2.llyz.xyz/blog/2017/05/liqi/17183-1851x1024.jpeg)
 
 从程序员角度来说，我对目前的环境已经比较满意了，家里的网络做了路由策略，家里的所有设备只要连到 Wi-Fi，就可以高速访问国内外所有网站，平时看 Youtube 比看优酷还要多，国外的 UGC 视频质量比国内的要好不少，自己也受益匪浅。
 
-![full-img](https://c2.llyz.xyz/blog/2017/05/liqi/64485-1759x1024.png)
+![](https://c2.llyz.xyz/blog/2017/05/liqi/64485-1759x1024.png)
 
 ### **您的灵感来源是什么？**
 
@@ -128,6 +128,6 @@ Bose SoundLink：小巧的蓝牙音响，室内音效对于我来说很满意了
 
 推荐给喜欢旅行自驾的朋友一个好东西：[车载逆变器](https://www.amazon.cn/gp/bestsellers/automotive/124943071)，接上点烟器后，其他的设备（笔记本、iPad 就能使用标准接口正常充电了），再也不用抢 USB 口了。
 
-![full-img](https://c2.llyz.xyz/blog/2017/05/liqi/59087.png)
+![](https://c2.llyz.xyz/blog/2017/05/liqi/59087.png)
 
-![full-img](https://liqi.io/wp-content/uploads/2017/03/15623.jpg)
+![](https://liqi.io/wp-content/uploads/2017/03/15623.jpg)
