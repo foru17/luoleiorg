@@ -95,7 +95,6 @@
 
   const initImagesZoom = () => {
     mediumZoom(".main img", {
-      margin: 24,
       background: "var(--vp-c-bg)",
     });
   };
@@ -151,8 +150,11 @@
       clearTimeout(timeoutId);
       timeoutId = null;
     }
+
     nextTick(() => {
       lazyLoadImages();
+      initImagesZoom();
+      addFavicon();
     });
   });
   onUnmounted(() => {

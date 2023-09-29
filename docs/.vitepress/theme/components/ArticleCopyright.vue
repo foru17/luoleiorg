@@ -2,6 +2,7 @@
   import { ref, computed, onMounted, watch, nextTick } from "vue";
   import { useData, withBase, useRoute, useRouter } from "vitepress";
   import { getBannerImage } from "../utils";
+  import { categoryMap } from "../constant";
 
   const { frontmatter } = useData();
   const route = useRoute();
@@ -88,6 +89,7 @@
             </span>
           </span>
         </div>
+
         <div>
           <span class="font-medium mr-1">文章链接:</span>
           <span>

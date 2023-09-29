@@ -130,7 +130,6 @@
 
   onMounted(() => {
     fetchArticleListHits();
-    console.log("On mounted hasPrevPage:", hasPrevPage.value);
   });
 </script>
 

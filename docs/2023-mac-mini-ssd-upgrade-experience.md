@@ -5,6 +5,7 @@ cover: https://c2.llyz.xyz/blog/2023/06/mini/mac-5.jpg
 categories:
 - tech
 - 开箱
+- 数码
 tags:
 - mac
 ---
@@ -38,9 +39,9 @@ tags:
 
 ## 硬件清单
 
-- 1\. 💻 Mac mini: M2 + 16G内存 + 256G硬盘 💰 ¥ 4718
-- 2\. 💾固态硬盘: 海力士 P44 Pro 2TB 💰 ¥877
-- 3\. 📼硬盘盒: WERO 雷电3/伪USB4 双协议💰 ¥ 662
+- 💻 Mac mini: M2 + 16G内存 + 256G硬盘 💰 ¥ 4718
+- 💾 固态硬盘: 海力士 P44 Pro 2TB 💰 ¥877
+- 📼 硬盘盒: WERO 雷电3/伪USB4 双协议💰 ¥ 662
 - 💵 价格总计 ¥ 6257
 
 ![](https://c2.llyz.xyz/blog/2023/06/mini/order-1.jpg)

@@ -29,7 +29,7 @@ export function formatDate(d: any, fmt = "yyyy-MM-dd hh:mm:ss") {
 }
 
 export function getFaviconUrl(domain: string) {
-  return `https://img.llyz.xyz/https://static.is26.com/favicon/${domain}`;
+  return `https://img.llyz.xyz/https://static.is26.com/favicon/${domain}/w=32`;
 }
 
 export function getOriginalImage(url: string) {
