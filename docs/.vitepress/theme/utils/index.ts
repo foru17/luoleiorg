@@ -28,6 +28,14 @@ export function formatDate(d: any, fmt = "yyyy-MM-dd hh:mm:ss") {
   return fmt;
 }
 
+export function getFaviconUrl(domain: string) {
+  return `https://img.llyz.xyz/https://static.is26.com/favicon/${domain}`;
+}
+
+export function getOriginalImage(url: string) {
+  return `https://img.llyz.xyz/${url}`;
+}
+
 export function getPreviewImage(url: string) {
   return `https://img.llyz.xyz/${url}/w=800`;
 }

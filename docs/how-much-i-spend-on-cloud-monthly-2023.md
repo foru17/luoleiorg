@@ -84,7 +84,7 @@ categories:
 
 - [Name.com注册：新用户可以获$5 代金券](https://www.name.com/zh-cn/referral/223010)。
 
-**1.****腾讯云CVM-广州**
+**1.腾讯云CVM-广州**
 
 - CPU:4核
 - 内存:8GB

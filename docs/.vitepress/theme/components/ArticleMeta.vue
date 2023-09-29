@@ -57,7 +57,7 @@
       :style="`
         background-image: url(${bannerImageUrl})`">
       <div class="bg-gray-900 bg-opacity-30 flex items-center h-full">
-        <div class="px-10 max-w-xl">
+        <div class="px-5 md:px-10 max-w-xl">
           <h2
             class="text-3xl text-white break-normal font-bold line-clamp-4 sd: line-clamp-3 md: line-clamp-2">
             {{ title }}

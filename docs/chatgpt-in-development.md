@@ -93,7 +93,7 @@ Pandora 这个十分适合团队初始阶段用，只需要一个人解决账号
 
 至于其他第三方的 AI 应用和工具，目前我个人在使用的是开源项目 chatbox，相对而言用起来更加放心。
 
-- [_Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux._](https://github.com/Bin-Huang/chatbox)
+- [Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.](https://github.com/Bin-Huang/chatbox)
 
 ## **三.辅助开发**
 

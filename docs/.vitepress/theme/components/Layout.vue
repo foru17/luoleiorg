@@ -2,15 +2,16 @@
   import { onMounted, onUnmounted, watch, nextTick } from "vue";
   import DefaultTheme from "vitepress/theme";
   import { useData, useRouter } from "vitepress";
-
+  import mediumZoom from "medium-zoom";
   import CategoryNav from "./CategoryNav.vue";
   import Article from "./Article.vue";
   import ArticleMeta from "./ArticleMeta.vue";
   import ArticleList from "./ArticleList.vue";
   import ArticleComment from "./ArticleComment.vue";
   import ArticleBottomNav from "./ArticleBottomNav.vue";
+  import ArticleCopyright from "./ArticleCopyright.vue";
   import NotFound from "./NotFound.vue";
-  import { getArticleLazyImage } from "../utils";
+  import { getArticleLazyImage, getFaviconUrl } from "../utils";
 
   const { page, frontmatter } = useData();
   const { Layout } = DefaultTheme;
@@ -92,6 +93,26 @@
     }
   };
 
+  const initImagesZoom = () => {
+    mediumZoom(".main img", {
+      margin: 24,
+      background: "var(--vp-c-bg)",
+    });
+  };
+
+  const addFavicon = () => {
+    const aTags = document.querySelectorAll(".main a");
+    aTags.forEach((aTag) => {
+      const domain = aTag.getAttribute("href")?.split("/")[2];
+      if (domain) {
+        const img = document.createElement("img");
+        img.src = getFaviconUrl(domain);
+        img.classList.add("favicon");
+        aTag.prepend(img);
+      }
+    });
+  };
+
   onMounted(() => {
     nextTick(() => {
       lazyLoadImages();
@@ -116,6 +137,8 @@
 
       // Whenever the user explicitly chooses to respect the OS preference
       localStorage.removeItem("theme");
+      initImagesZoom();
+      addFavicon();
     });
   });
   watch(router.route, () => {
@@ -153,6 +176,7 @@
     <template #doc-bottom> </template>
 
     <template #doc-footer-before>
+      <ArticleCopyright />
       <ArticleBottomNav />
     </template>
     <!-- 文章尾部 -->
