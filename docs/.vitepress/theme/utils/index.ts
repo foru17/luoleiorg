@@ -52,6 +52,11 @@ export function getArticleBlurImage(url: string) {
   return `https://img.llyz.xyz/${url}/w=800,blur=10`;
 }
 
+export function getFormatNumber(num: number) {
+  // 给数字加上逗号分隔符，例如：12345678 => 12,345,678
+  return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+
 export function isCurrentWeek(date: Date, target?: Date) {
   const now = target || new Date();
   const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());

@@ -93,7 +93,7 @@
 </script>
 
 <template>
-  <div class="container px=1 md:px-4 md:px-0 max-w-7xl mx-auto">
+  <div class="px=1 md:px-4 md:px-0 max-w-7xl mx-auto">
     <div h class="w-full ld:h-40 px-4 mt-3">
       <div class="w-full flex items-center justify-between">
         <!-- 遍历  {{ categoriesMeta }} ,展示 isHome 为 true 的分类 -->

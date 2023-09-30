@@ -134,7 +134,7 @@
 </script>
 
 <template>
-  <div class="container px-4 md:px-0 max-w-7xl mx-auto -mt-4">
+  <div class="px-4 md:px-0 max-w-7xl mx-auto -mt-4">
     <div
       class="w-full text-xl md:text-2xl text-gray-800 leading-normal rounded-t">
       <ul

@@ -28,7 +28,7 @@
 <template>
   <div class="w-auto">
     <div
-      class="relative px-5 py-3 md:px-5 md:py-5 rounded-md border border-zinc-300 dark:border-zinc-500">
+      class="relative px-5 py-5 md:px-5 md:py-5 rounded-md border border-zinc-300 dark:border-zinc-500">
       <section class="flex flex-col gap-y-[8px] text-sm md:text-sm">
         <svg
           class="h-4 w-4 md:h-6 md:w-6 text-black-100 absolute right-3 md:right-5"
@@ -103,10 +103,14 @@
         </div>
 
         <div>
-          <span class="font-medium mr-1">版权声明:</span>
-          <span>
-            除非特别声明，本博客的所有文章和图片都是原创作品，未经许可禁止转载。
-          </span>
+          <span class="font-medium mr-1">版权说明:</span>
+          <a
+            href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans"
+            class="text-blue-600 dark:text-blue-300"
+            rel="noreferrer"
+            target="_blank">
+            <span> CC BY-NC-ND 4.0 DEED </span>
+          </a>
         </div>
       </section>
     </div>

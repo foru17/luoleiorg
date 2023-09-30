@@ -1,14 +1,14 @@
 ---
 title: 贵的不一定好，便宜也不一定差:vivick迷你路由器Q-W501简单评测
 date: '2012-10-09'
-cover: https://c2.llyz.xyz/wp-image/2012/10/jingdong.png "jingdong"
+cover: https://c2.llyz.xyz/wp-image/2012/10/jingdong.png
 tags:
 - e8af84e6b58b
 ---
 
 说到消费者知道的路由器品牌，大多就是Tp-link，D-Link、华为之类的大牌和名牌，高端点的有linksys、华硕之类。
 
-#### 路由器一：[TP-link TL-WR841N 300M](https://www.360buy.com/products/670-699-700.html)
+## 路由器一：[TP-link TL-WR841N 300M](https://www.360buy.com/products/670-699-700.html)
 
 这段时间，买了两个路由器，家里的无线设备多，好几台电脑，原来老的54M的路由器实在是吃不消，于是欲图换一个![jingdong](https://c2.llyz.xyz/wp-image/2012/10/jingdong.png "jingdong")稳定的、300M的家用路由器，不想折腾那么十几块钱的差距，直接上京东商城看了看，发现销量第二的TL-WR841N这款路由器貌似还不错，外观还算漂亮，Tp-link也算大牌，质量应该有保证，价格130也不算太贵，也懒得比较什么性能了（家庭用，无所谓），直接下单。京东速度也快，9月18号晚上下的单，9月19号下午就送到了。
 

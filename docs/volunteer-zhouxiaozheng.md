@@ -46,7 +46,7 @@ cover: https://c2.llyz.xyz/default.cover.jpg
 
 140:00-155:00 新浪网友 [@纪嘉康](https://blog.sina.com.cn/jijiakang) （已完成）
 
-155:00-170:00 twitter网友 [@shanghaikoala](https://twitter.com/#!/shanghaikoala) （已完成）
+155:00-170:00 twitter网友 [@shanghaikoala](https://x.com/#!/shanghaikoala) （已完成）
 
 End
 
@@ -88,4 +88,4 @@ google doc地址（需翻wall):
 
 我的新浪微博:[@罗罗磊磊](https://weibo.com/foru17/)
 
-我的twitter:[@foru17](https://twitter.com/#!/foru17)
+我的twitter:[@foru17](https://x.com/#!/foru17)

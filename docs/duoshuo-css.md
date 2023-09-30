@@ -145,4 +145,4 @@ B.鼠标悬浮时:图像进行360度旋转
 
 我的新浪微博[@罗罗磊磊](https://weibo.com/foru17)
 
-我的twitter [@foru17](https://twitter.com/foru17)
+我的twitter [@foru17](https://x.com/foru17)

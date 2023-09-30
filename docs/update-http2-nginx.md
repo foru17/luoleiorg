@@ -20,7 +20,7 @@ HTTP/2今年也算是一个热点，几经扭转，终于在今年5月定稿发�
 
 然，SPDY这个小妾某种程度上可以理解已经被休了，或者换个角度，SPDY正式当上了正房大夫人。
 
-对于SPDY和HTTP/2的详细就不再啰嗦，强烈推荐一下360前端工程师[@屈光宇](https://twitter.com/qgy18)的系列文章:
+对于SPDY和HTTP/2的详细就不再啰嗦，强烈推荐一下360前端工程师[@屈光宇](https://x.com/qgy18)的系列文章:
 
 - [HTTP/2 与 WEB 性能优化（一）](https://imququ.com/post/http2-and-wpo-1.html)
     
@@ -29,7 +29,7 @@ HTTP/2今年也算是一个热点，几经扭转，终于在今年5月定稿发�
 - [HTTP/2 与 WEB 性能优化（三）](https://imququ.com/post/http2-and-wpo-3.html)
     
 
-挺欣赏[@屈光宇](https://twitter.com/qgy18)前辈的，对HTTP和Web性能的研究十分深入，他的博客就是集Web优化大成者。
+挺欣赏[@屈光宇](https://x.com/qgy18)前辈的，对HTTP和Web性能的研究十分深入，他的博客就是集Web优化大成者。
 
 下面说下如何升级到HTTP/2，目前[nginx 1.9.5](https://nginx.org/en/CHANGES)已经实验性地支持HTTP/2了。
 

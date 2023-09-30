@@ -1,6 +1,6 @@
 ---
 title: 隔山打牛:给第三方网站做Facebook的Open Graph分享优化
-date: '2015-04-10'
+date: '2015-04-07'
 cover: https://c2.llyz.xyz/blog/2015/04/facebook0.jpg
 tags:
 - facebook
@@ -114,4 +114,4 @@ https://www.cmcm.com/activity/cm-fb-deeplink/cmnow.php?language=en&shareurl=http
 
 #### 后记
 
-对于[Twiiter Card](https://dev.twitter.com/cards/overview)，同样可以通过这样的方式进行处理，至于更加高级的功能，则可以根据需求自己写啦，这篇文章就是个示例。
+对于[Twiiter Card](https://dev.x.com/cards/overview)，同样可以通过这样的方式进行处理，至于更加高级的功能，则可以根据需求自己写啦，这篇文章就是个示例。

@@ -3,7 +3,7 @@
   import { useData, withBase, useRouter } from "vitepress";
   const { frontmatter } = useData();
   import { watch, nextTick, ref, onMounted, computed } from "vue";
-  import { getPreviewImage } from "../utils";
+  import { getPreviewImage, getFormatNumber } from "../utils";
   const props = defineProps<{
     url: string;
     title: string;
@@ -128,6 +128,23 @@
     <div class="flex items-center justify-between">
       <p
         class="text-gray-400 dark:text-slate-400 text-sm sd:text-sm md:text-sm">
+        <svg
+          class="h-3 w-3 inline-block -mt-0.5"
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+          stroke-width="2"
+          stroke="currentColor"
+          fill="none"
+          stroke-linecap="round"
+          stroke-linejoin="round">
+          <path stroke="none" d="M0 0h24v24H0z" />
+          <rect x="4" y="5" width="16" height="16" rx="2" />
+          <line x1="16" y1="3" x2="16" y2="7" />
+          <line x1="8" y1="3" x2="8" y2="7" />
+          <line x1="4" y1="11" x2="20" y2="11" />
+          <rect x="8" y="15" width="2" height="2" />
+        </svg>
         {{ date.formatShowDate }}
       </p>
 
@@ -149,22 +166,21 @@
 
         <svg
           v-if="isArticleListHitsFetched && hit <= hotArticleViews"
-          class="icon text-gray-400 dark:text-slate-400 fill-blue-600 mt-px"
-          viewBox="0 0 1024 1024"
-          xmlns="http://www.w3.org/2000/svg"
-          p-id="8297"
-          width="20"
-          height="20">
+          class="h-3 w-3 inline-block text-gray-400 dark:text-slate-400 mr-1"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor">
           <path
-            d="M821.248 400.896c-66.56-100.352-180.224-166.912-309.248-166.912-129.024 0-243.2 66.56-309.248 166.912-16.896 25.6-30.208 52.736-40.448 81.92 10.24 28.672 23.552 56.32 40.448 81.92 66.56 100.352 180.224 166.912 309.248 166.912 129.024 0 243.2-66.56 309.248-166.912 16.896-25.6 30.208-52.736 40.448-81.92-9.728-28.672-23.552-56.32-40.448-81.92z m-309.248 286.72c-138.752 0-258.56-84.48-309.76-204.8 51.2-120.32 171.008-204.8 309.76-204.8s258.56 84.48 309.76 204.8c-51.2 120.32-171.008 204.8-309.76 204.8z"
-            p-id="8298"
-            fill="currentColor"></path>
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
           <path
-            d="M512 346.112c-75.264 0-136.704 61.44-136.704 136.704S436.736 619.52 512 619.52s136.704-61.44 136.704-136.704-61.44-136.704-136.704-136.704z m0 229.376c-51.2 0-92.672-41.472-92.672-92.672S460.8 390.144 512 390.144s92.672 41.472 92.672 92.672-41.472 92.672-92.672 92.672z"
-            p-id="8299"
-            fill="currentColor"></path>
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
         </svg>
-
         <svg
           v-if="isArticleListHitsFetched && hit > hotArticleViews"
           class="icon text-red-400 dark:text-red-500 fill-blue-600 -mt-0"
@@ -182,8 +198,8 @@
           :class="{
             'text-red-400 dark:text-red-500': hit > hotArticleViews,
           }"
-          class="text-gray-400 dark:text-slate-400 text-sm sd:text-sm md:text-sm ml-px">
-          {{ hit }}
+          class="text-gray-400 dark:text-slate-400 text-sm sd:text-sm md:text-sm ml-px tracking-tighter">
+          {{ getFormatNumber(hit) }}
         </p>
       </div>
 

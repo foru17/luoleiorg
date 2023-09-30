@@ -1,7 +1,7 @@
 <script setup lang="ts">
   import { ref, computed, onMounted, watch, nextTick } from "vue";
   import { useData, withBase, useRoute, useRouter } from "vitepress";
-  import { getBannerImage } from "../utils";
+  import { getBannerImage, getFormatNumber } from "../utils";
   const { frontmatter } = useData();
   const route = useRoute();
   const router = useRouter();
@@ -74,17 +74,50 @@
             </span>
           </div> -->
           <p class="inline-block mt-2 text-sm md:text-sm text-slate-200 mr-5">
-            发布时间: {{ date }}
+            <svg
+              class="h-3 w-3 inline-block -mt-0.5 mr-1"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              stroke-width="2"
+              stroke="currentColor"
+              fill="none"
+              stroke-linecap="round"
+              stroke-linejoin="round">
+              <path stroke="none" d="M0 0h24v24H0z" />
+              <rect x="4" y="5" width="16" height="16" rx="2" />
+              <line x1="16" y1="3" x2="16" y2="7" />
+              <line x1="8" y1="3" x2="8" y2="7" />
+              <line x1="4" y1="11" x2="20" y2="11" />
+              <rect x="8" y="15" width="2" height="2" /></svg
+            >{{ date }}
           </p>
 
           <p
-            class="block md:inline-block mt-2 text-sm md:text-sm text-slate-200">
-            阅读量:
-            <i v-if="isPageHitsFetched" class="not-italic">{{ pageHits }}</i
+            class="inline-block md:inline-block mt-2 text-sm md:text-sm text-slate-200">
+            <svg
+              class="h-3 w-3 inline-block mr-1"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor">
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
+            </svg>
+            <i v-if="isPageHitsFetched" class="not-italic">{{
+              getFormatNumber(pageHits)
+            }}</i
             ><span v-if="!isPageHitsFetched" role="status" class="inline-block">
               <svg
                 aria-hidden="true"
-                class="w-3 h-3 mr-2 text-gray-200 animate-spin dark:text-gray-600 fill-blue-600"
+                class="w-2 h-2 mr-2 -mt-1 text-gray-200 animate-spin dark:text-gray-600 fill-blue-600"
                 viewBox="0 0 100 101"
                 fill="none">
                 <path

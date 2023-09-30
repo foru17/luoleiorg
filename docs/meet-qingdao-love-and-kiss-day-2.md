@@ -1,7 +1,7 @@
 ---
 title: '青岛 | DAY2: 八大关・天主教堂'
 date: '2015-04-10'
-cover: https://c2.llyz.xyz/blog/2015/04/qingdao/QD8.jpg
+cover: https://c2.llyz.xyz/blog/2015/04/qingdao/QD20.jpg
 categories:
 - photography
 - travel

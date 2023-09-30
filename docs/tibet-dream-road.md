@@ -255,4 +255,4 @@ A：自己组装的，2500RMB不到，大概同捷安特770同等级。
 
 如果你还有其他问题，请直接在本文下方留言，我将尽量解答。谢谢各位的支持
 
-> 罗磊的独立博客:[https://luolei.org](https://luolei.org) 我的新浪微博:[@罗罗磊磊](https://weibo.com/foru17/) 我的twitter:[@foru17](https://twitter.com/#!/foru17)
+> 罗磊的独立博客:[https://luolei.org](https://luolei.org) 我的新浪微博:[@罗罗磊磊](https://weibo.com/foru17/) 我的twitter:[@foru17](https://x.com/#!/foru17)

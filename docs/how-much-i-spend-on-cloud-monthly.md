@@ -6,7 +6,7 @@ cover: https://c2.llyz.xyz/blog/2015/10/bill.jpg
 
 ![](https://c2.llyz.xyz/blog/2015/10/bill.jpg)
 
-今天看到台湾开发者[@ingramchen](https://twitter.com/ingramchen)的博文[《你有幾張雲端帳單？》](https://ingramchen.io/blog/2015/03/cloud_invoice.html)，想一想，自己每个月花在「云」上的钱也不少，干脆也写一篇博文，记录下自己每个月的钱都跑到哪片云上了。
+今天看到台湾开发者[@ingramchen](https://x.com/ingramchen)的博文[《你有幾張雲端帳單？》](https://ingramchen.io/blog/2015/03/cloud_invoice.html)，想一想，自己每个月花在「云」上的钱也不少，干脆也写一篇博文，记录下自己每个月的钱都跑到哪片云上了。
 
 #### 1.Linode
 

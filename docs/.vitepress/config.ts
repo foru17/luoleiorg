@@ -86,14 +86,14 @@ export default defineConfig({
       { text: "关于", link: "https://github.com/foru17" },
     ],
     socialLinks: [
-      { icon: "twitter", link: "https://twitter.com/luoleiorg" },
+      { icon: "twitter", link: "https://x.com/luoleiorg" },
       { icon: "github", link: "https://github.com/foru17" },
     ],
 
     outlineTitle: "本文导览",
     lastUpdatedText: "最后更新时间",
     footer: {
-      message: `<a href="https://luolei.org/">LUOLEI.ORG</a>.`,
+      message: `<a href="https://luolei.org/">LUOLEI.ORG</a>`,
       copyright: `Copyright © 2023 <a href="https://github.com/foru17" target="_blank">@foru17</a>.<br/>
       <a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow" class="d-none d-lg-inline-block">粤ICP备14004235号</a>
       `,

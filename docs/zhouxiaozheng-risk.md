@@ -25,7 +25,7 @@ tags:
 * 110:00-125:00 人人网网友 [@李翔](https://luolei.org/wp-admin/www.renren.com/profile.do?id=229192434) （已完成）
 * 125:00-140:00 新浪微友 [@This-is-Ted](https://weibo.com/tedandfred) （已完成）
 * 140:00-155:00 新浪网友 [@纪嘉康](https://blog.sina.com.cn/jijiakang) （已完成）
-* 155:00-170:00 twitter网友 [@shanghaikoala](https://twitter.com/#!/shanghaikoala) （已完成）
+* 155:00-170:00 twitter网友 [@shanghaikoala](https://x.com/#!/shanghaikoala) （已完成）
 
 ## 演讲人：周孝正  5月4日
 

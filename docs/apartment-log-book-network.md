@@ -19,7 +19,7 @@ tags:
 ## **导航**
 
 - [V2EX: 装修脑壳痛：家庭万兆光纤网络、智能家居 pre 设计](https://v2ex.com/t/708146)
-- [Twitter:@luoleiorg](https://twitter.com/luoleiorg/status/1306751532675657728)
+- [Twitter:@luoleiorg](https://x.com/luoleiorg/status/1306751532675657728)
 
 这篇博客我也发在了V2EX和推特，有不少网友给出了很多建设性的意见和评论，也推荐大家去上面可以看看。
 

@@ -10,7 +10,7 @@ cover: https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-09-at-9.23.58-PM
 
 碎碎念说了说前段时间的状态，今天这篇文章，来讲讲开发工具，刚刚code的时候，用的还是pc，使用notepad+作为自己的编辑器，后来转入OSX平台后，在郭宇的推荐下，也使用过[espresso](https://macrabbit.com/espresso/) (用的是盗版表鄙视）,再后来，发现了 Sublime text 2 这个神器，从此成了ST的脑残粉。
 
-对于Sublime Text的入门指南，就不再这里造轮子重写太多，推荐可以看看[@lucifr](https://twitter.com/lucifr) 的[《Sublime Text 2 入门及技巧》](https://lucifr.com/2011/08/31/sublime-text-2-tricks-and-tips/)一文。
+对于Sublime Text的入门指南，就不再这里造轮子重写太多，推荐可以看看[@lucifr](https://x.com/lucifr) 的[《Sublime Text 2 入门及技巧》](https://lucifr.com/2011/08/31/sublime-text-2-tricks-and-tips/)一文。
 
 下面就分享一下自己的Sublime Text的配置。
 
