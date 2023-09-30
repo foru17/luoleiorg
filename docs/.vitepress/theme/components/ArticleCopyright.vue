@@ -49,7 +49,7 @@
           <span>
             <a
               :href="authorLink"
-              class="text-blue-600 dark:text-blue-300"
+              class="text-blue-600 dark:text-blue-300 hover:text-blue-500"
               rel="noreferrer"
               target="_blank">
               罗磊
@@ -60,7 +60,11 @@
         <div>
           <span class="font-medium mr-1">文章标题:</span>
           <span>
-            <a :href="articleGithubLink" rel="noreferrer" target="_blank">
+            <a
+              :href="articleGithubLink"
+              class="hover:text-blue-500"
+              rel="noreferrer"
+              target="_blank">
               {{ title
               }}<svg
                 class="h-5 w-5 ml-2 inline-block -mt-1"
@@ -94,7 +98,7 @@
           <span>
             <a
               :href="articleLink"
-              class="text-blue-600 dark:text-blue-300"
+              class="text-blue-600 dark:text-blue-300 hover:text-blue-500"
               rel="noreferrer"
               target="_blank">
               {{ articleLink }}
@@ -106,10 +110,10 @@
           <span class="font-medium mr-1">版权说明:</span>
           <a
             href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans"
-            class="text-blue-600 dark:text-blue-300"
+            class="text-blue-600 dark:text-blue-300 hover:text-blue-500"
             rel="noreferrer"
             target="_blank">
-            <span> CC BY-NC-ND 4.0 DEED </span>
+            <span>CC BY-NC-ND 4.0 DEED </span>
           </a>
         </div>
       </section>

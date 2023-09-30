@@ -1,22 +1,24 @@
 ---
 title: 如何拥有真实的美国手机号 | 从免费到超贵，三种实用方案推荐 | VLOG32
-date: '2019-01-24'
+date: "2019-01-24"
 cover: https://c2.llyz.xyz/blog/2019/01/phone/sim-card.jpg
 categories:
-- zuoluotv
-- hot
+  - zuoluotv
+  - hot
 tags:
-- zuoluotv
-- usa
+  - zuoluotv
+  - usa
 ---
 
 ## 加入左罗TG群
 
-最近新开了一个[Telegram](https://telegram.org)电报交流群，发现还是电报群方便和自由，欢迎朋友们加入，群内有智能搜索机器人，直接提问就能搜索相关问题。 有问题在群里直接跟群友交流，也会更方便点，私信我反倒不一定有时间逐条回复。
+最近新开了一个[Telegram](https://telegram.org)电报交流群，发现还是电报群方便和自由，欢迎朋友们加入，群内有智能搜索机器人，直接提问就能搜索相关问题。
 
-- ZUOLUOTV电报群:[t.me/zuoluotv](https://t.me/zuoluotv)
-- ZUOLUOTV电报频道:[t.me/zuoluotvOfficial](https://t.me/zuoluotvofficial)
-- ZUOLUOTV\_BOT机器人:[t.me/zuoluotv\_bot](https://t.me/zuoluotv_bot)
+有问题在群里直接跟群友交流，也会更方便点，私信我反倒不一定有时间逐条回复。
+
+- ZUOLUOTV 电报群:[t.me/zuoluotv](https://t.me/zuoluotv)
+- ZUOLUOTV 电报频道:[t.me/zuoluotvOfficial](https://t.me/zuoluotvofficial)
+- ZUOLUOTV_BOT 机器人:[t.me/zuoluotv_bot](https://t.me/zuoluotv_bot)
 
 ## 视频
 
@@ -28,10 +30,10 @@ tags:
 ## 为什么要拥有一个美国手机号
 
 - 在美国旅行，有一个实体号码，预定酒店、Airbnb方便
-- 一些境外服务注册: 如uber，lyft，东南亚Grab，方便立司机联系你
+- 一些境外服务注册: 如 Uber，lyft，东南亚 Grab，方便立司机联系你
 - 接收美国主流银行的短信，验证码
-- 可以注册Google Voice，打加拿大和美国的电话完全免费
-- 注册国际版微信、QQ等，同时可以开启 Wechat Out 功能，低价拨打跨境电话。
+- 可以注册 Google Voice，打加拿大和美国的电话完全免费
+- 注册国际版微信、QQ 等，同时可以开启 Wechat Out 功能，低价拨打跨境电话。
 - 隐藏属性: 注册国内账号，可以少很多垃圾短信
 - 注册阿里云国际版
 
@@ -39,7 +41,7 @@ tags:
 
 ## 如何选择美国手机号
 
-现在中国人能够申请的美国手机号选择还是挺多的，从免费到收费，从临时到持久的都有。临时的手机号有例如[TextNow](https://www.textnow.com/)、[TextFree](https://www.pinger.com/text-free/)之类的虚拟号码，大家搜索以下关键字「免费 美国手机号」能够找到不少推荐。
+现在中国人能够申请的美国手机号选择还是挺多的，从免费到收费，从临时到持久的都有。临时的手机号有例如 [TextNow](https://www.textnow.com/)、[TextFree](https://www.pinger.com/text-free/) 之类的虚拟号码，大家搜索以下关键字「免费 美国手机号」能够找到不少推荐。
 
 今天这篇文章以:
 
@@ -124,3 +126,4 @@ Lei Luo
 - 注册了美国Uber，Lyft打车，在美国可以直接用Uber。
 - 单独申请了一个微信，开通了Wechat Out，去境外旅游的时候，有时候要打电话回国，直接用Wechat Out拨打国内电话，价格很低，通话走的网络，延迟尚好，并且显示我美国lycamobile的号码，比Skype什么的方便很多。
 - 我用lycamobile的号码，重新申请了一个新的Google Voice小号，聊胜于无。
+````

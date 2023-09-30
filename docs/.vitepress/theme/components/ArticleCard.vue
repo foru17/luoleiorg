@@ -117,7 +117,7 @@
       </div>
       <div class="w-full px-6 mt-5">
         <p
-          class="h-auto md:h-12 font-medium antialiased break-normal text-base sd:text-lg md:text-base text-gray-800 dark:text-slate-300 line-clamp-2">
+          class="h-auto md:h-12 font-medium antialiased break-normal text-base sd:text-lg md:text-base text-gray-800 dark:text-slate-300 line-clamp-2 font-fira">
           {{ title }}
         </p>
       </div>
@@ -198,7 +198,7 @@
           :class="{
             'text-red-400 dark:text-red-500': hit > hotArticleViews,
           }"
-          class="text-gray-400 dark:text-slate-400 text-sm sd:text-sm md:text-sm ml-px tracking-tighter">
+          class="text-gray-400 dark:text-slate-400 text-sm sd:text-sm md:text-sm ml-px">
           {{ getFormatNumber(hit) }}
         </p>
       </div>

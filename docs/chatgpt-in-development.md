@@ -1,13 +1,13 @@
 ---
-title: '如何用 ChatGPT 助力开发: 已经有 15 万人看过的经验分享'
-date: '2023-06-09'
+title: "如何用 ChatGPT 助力开发: 已经有 15 万人看过的经验分享"
+date: "2023-06-09"
 cover: https://c2.llyz.xyz/blog/2023/06/chatgpt/c-0.jpg
 categories:
-- code
+  - code
 tags:
-- ai
-- chatgpt
-- 编程
+  - ai
+  - chatgpt
+  - 编程
 ---
 
 自从年初开始关注这波 AI 浪潮，我将 AI 纳入了自己的工作流程，已经有一段时间了。现在我基本上一有机会就向他人推荐，建议尽快将 AI 引入开发流程。
@@ -42,12 +42,12 @@ tags:
 
 ```json
 {
-    "domain": [
-        "openai.com",
-        "ai.com",
-        "chat.openai.com.cdn.cloudflare.net",
-        "openaiapi-site.azureedge.net"
-    ]
+  "domain": [
+    "openai.com",
+    "ai.com",
+    "chat.openai.com.cdn.cloudflare.net",
+    "openaiapi-site.azureedge.net"
+  ]
 }
 ```
 
@@ -59,7 +59,7 @@ tags:
 
 - 检测地址: [https://chat.openai.com/cdn-cgi/trace](https://chat.openai.com/cdn-cgi/trace)
 
-其他使用 Cloudflare CDN 的网站也能这么测试，原理是使用 Cloudflare CDN 的网站都有 /cdn-cgi/trace 这个调试页面，会显示你访问 Cloudflare 节点的网络信息。
+其他使用 Cloudflare CDN 的网站也能这么测试，原理是使用 Cloudflare CDN 的网站都有 `/cdn-cgi/trace` 这个调试页面，会显示你访问 Cloudflare 节点的网络信息。
 
 这个接口会返回你的用户访问 IP 地址（代理IP）、访问到的 ChatGPT 的 Cloudflare 的节点 CDN ，以及 warp 网络状态等。这种方法非常方便用于调试。可以用于判断你是否使用预期的代理 IP 访问 ChatGPT。
 

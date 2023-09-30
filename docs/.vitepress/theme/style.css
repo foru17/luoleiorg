@@ -1,29 +1,53 @@
+@import url("https://fonts.loli.net/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@font-face {
+
+/* @font-face {
   font-family: "Fira Code";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://static.is26.com/source/fonts/fira-code.woff2) format("woff2");
-}
+  src: url(https://c2.llyz.xyz/source/fonts/fira-code.woff2) format("woff2");
+} */
 :root {
   --vp-layout-max-width: 1280px;
   --vp-c-bg: #fafafa;
   --c-brand: #3eaf7c;
   --c-brand-light: #4abf8a;
   --vp-c-brand: #60a5fa;
-  --vp-font-family-base: "Fira Code", "Chinese Quotes", "Inter var", "Inter",
+  --vp-c-mute: #e5e5e5;
+  --vp-font-family-base: "NotoSans CJK", "Chinese Quotes", "Inter var", "Inter",
     ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Helvetica, Arial, "Noto Sans", sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --vp-font-family-mono: "Fira Code", ui-monospace, SFMono-Regular, Menlo,
-    Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --vp-font-family-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
 }
 
+/* 暗夜模式 */
+.dark:root {
+  --vp-c-bg: #1e1e20;
+  --vp-c-mute: #9ca3af;
+}
+
+html {
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+a:active,
+&:visited,
+&:link,
+&:hover,
+&:focus {
+  -webkit-tap-highlight-color: transparent;
+}
+.Layout {
+  overflow-x: hidden;
+}
 .container {
   max-width: calc(var(--vp-layout-max-width) - 32px) !important;
+  margin-right: calc(100% - 100vw);
 }
 
 nav img {
@@ -186,6 +210,10 @@ span.lang {
   font-family: "SourceHanSerifCN-Bold", var(--vp-font-family-base);
 }
 
+.VPContent .main {
+  margin-top: 24px;
+}
+
 .home-nav-title {
   font-family: "SourceHanSerifCN-Bold", var(--vp-font-family-base);
 }
@@ -200,6 +228,22 @@ span.lang {
     Arial,
     sans-serif;
   -webkit-font-smoothing: antialiased;
+}
+
+.vp-doc p {
+  line-height: 30px;
+  margin: 0 0 20px 0;
+}
+
+/* 设定 p 元素内 img 的样式 */
+.vp-doc p img:not(.favicon) {
+  max-width: 100%;
+  margin: 20px auto;
+  border-radius: 3px;
+}
+
+.vp-doc strong {
+  font-weight: 500;
 }
 
 .vp-doc div[class*="language-"] pre::-webkit-scrollbar-track {
@@ -224,6 +268,21 @@ span.lang {
 .vp-doc [class*="language-"] code {
   font-family: var(--vp-font-family-mono);
 }
+.vp-doc :not(pre) > code {
+  margin: 0 2px;
+  padding: 2px 5px;
+}
+.vp-doc ul,
+.vp-doc ol {
+  padding-left: 26px;
+  padding-right: 0px;
+  margin: 24px auto;
+}
+.vp-doc li + li {
+  margin: 5px 0;
+  font-weight: 400;
+  line-height: 28px;
+}
 
 .vp-doc a {
   position: relative;
@@ -246,20 +305,35 @@ span.lang {
   margin-top: -4px;
 }
 
-a:active,
-&:visited,
-&:link,
-&:hover,
-&:focus {
-  -webkit-tap-highlight-color: transparent;
-}
-
 .vp-doc h2 {
   border-top: 0 none transparent;
   margin: 24px 0 12px;
 }
 
-/* 暗夜模式 */
-.dark:root {
-  --vp-c-bg: #1e1e20;
+@media (min-width: 960px) {
+  .vp-doc ul,
+  .vp-doc ol {
+    padding-left: 36px;
+    padding-right: 36px;
+    margin: 40px auto;
+  }
+  .vp-doc li + li {
+    margin: 10px 0;
+    font-weight: 400;
+    line-height: 30px;
+  }
+  .vp-doc h2 {
+    border-top: 0 none transparent;
+    margin: 48px 0 12px;
+  }
+
+  /* .main 标签下的第一个h2 不要margin */
+  .main h2:first-child {
+    margin: 0px 0 12px;
+  }
+
+  .vp-doc p img:not(.favicon) {
+    margin: 40px auto;
+    border-radius: 3px;
+  }
 }
