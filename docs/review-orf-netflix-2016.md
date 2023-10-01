@@ -1,13 +1,13 @@
 ---
-title: 目测是大陆第一个Netflix全平台评测
-date: '2016-01-09'
+title: 目测是大陆第一个 Netflix 全平台评测
+date: "2016-01-09"
 cover: https://c2.llyz.xyz/blog/2016/01/netflix/cover.jpg
+categories:
+  - digital
+  - hot
 tags:
-- digital
-- e8af84e6b58b
+  - digital
 ---
-
-![cover](https://c2.llyz.xyz/blog/2016/01/netflix/cover.jpg)
 
 2016年新年，Netflix在CES大会上宣布将服务扩展至130个新的国家，基本覆盖了全球，当然，中国大陆是无缘了。
 

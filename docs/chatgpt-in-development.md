@@ -77,7 +77,7 @@ API 层，建议不要直接使用 [https://api.openai.com](https://t.co/dDi4Qes
 
 网络和接口稳定性的问题解决了，接下来的就是一些服务推荐了。我并没有直接使用 ChatGPT 官方的地址，而是选择开源项目 Pandora ,自建了一个网页，缓存了 Access Token，14天免登录，配置接口换成自己的转发 API，家里老婆也能不挂代理直接用。访问也更快，不依赖我使用设备的网络情况。
 
-- [Pandora: 潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。](https://github.com/pengzhile/pandora "Pandora: 潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。")
+- [Pandora: 潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。](https://github.com/pengzhile/pandora)
 
 ![](https://c2.llyz.xyz/blog/2023/06/chatgpt/c-5.jpg)
 

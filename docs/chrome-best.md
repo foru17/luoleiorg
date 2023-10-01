@@ -1,13 +1,13 @@
 ---
 title: Chrome，更好吃，更好用
-date: '2011-07-15'
+date: "2011-07-15"
 cover: https://c2.llyz.xyz/wp-image/2011/07/choose-chrome.jpg
 tags:
-- chrome
-- google
+  - chrome
+  - google
 ---
 
-![](https://c2.llyz.xyz/wp-image/2011/07/choose-chrome.jpg")暑假第一天，轰隆隆隆一场暴雨冲走了复习周的疲倦，也带走了考试周不堪回首的痛苦记忆。
+![](https://c2.llyz.xyz/wp-image/2011/07/choose-chrome.jpg)暑假第一天，轰隆隆隆一场暴雨冲走了复习周的疲倦，也带走了考试周不堪回首的痛苦记忆。
 
 趁着广州难得的清凉，发扬中华民族传统的静心忍性的优良传统，写一篇博客来向大家推荐一下一款特优秀，特爽，特牛掰的浏览器：Chrome。顺便也推荐几个chrome插件，让你的chrome更强更牛掰哄哄。
 
@@ -15,11 +15,11 @@ tags:
 
 这篇文章，拒绝各种苦涩难懂的技术分析和比较，拒绝各种看不懂的专业名词，就从最普通的用户体验方面，跟大家说说聊聊。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/no-pingce-300x230.jpg")
+![](https://c2.llyz.xyz/wp-image/2011/07/no-pingce-300x230.jpg)
 
 # 一.Who is chrome？Chrome是谁？
 
-![](https://c2.llyz.xyz/wp-image/2011/07/chrome-girl2.jpg")Chrome娘，全球是最伟大且中国最邪恶（Sorry，景德镇木有谷歌只有别有用心）的互联网公司google谷歌的亲女儿。
+![](https://c2.llyz.xyz/wp-image/2011/07/chrome-girl2.jpg)Chrome娘，全球是最伟大且中国最邪恶（Sorry，景德镇木有谷歌只有别有用心）的互联网公司google谷歌的亲女儿。
 
 小巧机灵的她出生于2008年9月3日，到现在已经有三岁了。
 
@@ -27,13 +27,13 @@ tags:
 
 根据权威网站[StatCounter](https://gs.statcounter.com/)的统计，2011年6月，Chrome的全球市场份额已经突破20%了，仅次于微软的IE和Firefox火狐浏览器，大有取代Firefox成为老二的趋势。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/份额1.jpg )
+![](https://c2.llyz.xyz/wp-image/2011/07/份额1.jpg)
 
 而在一些国家，例如阿根廷、智利、乌拉圭，Chrome娘的市场份额已经是第一，看来南美洲的人很喜欢她哦。
 
 那在我们伟大的瓷器之国“拆啦”，Chrome娘的市场份额又有多少呢？
 
-![](https://c2.llyz.xyz/wp-image/2011/07/china-mar.jpg )
+![](https://c2.llyz.xyz/wp-image/2011/07/china-mar.jpg)
 
 厄，没错，在我们带三个表，代表先进生产力的中国，Chrome娘只有可怜的2.52%市场份额，前三牢牢地被几个IE内核的浏览器给霸占了。
 
@@ -43,13 +43,13 @@ tags:
 
 想要快快认识她，想知道chrome娘到底有多强大，就先赶紧猛击下面的按钮去下载吧。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/download.jpg )
+![](https://c2.llyz.xyz/wp-image/2011/07/download.jpg)
 
 # 二.爱Chrome娘的三个理由
 
 ## 1.快、快、快
 
- 游走在网上的生活，与每一位网友最贴近的某过于浏览器，上猫扑、看优酷看土豆，在线游戏等等等等，浏览器俨然就是另外一个操作系统。
+游走在网上的生活，与每一位网友最贴近的某过于浏览器，上猫扑、看优酷看土豆，在线游戏等等等等，浏览器俨然就是另外一个操作系统。
 
 曾经做为一个小白的我，老老实实用着微软自带的IE，后来系统升级，发现国产的遨游浏览器貌似不错，就转战去了遨游Maxton，直到有一天，我点击下载了Chrome。
 
@@ -65,11 +65,11 @@ tags:
 
 ## 2.安全、先进
 
-![](https://c2.llyz.xyz/wp-image/2011/07/safe.png )
+![](https://c2.llyz.xyz/wp-image/2011/07/safe.png)
 
- 想必大家还对前几天的#新浪微博病毒风波#心有余悸。用chrome的我却表示毫无压力，因为中招的都是IE内核浏览器的用户。
+想必大家还对前几天的#新浪微博病毒风波#心有余悸。用chrome的我却表示毫无压力，因为中招的都是IE内核浏览器的用户。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/weibovi.jpg )
+![](https://c2.llyz.xyz/wp-image/2011/07/weibovi.jpg)
 
 随着技术的发展、网络攻击手段的不断提高，老旧的IE浏览器的安全性日益下降，充满漏洞的IE内核浏览器很容易成为攻击对象。
 
@@ -79,11 +79,11 @@ tags:
 
 ##  3.强大功能，自由定制、超级个性
 
-![](https://c2.llyz.xyz/wp-image/2011/07/6pbuo1.jpg )
+![](https://c2.llyz.xyz/wp-image/2011/07/6pbuo1.jpg)
 
 > 古人有云： **工欲善其事，必先利其器**
 
- 一个优秀的工具、一个符合用户使用习惯的工具，能够极大地**提高用户的工作效率**，节约用户的时间。
+一个优秀的工具、一个符合用户使用习惯的工具，能够极大地**提高用户的工作效率**，节约用户的时间。
 
 时间就是猫宁，你仲么好意思浪费猫宁呢！！浪费了猫宁你还仲么买爱疯，买挨拍的，还不赶紧换chrome，换chrome就是省猫宁、就是赚猫宁啊！！！
 
@@ -91,7 +91,7 @@ tags:
 
 就我自己感觉，国内的那些所谓什么极速什么安全浏览器可以比喻成一个什么都有但是什么都不强的大胖子，而chrome就可以当成一个小巧精干的忍者。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/vs-1024x480.jpg )
+![](https://c2.llyz.xyz/wp-image/2011/07/vs-1024x480.jpg)
 
 胖子每次出征随身自带一大堆的工具，却总有些工具从来用不上，还不能随便删除。
 
@@ -99,19 +99,19 @@ tags:
 
 网上应用商店和拓展中心，各种插件那是各种强大啊。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/webapp2-1024x630.jpg )
+![](https://c2.llyz.xyz/wp-image/2011/07/webapp2-1024x630.jpg)
 
 发微博、搜索、查邮件，全球各地开发者为chrome开发了各种各样的精品插件。足以满足你的各种需要。
 
 弱弱地说一下，2011年谷歌给chrome推出了强大的web app在线应用商店，利用chrome强大的功能，你甚至可以在chrome上玩愤怒的小鸟。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/chrome-angry-birds.png )
+![](https://c2.llyz.xyz/wp-image/2011/07/chrome-angry-birds.png)
 
- 好了，经过我的简单介绍，想必你对chrome好感骤生，那么，你就赶紧接把chrome抱回家吧~
+好了，经过我的简单介绍，想必你对chrome好感骤生，那么，你就赶紧接把chrome抱回家吧~
 
-![](https://c2.llyz.xyz/wp-image/2011/07/cgirl.jpg )
+![](https://c2.llyz.xyz/wp-image/2011/07/cgirl.jpg)
 
-![](https://c2.llyz.xyz/wp-image/2011/07/download.jpg )
+![](https://c2.llyz.xyz/wp-image/2011/07/download.jpg)
 
 随后，我会写一篇文章专门介绍优秀的chrome插件。欢迎关注~~
 

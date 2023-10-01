@@ -32,16 +32,14 @@
   );
 
   const filteredPosts = computed(() => {
-    // 如果category为hot，则按照hit排序
-    if (currentCategory.value === "hot") {
-      return sortPostsByHit(posts.value); //
+    if (currentCategory.value === "hot" && isArticleListHitsFetched.value) {
+      return sortPostsByHit(posts.value);
     } else {
-      const filtered = currentCategory.value
+      return currentCategory.value
         ? posts.value.filter((post) =>
             post.categories.includes(currentCategory.value)
           )
         : posts.value;
-      return filtered;
     }
   });
 
@@ -106,8 +104,9 @@
         if (post) {
           post.hit = item.hit;
         }
-        isArticleListHitsFetched.value = true;
       });
+      // 设置 isArticleListHitsFetched 为 true
+      isArticleListHitsFetched.value = true;
     } catch (error) {
       console.error("Error fetching page hits:", error);
     }

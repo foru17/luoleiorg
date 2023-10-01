@@ -1,11 +1,11 @@
 ---
 title: 装修日记 | 松山没有湖，东莞三房装修
-date: '2020-08-27'
-cover: https://c2.llyz.xyz/house/h-2.JPG
+date: "2020-08-27"
+cover: https://c2.llyz.xyz/blog/2020/08/house/h-2.JPG
 categories:
-- lifestyle
+  - lifestyle
 tags:
-- 装修
+  - 装修
 ---
 
 2016年底，楼市火热，和家人一商量，买了一位于东莞松山湖的期房，从签合同、交首付，直到房子建好了，开发商叫去收房，才知道自己的房号和朝向。
@@ -26,7 +26,7 @@ tags:
 
 ## **?房屋平面图**
 
-![](https://c2.llyz.xyz/house/house-map-1.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/house-map-1.JPG)
 
 - 建筑面积：114㎡
 - 套内面积：98㎡
@@ -34,23 +34,23 @@ tags:
 
 房间为三房两厅两卫，带入户花园。入户花园是送的，房子实际面积约117㎡。
 
-![](https://c2.llyz.xyz/house/h-1.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/h-1.JPG)
 
 右边是入户花园（带阳台，可封闭），进门是厨房，厨房有点小，且有一个柱子，​算是硬伤。​
 
-![](https://c2.llyz.xyz/house/h-2.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/h-2.JPG)
 
 客厅照片，阳台面积很大，但是不能做封闭，有点浪费和遗憾。
 
-![](https://c2.llyz.xyz/house/h-5.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/h-5.JPG)
 
 主卧的卫生间，带窗户。这里准备把墙打掉，改衣帽间。
 
-![](https://c2.llyz.xyz/house/h-4.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/h-4.JPG)
 
 靠近客厅次卧照片。
 
-![](https://c2.llyz.xyz/house/h-6.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/h-6.JPG)
 
 内卧照片。
 
@@ -92,23 +92,23 @@ tags:
 
 这种地方，一般都是采购的业内人士才会过来。
 
-![](https://c2.llyz.xyz/house/dg-14.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/dg-14.JPG)
 
-![](https://c2.llyz.xyz/house/dg-17.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/dg-17.JPG)
 
 我还是第一次来这种地方，全世界各地的木料、板材都有，也算是大开眼界。这种地方，个人消费者就别来了，来了也看不懂，看得懂人家也不一定卖。
 
-![](https://c2.llyz.xyz/house/dg-18.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/dg-18.JPG)
 
-![](https://c2.llyz.xyz/house/dg-15.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/dg-15.JPG)
 
 家里的柜子、门、地板，最初的材料，就是这些夹板、木料，我和老婆跟着朋友逛了半圈，基本属于外行看热闹。
 
-![](https://c2.llyz.xyz/house/dg-6.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/dg-6.JPG)
 
-![](https://c2.llyz.xyz/house/dg-11.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/dg-11.JPG)
 
-![](https://c2.llyz.xyz/house/dg-9.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/dg-9.JPG)
 
 后来又走了几个板材加工的工厂，顺便了解了一下板材的制作流程，也算是学习到了不少新知识。
 
@@ -158,7 +158,7 @@ tags:
 
 第二天，小哥在微信里，发了初步房屋分区图和过去的一些案例照片，且根据昨晚沟通的需求，出了一个简单的稿。周六还上班且按照约定发稿，虽然工作量不大，但是毕竟是一个态度，给人感觉还是挺好的。
 
-![](https://c2.llyz.xyz/house/demo-1.png)
+![](https://c2.llyz.xyz/blog/2020/08/house/demo-1.png)
 
 总结一下这家公司：
 
@@ -257,13 +257,13 @@ tags:
 
 过去这几天，装修公司的设计工作倒推进了一些，陆续给了我客厅、主卧、工作室的设计稿。对于初始的设计稿，不太满意，感觉装修公司的设计方案有点敷衍的感觉。
 
-![](https://c2.llyz.xyz/house/d-1.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/d-1.JPG)
 
-![](https://c2.llyz.xyz/house/d-3.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/d-3.JPG)
 
-![](https://c2.llyz.xyz/house/d-4.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/d-4.JPG)
 
-![](https://c2.llyz.xyz/house/d-2.JPG)
+![](https://c2.llyz.xyz/blog/2020/08/house/d-2.JPG)
 
 上面就是经过艰难沟通后，最终出具的几个房间的效果图。我和老婆看了下来，大概就是「平淡无奇」，有关这个设计图之前的几个版本的不符合需求需求和奇怪的设计之处就不多说了。
 

@@ -1,10 +1,8 @@
 ---
 title: 每月一个好习惯NO.1:早睡早起
-date: '2012-03-26'
-cover: https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg "biketotibet"
+date: "2012-03-26"
+cover: https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg
 ---
-
-![biketotibet](https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg "biketotibet")
 
 > 有些事现在不做，一辈子都不会做了
 
@@ -42,7 +40,7 @@ cover: https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg "biketotibet"
 
 我倒不相信自己会RP那么好，成为每年死在路上的那两位数的人中的一位。
 
-\[caption id="attachment\_491" align="alignnone" width="723" caption="川藏线上著名的72拐"\]![](https://c2.llyz.xyz/wp-image/2012/04/72guai.jpg "72guai")\[/caption\]
+![](https://c2.llyz.xyz/wp-image/2012/04/72guai.jpg)
 
 杞人尚忧天，何况我即将面对的是一条写满「血泪汗」的「天路」呢？我会想一些问题，我也会恐惧一些东西。
 

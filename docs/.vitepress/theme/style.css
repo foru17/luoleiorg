@@ -310,6 +310,12 @@ span.lang {
   margin: 24px 0 12px;
 }
 
+.vp-doc h3 {
+  margin: 16px 0 12px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
 @media (min-width: 960px) {
   .vp-doc ul,
   .vp-doc ol {
@@ -324,7 +330,7 @@ span.lang {
   }
   .vp-doc h2 {
     border-top: 0 none transparent;
-    margin: 48px 0 12px;
+    margin: 30px 0 10px;
   }
 
   /* .main 标签下的第一个h2 不要margin */

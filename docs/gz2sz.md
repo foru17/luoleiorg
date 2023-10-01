@@ -1,11 +1,11 @@
 ---
 title: 广州深圳往返骑行小记
-date: '2012-03-10'
+date: "2012-03-10"
 cover: https://c2.llyz.xyz/wp-image/2012/03/bike11.jpg
 tags:
-- guangzhou
-- shenzhen
-- e9aa91e8a18c
+  - guangzhou
+  - shenzhen
+  - e9aa91e8a18c
 ---
 
 ## 前记
@@ -74,4 +74,4 @@ tags:
 
 车不是啥好配件，但是对于我来说完全就够了（至少目前是完全够了），心中始终还是觉得「当到了一定的价位，烧装备就没意思了」。
 
-![bike1](https://c2.llyz.xyz/wp-image/2012/03/bike11.jpg "我的入门小破车")
+![bike1](https://c2.llyz.xyz/wp-image/2012/03/bike11.jpg)

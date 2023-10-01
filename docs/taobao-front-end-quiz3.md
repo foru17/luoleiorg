@@ -1,9 +1,9 @@
 ---
 title: 淘宝前端智勇大闯关第三季:相关知识点
-date: '2013-08-15'
+date: "2013-08-15"
 cover: https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-16-at-2.35.41-AM-1024x678.png
 tags:
-- javascript
+  - javascript
 ---
 
 ![Screen Shot 2013-08-16 at 2.35.41 AM](https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-16-at-2.35.41-AM-1024x678.png)
@@ -45,24 +45,24 @@ tags:
 下面是JQUERY获取当前页面的URL信息的一些函数（摘自[《JQUERY获取当前页面的URL信息》](https://blog.unvs.cn/archives/jquery-local-url-param.html)）
 
 ```js
-window.location.pathname  
-例：[https://localhost:8086/topic/index?topicId=361](https://localhost:8086/topic/index?topicId=361) alert(window.location.pathname); 则输出：/topic/index  
-  
-设置或获取整个 URL 为字符串。 window.location.href  
+window.location.pathname
+例：[https://localhost:8086/topic/index?topicId=361](https://localhost:8086/topic/index?topicId=361) alert(window.location.pathname); 则输出：/topic/index
+
+设置或获取整个 URL 为字符串。 window.location.href
 例：[https://localhost:8086/topic/index?topicId=361](https://localhost:8086/topic/index?topicId=361) alert(window.location.href); 则输出：[https://localhost:8086/topic/index?topicId=361](https://localhost:8086/topic/index?topicId=361)
 
-设置或获取与 URL 关联的端口号码。 window.location.port  
+设置或获取与 URL 关联的端口号码。 window.location.port
 例：[https://localhost:8086/topic/index?topicId=361](https://localhost:8086/topic/index?topicId=361) alert(window.location.port); 则输出：8086
 
-设置或获取 URL 的协议部分。 window.location.protocol  
+设置或获取 URL 的协议部分。 window.location.protocol
 例：[https://localhost:8086/topic/index?topicId=361](https://localhost:8086/topic/index?topicId=361) alert(window.location.protocol); 则输出：http:
 
 设置或获取 href 属性中在井号“#”后面的分段。 window.location.hash
 
-设置或获取 location 或 [URL](https://blog.unvs.cn/catalog.asp?tags=URL "标签_URL_搜索结果") 的 hostname 和 port 号码。 window.location.host  
+设置或获取 location 或 [URL](https://blog.unvs.cn/catalog.asp?tags=URL "标签_URL_搜索结果") 的 hostname 和 port 号码。 window.location.host
 例：[https://localhost:8086/topic/index?topicId=361](https://localhost:8086/topic/index?topicId=361) alert(window.location.host); 则输出：http:localhost:8086
 
-设置或获取 href 属性中跟在问号后面的部分。 window.location.search  
+设置或获取 href 属性中跟在问号后面的部分。 window.location.search
 例：[https://localhost:8086/topic/index?topicId=361](https://localhost:8086/topic/index?topicId=361) alert(window.location.search); 则输出：?topicId=361
 ```
 

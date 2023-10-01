@@ -1,11 +1,12 @@
 ---
 title: 编程五年:我辞职了
-date: '2018-10-10'
+date: "2018-10-10"
 cover: https://c2.llyz.xyz/blog/2018/10/restart/restart2.jpg
 categories:
-- code
+  - code
+  - hot
 tags:
-- code
+  - code
 ---
 
 很久没聊自己了。

@@ -1,11 +1,12 @@
 ---
 title: 装修笔记：从0到1打造家庭弱电方案（上篇）
-date: '2022-10-07'
+date: "2022-10-07"
 cover: https://c2.llyz.xyz/blog/2022/10/network/n-0.JPG
 categories:
-- lifestyle
+  - lifestyle
+  - hot
 tags:
-- 装修
+  - 装修
 ---
 
 ## 写在前面

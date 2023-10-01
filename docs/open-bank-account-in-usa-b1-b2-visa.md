@@ -1,12 +1,13 @@
 ---
-title: 美国银行开户攻略 | Bank Of America | 视频 + 图文 
-date: '2017-12-20'
+title: 美国银行开户攻略 | Bank Of America | 视频 + 图文
+date: "2017-12-20"
 cover: https://c2.llyz.xyz/blog/2017/12/boa/boa3.jpg
 categories:
-- zuoluotv
+  - zuoluotv
+  - hot
 tags:
-- travel
-- usa
+  - travel
+  - usa
 ---
 
 ## 视频
@@ -116,4 +117,4 @@ A:APP里面可以直接修改，回国后可以自行申请TextNow或者Google V
 
 - ZUOLUOTV电报群:[t.me/zuoluotv](https://t.me/zuoluotv)
 - ZUOLUOTV电报频道:[t.me/zuoluotvOfficial](https://t.me/zuoluotvofficial)
-- ZUOLUOTV\_BOT机器人:[t.me/zuoluotv\_bot](https://t.me/zuoluotv_bot)
+- ZUOLUOTV_BOT机器人:[t.me/zuoluotv_bot](https://t.me/zuoluotv_bot)

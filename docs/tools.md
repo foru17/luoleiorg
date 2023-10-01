@@ -1,16 +1,16 @@
 ---
 title: 我的大学用什么？-互联网产品服务推荐
-date: '2012-03-24'
-cover: https://c2.llyz.xyz/wp-image/2012/03/nobaidu1.jpg "nobaidu"
+date: "2012-03-24"
+cover: https://c2.llyz.xyz/wp-image/2012/03/nobaidu1.jpg
 tags:
-- internet
-- e5a4a7e5ada6
-- tools
+  - internet
+  - e5a4a7e5ada6
+  - tools
 ---
 
 > **「工欲善其事，必先利其器」**
-> 
->                                  -孔子（春秋）《论语·卫灵公》
+>
+> -孔子（春秋）《论语·卫灵公》
 
 很久没有写过跟技术有关的文章了，转眼间，大学就这么在指溜间走过了3年，蛋疼乳酸、混混账账，在这里还是发扬一下大互联网无私分享精神，推荐一些自己觉得好用的、有帮助的软件、网站、服务给大家看看。
 
@@ -32,7 +32,7 @@ tags:
 
 #### 1.Google
 
-![nobaidu](https://c2.llyz.xyz/wp-image/2012/03/nobaidu1.jpg "nobaidu")
+![nobaidu](https://c2.llyz.xyz/wp-image/2012/03/nobaidu1.jpg)
 
 你也许会感到奇怪，为什么我第一个标题写着Google，却放着一个大大的「NO 百度」的标志。
 
@@ -43,31 +43,31 @@ tags:
 在这里，首先从技术角度比较一下「Google和百度」
 
 > _来源:[知乎网《是不是谷歌搜索结果的质量被百度赶上了（中国大陆地区）？》](https://www.zhihu.com/question/19594403)_
-> 
+>
 > **搜索的质量评估通常是看几个指标：  
 > **相关度 -- 请受过训练的人来评估每个引擎的前几个结果是否相关，评估时不参考结果的来源、引擎的品牌等。  
 > 索引规模 -- 每个引擎知道自己的规模，也就是有多少网页（除去重复的），但是不知道对方的规模，可是可以根据两方搜索结果的爬取，得知有多少网页是我有他无，或他有我无，从此得知大约两个引擎的索引规模。比较有挑战的一点是如果索引规模大了可能导致相关度下降（因为有些长尾结果会排序太靠前）。  
 > 速度 -- 就是输入搜索词，得到结果的时间。很多测试告诉我们0.2秒的速度会导致用户满意度的落差，和未来使用的频率。  
 > 新鲜度 -- 就是能爬到多新的内容，而且要有一定规模（只有新闻内容不算够新）。
-> 
+>
 > **在2008年，谷歌和百度的比较：**
-> 
+>
 > 1. 相关度远远领先7个点（大约是谷歌英语刚出来时和雅虎的差距）。
 > 2. 索引规模是百度的10倍左右（当然，对绝大部分常见搜索词是感觉不出差别的），并且弥补了有些爬取的错误和落差。
 > 3. 速度大约和百度一样，虽然许多服务器不在国内。
 > 4. 新鲜度达到6分钟之内，也就是说一个网页上线6分钟后就可以被搜到（如果是PR值够高的话）。
-> 
->                                                                         **----@李开复在知乎网的答**
+>
+> **----@李开复在知乎网的答**
 
 以上内容仅供参考，凭我自己的亲自体验来说，在内容的精确度和数量来说，Google要比百度优秀很多。搜索英文资料、学术资料更加好。
 
-![image](https://c2.llyz.xyz/wp-image/2012/03/image15.png "image")
+![image](https://c2.llyz.xyz/wp-image/2012/03/image15.png)
 
 改变自己的使用习惯第一步总是难以迈出的，在这里，只是推荐各位使用Google，都是免费的工具，为什么不用好一点的呢？
 
 #### 2.Google Reader
 
-![googlereader](https://c2.llyz.xyz/wp-image/2012/03/googlereader1.jpg "googlereader")
+![googlereader](https://c2.llyz.xyz/wp-image/2012/03/googlereader1.jpg)
 
 要说在所有的网络服务中，我使用最多并且改变我最大的是什么，我可以毫不犹豫地回答「[Google Reader 谷歌阅读器](https://www.google.com/reader/)」。
 
@@ -85,37 +85,37 @@ tags:
 
 **1)使用https加密**
 
-![image](https://c2.llyz.xyz/wp-image/2012/03/image7.png "image")
+![image](https://c2.llyz.xyz/wp-image/2012/03/image7.png)
 
 由于众所周知的原因，国内互联网有一堵严重干扰用户体验的防火墙，使用Https加密，阅读敏感内容不会被重置（这也是我强烈推荐使用Google Reader而不是其他国内产品的原因）。
 
 **2.分类你的订阅**
 
-![readercat](https://c2.llyz.xyz/wp-image/2012/03/readercat1.jpg "readercat")
+![readercat](https://c2.llyz.xyz/wp-image/2012/03/readercat1.jpg)
 
 根据内容、优先级分类，平时阅读的时候根据时间充裕程度阅读相应的内容。「条理」总能给你带来额外的效率。
 
 #### 3.Evernote（笔记软件）
 
-![Evernote-Logo](https://c2.llyz.xyz/wp-image/2012/03/Evernote-Logo1.png "Evernote-Logo")
+![Evernote-Logo](https://c2.llyz.xyz/wp-image/2012/03/Evernote-Logo1.png)
 
 > #### Evernote
-> 
+>
 > EverNote 可以帮助您使用计算机、手机、平板电脑和网页记住日常生活中的大小事务。
-> 
+>
 > Evernote 的主要特点：
-> 
+>
 > - 创建文本、照片和音频笔记
 > - 剪辑网页，包括文本、链接和图片
 > - 跨设备同步笔记
 > - 在快照和图片中搜索文本
-> - [https://www.evernote.com/about/intl/zh-cn/learn\_more/](https://www.evernote.com/about/intl/zh-cn/learn_more/)
+> - [https://www.evernote.com/about/intl/zh-cn/learn_more/](https://www.evernote.com/about/intl/zh-cn/learn_more/)
 
 小人不才，只言片语难以把这个「神器」介绍清楚，强烈建议你先下载这个试用，谁用谁知道，当然，去官网看看指示也是一个很明智的选择，虽说我把Evernote称为「笔记软件」，可它绝对不仅仅只是一个「笔记软件」。
 
 不管是上课做笔记还是写什么东西，我都会用到Evernote，可以很方便地记录文字、图片，并且可以同步到各个终端上。
 
-![evernotexos](https://c2.llyz.xyz/wp-image/2012/03/evernotexos.jpg "evernotexos")
+![evernotexos](https://c2.llyz.xyz/wp-image/2012/03/evernotexos.jpg)
 
 Evernote不仅支持常见的windows，也覆盖了各个桌面、移动系统，主流的android、IOS不在话下，小众的WP7和黑莓也均有支持。移动终端上用户体验良好的app，让你随时随地记录下你的灵感和想法。
 
@@ -127,7 +127,7 @@ Evernote对于我来说主要的用途还是做笔记，说到「做笔记」，
 
 说到这，我想起一副互联网上广为流传的图。
 
-![macschool](https://c2.llyz.xyz/wp-image/2012/03/macschool.jpg "macschool")
+![macschool](https://c2.llyz.xyz/wp-image/2012/03/macschool.jpg)
 
 此图是美国的一个大学，人手一部mac，当然，此图有些夸张的成分（貌似是一个艺术学院），可是我看哈佛公开课（2003年），当年pc不便宜，也可以看到「挺不少」同学带笔记本上课记录。
 
@@ -143,23 +143,23 @@ Evernote对于我来说主要的用途还是做笔记，说到「做笔记」，
 
 除了国外的Evernote，国内的山寨「麦库」大家也可以试一下（免费空间更大，速度更快，分享更加方便，跨主流平台）
 
-![maiku](https://c2.llyz.xyz/wp-image/2012/03/maiku1.jpg "maiku")
+![maiku](https://c2.llyz.xyz/wp-image/2012/03/maiku1.jpg)
 
 > 麦库记事让您快速，轻松地保存任何事情。比如：写日记见闻，创建任务，会议记录等，并与你的家人和  
 > 朋友分享。最重要的是，无论何处何时，麦库记事是保证您的数据无缝同步，永不丢失。
-> 
+>
 > [https://note.sdo.com/home/functions](https://note.sdo.com/home/functions)
 
 #### 4.谷歌日历
 
-![googlecal](https://c2.llyz.xyz/wp-image/2012/03/googlecal.jpg "googlecal")
+![googlecal](https://c2.llyz.xyz/wp-image/2012/03/googlecal.jpg)
 
 说来也尴尬，推荐的几乎都是谷歌的东西，没办法，谁叫谷歌的东西好呢。在这里，还要推荐一款「任务管理+时间管理」神器，[Google Calendar](https://www.google.com/calendar)。
 
 为什么推荐这个服务，首先引用一下IT圈内名人可能吧吧主[@Jason Ng](https://www.kenengba.com/post/683.html) 的一句话：
 
 > 来源: [《善用Google日历，让事情做得更高效》](https://www.docin.com/p-6515738.html)
-> 
+>
 > 以前我总是以为脑袋够用，从来不用备忘、日程等工具。但事实上我太高估自己的能力，一个日程表、一个事项提醒，或者一个todo list都是十分有用的。
 
 现在不少学生真「忙」啊，校内校外各种事情，学会「任务管理+时间管理」， 根据重要优先级分类标注好即将要做的工作，可以有效利用好自己的时间，提升自己的学习、工作效率。
@@ -171,23 +171,23 @@ Evernote对于我来说主要的用途还是做笔记，说到「做笔记」，
 顺便说一下「**[GTD](https://zh.wikipedia.org/zh/GTD)**」这个概念，GTD是个好东西，做好GTD的人是可以很强大的。
 
 > **来源:维基百科**
-> 
-> **GTD**是英文_Getting Things Done_的缩写，是一种行为管理的方法，也是[David Allen](https://zh.wikipedia.org/w/index.php?title=David_Allen_(author)&action=edit&redlink=1)写的一本书的书名。
-> 
+>
+> **GTD**是英文*Getting Things Done*的缩写，是一种行为管理的方法，也是[David Allen](<https://zh.wikipedia.org/w/index.php?title=David_Allen_(author)&action=edit&redlink=1>)写的一本书的书名。
+>
 > GTD的主要原则在于一个人需要通过记录的方式把头脑中的各种任务移出来。通过这样的方式，头脑可以不用塞满各种需要完成的事情，而集中精力在正在完成的事情。
 
 同样再推荐两个GTD博客（用Google Reader订阅去吧＝,＝）
 
-> [**![tuimo](https://c2.llyz.xyz/wp-image/2012/03/tuimo1.jpg "tuimo")褪墨**](https://www.mifengtd.cn/) [https://www.mifengtd.cn/](https://www.mifengtd.cn/)
-> 
+> [**![tuimo](https://c2.llyz.xyz/wp-image/2012/03/tuimo1.jpg)褪墨**](https://www.mifengtd.cn/) [https://www.mifengtd.cn/](https://www.mifengtd.cn/)
+>
 > 褪墨关注时间管理、个人提升和演讲技巧。我们的目标是：把事情做到更好！
 
-> ![GTDlifeava](https://c2.llyz.xyz/wp-image/2012/03/GTDlifeava1.jpg "GTDlifeava")
-> 
+> ![GTDlifeava](https://c2.llyz.xyz/wp-image/2012/03/GTDlifeava1.jpg)
+>
 > [**时间管理行动家**](https://www.gtdlife.com/) [https://www.gtdlife.com/](https://www.gtdlife.com/)
-> 
+>
 > 作者的微博: [@邹鑫-GTDLife](https://weibo.com/gtdlife) [https://weibo.com/gtdlife](https://weibo.com/gtdlife)
-> 
+>
 > 追求幸福的时间管理行动家，《小强升职记》的作者，专注于分享时间管理方法、时间管理案例、时间管理工具。
 
 #### 写在后面
@@ -203,17 +203,17 @@ Evernote对于我来说主要的用途还是做笔记，说到「做笔记」，
 说说什么呢？「菲利普恋爱了，真好。」
 
 > #### ![](https://img3.douban.com/lpic/s3983958.jpg)
-> 
+>
 > [《人生的枷锁》](https://book.douban.com/subject/2035171/)
-> 
+>
 > 毛姆的代表作，具有明显的自传色彩。
-> 
+>
 > 小说主人公菲利普·凯里自幼父母双亡，不幸又先天残疾，在冷漠而陌生的环境中度过了童年，性格因此孤僻而敏感。在寄宿学校度过的岁月让他饱受了不合理的学校制度的摧残，而当他走入社会后，又在爱情上经历了伤痛。在坎坷的人生道路上，他每跨一步，都要付出艰辛的挣扎，但思想和个性都独立不羁的凯里，一直努力挣脱宗教和小市民意识这两条禁锢自己精神的桎梏，力图在混沌纷扰的生活漩流中，寻求人生的真谛。
 
 > ![](https://img1.douban.com/lpic/s2566102.jpg)
-> 
+>
 > [《](https://book.douban.com/subject/2033081/)[身份的焦虑》](https://book.douban.com/subject/2033081/)
-> 
+>
 > 通俗、有趣的语言，为现代人解读了“身份”的前世今生，以及我们为什么会为“身份”而焦虑。“身份”这个词在这本书中更多的还是指一种社会地位，一种当代人追求的功名利禄。为什么我们渴望得到别人的认同？是什么让我们变得“势利”，对于金钱和时尚的欲望之壑为何总也填不满？我们到底怎样才能克服这种身份的焦虑呢？
 
 时间也不早了，这篇博文暂时也就这样吧。如果你觉得「臭味相投」，不妨交流交流。

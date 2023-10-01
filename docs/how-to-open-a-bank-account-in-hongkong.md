@@ -1,13 +1,13 @@
 ---
 title: 香港银行开户攻略 | 境外投资必备，如何拥有一个香港银行卡
-date: '2019-04-30'
+date: "2019-04-30"
 cover: https://c2.llyz.xyz/vlog/vlog40.jpg
 categories:
-- zuoluotv
+  - zuoluotv
+  - hot
 tags:
-- vlog
-- zuoluotv
-- e9a699e6b8af
+  - vlog
+  - zuoluotv
 ---
 
 ## 视频
@@ -79,4 +79,4 @@ tags:
 
 - ZUOLUOTV电报群:[t.me/zuoluotv](https://t.me/zuoluotv)
 - ZUOLUOTV电报频道:[t.me/zuoluotvOfficial](https://t.me/zuoluotvofficial)
-- ZUOLUOTV\_BOT机器人:[t.me/zuoluotv\_bot](https://t.me/zuoluotv_bot)
+- ZUOLUOTV_BOT机器人:[t.me/zuoluotv_bot](https://t.me/zuoluotv_bot)

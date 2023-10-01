@@ -1,14 +1,14 @@
 ---
 title: 智能路由 | 用路由器低成本打造NAS+迅雷离线下载+同步android文件
-date: '2013-02-15'
+date: "2013-02-15"
 cover: https://c2.llyz.xyz/wp-image/2013/02/wifi_meitu_1-1024x576.jpg
 categories:
-- tech
+  - tech
+  - hot
 tags:
-- android
-- nas
+  - android
+  - nas
 ---
-
 
 智能手机、平板的价格的下降，让更多的人拥有了智能设备，也让更多的人拥有了更多的智能设备，如今一个普通的家庭都可能都拥有好几台电脑、笔记本，好几部智能手机、平板电脑，说不定还有诸如apple tv、小米盒子之类的智能电视机顶盒和其他设备。
 
@@ -116,7 +116,7 @@ MW4530安装 openwrt 系统比较简单，下载好 openwrt 的固件文件，�
 
 #### **Aria2 迅雷离线下载**
 
-这款 openwrt 固件自带 Aria2 应用，_aria2_ 是Linux 下一个不错的高速下载工具，支持BT，磁力下载。
+这款 openwrt 固件自带 Aria2 应用，*aria2* 是Linux 下一个不错的高速下载工具，支持BT，磁力下载。
 
 这部分可以参考Chiphell的这篇《[【DSM高阶篇】-安装aria2实现迅雷离线（更新完美版）](https://www.chiphell.com/thread-580013-1-1.html)》，虽说不是同一个系统，可是核心步骤和操作是相同的。
 

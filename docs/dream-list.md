@@ -1,10 +1,8 @@
 ---
 title: 我的梦想清单
-date: '2012-07-24'
-cover: https://c2.llyz.xyz/wp-image/2012/07/dream-list1.jpg "dream-list"
+date: "2012-07-24"
+cover: https://c2.llyz.xyz/wp-image/2012/07/dream-list1.jpg
 ---
-
-![dream-list](https://c2.llyz.xyz/wp-image/2012/07/dream-list1.jpg "dream-list")
 
 后天就要去南京参加亚洲自行车展的一个活动「入藏骑行沙龙」，我的原创视频[《间隔年，骑行去西藏》](https://luolei.org/2012/06/biket2tibet-movie/)获得了一等奖。
 

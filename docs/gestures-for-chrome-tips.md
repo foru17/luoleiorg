@@ -1,9 +1,9 @@
 ---
 title: Gestures for Chrome:鼠标手势增强,让Chrome飞
-date: '2012-08-02'
+date: "2012-08-02"
 cover: https://c2.llyz.xyz/wp-image/2012/08/nanking.jpg
 tags:
-- chrome
+  - chrome
 ---
 
 ![](https://c2.llyz.xyz/wp-image/2012/08/nanking.jpg)
@@ -28,7 +28,7 @@ tags:
 
 在这里简单介绍一下我的大学「暨南大学」
 
-> ![jnu-logo](https://c2.llyz.xyz/wp-image/2012/08/jnu-logo.jpg "jnu-logo") 暨南大学 [https://www.jnu.edu.cn/](https://www.jnu.edu.cn/) 华侨学府，国家「211工程」**重点综合性大学**，直属[国务院侨务办公室](https://zh.wikipedia.org/wiki/%E5%9C%8B%E5%8B%99%E9%99%A2%E5%83%91%E5%8B%99%E8%BE%A6%E5%85%AC%E5%AE%A4)。 光绪三十二年（1906年），清政府两江总督端方从欧洲考察宪政归国后于南京成立“暨南学堂”。1923年男生部迁上海真茹新落成的校舍，女生部仍留南京。1927年南京女生部并入上海真茹，改组为国立暨南大学。1958年在广州重建。
+> ![jnu-logo](https://c2.llyz.xyz/wp-image/2012/08/jnu-logo.jpg) 暨南大学 [https://www.jnu.edu.cn/](https://www.jnu.edu.cn/) 华侨学府，国家「211工程」**重点综合性大学**，直属[国务院侨务办公室](https://zh.wikipedia.org/wiki/%E5%9C%8B%E5%8B%99%E9%99%A2%E5%83%91%E5%8B%99%E8%BE%A6%E5%85%AC%E5%AE%A4)。 光绪三十二年（1906年），清政府两江总督端方从欧洲考察宪政归国后于南京成立“暨南学堂”。1923年男生部迁上海真茹新落成的校舍，女生部仍留南京。1927年南京女生部并入上海真茹，改组为国立暨南大学。1958年在广州重建。
 
 此次南京之行，形成安排得紧凑，来的也不是时候，刚好碰上南京连续高温，炎热的天气让自己不太愿意出去逛。
 

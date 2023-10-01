@@ -1,24 +1,24 @@
 ---
 title: Justflat:多说评论扁平化主题
-date: '2013-09-04'
+date: "2013-09-04"
 cover: https://c2.llyz.xyz/wp-image/2013/09/Screen-Shot-2013-09-05-at-4.16.26-AM.png
 ---
 
-![Screen Shot 2013-09-05 at 4.16.26 AM](https://c2.llyz.xyz/wp-image/2013/09/Screen-Shot-2013-09-05-at-4.16.26-AM.png)
-
+```txt
 主题:Just flat
 
 版本:1.00
 
-项目地址: [https://github.com/foru17/duoshuo-just-flat.css](https://github.com/foru17/duoshuo-just-flat.css)
+项目地址:[https://github.com/foru17/duoshuo-just-flat.css](https://github.com/foru17/duoshuo-just-flat.css)
 
 简介:根据 metroUI 设计规范（至于你信不信，咳咳随意），将多说评论主题扁平化。
+```
 
-Update:
+## Update
 
 2013.9.4 :蓝色初版上线，IE的兼容咳咳请忽视...
 
-ToDO：
+## To-Do
 
 1. 设置less颜色变量，方便用户自己修改配套颜色以兼容各自的主题。
 2. 替换符合flat规范的icon

@@ -1,11 +1,11 @@
 ---
 title: 一个有故事的主题:珠峰上的Yasuko
-date: '2015-12-28'
+date: "2015-12-28"
 categories:
-- code
+  - code
 cover: https://c2.llyz.xyz/blog/2015/12/yasuko2.jpg
 tags:
-- develop
+  - develop
 sidebarDepth: 2
 ---
 
@@ -84,7 +84,10 @@ server {
 
 ```html
 <!-- 通过设置alt值为cover或者full-img来控制文章起始缩略图和是否撑满屏幕 -->
-<img src="https://c2.llyz.xyz/blog/2015/12/book.jpg" class="lazy cover" alt="cover">
+<img
+  src="https://c2.llyz.xyz/blog/2015/12/book.jpg"
+  class="lazy cover"
+  alt="cover" />
 ```
 
 **B.WebP图片和分辨率适配**
@@ -198,35 +201,37 @@ Github、知乎在iPhone上的效果。
 ```javascript
 /*异步加载js*/
 function loadJS(url, callback, el) {
-    var isIE = !!window.ActiveXObject,
-        isIE6 = isIE && !window.XMLHttpRequest,
-        script = document.createElement("script"),
-        head = isIE6 ? document.documentElement : document.getElementsByTagName("head")[0];
-    script.type = "text/javascript";
-    script.async = true;
-    if (script.readyState) {
-        script.onreadystatechange = function() {
-            if (script.readyState == "loaded" || script.readyState == "complete") {
-                script.onreadystatechange = null;
-                if (callback) {
-                    callback();
-                }
-            }
+  var isIE = !!window.ActiveXObject,
+    isIE6 = isIE && !window.XMLHttpRequest,
+    script = document.createElement("script"),
+    head = isIE6
+      ? document.documentElement
+      : document.getElementsByTagName("head")[0];
+  script.type = "text/javascript";
+  script.async = true;
+  if (script.readyState) {
+    script.onreadystatechange = function () {
+      if (script.readyState == "loaded" || script.readyState == "complete") {
+        script.onreadystatechange = null;
+        if (callback) {
+          callback();
         }
-    } else {
-        script.onload = function() {
-            if (callback) {
-                callback();
-            }
-        }
-    }
-    script.src = url;
-    if (el) {
-        document.getElementById(el).appendChild(script);
-    } else {
-        head.insertBefore(script, head.firstChild);
-    }
-};
+      }
+    };
+  } else {
+    script.onload = function () {
+      if (callback) {
+        callback();
+      }
+    };
+  }
+  script.src = url;
+  if (el) {
+    document.getElementById(el).appendChild(script);
+  } else {
+    head.insertBefore(script, head.firstChild);
+  }
+}
 ```
 
 过去webfont、多说等`.js`和`.css`资源都是页面加载的时候就直接加载，占用了一定的带宽和连接，考虑到实际情况，对于评论的`.js`均采用异步加载的方式，webfont加载使用的是[webfontloader](https://github.com/typekit/webfontloader)的异步方案，一定程度下优化。
