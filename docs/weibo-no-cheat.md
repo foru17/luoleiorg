@@ -1,6 +1,6 @@
 ---
 title: 微博防骗指南 | 拒绝骗子,不当傻子
-date: '2012-08-06'
+date: "2012-08-06"
 cover: https://c2.llyz.xyz/wp-image/2012/08/no-cheat.jpg
 ---
 
@@ -60,7 +60,7 @@ cover: https://c2.llyz.xyz/wp-image/2012/08/no-cheat.jpg
 
 同样是这几天，有一个叫做[@廖文石](https://weibo.com/zzwaijie) 的加V用户，两万多粉丝，（认证身份:新锐作家、深圳信念文化签约作家、长篇《那些年我们的梦初绽放》），同样发了一条「转发送单反」的微博 （已经可以确认其微博为虚假信息）
 
-![](https://c2.llyz.xyz/wp-image/2012/08/Snip20120806_8-300x130.png)![](https://c2.llyz.xyz/wp-image/2012/08/Snip20120806_3.png)
+![](https://c2.llyz.xyz/wp-image/2012/08/Snip20120806_3.png)
 
 看头像这个廖文石还挺年轻，挂着一个网络小说作家的头衔，却拿自己的信誉开玩笑，真是可惜了。
 
@@ -92,7 +92,8 @@ cover: https://c2.llyz.xyz/wp-image/2012/08/no-cheat.jpg
 
 在这里推荐两个图片搜索引擎（可以寻找相似图片，找到图片出处）
 
-> ![](https://www.google.com.hk/intl/zh-CN_cn/images/logos/images_logo_lg.gif)谷歌图片搜索 [https://www.google.com.hk/imghp?hl=zh-CN&tab=wi](https://www.google.com.hk/imghp?hl=zh-CN&tab=wi)   ![](https://c2.llyz.xyz/wp-image/2012/08/tineye-logo-300x133.png) TinEye图片搜索 [https://www.tineye.com/](https://www.tineye.com/)  
+- 谷歌图片搜索 [https://www.google.com.hk/imghp?hl=zh-CN&tab=wi](https://www.google.com.hk/imghp?hl=zh-CN&tab=wi)
+- TinEye图片搜索 [https://www.tineye.com/](https://www.tineye.com/)
 
 同样，针对微博文案中的其他有疑点的信息，可以利用搜索引擎进行检索，查看纰漏。
 

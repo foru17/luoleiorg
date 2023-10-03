@@ -1,21 +1,21 @@
 ---
 title: 作为一个程序员，我是如何找到女朋友的？
-date: '2016-08-05'
+date: "2016-08-05"
 cover: https://c2.llyz.xyz/blog/2016/08/love/zh15.jpg
 categories:
-- lifestyle
+  - lifestyle
 tags:
-- life
+  - life
 ---
 
-> 在知乎看到这个问题，想着七夕就要来了，那就干脆写一下我跟杨左的故事吧。
->
-> ```
-> 作者：罗磊
-> 链接：https://www.zhihu.com/question/38200429/answer/115126843
-> 来源：知乎
-> 著作权归作者所有，转载请联系作者获得授权。
-> ```
+在[知乎](https://www.zhihu.com/question/38200429/answer/115126843)看到这个问题，想着七夕就要来了，那就干脆写一下我跟杨左的故事吧。
+
+```
+作者：罗磊
+链接：https://www.zhihu.com/question/38200429/answer/115126843
+来源：知乎
+著作权归作者所有，转载请联系作者获得授权。
+```
 
 厄，其实找到女朋友，恰好是因为我是程序员。 我大概梳理一下时间线。
 

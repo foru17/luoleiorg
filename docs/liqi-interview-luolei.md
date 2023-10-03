@@ -1,12 +1,10 @@
 ---
 title: 利器访谈｜罗磊｜也许是最会晒妻的程序员
-date: '2017-05-10'
+date: "2017-05-10"
 cover: https://c2.llyz.xyz/blog/2017/05/liqi/88018.png
 categories:
-- tech
+  - tech
 ---
-
-![cover](https://c2.llyz.xyz/blog/2017/05/liqi/88018.png)
 
 ## **介绍一下你自己和所做的工作。**
 
@@ -22,15 +20,11 @@ categories:
 
 **工作类：**
 
-RMBP 15 寸 2016 官方顶配：这个月刚买的笔记本，还在适应中，由于自己工作需求，对这一代 RMBP 感觉很尴尬，由于我不同的工作场景，需要外接不同类型的设备，全 USB-C 接口俨然是反生产力设计，但是没办法，买新不买旧，也只能先凑合了。
-
-RMBP 15 寸 2015 顶配：过去这两年在家办公、剪辑视频的主力机器。
-
-MacBook Air 2012：我的第一台 Macbook，平时上网、查阅资料还是吃得消的。
-
-[占美 Mini PC](https://www.taobao.com/product/%E5%8D%A0%E7%BE%8E%E8%BF%B7%E4%BD%A0%E9%9B%BB%E8%85%A6.htm)：一台无风扇的 Mini PC，安装了 Windows10，放在家里当迅雷、百度云之类的下载机。
-
-[AOC QC2770 显示器](https://www.jd.com/pinpai/688-7600.html) + [戴尔 2312HM 显示器](https://www1.ap.dell.com/cn/zh/epub/Dell-Peripherals/...u2312hm/pd.aspx?...u2312hm...) + 乐歌 [DLB502-D 支架](https://item.jd.com/1015341.html)：双屏需要。RMBP屏幕虽好，但是在桌子前的时候，我还是倾向于使用键盘鼠标+大屏显示器的组合。
+- RMBP 15 寸 2016 官方顶配：这个月刚买的笔记本，还在适应中，由于自己工作需求，对这一代 RMBP 感觉很尴尬，由于我不同的工作场景，需要外接不同类型的设备，全 USB-C 接口俨然是反生产力设计，但是没办法，买新不买旧，也只能先凑合了。
+- RMBP 15 寸 2015 顶配：过去这两年在家办公、剪辑视频的主力机器。
+- MacBook Air 2012：我的第一台 Macbook，平时上网、查阅资料还是吃得消的。
+- [占美 Mini PC](https://www.taobao.com/product/%E5%8D%A0%E7%BE%8E%E8%BF%B7%E4%BD%A0%E9%9B%BB%E8%85%A6.htm)：一台无风扇的 Mini PC，安装了 Windows10，放在家里当迅雷、百度云之类的下载机。
+- [AOC QC2770 显示器](https://www.jd.com/pinpai/688-7600.html) + [戴尔 2312HM 显示器](https://www1.ap.dell.com/cn/zh/epub/Dell-Peripherals/...u2312hm/pd.aspx?...u2312hm...) + 乐歌 [DLB502-D 支架](https://item.jd.com/1015341.html)：双屏需要。RMBP屏幕虽好，但是在桌子前的时候，我还是倾向于使用键盘鼠标+大屏显示器的组合。
 
 **外设类：**
 

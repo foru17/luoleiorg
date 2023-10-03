@@ -118,17 +118,3 @@ Chrome娘，全球是最伟大且中国最邪恶（Sorry，景德镇木有谷歌
 随后，我会写一篇文章专门介绍优秀的chrome插件。欢迎关注~~
 
 想第一时间看到最新的文章，欢迎订阅[罗磊的独立博客](https://luolei.org)
-
-![](https://c2.llyz.xyz/wp-image/2011/07/rss.png)
-
-点击上面这个图标就能订阅了
-
-订阅源:[https://luolei.org/feed](https://luolei.org/feed)
-
-文章均为[罗磊](https://luolei.org/)原创，转载请注明出处，谢谢。
-
-本文地址：[https://luolei.org/2011/07/chrome-best/](https://luolei.org/2011/07/chrome-best/)
-
-我的新浪微博:[@罗罗磊磊](https://weibo.com/foru17/)
-
-我的twitter:[@foru17](https://x.com/#!/foru17)

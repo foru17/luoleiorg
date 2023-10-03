@@ -1,6 +1,6 @@
 ---
 title: 多说评论也玩圆角头像动画「自定义CSS:无压力小白级教程」
-date: '2012-08-28'
+date: "2012-08-28"
 cover: https://c2.llyz.xyz/wp-image/2012/08/duoshuo-title.jpg
 ---
 
@@ -89,13 +89,14 @@ A.圆角（或者圆形）+阴影
 在这里我直接使用的是CSS3代码
 
 ```css
-#ds-reset .ds-avatar img{
-width:54px;height:54px; /*设置图像的长和宽*/
-border-radius: 27px;/*设置图像圆角效果,在这里我直接设置了超过width/2的像素，即为圆形了*/
--webkit-border-radius: 27px;/*圆角效果：兼容webkit浏览器*/
--moz-border-radius:27px;
-box-shadow: inset 0 -1px 0 #3333sf;/*设置图像阴影效果*/
--webkit-box-shadow: inset 0 -1px 0 #3333sf;
+#ds-reset .ds-avatar img {
+  width: 54px;
+  height: 54px; /*设置图像的长和宽*/
+  border-radius: 27px; /*设置图像圆角效果,在这里我直接设置了超过width/2的像素，即为圆形了*/
+  -webkit-border-radius: 27px; /*圆角效果：兼容webkit浏览器*/
+  -moz-border-radius: 27px;
+  box-shadow: inset 0 -1px 0 #3333sf; /*设置图像阴影效果*/
+  -webkit-box-shadow: inset 0 -1px 0 #3333sf;
 }
 ```
 
@@ -142,7 +143,3 @@ B.鼠标悬浮时:图像进行360度旋转
 至于要折腾成什么样，就看个人喜好了，像我，喜欢多说原生的设计，就没怎么修改，只改了一下头像效果（圆形+鼠标悬浮时旋转）。
 
 大家做出什么好玩的效果，不妨也分享出来吧（附上CSS代码吧 ~(≧▽≦)/~ ）
-
-我的新浪微博[@罗罗磊磊](https://weibo.com/foru17)
-
-我的twitter [@foru17](https://x.com/foru17)

@@ -1,12 +1,12 @@
 ---
 title: Web开发者和设计师必须要知道的 iOS 8 十个变化
-date: '2014-09-24'
+date: "2014-09-24"
 cover: https://c2.llyz.xyz/wp-image/2014/10/ios8wel.jpg
 tags:
-- iphone
+  - iphone
 ---
 
-* [英文原文:"iOS 8 and iPhone 6 for web developers and designers: next evolution for Safari and native webapps"](https://www.mobilexweb.com/blog/safari-ios8-iphone6-web-developers-designers)
+- [英文原文:"iOS 8 and iPhone 6 for web developers and designers: next evolution for Safari and native webapps"](https://www.mobilexweb.com/blog/safari-ios8-iphone6-web-developers-designers)
 
 译者 [@罗罗磊磊](https://luolei.org)，转载请注明。
 
@@ -14,45 +14,45 @@ tags:
 
 ## 概述
 
-* 简介 iOS 8 上的 Safari 的更新
-* iPhone 6 和 iPhone 6 Plus
-* 新 Api 支持
-* Safari 新功能和支持
-* iOS 8 原生优化
-* Safari 插件
-* 新的设计
-* 视频增强
-* iOS 8上的JS
-* Bug 和问题
+- 简介 iOS 8 上的 Safari 的更新
+- iPhone 6 和 iPhone 6 Plus
+- 新 Api 支持
+- Safari 新功能和支持
+- iOS 8 原生优化
+- Safari 插件
+- 新的设计
+- 视频增强
+- iOS 8上的JS
+- Bug 和问题
 
 已经习惯了苹果官方的高冷，这次，苹果依旧没有更新任何与 Safari 或者 iOS 相关的文档，所以下面的所有数据和资料都是基于我自己的测试和 WWDC 上公布的信息。
 
 ## iOS 8 上的 Safari
 
-* 支持**HTML5新APIs**: WebGL (3D canvas), IndexedDB, Navigation Timing API， Crypto API
-* 混合应用: 更快的、优化的WebView
-* **支持滚动 Scroll 事件**:终于支持了！
-* **视频播放**: 全屏API，元数据API
-* HTML模板元素
-* Safari 插件:原生App可以以插件的形式读取网页DOM
-* **图片**:支持`Image Source Sets`和动态PNG`APNG`
-* **CSS**：支持`Shapes`，支持小数单位
-* 浏览器自动填写表单（支持信用卡调用摄像头扫描）
-* **网页和本地应用交互**：登录数据共享
-* EcmaScript 6 ：部分支持
-* SPDY:支持谷歌家的新网络协议了
-* 文件上传失效了(这是Bug)
-* 移除了`minimal-ui`属性
-* 支持`Yosemite`上的远程调试
+- 支持**HTML5新APIs**: WebGL (3D canvas), IndexedDB, Navigation Timing API， Crypto API
+- 混合应用: 更快的、优化的WebView
+- **支持滚动 Scroll 事件**:终于支持了！
+- **视频播放**: 全屏API，元数据API
+- HTML模板元素
+- Safari 插件:原生App可以以插件的形式读取网页DOM
+- **图片**:支持`Image Source Sets`和动态PNG`APNG`
+- **CSS**：支持`Shapes`，支持小数单位
+- 浏览器自动填写表单（支持信用卡调用摄像头扫描）
+- **网页和本地应用交互**：登录数据共享
+- EcmaScript 6 ：部分支持
+- SPDY:支持谷歌家的新网络协议了
+- 文件上传失效了(这是Bug)
+- 移除了`minimal-ui`属性
+- 支持`Yosemite`上的远程调试
 
 相比其他移动端上的浏览器，iOS 8并没有支持有些功能：
 
-* dp单位的`Media queries`
-* getUserMedia:访问本地硬件设备，捕获音频和视频的Api
-* WebRTC:网页即时通信
-* @viewport 声明
-* Datalist
-* WebP图片
+- dp单位的`Media queries`
+- getUserMedia:访问本地硬件设备，捕获音频和视频的Api
+- WebRTC:网页即时通信
+- @viewport 声明
+- Datalist
+- WebP图片
 
 ## iPhone 6 和 iPhone6 Plus
 
@@ -60,14 +60,14 @@ iPhone 6 和 iPhone6 Plus 是苹果继 iPhone 5 后的又一款不同尺寸和�
 
 对于web开发者来说，不同的不仅仅是尺子上的大小。还包括默认`viewport`（关乎 `width=device-width`的设置），像素比（关乎高清图片的应用），icon图标大小和登录页的图片大小。
 
-|  | iPhone 6 | iPhone 6 Plus |
-| --- | --- | --- |
-| 尺寸 | 4.7” | 5.5” |
-| Viewport’s device-width (in CSS pixels) | 375 | 414 |
-| Viewport’s device-width (Android设备同分辨率参考) | 360 | 400 |
-| Device Pixel Ratio 像素比 | 2 | 3(近似值) |
-| Rendered Pixels 渲染像素 (默认 viewport size \* dpr) | 750×1334 | 1242×2208 |
-| Physical pixels 物理像素 | 750×1334 | 1080×1920 |
+|                                                      | iPhone 6 | iPhone 6 Plus |
+| ---------------------------------------------------- | -------- | ------------- |
+| 尺寸                                                 | 4.7”     | 5.5”          |
+| Viewport’s device-width (in CSS pixels)              | 375      | 414           |
+| Viewport’s device-width (Android设备同分辨率参考)    | 360      | 400           |
+| Device Pixel Ratio 像素比                            | 2        | 3(近似值)     |
+| Rendered Pixels 渲染像素 (默认 viewport size \* dpr) | 750×1334 | 1242×2208     |
+| Physical pixels 物理像素                             | 750×1334 | 1080×1920     |
 
 对于新 iPhone 的屏幕尺寸，推荐一篇文章["iPhone 6 Screens Demystified"](https://www.paintcodeapp.com/news/iphone-6-screens-demystified) 。
 
@@ -75,7 +75,7 @@ iPhone 6 和 iPhone6 Plus 是苹果继 iPhone 5 后的又一款不同尺寸和�
 
 正在读这篇文章的你应该已经知道
 
-直到上周，所有的 iPhone 和 iPod 使用的都是`320px`的屏幕宽度。iPhone 6 和 Plus 相比前代更加宽，给我们带来了更多的空间，苹果终于决定加宽浏览器宽度了。但是苹果奇葩的是使用了一套特殊的屏幕像素值。大部分`4.7~5寸`的安卓设备的`viewport`宽设为`360px`，iPhone 6上却是`375px`，大部分`5.5寸`安卓机器（比如说三星Note）的`viewport`宽为`400`，iPhone 6 plus 上却是十分怪异的`414px` （╮(╯\_╰)╭ 苹果你这样折腾是闹哪样啊）。这意味着相比同样尺寸的安卓机器，iPhone 6用户大概要少看`4%`的内容。也许这并不是什么大问题，但是你也许还是得检查下你的网站是否适配。
+直到上周，所有的 iPhone 和 iPod 使用的都是`320px`的屏幕宽度。iPhone 6 和 Plus 相比前代更加宽，给我们带来了更多的空间，苹果终于决定加宽浏览器宽度了。但是苹果奇葩的是使用了一套特殊的屏幕像素值。大部分`4.7~5寸`的安卓设备的`viewport`宽设为`360px`，iPhone 6上却是`375px`，大部分`5.5寸`安卓机器（比如说三星Note）的`viewport`宽为`400`，iPhone 6 plus 上却是十分怪异的`414px` （╮(╯_╰)╭ 苹果你这样折腾是闹哪样啊）。这意味着相比同样尺寸的安卓机器，iPhone 6用户大概要少看`4%`的内容。也许这并不是什么大问题，但是你也许还是得检查下你的网站是否适配。
 
 ![](https://c2.llyz.xyz/wp-image/2014/10/iphone6.png)
 
@@ -161,7 +161,7 @@ Safari如今支持自动补全表单，并且当Safari检测到你要填写的�
 
 现在地址栏和工具栏就变成半透明了。在 iOS 7上只有地址栏是半透明的。这意味着初次加载的时候网页可视区域变得更大（包含了底部的工具栏）。
 
-![](https://c2.llyz.xyz/wp-image/2014/10/bottom-toolbar-300x109.png)
+![](https://c2.llyz.xyz/wp-image/2014/10/bottom-toolbar.png)
 
 #### iPad上的更新
 
@@ -233,17 +233,17 @@ Pocket.com 已经声明即将推出针对 iOS 8的插件。
 
 这次safari新增了很多html5，css3的支持
 
-* CSS Shapes
-* CSS object-fit
-* CSS Background Blend modes
-* word-spacing
-* CSS Compositing and Blending
-* Subpixel layout 支持小数点
-* Animated PNG supported APNG格式图片
-* Parallax effects and Pull-to-refresh supported （与Scroll事件相关）
-* SVG Fragments Identifiers (for SVG Sprites)
-* Image Source Set support
-* HTML Template support
+- CSS Shapes
+- CSS object-fit
+- CSS Background Blend modes
+- word-spacing
+- CSS Compositing and Blending
+- Subpixel layout 支持小数点
+- Animated PNG supported APNG格式图片
+- Parallax effects and Pull-to-refresh supported （与Scroll事件相关）
+- SVG Fragments Identifiers (for SVG Sprites)
+- Image Source Set support
+- HTML Template support
 
 #### Animated PNG
 
@@ -315,12 +315,12 @@ Safari开始支持`<video>`的`preload="metadata"`，可以让浏览器触发`lo
 
 ## iOS 8 JavaScript相关
 
-* 部分支持`ECMAScript 6`,包括`Promises`, `Iterators`, `Maps`, `For-of`, `Weak Maps`等等。
-* **后台运行**：JavaScript会在后台继续运行（哪怕已经切换了窗口甚至Safari切换到后台，但是计时器 times 下降到1s的频率）。
-* 支持`scroll`事件：不多说了，上面介绍过。
-* Unprefixed Page Visibility AP ： 我没搞懂这个是什么（哪位知道求指导）
-* 移除`window.doNotTrack`
-* 支持`window.currentScript`
+- 部分支持`ECMAScript 6`,包括`Promises`, `Iterators`, `Maps`, `For-of`, `Weak Maps`等等。
+- **后台运行**：JavaScript会在后台继续运行（哪怕已经切换了窗口甚至Safari切换到后台，但是计时器 times 下降到1s的频率）。
+- 支持`scroll`事件：不多说了，上面介绍过。
+- Unprefixed Page Visibility AP ： 我没搞懂这个是什么（哪位知道求指导）
+- 移除`window.doNotTrack`
+- 支持`window.currentScript`
 
 9月18更新:
 
@@ -330,14 +330,14 @@ Safari开始支持`<video>`的`preload="metadata"`，可以让浏览器触发`lo
 
 说了iOS8和iPhone 的更新，再来说说目前发现的 Bug。
 
-* **不支持文件上传**！！！所有的文件上传都失效了，你能选择或者拍张照片，但是js不能获得任何数据。`HTML`或者`XMLHttpRequest`的`POST`请求也不行。但是这个问题但是在桌面启动的app没发生。
+- **不支持文件上传**！！！所有的文件上传都失效了，你能选择或者拍张照片，但是js不能获得任何数据。`HTML`或者`XMLHttpRequest`的`POST`请求也不行。但是这个问题但是在桌面启动的app没发生。
 
-* **WKWebKit**：在新的引擎不能读取本地文件是个大问题，所以对于混合app来说，还得使用老的`UIWebView`。
+- **WKWebKit**：在新的引擎不能读取本地文件是个大问题，所以对于混合app来说，还得使用老的`UIWebView`。
 
-* `window.prompt`可能会导致Safari崩溃
-* **附件**:语音在`input`和`labels`输入时，不管用。(当输入的时候，label不再发音)
-* 桌面app的`iframes`中,`touch`事件没有被监测到。
-* 手机休眠后，桌面app中的`Timers`和`requestAnimationFrame`回调没有执行。
+- `window.prompt`可能会导致Safari崩溃
+- **附件**:语音在`input`和`labels`输入时，不管用。(当输入的时候，label不再发音)
+- 桌面app的`iframes`中,`touch`事件没有被监测到。
+- 手机休眠后，桌面app中的`Timers`和`requestAnimationFrame`回调没有执行。
 
 ## 译者言
 

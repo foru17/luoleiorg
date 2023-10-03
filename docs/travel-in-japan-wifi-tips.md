@@ -1,13 +1,13 @@
 ---
 title: 日本旅行上网攻略:移动WIFI和SIM卡哪个好? | 左罗TV
-date: '2016-07-31'
+date: "2016-07-31"
 cover: https://c2.llyz.xyz/blog/2016/07/wifi-japan.jpg
 categories:
-- travel
-- zuoluotv
+  - travel
+  - zuoluotv
 tags:
-- travel
-- japan
+  - travel
+  - japan
 ---
 
 ![cover](https://c2.llyz.xyz/blog/2016/07/wifi-japan.jpg)
@@ -20,14 +20,3 @@ tags:
 
 - [优酷网:日本旅行上网攻略:移动WIFI和SIM卡哪个好?](https://v.youku.com/v_show/id_XMTY2NjAyMTI0NA==.html) : 推荐大陆用户观看。
 - [Youtube:日本旅行上网攻略:移动WIFI和SIM卡哪个好? | 左罗TV第二谈](https://www.youtube.com/watch?v=ebR1at-pDJE) : 推荐海外用户观看
-
-## 左罗TV
-
-欢迎各位点击下面的链接关注我们的视频频道或者社交网络:
-
-- [优酷:左罗TV](https://i.youku.com/i/UMjQyNzQ2NTA4)
-- [Youtube:ZUOLUOTV](https://www.youtube.com/channel/UCFCs9KNL6f2ZMKsoU7rjbkg)
-- [新浪微博:@罗罗磊磊](https://weibo.com/foru17)
-- [新浪微博:@杨杨左左](https://www.weibo.com/809033993?is_all=1)
-- [Instagram:@foru17](https://www.instagram.com/foru17/)
-- [Instagram:@zoelccc](https://www.instagram.com/zoelccc/)

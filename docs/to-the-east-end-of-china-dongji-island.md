@@ -1,9 +1,9 @@
 ---
 title: 左罗TV | 遇见,东极岛:夏季舟山团建视频节目
-date: '2016-07-24'
+date: "2016-07-24"
 cover: https://c2.llyz.xyz/blog/2016/07/dongji/dongji-island.jpg
 tags:
-- travel
+  - travel
 ---
 
 2016年春节后回来，就进去了公司五楼的小黑屋进行起点改造的封闭开发，前后忙活了小半年，[起点中文网新版](https://i.qidian.com/)(2016.07.24注:当前对登陆用户开放)终于上线，从UI、交互、性能、后台架构方面都有了质的飞跃，后续我也会在博客进行技术方面的分享（毕竟也是KPI的一个考核项目），要不我的博客就真的沦陷成晒妻博客了。
@@ -38,14 +38,3 @@ tags:
 - 运动相机稳定器:智云Z1-Smooth C +
 - 无人机:DJI精灵3标准版
 - 编辑:Final Cut Pro
-
-## 左罗TV
-
-欢迎各位点击下面的链接关注我们的视频频道或者社交网络:
-
-- [【优酷自频道】:左罗TV](https://i.youku.com/i/UMjQyNzQ2NTA4)
-- [【Youtube Channel】:ZUOLUOTV](https://www.youtube.com/channel/UCFCs9KNL6f2ZMKsoU7rjbkg)
-- [新浪微博:@罗罗磊磊](https://weibo.com/foru17)
-- [新浪微博:@杨杨左左](https://www.weibo.com/809033993?is_all=1)
-- [Instagram:@foru17](https://www.instagram.com/foru17/)
-- [Instagram:@zoelccc](https://www.instagram.com/zoelccc/)

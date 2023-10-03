@@ -207,9 +207,3 @@ I belong to the world,i belong to the nation，我属于这个世界，我属于
 我们围观郭美美，围观[殷雪刚](https://www.renren.com/profile.do?checked=true&id=272492353)，围观罗玉凤，我们叫嚷判郭美美死刑，呼吁新浪封杀罗玉凤，或者占楼大骂这位[殷雪刚](https://www.renren.com/profile.do?checked=true&id=272492353)同学，这些是否是我们应该有的行为？这是民主还是文革？
 
 时间不多，水平有限，本文定有疏漏不足，欢迎理性思辨，也再次欢迎600字的”求证罗磊是傻逼“，我依旧回回应你一个”哦“。
-
-文章均为[罗磊](https://luolei.org/)原创，转载请注明出处，谢谢。
-
-本文地址：[https://luolei.org/2011/07/we/](https://luolei.org/2011/07/we/) 我的新浪微博:[@罗罗磊磊](https://weibo.com/foru17/)
-
-我的twitter:[@foru17](https://x.com/#!/foru17)

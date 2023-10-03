@@ -1,11 +1,11 @@
 ---
 title: 年終卷 | 2016年我读了哪些书？
-date: '2017-02-15'
+date: "2017-02-15"
 cover: https://c2.llyz.xyz/blog/2017/02/wechat-we.png
 categories:
-- lifestyle
+  - lifestyle
 tags:
-- read
+  - read
 ---
 
 2017年的进度条已经过去了五分之一，这短短的五分之一，算得上是我人生最重要的一个时间段，人生中的几件大事，就这么有点意料之外，情理之中，在这段时间里发生了。
@@ -94,12 +94,3 @@ tags:
 2017年，会逐渐增大内容产出（文章、视频）的频率，欢迎大家关注我的微信公众号「罗磊啰嗦」和其他其他渠道。
 
 ![](https://c2.llyz.xyz/wechat.png)
-
-欢迎各位点击下面的链接关注或者订阅我们，多谢:
-
-- [优酷:左罗TV](https://i.youku.com/i/UMjQyNzQ2NTA4)
-- [Youtube:ZUOLUOTV](https://www.youtube.com/channel/UCFCs9KNL6f2ZMKsoU7rjbkg)
-- [新浪微博:@罗罗磊磊](https://weibo.com/foru17)
-- [新浪微博:@杨杨左左](https://www.weibo.com/809033993?is_all=1)
-- [Instagram:@foru17](https://www.instagram.com/foru17/)
-- [Instagram:@zoelccc](https://www.instagram.com/zoelccc/)

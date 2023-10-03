@@ -90,7 +90,7 @@ MW4530安装 openwrt 系统比较简单，下载好 openwrt 的固件文件，�
 
 格式化完成后，将硬盘盒（或者U盘）通过USB连接路由器，稍等10秒左右，在 Openwrt 管理「系统>挂载点」界面，不出意外，可以看到USB已经成功挂载。
 
-![openwrt-usb](https://c2.llyz.xyz/wp-image/2013/02/openwrt-usb-1024x425.jpg)
+![openwrt-usb](https://c2.llyz.xyz/wp-image/2013/02/openwrt-usb.jpg)
 
 挂载点可以理解成USB外接硬盘映射到openwrt文件系统中的哪个位置，比如说，以我为例，我将外接硬盘映射到/usb/sda1 这里，点击「保存&应用」按钮后重启，这时候，如果我用 sftp 登录192.168.1.1，可以看到在 openwrt 系统根目录下，已经有了usb/sda1 这层文件了，对应的就是外接硬盘。
 
