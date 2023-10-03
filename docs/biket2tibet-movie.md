@@ -1,17 +1,14 @@
 ---
 title: 骑行去西藏 | 高清原创短片《间隔年,骑行去西藏》
-date: '2012-06-17'
-cover: https://c2.llyz.xyz/wp-image/2012/06/bike2tibet-dream-1024x571.png
+date: "2012-06-17"
+cover: https://c2.llyz.xyz/wp-image/2012/06/bike2tibet-dream.png
 tags:
-- travel
-- tibet
-- e9aa91e8a18c
+  - travel
+  - tibet
+  - e9aa91e8a18c
 ---
 
-
 ## 视频
-
-![](https://c2.llyz.xyz/wp-image/2012/06/bike2tibet-dream-1024x571.png)
 
 谨以此片铭记我的间隔年,我的21岁,我的2012；川藏线,2200公里,29天,注定将是我一生中最不平凡的记忆。感谢一路上碰到的车友、骑友、驴友,因为有你有我,我们在2012年春天,在路上,留下了我们的故事。「间隔年:去尝试,体验不一样的人生」
 

@@ -1,6 +1,6 @@
 ---
 title: 大陆居民申请尼泊尔签证（香港领事馆）2014最新攻略
-date: '2014-04-27'
+date: "2014-04-27"
 cover: https://c2.llyz.xyz/wp-image/2014/02/visa-n.jpg
 ---
 
@@ -14,19 +14,19 @@ cover: https://c2.llyz.xyz/wp-image/2014/02/visa-n.jpg
 
 ## 行程
 
-* 1月25号：护照EMS快递到手。  
-* 1月26号：周日无法办理签证。  
-* 1月27日：星期一，持港澳通行证，从深圳湾口岸出境，跑去尼泊尔香港领事馆办理加急签证，当日领回护照+签证。  
-* 1月28日：持护照+尼泊尔签证，从深圳湾口岸出境。晚20点30飞机飞往印度新德里。  
-* 1月29日：中午12点30飞机新德里飞往加德满都，下午4点到达 KTM 国际机场，入境尼泊尔。
+- 1月25号：护照EMS快递到手。
+- 1月26号：周日无法办理签证。
+- 1月27日：星期一，持港澳通行证，从深圳湾口岸出境，跑去尼泊尔香港领事馆办理加急签证，当日领回护照+签证。
+- 1月28日：持护照+尼泊尔签证，从深圳湾口岸出境。晚20点30飞机飞往印度新德里。
+- 1月29日：中午12点30飞机新德里飞往加德满都，下午4点到达 KTM 国际机场，入境尼泊尔。
 
 ## 签证申请
 
 官方提示：旅游签证费用根据停留日期不等170—700元不等，.10岁以下儿童及南盟成员国公民签证免费，落地签证费用15天25美元; 30天40美元; 90天日100美元。所需资料 1).签证申请表格1张（须用英文大写字母填写完整）。 2).两寸近照1张（要求正面免冠白底彩照）。 3).护照（有效期6个月以上，至少留有1页空白签证页）。
 
-* 尼泊尔香港领事馆网站：[https://www.nepalconsulatehk.org/visa.php](https://www.nepalconsulatehk.org/visa.php)
+- 尼泊尔香港领事馆网站：[https://www.nepalconsulatehk.org/visa.php](https://www.nepalconsulatehk.org/visa.php)
 
-* 签证申请表下载地址：[https://www.nepalconsulatehk.org/pdf/visaform.pdf](https://www.nepalconsulatehk.org/pdf/visaform.pdf)
+- 签证申请表下载地址：[https://www.nepalconsulatehk.org/pdf/visaform.pdf](https://www.nepalconsulatehk.org/pdf/visaform.pdf)
 
 ### 尼泊尔香港领事馆地址
 

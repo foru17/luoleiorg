@@ -1,9 +1,8 @@
 ---
 title: 纽约时报网站改版背后的技术
-date: '2014-04-27'
-cover: https://c2.llyz.xyz/wp-image/2014/02/nytimes-redesign-1024x568.png
+date: "2014-04-27"
+cover: https://c2.llyz.xyz/wp-image/2014/02/nytimes-redesign.png
 ---
-
 
 **原文地址**: [The Technology Behind the NYTimes.com Redesign](https://open.blogs.nytimes.com/2014/01/08/the-technology-behind-the-nytimes-com-redesign/?_php=true&_type=blogs&_php=true&_type=blogs&_r=1)
 
@@ -67,4 +66,3 @@ cover: https://c2.llyz.xyz/wp-image/2014/02/nytimes-redesign-1024x568.png
 如今我们的新平台包含了更强大的发布和互动功能，我们还在不断地改进这个平台，不断地迭代。这个新平台也让我们的团队能更加敏捷地进行新的学习和开发。尽管我们还有很多遗留技术问题，但是我们已经建立了一个值得依赖的技术团队，相信以后大家能更好地开发解决问题。
 
 下一次，我们的团队的其他开发者将深入介绍这次重构使用的这些技术，从 WebSockets 到 php 框架，尽请期待。
-

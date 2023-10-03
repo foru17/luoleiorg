@@ -1,7 +1,7 @@
 ---
 title: 名片设计一枚
 date: "2011-06-16"
-cover: https://c2.llyz.xyz/wp-image/2011/06/j9OOA.jpg "j9OOA"
+cover: https://c2.llyz.xyz/wp-image/2011/06/j9OOA.jpg
 ---
 
 ![](https://c2.llyz.xyz/wp-image/2011/06/j9OOA.jpg)

@@ -1,12 +1,10 @@
 ---
 title: 像黑客那用Chrome | 快捷键插件 Vimium
-date: '2013-05-26'
-cover: https://c2.llyz.xyz/wp-image/2013/05/chrome-vimium-1024x651.jpg
+date: "2013-05-26"
+cover: https://c2.llyz.xyz/wp-image/2013/05/chrome-vimium.jpg
 tags:
-- chrome
+  - chrome
 ---
-
-![cover](https://c2.llyz.xyz/wp-image/2013/05/chrome-vimium-1024x651.jpg)
 
 对于大部分程序员来说，每天很长的一段时间都要在电脑前敲码，当然，很多时候也要用鼠标，这两三个月，感觉到自己的手腕出了点问题，有点不适感，有一天甚至出现左手大拇指突然无法伸直的情况（幸亏过了几个小时就好了），吓得我心想难道自己就这么瘫了，在几个程序员社区搜了一下相关关键字，发现圈子里鼠标手、颈椎问题还不少。
 
@@ -48,4 +46,4 @@ Vimium就是这么一款让你不用鼠标，就能快速实现基本 chrome �
 
 以后会断断续续地保持博客更新的频率，大家可以关注我的微信公共帐号「罗磊啰嗦」，扫扫下面二维码就能关注了，大家有什么问题也可以通过微信直接交流。
 
-> ![](https://c2.llyz.xyz/wp-image/2013/05/weixin-code-150x150.jpg)罗磊啰嗦 微信号: speakl (意为speak loud) 「坚持优质原创内容，致力于传播美好的思想，分享有价值的信息」」
+> ![](https://c2.llyz.xyz/wp-image/2013/05/weixin-code.jpg)罗磊啰嗦 微信号: speakl (意为speak loud) 「坚持优质原创内容，致力于传播美好的思想，分享有价值的信息」」

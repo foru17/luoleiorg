@@ -1,13 +1,11 @@
 ---
 title: 更好的git log
-date: '2013-08-14'
+date: "2013-08-14"
 cover: https://c2.llyz.xyz/wp-image/2013/08/better-git-log.jpg
 tags:
-- develop
-- tech
+  - develop
+  - tech
 ---
-
-![better-git-log](https://c2.llyz.xyz/wp-image/2013/08/better-git-log.jpg)
 
 Git是一个强大的版本管理器，建议每一个开发者或者开发团队都可以使用git。想当初，自己code的时候还是用evernote来保存一些代码片段，以免写烂，自从用上git后，妈妈再也不用担心code shit了。
 

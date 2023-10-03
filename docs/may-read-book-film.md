@@ -1,7 +1,7 @@
 ---
 title: 四五月读的一些书和电影
 date: "2013-05-13"
-cover: https://c2.llyz.xyz/wp-image/2013/05/read-may-1024x576.jpg
+cover: https://c2.llyz.xyz/wp-image/2013/05/read-may.jpg
 tags:
   - movies
   - read

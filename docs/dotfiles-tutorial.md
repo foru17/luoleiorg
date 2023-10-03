@@ -1,17 +1,16 @@
 ---
 title: dotfiles新手教程
-date: '2013-09-01'
-cover: https://c2.llyz.xyz/wp-image/2013/09/dotfiles-1024x576.jpg
+date: "2013-09-01"
+cover: https://c2.llyz.xyz/wp-image/2013/09/dotfiles.jpg
 tags:
-- tutorial
+  - tutorial
 ---
 
-![dotfiles](https://c2.llyz.xyz/wp-image/2013/09/dotfiles-1024x576.jpg)  
 大概四个月前，跟朋友聊天，谈到了dotfiles的问题，当时还不知道dotfiles这东西是什么，回去google一下，看得一堆文件想着这什么跟什么啊，就没管了，后来又见paul irish在视频中提到了dotfiles，想着来点钻研精神，就仔细地研究了一下 dotfiles 相关的知识。这篇博文属于技术类，没兴趣的朋友们可以关闭此窗口了。
 
 首先复制下自己100天前在V2EX发的帖子「[菜鸟如何入门dotfiles管理？](https://v2ex.com/t/70242)」，看看我当时是怎么理解dotfiles。
 
-#### 菜鸟如何入门dotfiles管理？
+## 菜鸟如何入门dotfiles管理？
 
 前几个月就知道dotfiles这个东西，可是怎么都玩不会，在这里请教一下大家。
 
@@ -28,7 +27,7 @@ tags:
 
 不知道自己的理解有没有错，话说中文基本没有入门教程，英文也就是github的那个和一些使用dropbox来备份的。
 
-#### 理解ln命令
+## 理解ln命令
 
 dotfiles 这东西，翻译过来就是「点文件」，就是以`.`开头的文件，常见的如`.bash_profile`,`.vimrc`,`.zshrc`等等。在linux,osx等系统中，这些dotfiles默认都是隐藏的，在shell下要看到这些文件得用`ls -a`命令。像程序猿们，常用到vim, sublime text2, iterm ,zsh 等等相关的工具和开发环境，为了用得顺手，也会根据个人习惯和喜好改改不同工具、环境的配置。
 
@@ -40,7 +39,7 @@ dotfiles 这东西，翻译过来就是「点文件」，就是以`.`开头的�
 
 在我们备份dotfiles中常用的参数有`ln -s`软链接，s是代号symbolic的意思，所谓软链接，她只会在你选定的位置上生成一个镜像，而不会占用磁盘空间，而如果使用`ln`不带参数的话，则就是硬链接，会在选定的位置上生成一个和源文件大小相同的文件，占用磁盘空间。
 
-#### 使用git备份
+## 使用git备份
 
 接下来就是管理自己的dotfiles了，首先找个地方创建一个文件
 

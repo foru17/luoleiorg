@@ -1,16 +1,14 @@
 ---
 title: 移动中国 | Facebook 设计总监上海见闻
-date: '2013-12-05'
-cover: https://c2.llyz.xyz/wp-image/2013/12/shanghai-streed-1024x429.jpeg
+date: "2013-12-05"
+cover: https://c2.llyz.xyz/wp-image/2013/12/shanghai-streed.jpeg
 tags:
-- internet
+  - internet
 ---
-
-![shanghai-streed](https://c2.llyz.xyz/wp-image/2013/12/shanghai-streed-1024x429.jpeg)
 
 Medium原文：["Mobile in China : Observations from a week in Shanghai"](https://medium.com/the-year-of-the-looking-glass/92593edde29e)
 
-![](https://c2.llyz.xyz/wp-image/2013/12/Julie-Zhuo-1024x580.png)
+![](https://c2.llyz.xyz/wp-image/2013/12/Julie-Zhuo.png)
 
 作者[Julie Zhuo](https://www.juliezhuo.com/)，美籍华人，出生于上海，12岁随家人移民美国，毕业于斯坦福大学，现就职于[Facebook](https://www.facebook.com/julie) ，任产品设计总监 Director of Product Design 。
 

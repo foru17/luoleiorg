@@ -1,12 +1,10 @@
 ---
 title: 做一本Traveler's Notebook
 date: "2012-04-21"
-cover: https://c2.llyz.xyz/wp-image/2012/04/tbook11.jpg
+cover: https://c2.llyz.xyz/wp-image/2012/04/tbook2.jpg
 tags:
-  - e7ac94e8aeb0e69cac
+  - DIY
 ---
-
-![tbook1](https://c2.llyz.xyz/wp-image/2012/04/tbook11.jpg)
 
 > 享受的是过程，收获的是心情
 
@@ -22,7 +20,8 @@ tags:
 
 #### 什么是Traveler’s Notebook
 
-> ![Midori-Travelers-Notebook](https://c2.llyz.xyz/wp-image/2012/04/Midori-Travelers-Notebook.jpg)Traveler's Notebook是日本文具品牌Midori的旗舰产品，全球有无数的拥趸，旅行笔记、写作灵感、绘画手稿、规划日程，它都是你的好帮手。可以放进口袋的护照尺寸。请更加自由轻快的记录下您的想法重要的记录制成小剪报，让它成为Traveler's Notebook的记忆吧！
+> ![Midori-Travelers-Notebook](https://c2.llyz.xyz/wp-image/2012/04/Midori-Travelers-Notebook.jpg)
+> Traveler's Notebook是日本文具品牌Midori的旗舰产品，全球有无数的拥趸，旅行笔记、写作灵感、绘画手稿、规划日程，它都是你的好帮手。可以放进口袋的护照尺寸。请更加自由轻快的记录下您的想法重要的记录制成小剪报，让它成为Traveler's Notebook的记忆吧！
 
 [https://www.travelers-notebook.com/](https://www.travelers-notebook.com/)
 

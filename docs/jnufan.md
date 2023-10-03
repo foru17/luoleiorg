@@ -30,7 +30,9 @@ cover: https://c2.llyz.xyz/wp-image/2011/11/nograss.jpg
 
 11月16日晚，在学校官方论坛暨南风Funshow校园热点板块，见到一个11号的帖子[《我们喝的桶装水有问题》](https://bbs.jnustu.net/viewthread.php?tid=281276&extra=page%3D1)，当时已经有近20条留言，进去看了评论，发现[《广州市工商局2011年第3季度流通环节桶装水抽样检验情况分析》](https://www.gzaic.gov.cn/jrgs/sfjs/201111/t20111111_645585.htm)这个政府官方的报告，随后还特意转头看了下自己宿舍的饮用水，还真是这个品牌的水。做为在校学生，喝的就是这个品牌的水，心想这些东西都与我们自己的身体健康切身相关，这是一个值得让大家关注的话题。
 
-随后，经过文案编辑，发表了这条最终被转发超过800次的微博。![https://c2.llyz.xyz/wp-image/2011/11/weibo.jpg](https://c2.llyz.xyz/wp-image/2011/11/weibo.jpg)
+随后，经过文案编辑，发表了这条最终被转发超过800次的微博。
+
+![https://c2.llyz.xyz/wp-image/2011/11/weibo.jpg](https://c2.llyz.xyz/wp-image/2011/11/weibo.jpg)
 
 随着的事情发展，引起校内几大官方微博的关注，第二天团委书记[@暨南大学向丽](https://weibo.com/1856095364/xxIElyGZ7) 老师做出校方回应。声明“_我们喝的是该品牌的山泉水，不是报道中说的不合格的天然净水，是不同系列的水，请大家放心，我们对学生的安全是负责任的！同时同学们订水不是由学校强行安排，是大家自愿购买，同学们如不放心，也可选择其他品牌，都会送到宿舍的！_”![https://c2.llyz.xyz/wp-image/2011/11/xiangli.jpg](https://c2.llyz.xyz/wp-image/2011/11/xiangli.jpg)
 

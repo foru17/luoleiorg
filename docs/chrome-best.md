@@ -7,7 +7,7 @@ tags:
   - google
 ---
 
-![](https://c2.llyz.xyz/wp-image/2011/07/choose-chrome.jpg)暑假第一天，轰隆隆隆一场暴雨冲走了复习周的疲倦，也带走了考试周不堪回首的痛苦记忆。
+暑假第一天，轰隆隆隆一场暴雨冲走了复习周的疲倦，也带走了考试周不堪回首的痛苦记忆。
 
 趁着广州难得的清凉，发扬中华民族传统的静心忍性的优良传统，写一篇博客来向大家推荐一下一款特优秀，特爽，特牛掰的浏览器：Chrome。顺便也推荐几个chrome插件，让你的chrome更强更牛掰哄哄。
 
@@ -15,11 +15,13 @@ tags:
 
 这篇文章，拒绝各种苦涩难懂的技术分析和比较，拒绝各种看不懂的专业名词，就从最普通的用户体验方面，跟大家说说聊聊。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/no-pingce-300x230.jpg)
+![](https://c2.llyz.xyz/wp-image/2011/07/no-pingce.jpg)
 
 # 一.Who is chrome？Chrome是谁？
 
-![](https://c2.llyz.xyz/wp-image/2011/07/chrome-girl2.jpg)Chrome娘，全球是最伟大且中国最邪恶（Sorry，景德镇木有谷歌只有别有用心）的互联网公司google谷歌的亲女儿。
+![](https://c2.llyz.xyz/wp-image/2011/07/chrome-girl2.jpg)
+
+Chrome娘，全球是最伟大且中国最邪恶（Sorry，景德镇木有谷歌只有别有用心）的互联网公司google谷歌的亲女儿。
 
 小巧机灵的她出生于2008年9月3日，到现在已经有三岁了。
 
@@ -91,7 +93,7 @@ tags:
 
 就我自己感觉，国内的那些所谓什么极速什么安全浏览器可以比喻成一个什么都有但是什么都不强的大胖子，而chrome就可以当成一个小巧精干的忍者。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/vs-1024x480.jpg)
+![](https://c2.llyz.xyz/wp-image/2011/07/vs.jpg)
 
 胖子每次出征随身自带一大堆的工具，却总有些工具从来用不上，还不能随便删除。
 
@@ -99,7 +101,7 @@ tags:
 
 网上应用商店和拓展中心，各种插件那是各种强大啊。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/webapp2-1024x630.jpg)
+![](https://c2.llyz.xyz/wp-image/2011/07/webapp2.jpg)
 
 发微博、搜索、查邮件，全球各地开发者为chrome开发了各种各样的精品插件。足以满足你的各种需要。
 

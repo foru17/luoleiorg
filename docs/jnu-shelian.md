@@ -1,12 +1,10 @@
 ---
 title: Mattew是个好干事，社联是个好组织
-date: '2011-06-23'
-cover: https://c2.llyz.xyz/wp-image/2011/06/shelian.jpg "shelian"
+date: "2011-06-23"
+cover: https://c2.llyz.xyz/wp-image/2011/06/shelian.jpg
 tags:
-- jnu
+  - jnu
 ---
-
-![](https://c2.llyz.xyz/wp-image/2011/06/shelian-300x225.jpg )
 
 2011年春夏之交，我们暨南大学也爆发了一起风波。用许同志的话评论：
 
@@ -28,7 +26,7 @@ tags:
 
 **Mattew是个好干事**
 
-**![](https://c2.llyz.xyz/wp-image/2011/06/she-lian.jpg )  
+**![](https://c2.llyz.xyz/wp-image/2011/06/she-lian.jpg)  
 **
 
 影协被撤在人人网和微博上引起了很大的反响，号称一场革命，革命就谈不上，暨大没有这个力量，迟早指导老师会说：”洗洗睡复习吧“。
@@ -99,64 +97,4 @@ tags:
 
 欢迎在[](https://blog.guoyu.me/boycott-sau-of-jnu/)[https://blog.guoyu.me/boycott-sau-of-jnu](https://blog.guoyu.me/boycott-sau-of-jnu)/ 签名抵制社联强权
 
-![](https://c2.llyz.xyz/wp-image/2011/06/vote-say-no-1024x551.jpg )
-
-,
-
-/ \\
-
-{   }
-
-p   !
-
-; : ;
-
-| : |
-
-| : |
-
-l ; l
-
-l ; l
-
-I ; I
-
-I ; I
-
-I ; I
-
-I ; I
-
-d | b
-
-H | H
-
-H | H
-
-H I H
-
-,;,     H I H     ,;,
-
-;H@H;    ;\_H\_;,   ;H@H;
-
-\`\\Y/d\_,;|4H@HK|;,\_b\\Y/'
-
-'\\;MMMMM$@@@$MMMMM;/'
-
-"~\*;!8@8!;\*~"
-
-;888;
-
-;888;
-
-;888;
-
-;888;
-
-d8@8b
-
-O8@8O
-
-T808T
-
-\`~\`
+![](https://c2.llyz.xyz/wp-image/2011/06/vote-say-no.jpg)

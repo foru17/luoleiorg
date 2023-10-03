@@ -1,13 +1,11 @@
 ---
 title: 2013年我看过哪些值得推荐的好书？
-date: '2013-08-19'
-cover: https://c2.llyz.xyz/wp-image/2013/08/kindle-read-1024x682.jpg
+date: "2013-08-19"
+cover: https://c2.llyz.xyz/wp-image/2013/08/kindle-read.jpg
 tags:
-- kindle
-- read
+  - kindle
+  - read
 ---
-
-![kindle-read](https://c2.llyz.xyz/wp-image/2013/08/kindle-read-1024x682.jpg)
 
 今天中午折腾fitbit那个用node.js写的服务器端，搞得我是焦头烂额，各种回调+闭包+查balbala函数搞得我烦躁不已，直呼智商不够，惭愧不已，干脆去刷了一下知乎，发现一个[《2013年你看过哪些值得推荐的好书？》](https://www.zhihu.com/question/21024432)的问题，心想自己2013貌似读书不少，想着去晒一晒，就干脆重新整理了一下2013年自己的读书清单，就这么「晒」了出去，后来想着好歹也是个读书人嘛，还是低调点，就删掉了「晒」字，美曰分享吧。洋洋洒洒花了20分钟copy来paste去，倒是惊讶也不由小佩服了一下自己，要说数据有力量，自己2013年这8个月，看了也有30多本书，纵横前端、科技、人文、历史、科幻、科学、政治……
 

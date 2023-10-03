@@ -1,12 +1,10 @@
 ---
 title: 云图 | 万物皆联系
-date: '2013-01-29'
-cover: https://c2.llyz.xyz/wp-image/2013/01/cloud-atlas-hd-wallpaper-1024x512.jpg
+date: "2013-01-29"
+cover: https://c2.llyz.xyz/wp-image/2013/01/cloud-atlas-hd-wallpaper.jpg
 tags:
-- movies
+  - movies
 ---
-
-![cloud-atlas-hd-wallpaper](https://c2.llyz.xyz/wp-image/2013/01/cloud-atlas-hd-wallpaper-1024x512.jpg)
 
 假期开始了已经将近半个月，自从上篇英文的"Review of 2012"，2013年的博客还是空白。两篇博文在草稿箱之中，却由于种种原因，没有把他们完成，生活和心理状态处在恢复之中，自己的确是没有做好。
 

@@ -1,12 +1,10 @@
 ---
 title: 罗磊啰唆 | 谈谈自媒体和个人品牌
-date: '2013-05-30'
-cover: https://c2.llyz.xyz/wp-image/2013/05/learn-online-1024x575.jpg
+date: "2013-05-30"
+cover: https://c2.llyz.xyz/wp-image/2013/05/learn-online.jpg
 tags:
-- ispeakl
+  - ispeakl
 ---
-
-![learn-online](https://c2.llyz.xyz/wp-image/2013/05/learn-online-1024x575.jpg)
 
 今天，来啰嗦下网络教育，同时从我做为一个学生的角度，来谈谈网络学习。分享一下自己这几年的一些网络学习经验。
 
@@ -18,23 +16,17 @@ tags:
 
 说说我这几年在网络学习去过的一些地方和使用过的一些在线教育产品：
 
-1.[Tuts+ Premium](https://tutsplus.com/) ：国外著名在线教育网站，偏重web开发和设计，大量的视频、教程、电子书，会员制，20美刀一个月。
-
-2.[w3school](https://www.w3school.com.cn/)：W3school应该是所有搞跟网络开发有关的朋友都登录过的网站，上个世纪的页面，适合最基本的入门，后来基本就是查文档用了。
-
-3.[Codecademy](https://www.codecademy.com/)：Codecademy算是比较有技术含量的在线学习网站，实时交互，让你边编程边学习，很适合基础入门。
-
-3.[php100](https://www.php100.com/)：国内老牌的互联网网站，张恩民的系列php,html以及其他视频教程都还算不错
-
-4.[创恩云课堂](https://www.lesson100.com/index.php)：跟php100有渊源的在线视频教育网站，张恩民创办，采取收费制（1-5元一系列课程:很便宜）。
-
-4.[Youtube](https://www.youtube.com/)以及其他相关视频网站：youtube的一些跟技术相关的频道有些不错的教育视频
+- 1.[Tuts+ Premium](https://tutsplus.com/) ：国外著名在线教育网站，偏重web开发和设计，大量的视频、教程、电子书，会员制，20美刀一个月。
+- 2.[w3school](https://www.w3school.com.cn/)：W3school应该是所有搞跟网络开发有关的朋友都登录过的网站，上个世纪的页面，适合最基本的入门，后来基本就是查文档用了。
+- 3.[Codecademy](https://www.codecademy.com/)：Codecademy算是比较有技术含量的在线学习网站，实时交互，让你边编程边学习，很适合基础入门。
+- 4.[php100](https://www.php100.com/)：国内老牌的互联网网站，张恩民的系列php,html以及其他视频教程都还算不错
+- 5.[创恩云课堂](https://www.lesson100.com/index.php)：跟php100有渊源的在线视频教育网站，张恩民创办，采取收费制（1-5元一系列课程:很便宜）。
+- 6.[Youtube](https://www.youtube.com/)以及其他相关视频网站：youtube的一些跟技术相关的频道有些不错的教育视频
 
 说了跟前端学习有关的网站，再说说其他我使用过的网络教育网站
 
-a.[TED](https://www.ted.com/) ：TED应该算是最有影响力的「在线教育」网站了，大量的精品视频，但是其内容更加算是「启发&分享」性质，类似于讲座。
-
-b.[公开课](https://www.google.com/search?hl=zh-cn&q=%E5%85%AC%E5%BC%80%E8%AF%BE)：从哈佛公开课到斯坦福公开课，基本就是把大学课堂录像搬到网络，很多人接触到公开课这个概念就是从哈佛的《Justice》公开课。
+- a.[TED](https://www.ted.com/) ：TED应该算是最有影响力的「在线教育」网站了，大量的精品视频，但是其内容更加算是「启发&分享」性质，类似于讲座。
+- b.[公开课](https://www.google.com/search?hl=zh-cn&q=%E5%85%AC%E5%BC%80%E8%AF%BE)：从哈佛公开课到斯坦福公开课，基本就是把大学课堂录像搬到网络，很多人接触到公开课这个概念就是从哈佛的《Justice》公开课。
 
 下面我来说说我自己对这些在线教育的看法：
 
@@ -56,7 +48,7 @@ b.[公开课](https://www.google.com/search?hl=zh-cn&q=%E5%85%AC%E5%BC%80%E8%AF%
 
 资源壁垒，国外的有些优秀的教育资源，通过采取会员制的方式收取费用才能访问，我是绝对赞成这种制度，版权嘛，可是对于国内许多同学来说，这的确是增加了接触的难度，虽说大部分国外网站都支持类似paypal,amazon pay等支付，可是一旦遇到需要信用卡验证的，就扯蛋了。除此之外，尤其国内的糟糕网络状况，有些国外的教育资源由于众所周知的原因被屏蔽，这个就又是一个天朝人民的无奈了。
 
-#### 如今网络环境下，我们该如何学习？
+## 如今网络环境下，我们该如何学习？
 
 1.学好英文！English helps.
 
@@ -112,4 +104,4 @@ b.[公开课](https://www.google.com/search?hl=zh-cn&q=%E5%85%AC%E5%BC%80%E8%AF%
 
 以后会断断续续地保持博客更新的频率，大家可以关注我的微信公共帐号「罗磊啰嗦」，扫扫下面二维码就能关注了，大家有什么问题也可以通过微信直接交流。
 
-> ![weixin-code](https://c2.llyz.xyz/wp-image/2013/05/weixin-code-150x150.jpg)罗磊啰嗦 微信号: speakl (意为speak loud) 「坚持优质原创内容，致力于传播美好的思想，分享有价值的信息」」
+> ![weixin-code](https://c2.llyz.xyz/wp-image/2013/05/weixin-code.jpg)罗磊啰嗦 微信号: speakl (意为speak loud) 「坚持优质原创内容，致力于传播美好的思想，分享有价值的信息」」
