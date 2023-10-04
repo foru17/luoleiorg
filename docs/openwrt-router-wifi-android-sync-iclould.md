@@ -1,7 +1,7 @@
 ---
 title: 智能路由 | 用路由器低成本打造NAS+迅雷离线下载+同步android文件
 date: "2013-02-15"
-cover: https://c2.llyz.xyz/wp-image/2013/02/wifi_meitu_1-1024x576.jpg
+cover: https://c2.llyz.xyz/wp-image/2013/02/wifi_meitu_1.jpg
 categories:
   - tech
   - hot
@@ -102,7 +102,7 @@ MW4530安装 openwrt 系统比较简单，下载好 openwrt 的固件文件，�
 
 《[samba设置密码,给如我一样的小白一个启示](https://www.right.com.cn/forum/thread-115841-1-1.html)》和《[简单介绍一下samba 添加用户密码的方法](https://www.right.com.cn/forum/thread-104423-1-1.html)》，记得要开启root用户访问权限（在这里有一个建议，路由器设置密码后，其后的所有帐号都设置成root 密码admin，免得自己忘记，这一部分可能会遇到问题，根据自己的情况，搜索相关设置。
 
-![openwrt-samba](https://c2.llyz.xyz/wp-image/2013/02/openwrt-samba-1024x389.jpg)
+![openwrt-samba](https://c2.llyz.xyz/wp-image/2013/02/openwrt-samba.jpg)
 
 **5.测试PC&Mac访问**
 
@@ -128,15 +128,13 @@ b.登录Aria2界面
 
 登录「192.168.1.1/aria2 」，就是aira2的界面了，在这里我更加推荐使用Aria2而不是Transmission（BT），热门资源通过迅雷离线更加之快。下图就是Aria2的界面，十分简洁。
 
-![openwrt-aria2-web](https://c2.llyz.xyz/wp-image/2013/02/openwrt-aria2-web1-1024x592.jpg)
-
 c.设置迅雷离线直接推送
 
 在这里我们使用的是Chrome浏览器（猎豹浏览器，360极速浏览器等相同内核浏览器的也支持），安装「[迅雷离线助手](https://chrome.google.com/webstore/detail/thunderlixianassistant/eehlmkfpnagoieibahhcghphdbjcdmen)」插件（可以方便的把迅雷离线的下载地址导出到aria2/aria2-rpc/wget/IDM/Orbit，支持YAAW。）
 
 接着，登录[迅雷离线](https://dynamic.cloud.vip.xunlei.com/)的网页，点击右上角设置。如图设置，在Aria.Json.prc.path输入「 [https://192.168.1.1:6800/jsonrpc](https://192.168.1.1:6800/jsonrpc) 」
 
-![openwrt-thunder](https://c2.llyz.xyz/wp-image/2013/02/openwrt-thunder-1024x590.jpg)
+![openwrt-thunder](https://c2.llyz.xyz/wp-image/2013/02/openwrt-thunder.jpg)
 
 d.测试迅雷离线直接推送到路由器下载
 

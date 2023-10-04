@@ -1,12 +1,10 @@
 ---
 title: WP原创主题 | 愿望盒子V1
-date: '2013-05-12'
+date: "2013-05-12"
 categories:
-- code
-cover: https://c2.llyz.xyz/wp-image/2013/05/will-box-theme-1024x621.png
+  - code
+cover: https://c2.llyz.xyz/wp-image/2013/05/will-box-theme.png
 ---
-
-![will-box-theme](https://c2.llyz.xyz/wp-image/2013/05/will-box-theme-1024x621.png)
 
 好久没有写博客了，四月，五月又过去了一个月，用一个字来形容我的这两个月，就是「忙」。
 

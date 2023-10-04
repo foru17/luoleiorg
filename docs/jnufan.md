@@ -32,9 +32,9 @@ cover: https://c2.llyz.xyz/wp-image/2011/11/nograss.jpg
 
 随后，经过文案编辑，发表了这条最终被转发超过800次的微博。
 
-![https://c2.llyz.xyz/wp-image/2011/11/weibo.jpg](https://c2.llyz.xyz/wp-image/2011/11/weibo.jpg)
+![weibo.jpg](https://c2.llyz.xyz/wp-image/2011/11/weibo.jpg)
 
-随着的事情发展，引起校内几大官方微博的关注，第二天团委书记[@暨南大学向丽](https://weibo.com/1856095364/xxIElyGZ7) 老师做出校方回应。声明“_我们喝的是该品牌的山泉水，不是报道中说的不合格的天然净水，是不同系列的水，请大家放心，我们对学生的安全是负责任的！同时同学们订水不是由学校强行安排，是大家自愿购买，同学们如不放心，也可选择其他品牌，都会送到宿舍的！_”![https://c2.llyz.xyz/wp-image/2011/11/xiangli.jpg](https://c2.llyz.xyz/wp-image/2011/11/xiangli.jpg)
+随着的事情发展，引起校内几大官方微博的关注，第二天团委书记[@暨南大学向丽](https://weibo.com/1856095364/xxIElyGZ7) 老师做出校方回应。声明“_我们喝的是该品牌的山泉水，不是报道中说的不合格的天然净水，是不同系列的水，请大家放心，我们对学生的安全是负责任的！同时同学们订水不是由学校强行安排，是大家自愿购买，同学们如不放心，也可选择其他品牌，都会送到宿舍的！_”![xiangli.jpg](https://c2.llyz.xyz/wp-image/2011/11/xiangli.jpg)
 
 如果你有心，可以发现随后几乎是在第一时间[，@暨南大学第一饭堂](https://weibo.com/jnufan) 就转发了[区向丽](https://weibo.com/1856095364/xxIElyGZ7)老师的解释。
 

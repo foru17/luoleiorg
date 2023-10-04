@@ -1,14 +1,14 @@
 ---
 title: 日本 | DAY4 :仙台・松岛
-date: '2016-07-07'
+date: "2016-07-07"
 cover: https://c2.llyz.xyz/blog/2016/06/japan/day4/A7S2-D4-03269.jpg
 categories:
-- photography
-- travel
+  - photography
+  - travel
 tags:
-- photography
-- travel
-- japan
+  - photography
+  - travel
+  - japan
 ---
 
 日本之行的第四天，也是我们在松岛的第二天，睡到上午九点多才起床。
@@ -181,7 +181,7 @@ tags:
 
 #### 导航
 
-- [ 视频 | 遇见,日本:东京-仙台 五日旅行](https://luolei.org/zuoluotv-travel-in-japan/)
+- [视频 | 遇见,日本:东京-仙台 五日旅行](https://luolei.org/zuoluotv-travel-in-japan/)
 - [遇见 | 日本 Day 1 :东京](https://luolei.org/meet-in-japan-day-1/)
 - [遇见 | 日本 Day 2 :东京](https://luolei.org/meet-in-japan-day-2/)
 - [遇见 | 日本 Day 3 :仙台](https://luolei.org/meet-in-japan-day-3/)

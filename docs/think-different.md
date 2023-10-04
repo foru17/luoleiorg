@@ -1,16 +1,14 @@
 ---
 title: Think Different
-date: '2011-10-06'
-cover: https://c2.llyz.xyz/wp-image/2011/10/think-different.jpg "think different"
+date: "2011-10-06"
+cover: https://c2.llyz.xyz/wp-image/2011/10/think-different.jpg
 ---
-
-![](https://c2.llyz.xyz/wp-image/2011/10/think-different-1024x576.jpg )
 
 北京时间2011年10月6日，昨晚熬夜的我11点才起床。
 
 转过身，拿起床边的ipad，已经充满了电，翻开cover，屏幕自动激活，打开新浪微博，食指拖着屏幕轻轻往上一拉，清脆的"瞪"一声，屏幕上更新的一条消息让我愣了一下：
 
-#乔布斯去世#
+## 乔布斯去世
 
 史蒂夫乔布斯Steve Jobs，一个充满传奇色彩、一个改变了世界的人，一个受全世界媒体关注的人，就这么走了，这个天才没有打败癌症。
 
@@ -18,6 +16,7 @@ cover: https://c2.llyz.xyz/wp-image/2011/10/think-different.jpg "think different
 
 最打动我的，是苹果这段广告的文案
 
+```txt
 Here's to the crazy ones.
 The misfits.
 The rebels.
@@ -66,3 +65,4 @@ change the world, are the ones who do.
 但他们却是我们眼中的天才。
 因为只有那些疯狂到以为自己能够改变世界的人，
 才能真正地改变世界。
+```

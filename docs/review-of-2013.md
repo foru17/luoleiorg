@@ -1,10 +1,10 @@
 ---
 title: Review of 2013:best and worst year of my life
-date: '2014-01-04'
-cover: https://c2.llyz.xyz/wp-image/2014/01/review-of-2013-after-1024x768.jpg
+date: "2014-01-04"
+cover: https://c2.llyz.xyz/wp-image/2014/01/review-of-2013-after.jpg
 ---
 
-![main-image](https://c2.llyz.xyz/wp-image/2014/01/review-of-2013-after-1024x768.jpg)It’s a little scared that time passed so quickly since my 2012’s annual review. It’s is 2014 at this moment and lots of things has changed in the past year.
+It’s a little scared that time passed so quickly since my 2012’s annual review. It’s is 2014 at this moment and lots of things has changed in the past year.
 
 It has been three days after i began typing this reviews. Maybe it is just another procrastination. I just don't want write this review.
 
@@ -19,8 +19,8 @@ To start with,I would tell what would i talk in next. It is about life,about wor
 I want quote a lines from one of my favorite file "Miss little Sunshine" to begin the subject.
 
 > Frank: Do you know who Marcel Proust is?  
-> Dwayne: He's the guy you teach.  
->   
+> Dwayne: He's the guy you teach.
+>
 > Frank: Yeah. French writer. Total loser. Never had a real job. Unrequited love affairs. Gay. Spent 20 years writing a book almost no one reads. But he's also probably the greatest writer since Shakespeare. Anyway, he uh... he gets down to the end of his life, and he looks back and decides that all those years he suffered, Those were the best years of his life, 'cause they made him who he was.
 
 I was impressed by Marcel Prous' "All those years suffered were the best years of life." In a certain way this quote has became a belief of my life.

@@ -1,12 +1,12 @@
 ---
 title: 全球首发开箱:QQ阅读电子书・易
-date: '2017-12-31'
+date: "2017-12-31"
 cover: https://c2.llyz.xyz/blog/2018/qqread/read-22.JPG
 categories:
-- tech
+  - tech
 tags:
-- kai-xiang
-- digital
+  - kai-xiang
+  - digital
 ---
 
 2017年的最后一天，微博、朋友圈流传着这么一个关于18岁的梗:
@@ -19,7 +19,7 @@ tags:
 
 大三的时候，自己购买了人生的第一部 Kindle[《Kindle paperwhite入手评测》](https://luolei.org/kindle-paper-white-review/)，这一部kindle，陪我读完了大学、陪我去了北京，又陪我来了上海。
 
-![](https://c2.llyz.xyz/wp-image/2013/08/kindle-read-1024x682.jpg)
+![](https://c2.llyz.xyz/wp-image/2013/08/kindle-read.jpg)
 
 后来，又断断续续买了三台Kindle Paperwhite送给朋友、弟妹和老婆，2016年，我又购入了Kindle Oasis。
 
@@ -35,7 +35,7 @@ tags:
 
 #### 为什么买这个电子书？
 
-上个星期，公司员工内购福利，优惠价格拿了一台即将上市的[QQ阅读电子书・易](https://zuoluo.tv/qqread)，这台电子书的官方售价是**699元**，价格介于Kindle Paperwhite入门版(558元)和Paperwhite3(958)之间。我这个算是撸了公司羊毛，顺便做一个全球首发开箱。
+上个星期，公司员工内购福利，优惠价格拿了一台即将上市的[QQ阅读电子书・易](https://zuoluo.tv/qqread)，这台电子书的官方售价是**699元**，价格介于 Kindle Paperwhite 入门版(558元)和 Paperwhite3 (958)之间。我这个算是撸了公司羊毛，顺便做一个全球首发开箱。
 
 也许你会问，你已经有三部Kindle了，为什么还要买这台电子书。其实之所以买这部电子书，倒是因为我老婆。
 

@@ -1,7 +1,7 @@
 ---
 title: 一年又一年，此日又此日，此人非此人。
-date: '2011-06-03'
-cover: https://c2.llyz.xyz/wp-image/2011/06/stone.jpg "stone"
+date: "2011-06-03"
+cover: https://c2.llyz.xyz/wp-image/2011/06/stone.jpg
 ---
 
 通行证到期，某园是去不了了，看来”看热闹“又得明年了，说不定明年此时又是忙着找工作神马的就又不会再鸟这些事情了。
@@ -11,5 +11,3 @@ cover: https://c2.llyz.xyz/wp-image/2011/06/stone.jpg "stone"
 现实是个磨刀石啊磨刀石，最终被碾成碎石也好，被磨成鹅卵石也好，哥至少还曾经是个石头，不对，哥应该是三个石头。
 
 今天休息，看大家热闹。
-
-![](https://c2.llyz.xyz/wp-image/2011/06/stone.jpg )

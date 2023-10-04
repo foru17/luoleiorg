@@ -1,20 +1,18 @@
 ---
 title: 视频 | 长滩岛:亚洲最美白沙滩
-date: '2016-10-13'
+date: "2016-10-13"
 cover: https://c2.llyz.xyz/blog/2016/09/pilipinas/boracay-cover.jpg
 categories:
-- photography
-- travel
+  - photography
+  - travel
+  - zuoluotv
 tags:
-- travel
-- philippines
-- boracay
-- ma-ni-la
+  - travel
+  - philippines
+  - boracay
 ---
 
-![cover](https://c2.llyz.xyz/blog/2016/09/pilipinas/boracay-cover.jpg)
-
-#### 导航
+## 导航
 
 - **[左罗TV | 遇见,长滩岛:去亚洲最美白沙滩拍妹纸是什么体验](https://luolei.org/travel-to-boracay-2016/)**
 - [遇见 | 菲律宾DAY1: 马尼拉](https://luolei.org/pilipinas-travel-day-1/)
@@ -22,12 +20,10 @@ tags:
 - [遇见 | 菲律宾DAY3: 长滩岛](https://luolei.org/pilipinas-travel-day-3/)
 - [遇见 | 菲律宾DAY4: 长滩岛•马尼拉](https://luolei.org/pilipinas-travel-day-4/)
 
-#### 视频
+## 观看地址
 
-#### 观看地址
-
-- [优酷网:遇见,长滩岛| 去亚洲最美白沙滩拍妹纸是什么体验](https://v.youku.com/v_show/id_XMTc0MDYzMTg5Mg==.html) : 推荐大陆用户观看。
-- [Youtube:Boracay Island | Travel Story Film | SONY A7S2 & Yi Camera 4K & DJI Phantom 4](https://www.youtube.com/watch?v=tX9d8H9fOpU) : 推荐海外用户观看
+- [哔哩哔哩:遇见,长滩岛| 去亚洲最美白沙滩拍妹纸是什么体验](https://www.bilibili.com/video/BV1gs411h7Ut/)
+- [Youtube: Boracay Island | Travel Story Film | SONY A7S2 & Yi Camera 4K & DJI Phantom 4](https://www.youtube.com/watch?v=tX9d8H9fOpU) : 推荐海外用户观看
 
 实际上「遇见,长滩岛」视频比我们的博客游记要先出来，但是放在了最后才发，实在是因为最近是太忙了，前几个月买的书放在书柜了好久没翻，订阅的杂志也就一直放在桌子上。
 
