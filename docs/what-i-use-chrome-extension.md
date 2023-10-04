@@ -1,12 +1,10 @@
 ---
-title: 我在用什么？| Chrome拓展插件篇
+title: 我在用什么？| Chrome 插件篇 | 2012
 date: "2012-12-14"
 cover: https://c2.llyz.xyz/wp-image/2012/12/what-i-use.jpg
 tags:
   - chrome
 ---
-
-![what-i-use](https://c2.llyz.xyz/wp-image/2012/12/what-i-use.jpg)
 
 曾经 有人问我是不是「工具控」？自己虽然口头上没承认，但是后来想想，自己不断尝试各种「工具」或者「工具类」app，崇尚「工欲善其事，必先利其器」的哲学，信奉「优秀的工具提高效率、效率节省时间、省下来的时间享受生活」，实际上倒也算是某种意义上的「工具控」。
 

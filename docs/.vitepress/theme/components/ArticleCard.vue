@@ -89,7 +89,7 @@
         <div>
           <svg
             v-if="categories.includes('zuoluotv')"
-            class="absolute right-2 top-2 h-5 w-5"
+            class="absolute left-6 bottom-2 h-7 w-7 md:h-5 md:w-5"
             viewBox="0 0 473.931 473.931"
             xml:space="preserve">
             <circle
