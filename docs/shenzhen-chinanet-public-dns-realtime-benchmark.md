@@ -1,9 +1,9 @@
 ---
 title: 深圳电信宽带 / 常用公共 DNS、VPS / 性能 & 稳定性 / 实时监控数据
-date: '2020-03-17'
-cover: https://ping.gz.is26.com/ChinaDNS/ChinaNet1_last_108000.png
+date: "2020-03-17"
+cover: https://c2.llyz.xyz/blog/2020/03/lan/net-1.jpg
 categories:
-- code
+  - code
 ---
 
 最近优化了下家里的网络，在家里 NAS 里用 docker 部署了一个 [smokeping](https://oss.oetiker.ch/smokeping/) 网络性能测试工具，监控家里网络，到境内外常见 DNS，以及几个自用云服务器的延迟、稳定性。
@@ -18,81 +18,103 @@ categories:
 
 ## 国内公共 DNS 数据
 
-#### 广东电信
+## 广东电信
 
-**DNS  202.96.128.86**
+```txt
+202.96.128.86
+```
 
 ![](https://ping.gz.is26.com/ChinaDNS/ChinaNet1_mini.png)
 
 ![](https://ping.gz.is26.com/ChinaDNS/ChinaNet1_last_108000.png)
 
+```txt
 202.96.128.166
+```
 
 ![](https://ping.gz.is26.com/ChinaDNS/ChinaNet2_mini.png)
 
 ![](https://ping.gz.is26.com/ChinaDNS/ChinaNet2_last_108000.png)
 
-#### 114 DNS
+## 114 DNS
 
+```txt
 114.114.114.114
+```
 
 ![](https://ping.gz.is26.com/ChinaDNS/114DNS1_mini.png)
 
 ![](https://ping.gz.is26.com/ChinaDNS/114DNS1_last_108000.png)
 
+```txt
 114.114.115.115
+```
 
 ![](https://ping.gz.is26.com/ChinaDNS/114DNS2_mini.png)
 
 ![](https://ping.gz.is26.com/ChinaDNS/114DNS2_last_108000.png)
 
-#### DNSpod
+## DNSpod
 
+```txt
 119.29.29.29
+```
 
 ![](https://ping.gz.is26.com/ChinaDNS/DNSpod1_mini.png)
 
 ![](https://ping.gz.is26.com/ChinaDNS/DNSpod1_last_108000.png)
 
+```txt
 182.254.116.116
+```
 
 ![](https://ping.gz.is26.com/ChinaDNS/DNSpod2_mini.png)
 
 ![](https://ping.gz.is26.com/ChinaDNS/DNSpod2_last_108000.png)
 
-#### 阿里DNS
+## 阿里DNS
 
+```txt
 223.5.5.5
+```
 
 ![](https://ping.gz.is26.com/ChinaDNS/AliDNS1_mini.png)
 
 ![](https://ping.gz.is26.com/ChinaDNS/AliDNS1_last_108000.png)
 
+```txt
 223.6.6.6
+```
 
 ![](https://ping.frp.is26.com/smokeping/cache/ChinaDNS/AliDNS2_mini.png)
 
 ![](https://ping.gz.is26.com/ChinaDNS/AliDNS2_last_108000.png)
 
-#### 百度DNS
+## 百度DNS
 
+```txt
 180.76.76.76
+```
 
 ![](https://ping.gz.is26.com/ChinaDNS/BaiduDNS_mini.png)
 
 ![](https://ping.gz.is26.com/ChinaDNS/BaiduDNS_last_108000.png)
 
-#### 红鱼 DNS
+## 红鱼 DNS
 
+```txt
 dns.rubyfish.cn
+```
 
 ![](https://ping.gz.is26.com/ChinaDNS/RubyFishDNS_mini.png)
 
 ![](https://ping.gz.is26.com/ChinaDNS/RubyFishDNS_last_108000.png)
 
-#### DNS派
+## DNS派
 
-101.226.4.6(电信)
+```txt
+101.226.4.6
+```
 
 ![](https://ping.gz.is26.com/ChinaDNS/DNSPAI_mini.png)
 
@@ -100,7 +122,9 @@ dns.rubyfish.cn
 
 #### 中科大 电信 DNS
 
+```txt
 202.141.162.123
+```
 
 ![](https://ping.gz.is26.com/ChinaDNS/ZKDChinaNet_mini.png)
 
@@ -108,43 +132,55 @@ dns.rubyfish.cn
 
 ## 国外公共 DNS 数据
 
-#### Google
+## Google
 
+```txt
 8.8.8.8
+```
 
 ![](https://ping.gz.is26.com/DNS/GoogleDNS1_mini.png)
 
 ![](https://ping.gz.is26.com/DNS/GoogleDNS1_last_108000.png)
 
+```txt
 8.8.4.4
+```
 
 ![](https://ping.gz.is26.com/DNS/GoogleDNS2_mini.png)
 
 ![](https://ping.gz.is26.com/DNS/GoogleDNS2_last_108000.png)
 
-#### OpenDNS
+## OpenDNS
 
+```txt
 208.67.222.222
+```
 
 ![](https://ping.gz.is26.com/DNS/OpenDNS1_mini.png)
 
 ![](https://ping.gz.is26.com/DNS/OpenDNS1_last_108000.png)
 
+```txt
 208.67.220.220
+```
 
 ![](https://ping.gz.is26.com/DNS/OpenDNS2_mini.png)
 
 ![](https://ping.gz.is26.com/DNS/OpenDNS2_last_108000.png)
 
-#### CloudflareDNS
+## CloudflareDNS
 
+```txt
 1.1.1.1
+```
 
 ![](https://ping.gz.is26.com/DNS/CloudflareDNS1_mini.png)
 
 ![](https://ping.gz.is26.com/DNS/CloudflareDNS1_last_108000.png)
 
+```txt
 1.0.0.1
+```
 
 ![](https://ping.gz.is26.com/DNS/CloudflareDNS2_mini.png)
 
@@ -152,19 +188,19 @@ dns.rubyfish.cn
 
 ## 境内外VPS数据
 
-#### 腾讯云广州
+## 腾讯云广州
 
 ![](https://ping.gz.is26.com/VPS/QcloudGuangzhou_mini.png)
 
 ![](https://ping.gz.is26.com/VPS/QcloudGuangzhou_last_108000.png)
 
-#### 腾讯云香港
+## 腾讯云香港
 
 ![](https://ping.gz.is26.com/VPS/QcloudHongkong_mini.png)
 
 ![](https://ping.gz.is26.com/VPS/QcloudHongkong_last_108000.png)
 
-#### Linode 东京
+## Linode 东京
 
 ![](https://ping.gz.is26.com/VPS/Linode_mini.png)
 

@@ -155,10 +155,6 @@ p img {
   color: #67cdcc;
 }
 
-button.copy {
-  display: none;
-}
-
 span.lang {
   position: absolute;
   right: 0.5em;
@@ -268,10 +264,16 @@ span.lang {
 .vp-doc [class*="language-"] code {
   font-family: var(--vp-font-family-mono);
 }
+
 .vp-doc :not(pre) > code {
   margin: 0 2px;
   padding: 2px 5px;
 }
+
+.vp-doc [class*="language-"] > button.copy {
+  border-radius: 6px;
+}
+
 .vp-doc ul,
 .vp-doc ol {
   padding-left: 26px;
@@ -340,6 +342,6 @@ span.lang {
 
   .vp-doc p img:not(.favicon) {
     margin: 40px auto;
-    border-radius: 3px;
+    border-radius: 4px;
   }
 }
