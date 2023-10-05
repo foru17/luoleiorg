@@ -1,11 +1,11 @@
 ---
-title: 消失的两年:2021珠海航展
-date: '2022-10-06'
+title: "消失的两年: 2021 珠海航展"
+date: "2022-10-06"
 cover: https://c2.llyz.xyz/blog/2022/10/airshow/air-27.JPG
 categories:
-- travel
+  - travel
 tags:
-- 珠海航展
+  - 珠海航展
 ---
 
 ## 前言

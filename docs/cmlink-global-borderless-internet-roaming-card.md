@@ -1,15 +1,14 @@
 ---
-title: 'CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡'
-date: '2020-04-21'
+title: "CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡"
+date: "2020-04-21"
 cover: https://c2.llyz.xyz/blog/2020/04/cmlink/c1.jpg
 categories:
-- tech
-- travel
+  - zuoluotv
+  - tech
+  - travel
 ---
 
 ## 视频
-
-https://www.youtube.com/watch?v=apCf8nGMivk
 
 - [Bilibili:无限流量，5G漫游，这可能是大陆 2020 年最强手机卡](https://www.bilibili.com/video/BV12V411R7QH)
 - [YouTube: 无限流量，5G漫游，这可能是大陆 2020 年最强手机卡 | CMLink 留学生网课卡](https://www.youtube.com/watch?v=apCf8nGMivk)

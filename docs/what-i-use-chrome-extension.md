@@ -1,5 +1,5 @@
 ---
-title: 我在用什么？| Chrome 插件篇 | 2012
+title: 我在用什么？| Chrome 插件篇 | 2012年
 date: "2012-12-14"
 cover: https://c2.llyz.xyz/wp-image/2012/12/what-i-use.jpg
 tags:
@@ -16,17 +16,17 @@ tags:
 
 **[1.Any.Do （任务管理，GTD）](https://chrome.google.com/webstore/detail/kdadialhpiikehpdeejjeiikopddkjem)**
 
-![any.do](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午12.41.29.png)
+![any.do](https://c2.llyz.xyz/wp-image/2012/12/c-1.png)
 
 十分简洁的一款GTD拓展，在IOS和android上均有app，可同步。
 
 **[2.Fawave（社交应用:微博、人人、twitter、等管理）](https://chrome.google.com/webstore/detail/fawave/aicelmgbddfgmpieedjiggifabdpcnln)**
 
-![fawave](https://c2.llyz.xyz/wp-image/2012/12/fawave.jpg)
+![fawave](https://c2.llyz.xyz/wp-image/2012/12/c2.jpg)
 
 **[3.Adblock（广告屏蔽）](https://userscripts.org/scripts/show/120679)**
 
-![](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午12.47.04.png)
+![](https://c2.llyz.xyz/wp-image/2012/12/c-3.png)
 
 屏蔽各种乱七八糟的广告，支持自定义页面广告屏蔽。
 
@@ -54,11 +54,11 @@ tags:
 
 **[8.Highlight to Search（页面选择关键字自动显示搜索按钮，懒人必备）](https://chrome.google.com/webstore/detail/search-by-image-by-google/dajedkncpodkggklbegccjpmnglmnflm)**
 
-![屏幕快照 2012-12-15 上午12.59.26](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午12.59.26.png)
+![](https://c2.llyz.xyz/wp-image/2012/12/c-4.png)
 
 **[9.Scroll To Top Button（返回网页顶部）](https://chrome.google.com/webstore/detail/scroll-to-top-button/chiikmhgllekggjhdfjhajkfdkcngplp)**
 
-![屏幕快照 2012-12-15 上午1.00.32](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.00.32.png)
+![](https://c2.llyz.xyz/wp-image/2012/12/c-5.png)
 
 在网页（可以自定义按钮大小、位置）显示返回顶部的按钮。
 
@@ -70,11 +70,11 @@ tags:
 
 **[11.SearchPreview（谷歌搜索结果页显示网页缩略图）](https://chrome.google.com/webstore/detail/searchpreview/hcjdanpjacpeeppdjkppebobilhaglfo)**
 
-![屏幕快照 2012-12-15 上午1.04.58](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.04.58.png)
+![](https://c2.llyz.xyz/wp-image/2012/12/c-6.png)
 
 **[12.Stash（暂存某次浏览的所有标签页面，下次一键打开）](https://chrome.google.com/webstore/detail/stash/bnhjedgfogckebfhnlicnkbdjlmpibck)**
 
-![屏幕快照 2012-12-15 上午1.06.58](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.06.58.png)
+![](https://c2.llyz.xyz/wp-image/2012/12/c-12.png)
 
 本人工作的时候，经常要搜资料，开10多个标签神马的情况很常见，阶段工作完了，想明儿再做，可以把目前的所有标签都缓存到这个葫芦里（其实就是关闭标签，不占内存），下次一键全部重新打开。
 
@@ -92,7 +92,7 @@ Stylish 是一款用户样式管理器，可让您调整网页的样式。它可
 
 嵌入网页版豆瓣FM(douban.fm)页面内,列举出豆瓣FM已播放的歌曲信息,并提供歌曲下载,更有单曲循环,红心歌曲和批量下载脚本等功能
 
-![屏幕快照 2012-12-15 上午1.12.11](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.12.11.png)
+![](https://c2.llyz.xyz/wp-image/2012/12/c-7.png)
 
 豆瓣电台粉丝的福音，可以直接下载豆瓣fm的mp3。
 
@@ -122,7 +122,7 @@ Stylish 是一款用户样式管理器，可让您调整网页的样式。它可
 
 使用 印象笔记 扩展程序将你在网络上看到的内容保存至你的 印象笔记 帐户。它甚至允许你搜索笔记。
 
-![屏幕快照 2012-12-15 上午1.23.41](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.23.41.png)
+![](https://c2.llyz.xyz/wp-image/2012/12/c-8.png)
 
 Evernote的官方插件（同时支持国内和国际版）。
 
@@ -150,13 +150,13 @@ Evernote的官方插件（同时支持国内和国际版）。
 
 更好地查看您的历史记录。为查看您的历史记录带来最好的搜索体验，最清晰的界面和最有帮助的筛选。
 
-![屏幕快照 2012-12-15 上午1.35.07](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.35.07.png)
+![](https://c2.llyz.xyz/wp-image/2012/12/c-10.png)
 
 #### 前端开发辅助类拓展
 
 **[1.Web Developer（网页开发相关工具）](https://chrispederick.com/work/web-developer/)**
 
-![屏幕快照 2012-12-15 上午1.18.25](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.18.25.png)
+![](https://c2.llyz.xyz/wp-image/2012/12/c-9.png)
 
 功能太多了，见图。
 
@@ -164,7 +164,7 @@ Evernote的官方插件（同时支持国内和国际版）。
 
 **[3.WhatFont（快速查看网页字体样式font-family）](https://chengyinliu.com/whatfont.html)**
 
-![屏幕快照 2012-12-15 上午1.21.55](https://c2.llyz.xyz/wp-image/2012/12/屏幕快照-2012-12-15-上午1.21.55.png)
+![](https://c2.llyz.xyz/wp-image/2012/12/c-11.png)
 
 有时候懒得右键「审查元素」，就直接用这个插件看网页使用的字体。
 
@@ -178,4 +178,4 @@ Evernote的官方插件（同时支持国内和国际版）。
 
 一口气介绍完自己正在使用的chrome插件，仅供各位朋友参考，大家如果有其他优秀的插件推荐，不妨也可以分享出来。
 
-**【我在用什么？】**系列博文下一篇，将介绍一下我在mac下使用的一些app，大家有兴趣可以关注我的博客[「罗磊的独立博客」](https://luolei.org/)，我的微博[@罗罗磊磊](https://weibo.com/foru17)
+**我在用什么?** 系列博文下一篇，将介绍一下我在mac下使用的一些app，大家有兴趣可以关注我的博客[「罗磊的独立博客」](https://luolei.org/)，我的微博[@罗罗磊磊](https://weibo.com/foru17)

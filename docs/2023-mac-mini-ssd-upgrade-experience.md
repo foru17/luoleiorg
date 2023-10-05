@@ -1,5 +1,5 @@
 ---
-title: 2023 Mac mini 外挂硬盘升级方案：打造 2TB 苹果电脑
+title: "2023 Mac mini 外挂硬盘升级方案: 打造 2TB 苹果电脑"
 date: "2023-06-18"
 cover: https://c2.llyz.xyz/blog/2023/06/mini/mac-5.jpg
 categories:

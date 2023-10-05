@@ -1,5 +1,5 @@
 ---
-title: 装修脑壳痛：家庭万兆光纤网络、智能家居
+title: "装修脑壳痛: 家庭万兆光纤网络、智能家居"
 date: "2020-09-18"
 cover: https://c2.llyz.xyz/blog/2020/08/house/house-map-2.JPG
 categories:

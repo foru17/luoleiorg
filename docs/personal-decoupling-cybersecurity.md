@@ -1,5 +1,5 @@
 ---
-title: 脱钩：我的个人网络安全策略
+title: "脱钩: 我的个人网络安全策略"
 date: "2023-09-16"
 cover: https://c2.llyz.xyz/blog/2023/09/decoupling/t-0.jpg
 categories:
