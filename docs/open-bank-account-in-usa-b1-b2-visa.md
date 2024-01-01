@@ -12,7 +12,7 @@ tags:
 
 ## 视频
 
-- [Bilibili:去美国旅行，记得去办个真正的美国银行卡 | 中国游客也能办 | ZUOLUOTV | VLOG29](https://www.bilibili.com/video/av40985033) : 推荐大陆用户观看。
+- [哔哩哔哩:去美国旅行，记得去办个真正的美国银行卡 | 中国游客也能办 | ZUOLUOTV | VLOG29](https://www.bilibili.com/video/av40985033) : 推荐大陆用户观看。
 - [YOUTUBE:美国银行开户攻略 | 去美国旅行，记得去办个真正的美国本地银行卡 | ZUOLUOTV | VLOG29](https://www.youtube.com/watch?v=Or7euv5dfMQ) : 推荐海外用户观看
 
 跟老婆来美国蜜月，今天早上，在 Las Vegas 的美国银行 [Bank of America](https://www.bankofamerica.com/) 成功办了银行卡。简单整理下流程和相关资料，分享给大家。

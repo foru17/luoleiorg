@@ -28,10 +28,10 @@
 <template>
   <div class="w-auto">
     <div
-      class="relative px-5 py-5 md:px-5 md:py-5 rounded-md border border-zinc-300 dark:border-zinc-500">
+      class="relative px-5 py-5 border rounded-md md:px-5 md:py-5 border-zinc-300 dark:border-zinc-500">
       <section class="flex flex-col gap-y-[8px] text-sm md:text-sm">
         <svg
-          class="h-4 w-4 md:h-6 md:w-6 text-black-100 absolute right-3 md:right-5"
+          class="absolute w-4 h-4 md:h-6 md:w-6 text-black-100 right-3 md:right-5"
           width="24"
           height="24"
           viewBox="0 0 24 24"
@@ -45,7 +45,7 @@
           <path d="M14.5 9a3.5 4 0 1 0 0 6" />
         </svg>
         <div>
-          <span class="font-medium mr-1">作者:</span>
+          <span class="mr-1 font-medium">作者:</span>
           <span>
             <a
               :href="authorLink"
@@ -58,7 +58,7 @@
         </div>
 
         <div>
-          <span class="font-medium mr-1">文章标题:</span>
+          <span class="mr-1 font-medium">文章标题:</span>
           <span>
             <a
               :href="articleGithubLink"
@@ -67,7 +67,7 @@
               target="_blank">
               {{ title
               }}<svg
-                class="h-5 w-5 ml-2 inline-block -mt-1"
+                class="inline-block w-5 h-5 ml-2 -mt-1"
                 width="24"
                 height="24"
                 viewBox="0 0 24 24"
@@ -85,7 +85,7 @@
           </span>
         </div>
         <div>
-          <span class="font-medium mr-1">发表时间:</span>
+          <span class="mr-1 font-medium">发表时间:</span>
           <span>
             <span>
               {{ date }}
@@ -94,7 +94,7 @@
         </div>
 
         <div>
-          <span class="font-medium mr-1">文章链接:</span>
+          <span class="mr-1 font-medium">文章链接:</span>
           <span>
             <a
               :href="articleLink"
@@ -107,7 +107,7 @@
         </div>
 
         <div>
-          <span class="font-medium mr-1">版权说明:</span>
+          <span class="mr-1 font-medium">版权说明:</span>
           <a
             href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans"
             class="text-blue-600 dark:text-blue-300 hover:text-blue-500"

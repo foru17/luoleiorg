@@ -68,12 +68,12 @@
 
 <template>
   <div
-    class="flex-1 bg-white dark:bg-zinc-800 rounded-t overflow-hidden h-64 shadow-lg ease-in-out hover:shadow-2xl duration-300">
+    class="flex-1 h-64 overflow-hidden duration-300 ease-in-out bg-white rounded-t shadow-lg dark:bg-zinc-800 hover:shadow-2xl">
     <a
       :href="withBase(url)"
       class="flex flex-wrap no-underline hover:no-underline">
       <div
-        class="overflow-hidden w-full h-60 md:h-40 ld:h-40 relative bg-zinc-100 dark:bg-neutral-900">
+        class="relative w-full overflow-hidden h-60 md:h-40 ld:h-40 bg-zinc-100 dark:bg-neutral-900">
         <img
           ref="imgRef"
           :src="previewImageUrl"
@@ -84,7 +84,7 @@
             'opacity-100': imageLoaded && !imageError,
             'opacity-0 delay-0': imageLoaded && imageError,
           }"
-          class="absolute top-0 left-0 h-full w-full object-cover rounded-t hover:scale-105 ease-in duration-300" />
+          class="absolute top-0 left-0 object-cover w-full h-full duration-300 ease-in rounded-t hover:scale-105" />
         <!-- 如果分类中有zuoluotv或者视频,则展示youtube图标 -->
         <div>
           <svg
@@ -140,46 +140,46 @@
         <div
           v-if="!imageLoaded || imageError"
           :class="{ 'animate-pulse': !imageLoaded }"
-          class="flex space-x-4 mt-6 p-2">
-          <span v-if="!imageError" class="relative flex h-10 w-10">
+          class="flex p-2 mt-6 space-x-4">
+          <span v-if="!imageError" class="relative flex w-10 h-10">
             <span
-              class="animate-ping absolute inline-flex h-full w-full rounded-full bg-sky-100 opacity-75"></span>
+              class="absolute inline-flex w-full h-full rounded-full opacity-75 animate-ping bg-sky-100"></span>
             <span
-              class="relative inline-flex rounded-full h-10 w-10 bg-slate-200 dark:bg-slate-600"></span>
+              class="relative inline-flex w-10 h-10 rounded-full bg-slate-200 dark:bg-slate-600"></span>
           </span>
 
           <div
             v-if="imageError"
             class="md:block w-0 h-0 mt-1 border-l-[20px] border-l-transparent border-t-[30px] border-t-slate-200 dark:border-t-slate-600 border-r-[20px] border-r-transparent"></div>
-          <div class="flex-1 space-y-6 py-1">
+          <div class="flex-1 py-1 space-y-6">
             <div
-              class="h-8 md:h-4 bg-slate-200 dark:bg-slate-600 rounded"></div>
+              class="h-8 rounded md:h-4 bg-slate-200 dark:bg-slate-600"></div>
             <div class="space-y-3">
               <div class="grid grid-cols-3 gap-4">
                 <div
-                  class="h-8 md:h-4 bg-slate-200 dark:bg-slate-600 rounded col-span-2"></div>
+                  class="h-8 col-span-2 rounded md:h-4 bg-slate-200 dark:bg-slate-600"></div>
                 <div
-                  class="h-8 md:h-4 bg-slate-200 dark:bg-slate-600 rounded col-span-1"></div>
+                  class="h-8 col-span-1 rounded md:h-4 bg-slate-200 dark:bg-slate-600"></div>
               </div>
               <div
-                class="h-8 md:h-4 bg-slate-200 dark:bg-slate-600 rounded"></div>
+                class="h-8 rounded md:h-4 bg-slate-200 dark:bg-slate-600"></div>
             </div>
           </div>
         </div>
       </div>
       <div class="w-full px-6 mt-5">
         <p
-          class="h-auto md:h-12 font-medium antialiased break-normal text-base sd:text-lg md:text-base text-gray-800 dark:text-slate-300 line-clamp-2 font-fira">
+          class="h-auto text-base antialiased font-medium text-gray-800 break-normal md:h-12 sd:text-lg md:text-base dark:text-slate-300 line-clamp-2 font-fira">
           {{ title }}
         </p>
       </div>
     </a>
   </div>
   <div
-    class="flex-none mt-auto bg-white dark:bg-zinc-800 rounded-b rounded-t-none overflow-hidden shadow-lg px-6 py-3 h-12">
+    class="flex-none h-12 px-6 py-3 mt-auto overflow-hidden bg-white rounded-t-none rounded-b shadow-lg dark:bg-zinc-800">
     <div class="flex items-center justify-between">
       <p
-        class="text-gray-400 dark:text-slate-400 text-sm sd:text-sm md:text-sm">
+        class="text-sm text-gray-400 dark:text-slate-400 sd:text-sm md:text-sm">
         <svg
           class="h-3 w-3 inline-block -mt-0.5"
           width="24"
@@ -200,7 +200,7 @@
         {{ date.formatShowDate }}
       </p>
 
-      <div class="flex justify-items-end items-center">
+      <div class="flex items-center justify-items-end">
         <svg
           v-if="!isArticleListHitsFetched"
           aria-hidden="true"
@@ -218,7 +218,7 @@
 
         <svg
           v-if="isArticleListHitsFetched && hit <= hotArticleViews"
-          class="h-3 w-3 inline-block text-gray-400 dark:text-slate-400 mr-1"
+          class="inline-block w-3 h-3 mr-1 text-gray-400 dark:text-slate-400"
           fill="none"
           viewBox="0 0 24 24"
           stroke="currentColor">
@@ -235,7 +235,7 @@
         </svg>
         <svg
           v-if="isArticleListHitsFetched && hit > hotArticleViews"
-          class="icon text-red-400 dark:text-red-500 fill-blue-600 -mt-0"
+          class="-mt-0 text-red-400 icon dark:text-red-500 fill-blue-600"
           viewBox="0 0 1024 1024"
           width="14"
           height="14">
@@ -250,7 +250,7 @@
           :class="{
             'text-red-400 dark:text-red-500': hit > hotArticleViews,
           }"
-          class="text-gray-400 dark:text-slate-400 text-sm sd:text-sm md:text-sm ml-px">
+          class="ml-px text-sm text-gray-400 dark:text-slate-400 sd:text-sm md:text-sm">
           {{ getFormatNumber(hit) }}
         </p>
       </div>
@@ -261,7 +261,7 @@
           v-for="(category, index) of categories.slice(0, 1)"
           :key="index"
           @click="goCategory(category)"
-          class="inline-block hidden border bg-transparent rounded px-2 py-0 text-sm font-semibold text-gray-300 dark:text-slate-300 mr-2">
+          class="hidden inline-block px-2 py-0 mr-2 text-sm font-semibold text-gray-300 bg-transparent border rounded dark:text-slate-300">
           {{ category }}
         </span>
       </div> -->

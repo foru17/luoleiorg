@@ -34,19 +34,19 @@
 <template>
   <!-- ...文章顶部代码... -->
 
-  <div class="flex justify-center space-x-6 dark:text-gray-100 mt-6">
+  <div class="flex justify-center mt-6 space-x-6 dark:text-gray-100">
     <div
       v-if="prevPost"
-      class="overflow-hidden rounded-md w-full h-100 relative bg-zinc-100">
+      class="relative w-full overflow-hidden rounded-md h-100 bg-zinc-100">
       <a
         :href="withBase(prevPost.url)"
-        class="block h-full w-full flex items-center bg-cover bg-center hover:text-blue-600"
+        class="flex items-center block w-full h-full bg-center bg-cover hover:text-blue-600"
         :style="`
         background-image: url(${prevPostPreviewImageUrl})`">
         <div
-          class="flex items-center max-w-xl px-2 md:px-10 rounded-md bg-gray-900 bg-opacity-30 hover:bg-opacity-10 ease-in duration-300 w-full h-40 bg-zinc-100">
+          class="flex items-center w-full h-40 max-w-xl px-2 duration-300 ease-in bg-gray-900 rounded-md md:px-10 bg-opacity-30 hover:bg-opacity-10 bg-zinc-100">
           <span
-            class="a content-center break-normal text-s sd:text-large md:text-lg text-neutral-100 line-clamp-3 md:line-clamp-2"
+            class="content-center break-normal a text-s sd:text-large md:text-lg text-neutral-100 line-clamp-3 md:line-clamp-2"
             >{{ prevPost.title }}</span
           >
         </div>
@@ -55,16 +55,16 @@
 
     <div
       v-if="nextPost"
-      class="overflow-hidden rounded-md w-full h-100 relative bg-zinc-100">
+      class="relative w-full overflow-hidden rounded-md h-100 bg-zinc-100">
       <a
         :href="withBase(nextPost.url)"
-        class="block h-full w-full flex items-center bg-cover bg-center hover:text-blue-600"
+        class="flex items-center block w-full h-full bg-center bg-cover hover:text-blue-600"
         :style="`
         background-image: url(${nextPostPreviewImageUrl})`">
         <div
-          class="flex items-center w-full max-w-7xl px-2 md:px-10 rounded-md bg-gray-900 bg-opacity-30 hover:bg-opacity-10 ease-in duration-300 w-full h-40 bg-zinc-100">
+          class="flex items-center w-full h-40 px-2 duration-300 ease-in bg-gray-900 rounded-md max-w-7xl md:px-10 bg-opacity-30 hover:bg-opacity-10 bg-zinc-100">
           <span
-            class="a content-center break-normal text-s sd:text-large md:text-lg text-neutral-100 line-clamp-3 md:line-clamp-2"
+            class="content-center break-normal a text-s sd:text-large md:text-lg text-neutral-100 line-clamp-3 md:line-clamp-2"
             >{{ nextPost.title }}</span
           >
         </div>

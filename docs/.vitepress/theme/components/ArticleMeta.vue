@@ -53,13 +53,13 @@
 <template>
   <div class="w-auto">
     <div
-      class="h-64 rounded-md overflow-hidden bg-cover bg-center"
+      class="h-64 overflow-hidden bg-center bg-cover rounded-md"
       :style="`
         background-image: url(${bannerImageUrl})`">
-      <div class="bg-gray-900 bg-opacity-30 flex items-center h-full">
-        <div class="px-5 md:px-10 max-w-xl">
+      <div class="flex items-center h-full bg-gray-900 bg-opacity-30">
+        <div class="max-w-xl px-5 md:px-10">
           <h2
-            class="text-3xl text-white break-normal font-bold line-clamp-4 sd: line-clamp-3 md: line-clamp-2">
+            class="text-3xl font-bold text-white break-normal line-clamp-4 sd: line-clamp-3 md: line-clamp-2">
             {{ title }}
           </h2>
 
@@ -69,11 +69,11 @@
               v-for="(category, index) of categories"
               :key="index"
               @click="goCategory(category)"
-              class="hidden inline-block border bg-transparent rounded-xl px-3 py-1 text-sm font-semibold text-white mr-2">
+              class="hidden inline-block px-3 py-1 mr-2 text-sm font-semibold text-white bg-transparent border rounded-xl">
               {{ category }}
             </span>
           </div> -->
-          <p class="inline-block mt-2 text-sm md:text-sm text-slate-200 mr-5">
+          <p class="inline-block mt-2 mr-5 text-sm md:text-sm text-slate-200">
             <svg
               class="h-3 w-3 inline-block -mt-0.5 mr-1"
               width="24"
@@ -94,9 +94,9 @@
           </p>
 
           <p
-            class="inline-block md:inline-block mt-2 text-sm md:text-sm text-slate-200">
+            class="inline-block mt-2 text-sm md:inline-block md:text-sm text-slate-200">
             <svg
-              class="h-3 w-3 inline-block mr-1"
+              class="inline-block w-3 h-3 mr-1"
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor">

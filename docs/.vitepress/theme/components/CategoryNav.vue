@@ -94,8 +94,8 @@
 
 <template>
   <div class="px=1 md:px-4 md:px-0 max-w-7xl mx-auto">
-    <div h class="w-full ld:h-40 px-4 mt-3">
-      <div class="w-full flex items-center justify-between">
+    <div h class="w-full px-4 mt-3 ld:h-40">
+      <div class="flex items-center justify-between w-full">
         <!-- 遍历  {{ categoriesMeta }} ,展示 isHome 为 true 的分类 -->
         <div class="flex m-auto">
           <a
@@ -104,21 +104,21 @@
               'text-rose-400 dark:text-rose-400': !isCategoryExist,
               'text-black dark:text-slate-300': isCategoryExist,
             }"
-            class="home-nav-title relative text-center hover:text-rose-400 rounded-xl px-3 py-1 text-sm md:text-base mr-0 ml-0 md:ml-1 md:mr-2">
-            最新<i class="hidden md:inline-block text-slate-300 ml-3">/</i>
+            class="relative px-3 py-1 ml-0 mr-0 text-sm text-center home-nav-title hover:text-rose-400 rounded-xl md:text-base md:ml-1 md:mr-2">
+            最新<i class="hidden ml-3 md:inline-block text-slate-300">/</i>
           </a>
 
           <a
             v-for="(category, index) of categoriesMeta"
             :key="category.text"
             @click="goCategory(category.text)"
-            class="home-nav-title inline-block text-center hover:text-rose-400 rounded-xl px-3 md:px-3 py-1 text-sm md:text-base mr-0 ml-0 md:ml-1 md:mr-2"
+            class="inline-block px-3 py-1 ml-0 mr-0 text-sm text-center home-nav-title hover:text-rose-400 rounded-xl md:px-3 md:text-base md:ml-1 md:mr-2"
             :class="{
               'text-rose-400': category.text === currentCategory,
             }">
             {{ category.name }}
             <i
-              class="hidden md:inline-block text-slate-300 ml-3"
+              class="hidden ml-3 md:inline-block text-slate-300"
               :class="{ 'md:hidden': index === categoriesMeta.length - 1 }"
               >/</i
             >
