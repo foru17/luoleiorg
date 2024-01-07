@@ -1,34 +1,32 @@
 <script setup lang="ts">
   import "artalk/dist/Artalk.css";
+  import Artalk from 'artalk'
   import { watch, nextTick, ref, onMounted } from "vue";
   import { useData, useRouter } from "vitepress";
-
   const artalkEl = ref<HTMLElement | null>(null);
-
   const router = useRouter();
   const page = useData().page;
 
-  onMounted(() => {
-    const script = document.createElement("script");
-    script.src = `https://cdn.bootcdn.net/ajax/libs/artalk/2.5.5/Artalk.js`;
-    document.getElementsByTagName("head")[0].appendChild(script);
-
-    script.onload = () => {
-      initArtalk(page.value);
-    };
+  onMounted(async () => {
+    await nextTick();
+    initArtalk(page.value);
   });
 
   watch(
-    () => router.route.data.relativePath,
-    (path) => {
-      if (page.value.index !== true) {
-        nextTick(() => {
-          Artalk.update(getArtalkConfByPage(page.value));
-          Artalk.reload();
+  () => router.route.data.relativePath,
+  async (path) => {
+    if (page.value.index !== true) {
+      await nextTick();
+      if (artalkEl.value) {
+        Artalk.init({
+          el: artalkEl.value,
+          ...getArtalkConfByPage(page.value),
         });
       }
     }
-  );
+  }
+);
+
 
   function getArtalkConfByPage(page: any) {
     // 这里待处理成配置
@@ -42,7 +40,7 @@
   }
 
   function initArtalk(page: any) {
-    Artalk.init({
+    const artalk = Artalk.init({
       el: artalkEl.value,
       gravatar: {
         mirror: "https://cravatar.cn/avatar/",
@@ -52,15 +50,13 @@
 
     // 夜间模式
     const darkMode = document.querySelector("html").classList.contains("dark");
-    Artalk.setDarkMode(darkMode);
-
+    artalk.setDarkMode(darkMode);
     new MutationObserver((mList) => {
       mList.forEach((m) => {
         if (m.attributeName !== "class") return;
-
         // @ts-ignore
         const darkMode = m.target.classList.contains("dark");
-        Artalk.setDarkMode(darkMode);
+        artalk.setDarkMode(darkMode);
       });
     }).observe(document.querySelector("html"), { attributes: true });
   }

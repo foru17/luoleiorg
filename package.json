@@ -14,26 +14,26 @@
   },
   "devDependencies": {
     "@tailwindcss/line-clamp": "^0.4.4",
-    "@tailwindcss/typography": "^0.5.4",
+    "@tailwindcss/typography": "^0.5.10",
     "@types/markdown-it": "^12.2.3",
-    "@types/node": "^18.7.13",
-    "feed": "^4.2.1",
-    "gray-matter": "^4.0.2",
-    "prettier": "^3.0.2",
-    "prettier-plugin-tailwindcss": "^0.5.3",
-    "tailwindcss": "^3.1.8",
-    "vitepress": "^1.0.0-alpha.75",
-    "vue": "^3.2.47"
+    "@types/node": "^18.19.4",
+    "feed": "^4.2.2",
+    "gray-matter": "^4.0.3",
+    "prettier": "^3.1.1",
+    "prettier-plugin-tailwindcss": "^0.5.11",
+    "tailwindcss": "^3.4.1",
+    "vitepress": "1.0.0-rc.35",
+    "vue": "^3.4.5"
   },
   "dependencies": {
-    "@sentry/tracing": "^7.64.0",
-    "@sentry/vue": "^7.64.0",
-    "@vueuse/core": "^10.4.0",
-    "artalk": "^2.5.5",
-    "medium-zoom": "^1.0.8",
+    "@sentry/tracing": "^7.92.0",
+    "@sentry/vue": "^7.92.0",
+    "@vueuse/core": "^10.7.1",
+    "artalk": "^2.7.3",
+    "medium-zoom": "^1.1.0",
     "postcss-nested": "^6.0.1",
-    "postcss-nesting": "^12.0.1",
+    "postcss-nesting": "^12.0.2",
     "tailwindcss-dark-mode": "^1.1.7",
-    "vitepress-plugin-rss": "^0.1.0"
+    "vitepress-plugin-rss": "^0.1.3"
   }
 }
