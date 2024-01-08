@@ -247,10 +247,11 @@
 
         <p
           v-if="isArticleListHitsFetched"
+          class="ml-px text-sm text-gray-400 sd:text-sm md:text-sm"
           :class="{
             'text-red-400 dark:text-red-500': hit > hotArticleViews,
           }"
-          class="ml-px text-sm text-gray-400 dark:text-slate-400 sd:text-sm md:text-sm">
+          >
           {{ getFormatNumber(hit) }}
         </p>
       </div>

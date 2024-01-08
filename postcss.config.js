@@ -1,13 +1,12 @@
-import postcssNested from 'postcss-nested'
+import tailwinddcssNesting from '@tailwindcss/nesting'
 import tailwind from 'tailwindcss'
-import tailwindTypography from '@tailwindcss/typography'
 
 export default {
   plugins: [
-    postcssNested,
+    tailwinddcssNesting,
     tailwind({
       content: ['./docs/.vitepress/theme/**/*.vue'],
-      plugins: [tailwindTypography]
+      plugins: []
     })
 
   ]

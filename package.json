@@ -13,12 +13,11 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "@tailwindcss/line-clamp": "^0.4.4",
-    "@tailwindcss/typography": "^0.5.10",
     "@types/markdown-it": "^12.2.3",
     "@types/node": "^18.19.4",
     "feed": "^4.2.2",
     "gray-matter": "^4.0.3",
+    "postcss-nesting": "^12.0.2",
     "prettier": "^3.1.1",
     "prettier-plugin-tailwindcss": "^0.5.11",
     "tailwindcss": "^3.4.1",
@@ -28,11 +27,10 @@
   "dependencies": {
     "@sentry/tracing": "^7.92.0",
     "@sentry/vue": "^7.92.0",
+    "@tailwindcss/nesting": "0.0.0-insiders.565cd3e",
     "@vueuse/core": "^10.7.1",
     "artalk": "^2.7.3",
     "medium-zoom": "^1.1.0",
-    "postcss-nested": "^6.0.1",
-    "postcss-nesting": "^12.0.2",
     "tailwindcss-dark-mode": "^1.1.7",
     "vitepress-plugin-rss": "^0.1.3"
   }

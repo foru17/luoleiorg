@@ -18,10 +18,7 @@
     if (page.value.index !== true) {
       await nextTick();
       if (artalkEl.value) {
-        Artalk.init({
-          el: artalkEl.value,
-          ...getArtalkConfByPage(page.value),
-        });
+        initArtalk(page.value)
       }
     }
   }
