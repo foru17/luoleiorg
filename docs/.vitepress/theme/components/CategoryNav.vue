@@ -95,6 +95,7 @@
 <template>
   <div class="px=1 md:px-4 md:px-0 max-w-7xl mx-auto">
     <div h class="w-full px-4 mt-3 ld:h-40">
+      <ClientOnly>
       <div class="flex items-center justify-between w-full">
         <!-- 遍历  {{ categoriesMeta }} ,展示 isHome 为 true 的分类 -->
         <div class="flex m-auto">
@@ -125,6 +126,7 @@
           </a>
         </div>
       </div>
+      </ClientOnly>
     </div>
   </div>
 </template>

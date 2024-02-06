@@ -17,7 +17,6 @@
   const isArticleListHitsFetched = ref<boolean>(false);
 
   const currentCategory = computed(() => categoryKey.value);
-
   const pageSize = 12;
 
   const posts = ref(
@@ -49,7 +48,6 @@
 
   // 获得当前页面的页码
   const pageKey = useCurrentPageKey();
-
   const articleList = computed(() => {
     const start = (pageKey.value - 1) * pageSize;
     const end = start + pageSize;
@@ -154,6 +152,7 @@
       </ul>
     </div>
     <div class="flex justify-center mt-6 space-x-6 dark:text-gray-100">
+      <ClientOnly>
       <button
         @click="prevPage()"
         type="button"
@@ -188,6 +187,7 @@
         class="inline-block bg-white rounded dark:text-slate-300 shadow-md px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-neutral-800 transition duration-150 ease-in-out">
         {{ !hasNextPage ? "结束" : "下一页" }}
       </button>
+      </ClientOnly>
     </div>
   </div>
 </template>

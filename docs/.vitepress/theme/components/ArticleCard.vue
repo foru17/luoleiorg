@@ -32,14 +32,17 @@
     imageLoaded.value = true; // 也设置图片为已加载，隐藏加载动画
   };
 
+  const articleUrl = computed(() => {
+    return withBase(props.url);
+  });
   const previewImageUrl = computed(() => {
     if (!props.cover) {
       console.error("Cover image URL is not provided!");
       return "";
     }
+   
     return getPreviewImage(props.cover);
   });
-
   const retryLoadImage = () => {
     // 清除旧的超时句柄
     clearTimeout(timeoutHandle);
@@ -69,14 +72,16 @@
 <template>
   <div
     class="flex-1 h-64 overflow-hidden duration-300 ease-in-out bg-white rounded-t shadow-lg dark:bg-zinc-800 hover:shadow-2xl">
+    <ClientOnly>
     <a
-      :href="withBase(url)"
+      :href="articleUrl"
       class="flex flex-wrap no-underline hover:no-underline">
       <div
         class="relative w-full overflow-hidden h-60 md:h-40 ld:h-40 bg-zinc-100 dark:bg-neutral-900">
         <img
           ref="imgRef"
           :src="previewImageUrl"
+          :data-img-url="previewImageUrl"
           @load="onImageLoad"
           @error="onImageError"
           :class="{
@@ -85,6 +90,7 @@
             'opacity-0 delay-0': imageLoaded && imageError,
           }"
           class="absolute top-0 left-0 object-cover w-full h-full duration-300 ease-in rounded-t hover:scale-105" />
+      
         <!-- 如果分类中有zuoluotv或者视频,则展示youtube图标 -->
         <div>
           <svg
@@ -174,6 +180,7 @@
         </p>
       </div>
     </a>
+    </ClientOnly>
   </div>
   <div
     class="flex-none h-12 px-6 py-3 mt-auto overflow-hidden bg-white rounded-t-none rounded-b shadow-lg dark:bg-zinc-800">
@@ -197,7 +204,7 @@
           <line x1="4" y1="11" x2="20" y2="11" />
           <rect x="8" y="15" width="2" height="2" />
         </svg>
-        {{ date.formatShowDate }}
+        {{ date.formatShowDate }} 
       </p>
 
       <div class="flex items-center justify-items-end">
