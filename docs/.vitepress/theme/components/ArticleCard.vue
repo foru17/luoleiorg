@@ -81,7 +81,6 @@
         <img
           ref="imgRef"
           :src="previewImageUrl"
-          :data-img-url="previewImageUrl"
           @load="onImageLoad"
           @error="onImageError"
           :class="{
