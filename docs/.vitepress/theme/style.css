@@ -16,8 +16,15 @@
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --vp-font-family-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
     "Liberation Mono", "Courier New", monospace;
-  .VPFooter a {
+  .VPFooter a,
+  .VPFooter p {
     text-decoration-line: none;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-family: var(--vp-font-family-base);
+  }
+  .VPFooter a:hover {
+    color: var(--vp-c-brand);
   }
 }
 
@@ -210,21 +217,15 @@ span.lang {
   font-family: "SourceHanSerifCN-Bold", var(--vp-font-family-base);
 }
 .vp-doc {
-  font-family:
-    "Fira Code",
-    -apple-system,
-    "PingFang SC",
-    "Hiragino Sans GB",
-    "Microsoft YaHei",
-    Helvetica,
-    Arial,
-    sans-serif;
+  font-family: -apple-system, "PingFang SC", "Hiragino Sans GB",
+    "Microsoft YaHei", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
 .vp-doc p {
-  line-height: 30px;
+  line-height: 2;
   margin: 0 0 20px 0;
+  letter-spacing: 1px;
 }
 
 /* 设定 p 元素内 img 的样式 */
@@ -289,20 +290,50 @@ span.lang {
   font-weight: 400;
   text-decoration: none;
   color: var(--vp-c-brand);
+  text-overflow: ellipsis;
 }
 .vp-doc a:hover {
   text-decoration: none;
   opacity: 0.8;
   text-decoration: underline;
 }
-
 .vp-doc a .favicon {
+  display: inline-block;
+  border-radius: 0;
+  transition: border-radius 0.3s ease-in-out;
+}
+
+.vp-doc a.pending-favicon .favicon {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-left: 2px;
+  margin-right: 6px;
+  margin-top: -4px;
+  border-radius: 0;
+  animation: spin 1s ease-in-out infinite;
+  background: url("data:image/svg+xml;base64,PHN2ZyB0PSIxNzA3Mjg5MjAwOTQzIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjQyMzIiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTUyMy4zOTgxNSAxMDIzLjUzNDc2OWE1MTEuNzUzNjYgNTExLjc1MzY2IDAgMSAxIDM5Ni4zNzY0NzEtODM3LjQxNTA4IDUxOS42NjI1ODEgNTE5LjY2MjU4MSAwIDAgMSA0Ni41MjMwNiA2Ny40NTg0MzcgNDYuNTIzMDYgNDYuNTIzMDYgMCAxIDEtODAuNDg0ODk0IDQ2LjUyMzA2QTQxOC43MDc1NCA0MTguNzA3NTQgMCAxIDAgMTk3LjczNjcyOSA3NzYuNDk3MzIxYTQxOC43MDc1NCA0MTguNzA3NTQgMCAwIDAgNTc2LjQyMDcxNCA3MC4yNDk4MiA0Ni41MjMwNiA0Ni41MjMwNiAwIDEgMSA1NS44Mjc2NzIgNzQuNDM2ODk2QTUxMS43NTM2NiA1MTEuNzUzNjYgMCAwIDEgNTIzLjM5ODE1IDEwMjMuNTM0NzY5eiIgZmlsbD0iIzBCNzBERCIgcC1pZD0iNDIzMyI+PC9wYXRoPjxwYXRoIGQ9Ik03NzIuNzYxNzUyIDI5MC4zMzEzNDNsMjAxLjQ0NDg0OS0xNjQuNjkxNjMyYTIzLjI2MTUzIDIzLjI2MTUzIDAgMCAxIDM3LjY4MzY3OSAyMC40NzAxNDZsLTE4LjYwOTIyNCAxODIuODM1NjI2YTIzLjI2MTUzIDIzLjI2MTUzIDAgMCAxLTI1LjU4NzY4MyAyMC45MzUzNzdsLTE4Mi44MzU2MjYtMTguNjA5MjI0YTIzLjI2MTUzIDIzLjI2MTUzIDAgMCAxLTEyLjA5NTk5NS00MC45NDAyOTN6IiBmaWxsPSIjMzM5NUZGIiBwLWlkPSI0MjM0Ij48L3BhdGg+PC9zdmc+");
+}
+.vp-doc a:hover .favicon {
+  border-radius: 100%;
+}
+
+.vp-doc a.has-favicon .favicon {
   display: inline-block;
   width: 14px;
   height: 14px;
   margin-left: 2px;
   margin-right: 2px;
   margin-top: -4px;
+}
+
+.vp-doc a.err-favicon .favicon {
+  width: 14px;
+  height: 14px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: -4px;
+  content: url("data:image/svg+xml;base64,PHN2ZyB0PSIxNzA3MjkxMTQxOTE5IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjgwNTMiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTg3NS42MzM3NzggNTYuODg4ODg5SDE0OC4zNjYyMjJBOTguNjAyNjY3IDk4LjYwMjY2NyAwIDAgMCA0OS43Nzc3NzggMTU1LjQ3NzMzM3Y3MTMuMDQ1MzM0YTk4LjYxNjg4OSA5OC42MTY4ODkgMCAwIDAgOTguNTg4NDQ0IDk4LjYwMjY2Nmg3MjcuMjY3NTU2YTk4LjYwMjY2NyA5OC42MDI2NjcgMCAwIDAgOTguNTg4NDQ0LTk4LjYwMjY2NmgwLjAxNDIyMlYxNTUuNDc3MzMzQTk4LjYwMjY2NyA5OC42MDI2NjcgMCAwIDAgODc1LjYzMzc3OCA1Ni44ODg4ODl6TTE0OC4zNjYyMjIgMTEzLjc3Nzc3OGg3MjcuMjY3NTU2YTQxLjY5OTU1NiA0MS42OTk1NTYgMCAwIDEgNDEuNjk5NTU1IDQxLjY5OTU1NWgwLjAxNDIyM1YyNDEuNzc3Nzc4SDEwNi42NjY2Njd2LTg2LjMwMDQ0NUE0MS42OTk1NTYgNDEuNjk5NTU2IDAgMCAxIDE0OC4zNjYyMjIgMTEzLjc3Nzc3OHogbTcyNy4yNjc1NTYgNzk2LjQ0NDQ0NEgxNDguMzY2MjIyQTQxLjY5OTU1NiA0MS42OTk1NTYgMCAwIDEgMTA2LjY2NjY2NyA4NjguNTIyNjY3VjI3MC4yMjIyMjJoODEwLjY4MDg4OXY1OTguMzAwNDQ1QTQxLjY5OTU1NiA0MS42OTk1NTYgMCAwIDEgODc1LjYzMzc3OCA5MTAuMjIyMjIyeiIgZmlsbD0iIiBwLWlkPSI4MDU0Ij48L3BhdGg+PHBhdGggZD0iTTE1OC4xMzY4ODkgMTk5LjExMTExMWgxNC4yMjIyMjJhMTQuMjIyMjIyIDE0LjIyMjIyMiAwIDEgMCAwLTI4LjQ0NDQ0NGgtMTQuMjIyMjIyYTE0LjIyMjIyMiAxNC4yMjIyMjIgMCAxIDAgMCAyOC40NDQ0NDR6TTI1Ny42OTI0NDQgMTk5LjExMTExMWgxNC4yMjIyMjNhMTQuMjIyMjIyIDE0LjIyMjIyMiAwIDEgMCAwLTI4LjQ0NDQ0NGgtMTQuMjIyMjIzYTE0LjIyMjIyMiAxNC4yMjIyMjIgMCAxIDAgMCAyOC40NDQ0NDR6TTM1Ny4yNDggMTk5LjExMTExMWgxNC4yMjIyMjJhMTQuMjIyMjIyIDE0LjIyMjIyMiAwIDEgMCAwLTI4LjQ0NDQ0NGgtMTQuMjIyMjIyYTE0LjIyMjIyMiAxNC4yMjIyMjIgMCAxIDAgMCAyOC40NDQ0NDR6TTI0Ny41Mzc3NzggNTk5LjcyMjY2N2w3My4wNTk1NTUtOTAuMTY4ODg5YTE0LjE5Mzc3OCAxNC4xOTM3NzggMCAxIDAtMjIuMDg3MTExLTE3LjkwNTc3OGwtODAuMzEyODg5IDk5LjEyODg4OWExNC4yNTA2NjcgMTQuMjUwNjY3IDAgMCAwIDAgMTcuOTJsMTMwLjM3NTExMSAxNjAuODk2YTE0LjIyMjIyMiAxNC4yMjIyMjIgMCAwIDAgMTkuOTgyMjIzIDIuMDc2NDQ0IDE0LjIyMjIyMiAxNC4yMjIyMjIgMCAwIDAgMi4wOTA2NjYtMTkuOTk2NDQ0bC0xMjMuMTA3NTU1LTE1MS45NTAyMjJ6TTM0OC41NzI0NDQgNDI5Ljg5NTExMWwtMTIuOTk5MTExIDE2LjAyODQ0NWExNC4yMjIyMjIgMTQuMjIyMjIyIDAgMCAwIDIyLjA4NzExMSAxNy45MmwxMi45OTkxMTItMTYuMDI4NDQ1YTE0LjIyMjIyMiAxNC4yMjIyMjIgMCAwIDAtMjIuMDg3MTEyLTE3Ljkyek02NzguODEyNDQ0IDQyOS44ODA4ODlhMTQuMjIyMjIyIDE0LjIyMjIyMiAwIDAgMC0yMi4wNzI4ODggMTcuOTJsMTIzLjEwNzU1NSAxNTEuOTIxNzc4LTEyMy4xMDc1NTUgMTUxLjk1MDIyMmExNC4xOTM3NzggMTQuMTkzNzc4IDAgMCAwIDExLjAzNjQ0NCAyMy4xNjggMTQuMjA4IDE0LjIwOCAwIDAgMCAxMS4wMzY0NDQtNS4yNDhsMTMwLjM2MDg4OS0xNjAuODk2YTE0LjE3OTU1NiAxNC4xNzk1NTYgMCAwIDAgMC0xNy45MmwtMTMwLjM2MDg4OS0xNjAuODk2ek01NzMuNzY3MTExIDUxNS4yMTQyMjJsLTEzMC4zNzUxMTEgMTYwLjg5NmExNC4yMDggMTQuMjA4IDAgMSAwIDIyLjA4NzExMSAxNy45MmwxMzAuMzc1MTExLTE2MC44OTZjNC45NDkzMzMtNi4xMTU1NTYgMy45OTY0NDQtMTUuMDc1NTU2LTIuMDkwNjY2LTIwLjAyNDg4OWExNC4yNTA2NjcgMTQuMjUwNjY3IDAgMCAwLTE5Ljk5NjQ0NSAyLjEwNDg4OXoiIGZpbGw9IiIgcC1pZD0iODA1NSI+PC9wYXRoPjwvc3ZnPg==");
 }
 
 .vp-doc h2 {
@@ -341,5 +372,11 @@ span.lang {
   .vp-doc p img:not(.favicon) {
     margin: 40px auto;
     border-radius: 4px;
+  }
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
   }
 }

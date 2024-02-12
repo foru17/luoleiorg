@@ -104,14 +104,25 @@
 
     aTags.forEach((aTag) => {
       const domain = aTag.getAttribute("href")?.split("/")[2];
-
       // 如果域名存在且无 favicon 的 img 标签
       if (domain && !aTag.querySelector("img.favicon")) {
+        aTag.classList.add("pending-favicon");
         const faviconUrl = getFaviconUrl(domain);
         const faviconImg = document.createElement("img");
         faviconImg.src = faviconUrl;
         faviconImg.className = "favicon";
         aTag.prepend(faviconImg);
+        // 监听图片加载完成后移除 pending-favicon 类名
+        faviconImg.onload = () => {
+          aTag.classList.remove("pending-favicon");
+          aTag.classList.add("has-favicon");
+        }
+        // 加载失败时也移除 pending-favicon 类名
+        faviconImg.onerror = () => {
+          aTag.classList.remove("pending-favicon");
+          aTag.classList.add("err-favicon");
+        }
+        
       }
     });
   };

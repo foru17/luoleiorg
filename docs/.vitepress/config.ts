@@ -93,8 +93,8 @@ export default defineConfig({
     outlineTitle: "本文导览",
     lastUpdatedText: "最后更新时间",
     footer: {
-      message: `<a href="https://luolei.org/">LUOLEI.ORG</a>`,
-      copyright: `Copyright © 2023 <a href="https://github.com/foru17" target="_blank">@foru17</a>.<br/>
+      message: `Powered By <a href="https://github.com/foru17/luoleiorg">VitePress</a>`,
+      copyright: `Copyright © 2024 | <a href="https://luolei.org/">LUOLEI.ORG</a><br/>
       <a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow" class="d-none d-lg-inline-block">粤ICP备14004235号</a>
       `,
     },
