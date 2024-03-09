@@ -100,7 +100,12 @@
   };
 
   const addFavicon = () => {
-    const aTags = document.querySelectorAll(".main a");
+
+
+    // 选择所有的 a 标签,不包括  .tweet-card 里面的 a 标签
+    const aTags = document.querySelectorAll(".main a:not(.tweet-card a)");
+
+
 
     aTags.forEach((aTag) => {
       const domain = aTag.getAttribute("href")?.split("/")[2];

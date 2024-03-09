@@ -1,3 +1,4 @@
 module.exports = {
-    darkMode: 'class'
+    darkMode: 'class',
+    important: true,
 }

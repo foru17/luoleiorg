@@ -1,6 +1,6 @@
 ---
 title: "我的智能家居监控方案:打造自主、安全、可控的摄像头"
-date: "2024-02-09"
+date: "2024-02-12"
 cover: https://c2.llyz.xyz/blog/2024/02/camera/c-1.jpg
 categories:
   - lifestyle
@@ -24,7 +24,7 @@ tags:
 
 对「智能家居」来说，脱钩或者下云是不实际的，我是小米生态的重度用户，门锁和门禁摄像头，都是小米生的产品，这些产品基本都强依赖于小米的云服务。入住新家两年以来，这种基于云的服务，的确也带来了很多便利。
 
-**摄像头不同于其他智能设备，这是一个极其敏感的，打破了「网络」与「现实」的设备，他可以直接看到、听到镜头里的一切。**
+**摄像头不同于其他智能设备，这是一个极其敏感的，打破了「网络」与「现实」边界的设备，他可以直接看到、听到镜头里的一切。**
 
 好几年前，我通过一个业内的渠道，得知某摄像头的云存储服务，曾经将用户的监控视频未加密处理，就直接存在某公有云的 bucket 里。从那之后，我就再也没在家里开启过摄像头。
 
@@ -61,7 +61,7 @@ tags:
 | [Home Assistant](https://www.home-assistant.io/)                  | 开源智能家庭家庭解决方案，与米家和 HomeKit 等联动  | 高       |
 | [Node-RED](https://github.com/node-red/node-red)                  | 开源的流程编排工具，配合 HA 实现各种事件处理自动化 | 高       |
 
-上面就是我的这套监控系统的核心架构，除了`SurveillanceStation`属于傻瓜级上手可以，后面的`Home Assistant`和 `Node-Red`都需要花费一定的时间和学习。由于我之前就有一些 HA 和 Node-RED 的使用经验，这次只是集成下SurveillanceStation，所以整体花费的时间还是比较少的。
+上面就是我的这套监控系统的核心架构，除了`SurveillanceStation`属于傻瓜级上手可用，后面的`Home Assistant`和 `Node-Red`都需要花费一定的时间和学习。由于我之前就有一些 HA 和 Node-RED 的使用经验，这次只是集成下 SurveillanceStation，所以整体花费的时间还是比较少的。
 
 ## 配套 App
 
@@ -133,12 +133,12 @@ iptables -I FORWARD -s 10.0.0.12 -j REJECT
 
 群晖的`SurveillanceStation`是一个非常成熟的监控套件，这个也是我们的监控系统的核心。之所以选择群晖，是因为我家里有一台群晖。其他厂商也有类似的监控套件，也有第三方的开源解决方案，建议大家就自行研究了。
 
-这部分的内容，以`Onvif` `群晖` `NAS`等关键词组合搜索，网上有很多教程，我在这里就不赘述了。
+这部分的内容，以`ONVIF` `群晖` `NAS`等关键词组合搜索，网上有很多教程，我在这里就不赘述了。
 
 - [NAS变身NVR录像机，接入监控摄像头实现实时录制、远程回放、存储！](https://post.smzdm.com/p/awzzgemk/)
 - [家庭双摄像头添加到群晖Surveillance套件](https://post.smzdm.com/p/arqvmw3q/)
 
-## 将监控视频存储到外接USB硬盘
+## 将监控视频存储到外接 USB 硬盘
 
 我的群晖`DS216+`是双盘位，使用两块机械硬盘做了`RAID1`。
 
@@ -175,12 +175,12 @@ ln -s /volumeUSB1/usbshare/ /volume2/camera_storage
 
 ## 接入 HomeKit
 
-如果想在 iPhone 的 Home App 里看到监控视频，需要通过`Home Assistant`将摄像头接入到 HomeKit。这一部分比较复杂，也有比较多的教程和文章，我找几篇比较好的文章供大家参考。
+如果想在 iPhone 的 Home App 里看到监控视频，需要通过`Home Assistant`将摄像头接入到 HomeKit。这一部分也有比较多的教程和文章，我找了几篇比较详细的，供大家参考。
 
 - [通过home assistant将onvif协议摄像头加入homekit](https://zhuanlan.zhihu.com/p/669220623)
 - [请问有人在ha用onvif 连接成功TPLINK 的摄像头么](https://bbs.hassbian.com/thread-12038-1-1.html)
 
-在这里分享一个小优化点，HA 自带的`Onvif`协议添加摄像头看到的实时画面延迟较大（我自己观察约5秒)，如果使用`WebRTC Camera`取流可以大大降低延迟。具体的步骤可参考:
+在这里分享一个小优化点，HA 自带的`ONVIF`协议添加摄像头看到的实时画面延迟较大（我自己观察约5秒)，如果使用`WebRTC Camera`取流可以大大降低延迟。具体的步骤可参考:
 
 - [HomeAssistant 海康、大华摄像机rtsp取流不再卡顿](https://www.bilibili.com/read/cv22505112/)
 
@@ -229,7 +229,7 @@ ln -s /volumeUSB1/usbshare/ /volume2/camera_storage
 ![](https://c2.llyz.xyz/blog/2024/02/camera/c-11.jpg)
 ![](https://c2.llyz.xyz/blog/2024/02/camera/c-12.jpg)
 
-这个的原理也十分简单，以`在家模式`举例，通过设置`时间源`为`WebHook/外部设备`，群晖暴露了一个`WebHook`接口，通过普通的网络请求触发这个接口，就可以关闭摄像头。
+这个的原理也十分简单，以`在家模式`举例，通过设置`事件源`为`WebHook/外部设备`，群晖暴露了一个`WebHook`接口，通过普通的网络请求触发这个接口，就可以关闭摄像头。
 
 ![](https://c2.llyz.xyz/blog/2024/02/camera/c-13.jpg)
 ![](https://c2.llyz.xyz/blog/2024/02/camera/c-14.jpg)

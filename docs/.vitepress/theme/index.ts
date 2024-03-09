@@ -3,10 +3,11 @@ import { Theme } from "vitepress";
 import { Integrations } from "@sentry/tracing";
 import DefaultTheme from "vitepress/theme";
 import Layout from "./components/Layout.vue";
-import "./style.css";
 
+import "./style.css";
 // import ThemeLayout from "./components/Layout.vue";
 import ArticleComment from "./components/ArticleComment.vue";
+import TweetCard from "./components/TweetCard.vue";
 import { customConfigProvider } from "./configProvider";
 export default {
   ...DefaultTheme,
@@ -24,5 +25,6 @@ export default {
     });
 
     app.component("ArticleComment", ArticleComment);
+    app.component("TweetCard", TweetCard);
   },
 } as Theme;
