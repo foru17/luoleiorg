@@ -1,7 +1,7 @@
 ---
 title: 作为一个程序员，我是如何找到女朋友的？
 date: "2016-08-05"
-cover: https://c2.llyz.xyz/blog/2016/08/love/zh15.jpg
+cover: https://c2.is26.com/blog/2016/08/love/zh15.jpg
 categories:
   - lifestyle
 tags:
@@ -21,55 +21,55 @@ tags:
 
 1.2014年iOS8刚出，我翻译了一篇Web和设计相关的文章，被国内不少网站转载
 
-![](https://c2.llyz.xyz/blog/2016/08/love/zh1.jpg)
+![](https://c2.is26.com/blog/2016/08/love/zh1.jpg)
 
 2.有一天优设官微（设计师应该都知道的）发了我这片文章，还在微博艾特了我（你看版权、标明来源多重要！！！）
 
-![](https://c2.llyz.xyz/blog/2016/08/love/zh2.jpg)
+![](https://c2.is26.com/blog/2016/08/love/zh2.jpg)
 
 3.妹纸看到了我的文章，关注了我 4.我微博收到了一个新粉丝提醒（你看一个稳定的通知PUSH多重要！！！） 5.我闲着蛋疼看了一眼粉丝列表，看到这个妹纸头像好像还挺漂亮的。
 
-![](https://c2.llyz.xyz/blog/2016/08/love/zh3.jpg)
+![](https://c2.is26.com/blog/2016/08/love/zh3.jpg)
 
 6.然后进去么妹纸微博看了下，咦，好像是个设计师，还去健身房，好像是新浪的，而且，好像素颜也是挺漂亮的。
 
-![](https://c2.llyz.xyz/blog/2016/08/love/zh4.jpg) ![](https://c2.llyz.xyz/blog/2016/08/love/zh5.jpg)
+![](https://c2.is26.com/blog/2016/08/love/zh4.jpg) ![](https://c2.is26.com/blog/2016/08/love/zh5.jpg)
 
 7.就这么关注了妹纸的微博，然后随便在她微博下面回复了一句，问妹纸是干嘛的，那条微博好像是说什么招程序员（一开始我以为她是人力或者猎头）。 8.妹纸倒很快回复了，我随便哈哈，问了下妹纸哪里的。然后我又翻了下妹纸的相册。
 
-![](https://c2.llyz.xyz/blog/2016/08/love/zh6.jpg)
+![](https://c2.is26.com/blog/2016/08/love/zh6.jpg)
 
 看到一张P1的街拍，嗯，是..挺...漂亮。 9.后来聊到工作，妹纸好像问我是哪一年的，涉及隐私嘛，于是就进了微博私聊。下图就成了我们的第一段私聊，然后聊了一下设计师，程序员的话题。 知道妹纸是成都新浪乐居的设计师，还在实习，94年，在健身房兼职舞蹈老师，我被嘲讽说跟80后差不多………当时我那个心理阴影面积………
 
-![](https://c2.llyz.xyz/blog/2016/08/love/zh7.jpg)
+![](https://c2.is26.com/blog/2016/08/love/zh7.jpg)
 
 9.1 后来断断续续在私信里聊了一两天，随便找了一个借口说微博私信的PUSH通知太烦了，加了妹纸的微信和QQ（感谢新浪微博的推送PUSH机制！！！）。
 
-![](https://c2.llyz.xyz/blog/2016/08/love/zh8.jpg)
+![](https://c2.is26.com/blog/2016/08/love/zh8.jpg)
 
 10.后来聊天的时候好像我把自己的知乎的回答发给了妹纸。应该就是这个回答，关于梦想的，挺装逼的一个回答[你还有梦想吗？你的梦想是什么？ - 罗磊的回答](https://www.zhihu.com/question/20442677/answer/15149702)。
 
-![](https://c2.llyz.xyz/blog/2016/08/love/zh9.jpg)
+![](https://c2.is26.com/blog/2016/08/love/zh9.jpg)
 
 后来据妹纸跟我说，她看了我的那个西藏视频后，感动哭了，立马什么开始崇拜balabala，总之装逼成功。
 
 11.再后来，QQ视频，第一次看到妹纸真身，好像，真的...好...漂亮。
 
-![](https://c2.llyz.xyz/blog/2016/08/love/zh10.jpg)
+![](https://c2.is26.com/blog/2016/08/love/zh10.jpg)
 
 请忽略右下角我的花痴脸。
 
 12.刚好认识妹纸没过几天，[跑了一场雾霾中的北京马拉松(2014 年 10 月 19 日，在 PM2.5 值超过 400 的情况下参加北京马拉松是什么体验？ - 罗磊的回答)](https://www.zhihu.com/question/26093366/answer/32146522)，跑马那天看到妹纸发了一个朋友圈。
 
-![](https://c2.llyz.xyz/blog/2016/08/love/zh11.jpg)
+![](https://c2.is26.com/blog/2016/08/love/zh11.jpg)
 
 12.1中间有一个小插曲，作为一个程序员，还是用了一点技术手段，根据妹纸的微博信息，配合地图，定位到了妹纸的公司地址，毕竟新浪还是挺好找的，然后找了一个机会，偷偷买了毛姆的一套书送了过去。书不贵，但是妹纸第二天收到还是被惊喜到了，去拿快递的时候还跟我说奇怪不知道谁给她发快递了。记得还发了一张自拍给我。
 
-![](https://c2.llyz.xyz/blog/2016/08/love/zh12.jpg) ![](https://c2.llyz.xyz/blog/2016/08/love/zh13.jpg)
+![](https://c2.is26.com/blog/2016/08/love/zh12.jpg) ![](https://c2.is26.com/blog/2016/08/love/zh13.jpg)
 
 13.一个月后，买了一张机票飞成都（妹纸说当时她实习工资800，还想过怎么每个月省钱200块买机票元旦去北京找我，玩）。第一次见到了妹纸，去了一趟都江堰。
 
-![](https://c2.llyz.xyz/blog/2016/08/love/zh14.jpg)
+![](https://c2.is26.com/blog/2016/08/love/zh14.jpg)
 
 跟着妹纸去宽窄巷子，当时的妹纸好清纯。
 
@@ -77,7 +77,7 @@ tags:
 
 14.就这样，一个月不到，两人就在一起了。
 
-![](https://c2.llyz.xyz/blog/2016/08/love/zh15.jpg)
+![](https://c2.is26.com/blog/2016/08/love/zh15.jpg)
 
 快两年了，两个人从异地到在一起，妹纸离开了成都，我离开了帝都，两人都来了魔都，生活中偶尔有摩擦，大部分时候两人还是十分幸福和愉快的。 两人一起刷电影，读书，旅行，养猫，两个人的收入，也给了我们生活更多的选择和可能性。 当然，也有居家的繁琐，谁去买菜，谁去洗碗（突然发现前天的碗还没洗！！）。
 
@@ -85,4 +85,4 @@ tags:
 
 > 只因为在微博粉丝列表多看了一眼吧。
 
-![](https://c2.llyz.xyz/blog/2016/08/love/copy35.JPG)
+![](https://c2.is26.com/blog/2016/08/love/copy35.JPG)

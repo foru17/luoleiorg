@@ -1,12 +1,12 @@
 ---
 title: 我在读什么:2014春季读书分享
-date: '2014-04-04'
-cover: https://c2.llyz.xyz/wp-image/2014/04/read-2014.jpg
+date: "2014-04-04"
+cover: https://c2.is26.com/wp-image/2014/04/read-2014.jpg
 tags:
-- read
+  - read
 ---
 
-![](https://c2.llyz.xyz/wp-image/2014/04/read-2014.jpg)
+![](https://c2.is26.com/wp-image/2014/04/read-2014.jpg)
 
 距离上一次读书分享的博文[《2013年我看过哪些值得推荐的好书？》](https://luolei.org/books-i-read-in-2013/)已经过去半年，今天这篇文章，来分享一下过去这半年时间里自己读过的一些书，题目上说是说春季，但其实是是从上篇读书分享更新update的，准确的说应该是13年秋冬和14年春季读书清单。
 

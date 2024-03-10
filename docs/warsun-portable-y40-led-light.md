@@ -1,10 +1,10 @@
 ---
 title: 这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯
-date: '2020-11-20'
-cover: https://c2.llyz.xyz/blog/2020/11/led/l-4.jpg
+date: "2020-11-20"
+cover: https://c2.is26.com/blog/2020/11/led/l-4.jpg
 categories:
-- tech
-- zuoluotv
+  - tech
+  - zuoluotv
 ---
 
 ## 视频
@@ -14,13 +14,13 @@ categories:
 
 ## 开箱
 
-![](https://c2.llyz.xyz/blog/2020/11/led/o-1.jpg)
+![](https://c2.is26.com/blog/2020/11/led/o-1.jpg)
 
 不管是居家还是自驾，我都还是建议大家，可以备一个稍微好点的手电筒，万一停电了，或者走夜路，有个手电筒，还是能够解决掉不少问题，某些危急时刻，甚至能够救命和保命。
 
 双十一新买了一个LED灯，觉得挺实用的，分享给大家，产品是自购，也拍了一个视频，也可以看上面的B站的视频，更加直观。
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-1.jpg)
+![](https://c2.is26.com/blog/2020/11/led/l-1.jpg)
 
 之前刷抖音，看到有视频分享能够折叠的LED工作灯，当时觉得好像这种灯功能还挺多的，心里种下了草。
 
@@ -34,59 +34,59 @@ categories:
 - 太阳能充电
 - 带磁铁能够固定在金属件表面
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-3.jpg)
+![](https://c2.is26.com/blog/2020/11/led/l-3.jpg)
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-4.jpg)
+![](https://c2.is26.com/blog/2020/11/led/l-4.jpg)
 
 包装内就一个LED灯，我这个是稍微贵点的，绿色，很工业风，还有一个低端点的型号是黄色。正面这个黄色的是LED COB面板，正面有一个按钮，进行开关和模式切换。表皮是硬塑料，应该能摔几下。
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-6.jpg)
+![](https://c2.is26.com/blog/2020/11/led/l-6.jpg)
 
 我买的这个型号支持太阳能充电，但是对于这种小型设备的太阳能充电我觉得不是很靠谱，聊胜于无。
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-10.jpg)
+![](https://c2.is26.com/blog/2020/11/led/l-10.jpg)
 
 顶部的LED灯泡，手电筒模式的时候，能够进行远射，亮部一般般，凑合用用可以。
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-5.jpg)
+![](https://c2.is26.com/blog/2020/11/led/l-5.jpg)
 
 机器外面有一个可展开收纳的支架，方便根据需求放置LED灯。
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-7.jpg)
+![](https://c2.is26.com/blog/2020/11/led/l-7.jpg)
 
 支架底部有两个强力磁铁，能够吸附在金属物件表面，我在视频中也有展示，能够轻松地吸在车金属表面。
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-8.jpg)
+![](https://c2.is26.com/blog/2020/11/led/l-8.jpg)
 
 支架展开后就能立在桌面上，适合不同的照明场景。
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-11.jpg)
+![](https://c2.is26.com/blog/2020/11/led/l-11.jpg)
 
 充电口是TypeC，好评，出门少带一根线，接口处有橡胶，有一定的防水功效。遗憾的是只支持给LED灯充电，不支持向外充电，但是也能理解，毕竟充电宝不是它的主要功能。
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-12.jpg)
+![](https://c2.is26.com/blog/2020/11/led/l-12.jpg)
 
 另外一边就是USB A的输出口，能够给其他设备充电，内置4000毫安电池，不虚标的话应该能给手机充满一次电，应急用用应该还是可以的。
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-13.jpg)
+![](https://c2.is26.com/blog/2020/11/led/l-13.jpg)
 
 晚上的时候测试了下，开启面板COB灯的时候，亮部还是很可以的。
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-16.jpg)支架上的磁铁，能够很方便就随手贴在车上金属处，这个设计很巧妙。
+![](https://c2.is26.com/blog/2020/11/led/l-16.jpg)支架上的磁铁，能够很方便就随手贴在车上金属处，这个设计很巧妙。
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-14.jpg)
+![](https://c2.is26.com/blog/2020/11/led/l-14.jpg)
 
 COB面板支持3挡亮度调节，照明亮度对于夜间近距离的作业是完全够用的，拿来露营灯啥的也可以。
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-19.jpg)
+![](https://c2.is26.com/blog/2020/11/led/l-19.jpg)
 
 有了这灯后，后备箱里找东西就方便多了，一般车自带的后备箱灯亮度都很惨，我车自己后备箱灯已经换了一个LED灯了，亮度还是不怎么够。
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-17.jpg)
+![](https://c2.is26.com/blog/2020/11/led/l-17.jpg)
 
 这个灯还支持一个红光模式，长按按钮LED就发红光，能在夜间当警示灯。
 
-![](https://c2.llyz.xyz/blog/2020/11/led/l-18.jpg)
+![](https://c2.is26.com/blog/2020/11/led/l-18.jpg)
 
 经过对比，红光模式下，灯光亮度跟汽车自带的尾灯亮度差不多（我车尾灯是LED）。
 
@@ -98,19 +98,19 @@ COB面板支持3挡亮度调节，照明亮度对于夜间近距离的作业是�
 - **Iwata GL-01** LED面板
 - **iPhone12** 手机自带补光灯
 
-![](https://c2.llyz.xyz/blog/2020/11/led/a-3.jpg)
+![](https://c2.is26.com/blog/2020/11/led/a-3.jpg)
 
 其中 **NITECORE EC4S** 属于专业的手电筒，京东上面售价要400多人民币，Iwata 是摄影补光灯，也要200多人民币。
 
 #### **场景A**
 
-![](https://c2.llyz.xyz/blog/2020/11/led/all-1.jpg)
+![](https://c2.is26.com/blog/2020/11/led/all-1.jpg)
 
 场景A是弱光环境，只有远处微弱路灯，拍摄相机是索尼A73，调节参数到基本跟人眼观感差不多。对比下来，Y40在面板灯3档的时候，与Iwata GL-01 100%亮度时接近，当然，跟2150流明的 NITECORE 专业手电筒相比，上面的其他LED都是弟弟了。
 
 #### **场景B**
 
-![](https://c2.llyz.xyz/blog/2020/11/led/all-2.jpg)
+![](https://c2.is26.com/blog/2020/11/led/all-2.jpg)
 
 第二个场景在小树林里，几乎全黑，老婆距离我大概5米，iPhone12开启补光灯后，基本就只能看到一个轮廓（视频中效果比较清楚），Y40面板灯3档的时候，照射范围还是挺广的，EC4S依旧秒杀其他灯。
 

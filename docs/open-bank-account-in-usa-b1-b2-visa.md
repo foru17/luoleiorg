@@ -1,7 +1,7 @@
 ---
 title: 美国银行开户攻略 | Bank Of America | 视频 + 图文
 date: "2017-12-20"
-cover: https://c2.llyz.xyz/blog/2017/12/boa/boa3.jpg
+cover: https://c2.is26.com/blog/2017/12/boa/boa3.jpg
 categories:
   - zuoluotv
   - hot
@@ -29,11 +29,11 @@ tags:
 
 第二次来 Vegas 了，今天是这次旅行的最后一天，这次住在川普饭店，早上出门直接 Google 地图搜了下附近的 Bank of American，找了家靠得比较近的，直接开车过去，发现这家 BOA 是在中国城附近（伏笔）。
 
-![](https://c2.llyz.xyz/blog/2017/12/boa/boa4.jpg)
+![](https://c2.is26.com/blog/2017/12/boa/boa4.jpg)
 
 具体的地址是:**4080 SPRING MOUNTAIN RD,LAS VEGAS,NEVADA 89102**。
 
-![](https://c2.llyz.xyz/blog/2017/12/boa/boa5.jpg)
+![](https://c2.is26.com/blog/2017/12/boa/boa5.jpg)
 
 银行是个独栋的建筑，由于今天是 12 月 1 号，不少当地人在这里办理业务，十几个人排队。我刚进银行比较不知所措，拿了个注册表一样的东西，看到每个柜台都有人在忙，自己也就先排队了。
 
@@ -43,17 +43,17 @@ tags:
 
 具体的开户过程，十分简单，Wang 女士也十分友好，聊天得知是广州人，来美国快二十年了，给我们介绍了 Checking Account 和 Saving Accont 的区别和套餐费用，然后登记我们的资料，帮我们注册了网络 ID，设置了安全密码，下载了手机 BOA 的 APP，在 APP 里面设置了无纸化账单（这样你的账单就不会寄到你登记的美国地址）。
 
-![](https://c2.llyz.xyz/blog/2017/12/boa/boa7a.jpg)
+![](https://c2.is26.com/blog/2017/12/boa/boa7a.jpg)
 
 Wang 女士提醒我们 30 天内，分别 Checking Account 存进去 1500 美刀，Saving Account 存进去 500 美刀，能够免除月费，要不然支票账户 Checking Account 月费 12 刀，储蓄账户 Savings Account 月费 8 刀。
 
 最后给了我们一张 30 天有效的临时卡，正式卡 2 个星期内会寄送到我们登记的美国地址。开户完毕后，Wang 女士带我们去大厅的 ATM 机器，存了 50 美元进去（最低 25 美元激活账号），然后给我 APP 演示了如何转账，就这样弄完了。
 
-![](https://c2.llyz.xyz/blog/2017/12/boa/boa11.jpg)
+![](https://c2.is26.com/blog/2017/12/boa/boa11.jpg)
 
 最后的资料，都放在了这个文件夹和信封里。
 
-![](https://c2.llyz.xyz/blog/2017/12/boa/boa3.jpg)
+![](https://c2.is26.com/blog/2017/12/boa/boa3.jpg)
 
 临时卡的模样。
 
@@ -61,7 +61,7 @@ Wang 女士提醒我们 30 天内，分别 Checking Account 存进去 1500 美�
 
 ## WIRE指引
 
-![](https://c2.llyz.xyz/blog/2017/12/boa/boa6a.jpg)
+![](https://c2.is26.com/blog/2017/12/boa/boa6a.jpg)
 
 WIRE就是电汇的意思，适合国际转账。如上图，资料袋中，会有一张详细的关于你银行账号的电汇信息，这个信息务必保存好，如果你需要汇款到这个美银账号，务必按照这个信息填写。
 
@@ -73,7 +73,7 @@ Wire 需要的信息一般有：收款人姓名地址、收款银行的信息。
 
 ## BOA手机应用
 
-![](https://c2.llyz.xyz/blog/2017/12/boa/boa10.jpg)
+![](https://c2.is26.com/blog/2017/12/boa/boa10.jpg)
 
 BOA在 Android 和 iOS平台上都有手机应用，相比国内银行的APP而言功能单一很多，比较让我满意的是都支持指纹登录，转账和查账也十分方面。
 

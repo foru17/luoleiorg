@@ -32,12 +32,17 @@ const previewAvatarUrl = computed(() => {
   }
   return getPreviewImage(props.avatar);
 });
+
+const goToTwitterProfile = () => {
+  window.open(`https://twitter.com/${props.twitterId}`, "_blank");
+};
+
 </script>
 
 <template>
   <div class="px-2 mb-12 tweet-card rounded-xl">
     <div
-      class="relative m-auto flex h-full w-full max-w-[32rem] flex-col gap-2 overflow-hidden rounded-xl border p-4 backdrop-blur-md shadow-xl"
+      class="relative m-auto flex h-full w-full max-w-[32rem] flex-col gap-2 overflow-hidden rounded-xl border p-4 backdrop-blur-md shadow-xl hover:shadow-2xl transition ease-in-out"
     >
       <div class="flex flex-row justify-between tracking-tight">
         <div class="flex items-center space-x-2">
@@ -51,6 +56,7 @@ const previewAvatarUrl = computed(() => {
               height="48"
               width="48"
               :src="previewAvatarUrl"
+              @click.stop.prevent="goToTwitterProfile"
               class="overflow-hidden border border-transparent rounded-full"
           /></a>
           <div>

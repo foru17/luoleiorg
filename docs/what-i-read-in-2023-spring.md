@@ -1,11 +1,11 @@
 ---
-title: '我在读什么: 2023 春节读书分享'
-date: '2023-01-31'
-cover: https://c2.llyz.xyz/blog/2023/01/read/book-2.JPG
+title: "我在读什么: 2023 春节读书分享"
+date: "2023-01-31"
+cover: https://c2.is26.com/blog/2023/01/read/book-2.JPG
 categories:
-- lifestyle
+  - lifestyle
 tags:
-- read
+  - read
 ---
 
 距离我在 2017 年初的书单分享[《年終卷 | 2016年我读了哪些书？》](https://luolei.org/what-i-read-in-2016/)，已经过去6年。
@@ -18,7 +18,7 @@ tags:
 
 我读书的偏好倾向「偏虚构类」，文学类书总量不多，多为经典名著，读书大头是社会、科技、政治、商业这些领域。我在过去读过的这些书，很大程度塑造了我如今的价值观和思维方式。
 
-![](https://c2.llyz.xyz/blog/2023/01/read/book-2.JPG)
+![](https://c2.is26.com/blog/2023/01/read/book-2.JPG)
 
 过去这 4 年，我经历了辞职创业和回归职场，平心而论，虽然我获取信息的渠道已经不再只限于读书，也会从其他渠道诸如 Podcasts 和视频来获取新的资讯和信息。但是每年个位数的读书量，一定程度上也反应了我在「个人成长」的停滞。
 

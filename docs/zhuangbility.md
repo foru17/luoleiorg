@@ -1,7 +1,7 @@
 ---
 title: 装逼这件事
-date: '2014-06-28'
-cover: https://c2.llyz.xyz/wp-image/2014/06/zbzn.png
+date: "2014-06-28"
+cover: https://c2.is26.com/wp-image/2014/06/zbzn.png
 ---
 
 这周在车库咖啡参加北京GDG Google I/O 直播之夜的活动，做了一个热场的闪电演讲，主题为「程序猿进阶之路」，在第二页自黑，提到这个 PPT 其实有第二个主题叫「程序猿装逼指南」。
@@ -10,7 +10,7 @@ cover: https://c2.llyz.xyz/wp-image/2014/06/zbzn.png
 
 在这个演讲中，我提到了自己 2012 年骑行西藏 的经历。
 
-![](https://c2.llyz.xyz/wp-image/2014/06/tibet-travel.jpg)
+![](https://c2.is26.com/wp-image/2014/06/tibet-travel.jpg)
 
 刚好简书里有人文章中向我提问「骑行西藏中那一刻你想到过放弃，又是什么让你坚持了下来？」。就写篇文章再随意谈谈骑行川藏线这个事吧。
 
@@ -22,7 +22,7 @@ Your user agent does not support the HTML5 Video element.
 
 写了一篇攻略【骑行去西藏.叁】归来谈（经验-攻略-分享-问答）
 
-![](https://c2.llyz.xyz/wp-image/2012/06/bike1.jpg)
+![](https://c2.is26.com/wp-image/2012/06/bike1.jpg)
 
 想着318川藏线游记已经充斥了各种骑行和户外论坛，自己只是简单地分享了下那次骑行川藏线的经验。
 
@@ -44,17 +44,17 @@ Your user agent does not support the HTML5 Video element.
 
 2.三天高强度骑行后，到达世界上海拔最高的城市「理塘」无休息继续赶路，50km的计划，到海子山脚下，早上7点出发，下午5点才到，一路腹泻8次。
 
-![](https://c2.llyz.xyz/wp-image/2014/06/litang.jpg)
+![](https://c2.is26.com/wp-image/2014/06/litang.jpg)
 
 这张图是我一天翻了三座5K+山之后蹲在路边其他人给我拍的照片（自己的单反、卡片机、手机都没电了，一路没充电的地方）。
 
-![](https://c2.llyz.xyz/wp-image/2014/06/afterlitang.jpg)
+![](https://c2.is26.com/wp-image/2014/06/afterlitang.jpg)
 
 这是腹泻大概第四次还是第五次被同行的华南理工的骑友拍的照片，那天的一路风光绝赞，可是自己就一路顾着找天然茅坑了。
 
 3.一个人下色季山，一路冻雨，起雾，眼镜被自己呼出来的热气弄起雾看不清路，摘掉眼镜又是个半瞎，第一次感到怕了。
 
-![](https://c2.llyz.xyz/wp-image/2014/06/must.jpg)
+![](https://c2.is26.com/wp-image/2014/06/must.jpg)
 
 #### 什么东西让我坚持？
 
@@ -97,7 +97,7 @@ Your user agent does not support the HTML5 Video element.
 
 ##### 读书
 
-![](https://c2.llyz.xyz/wp-image/2014/06/readzb.jpeg)
+![](https://c2.is26.com/wp-image/2014/06/readzb.jpeg)
 
 首先说这个，是因为有人曾经吐槽「真受不了有些人，就看了基本书，然后整天在微博、微信发读书感想，真装逼！」。是啊，读书这么私密的事情，你干嘛整天告诉人家你读了什么呢？你不就一年比别人多读了五六十本书嘛，《我在读什么:2014春季读书分享》，《2013年我看过哪些值得推荐的好书？》，还写什么短评，你是编辑么？你是作家么？真碧联。
 
@@ -109,19 +109,19 @@ Your user agent does not support the HTML5 Video element.
 
 拍了个小清新的照片，调色或者用个滤镜，配上几句酸溜溜的其他人理解不能的话。比如说我随便举个栗子
 
-![](https://c2.llyz.xyz/wp-image/2014/06/demohei.jpg)
+![](https://c2.is26.com/wp-image/2014/06/demohei.jpg)
 
 ##### 骑行去西藏
 
 「闲着蛋疼，不在学校好好待去骑行西藏，装逼！」，在我的骑行去西藏视频下方的评论区，倒也能看到此类评论。
 
-![](https://c2.llyz.xyz/wp-image/2014/06/lasazb.jpg)
+![](https://c2.is26.com/wp-image/2014/06/lasazb.jpg)
 
 ##### 健身
 
 「真受不了罗磊，那个破身材，还整天自拍打卡，装逼！」，这个是我兄弟吐槽我的。2014年，已经坚持健身半年了。
 
-![](https://c2.llyz.xyz/wp-image/2014/06/jszb.jpg)
+![](https://c2.is26.com/wp-image/2014/06/jszb.jpg)
 
 ##### 提问
 
@@ -137,13 +137,13 @@ Your user agent does not support the HTML5 Video element.
 
 大学的时候自己涉猎过心理学、性学方面的书，如果要从学术方面理解，我大概属于那种外向型、自恋型的人格特征。
 
-当然，「自恋型」人格这个我是从「打标签」的角度方便大家理解，至于我到底是不是自恋，我还真不知道，看看自己的自拍数量，还算正常吧。我好歹都是要发微博发微信才自拍，不存手机里几十几百张的好么 ╮(╯\_╰)╭ 。
+当然，「自恋型」人格这个我是从「打标签」的角度方便大家理解，至于我到底是不是自恋，我还真不知道，看看自己的自拍数量，还算正常吧。我好歹都是要发微博发微信才自拍，不存手机里几十几百张的好么 ╮(╯_╰)╭ 。
 
 喜欢写作、喜欢创作，不管是文字，还是代码，还是设计相关。作为一个创作型的人，尤其是偏偏又不是牛逼的创作型人的情况下，被人说装逼是极其正常的。
 
 #### 科学装逼理论
 
-![](https://c2.llyz.xyz/wp-image/2014/06/bigeangele.jpg)
+![](https://c2.is26.com/wp-image/2014/06/bigeangele.jpg)
 
 要说装逼，各种绿茶装逼，韩寒装逼，小四装逼，高晓松也装逼，罗永浩的装逼就不需要解释了。那些非主流装逼的不够 Big 就谈不上了，大家对绿茶装逼啧啧，对小四的装逼啧啧的也不少，对罗永浩、韩寒和高晓松啧啧的就不多了吧。关键是，装逼的背后，得有一个牛逼来支撑，本身够牛逼了，你怎么发自拍，写段子，都可以。
 

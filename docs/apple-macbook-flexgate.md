@@ -1,13 +1,13 @@
 ---
 title: 背光门 | 苹果 MacBook 即将爆发的下一个质量问题 ? | Flexgate | 持续更新
-date: '2019-06-27'
-cover: https://c2.llyz.xyz/blog/2019/06/flexgate/flexgate-1.jpg
+date: "2019-06-27"
+cover: https://c2.is26.com/blog/2019/06/flexgate/flexgate-1.jpg
 categories:
-- tech
-- zuoluotv
+  - tech
+  - zuoluotv
 tags:
-- vlog
-- digital
+  - vlog
+  - digital
 ---
 
 如果你目前使用的是 2016 或者2017 款的 MacBook，建议你最好关注一下苹果笔记本，可能要爆发的下一个屏幕质量问题，否则你要付出的，也许是高达6000人民币的维修费用。
@@ -52,7 +52,7 @@ tags:
 
 预约了去深圳益田广场Apple Store 天才吧检测，官方的检测报告如下，确认是背光问题。
 
-![](https://c2.llyz.xyz/blog/2019/06/flexgate/flexgate-1.jpg)
+![](https://c2.is26.com/blog/2019/06/flexgate/flexgate-1.jpg)
 
 ```txt
 问题说明/诊断
@@ -81,7 +81,7 @@ tags:
 
 自己淘宝购买显示器排线，自行替换，硬件成本在￥ 30 人民币以内。
 
-![](https://c2.llyz.xyz/share/flexgate.jpg)
+![](https://c2.is26.com/share/flexgate.jpg)
 
 如果自行去外面市场修理，朋友帮我咨询的维修价格，也挺贵的。
 

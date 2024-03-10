@@ -1,7 +1,7 @@
 ---
 title: 广州深圳往返骑行小记
 date: "2012-03-10"
-cover: https://c2.llyz.xyz/wp-image/2012/03/bike11.jpg
+cover: https://c2.is26.com/wp-image/2012/03/bike11.jpg
 tags:
   - guangzhou
   - shenzhen
@@ -18,7 +18,7 @@ tags:
 
 打开google看地图，G107国道，算了算大概120km，比上周到骑行珠海暨大要稍短10KM。
 
-![](https://c2.llyz.xyz/wp-image/2012/03/GSmap1.jpg)
+![](https://c2.is26.com/wp-image/2012/03/GSmap1.jpg)
 
 `广州暨大>黄埔>G107国道一路向前>东莞>长安>宝安>南山>深圳大学`
 
@@ -40,7 +40,7 @@ tags:
 
 明天还要骑回广州，约好了一个暨大的外招生一同骑行，上天保佑不要下雨。
 
-![深圳天气](https://c2.llyz.xyz/wp-image/2012/03/image2.png)
+![深圳天气](https://c2.is26.com/wp-image/2012/03/image2.png)
 
 流水账地说了说今天的「骑行经历」，写不出啥深刻的东西，管他深刻不深刻，管他有没有人看，不管怎么样，我确信未来的自己会成为自己的读者，「记下自己的生活」对于现在的我来说，可能更有意义。
 
@@ -74,4 +74,4 @@ tags:
 
 车不是啥好配件，但是对于我来说完全就够了（至少目前是完全够了），心中始终还是觉得「当到了一定的价位，烧装备就没意思了」。
 
-![bike1](https://c2.llyz.xyz/wp-image/2012/03/bike11.jpg)
+![bike1](https://c2.is26.com/wp-image/2012/03/bike11.jpg)

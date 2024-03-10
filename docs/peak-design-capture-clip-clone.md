@@ -1,14 +1,13 @@
 ---
 title: 我在阿里巴巴花45元买了一个山寨 Peak Design 快挂 | ZUOLUOTV
-date: '2018-12-23'
-cover: https://c2.llyz.xyz/blog/2018/12/clip/p-1.jpg
+date: "2018-12-23"
+cover: https://c2.is26.com/blog/2018/12/clip/p-1.jpg
 categories:
-- zuoluotv
+  - zuoluotv
 tags:
-- zuoluotv
-- kai-xiang
+  - zuoluotv
+  - kai-xiang
 ---
-
 
 ## 视频
 

@@ -1,7 +1,7 @@
 ---
 title: 目测是大陆第一个 Netflix 全平台评测
 date: "2016-01-09"
-cover: https://c2.llyz.xyz/blog/2016/01/netflix/cover.jpg
+cover: https://c2.is26.com/blog/2016/01/netflix/cover.jpg
 categories:
   - digital
   - hot
@@ -11,7 +11,7 @@ tags:
 
 2016年新年，Netflix在CES大会上宣布将服务扩展至130个新的国家，基本覆盖了全球，当然，中国大陆是无缘了。
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/house.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/house.jpg)
 
 国人对Netflix的印象，大多应该都留在「Netflix拍了一个纸牌屋」上，Netflix是一家流媒体公司，全球有七千多万用户，给国外生活在「版权禁顾」水生火热的歪国人提供了一个「上网便宜看高清节目」的高性价比方案。
 
@@ -27,11 +27,11 @@ Netflix有一个月的免费试用，这次新增加的国家和地区中包含�
 
 #### 注册&&收费
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/nf1.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/nf1.jpg)
 
 现在登录[Netflix](https://www.netflix.com)官网，已经会自动根据你的地区跳转到当地的页面。
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/price.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/price.jpg)
 
 Netflix提供了基本、标准和高级三个Plan，分别是HK$63、HK$78、HK$93，对应的就是US$7.99、US$9.99 、US$11.99三档价格，约合人民币54、66和79元，跟微软、EA这些国际厂商一样，一个服务，全球同价。
 
@@ -49,7 +49,7 @@ Netflix暂未进入大陆，服务器和CDN这种事情就不用考虑了，直�
 
 #### 初印象
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/nf3.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/nf3.jpg)
 
 Netflix网页端才用的是Gallery的模式，一看就是需要高级浏览器才能支持，有点电视墙的味道，热门的电影、电视剧都都有。
 
@@ -61,15 +61,15 @@ Netflix拥有全平台应用，iOS、Android、Xbox、智能机顶盒均有，�
 
 我常在iPad上看视频，下面就以iPad上的Netflix为例，说下观影体验。
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/ios0.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/ios0.jpg)
 
 Netflix有一个家庭成员的概念，一个帐号，可以选择多个User，每个User都可以有不同的记录，有点Xbox Live的概念，还有一个儿童专用的帐号，根据不同家庭成员的不同爱好，推荐不一样的节目。
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/ios1.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/ios1.jpg)
 
 进入首页，依旧是节目幕墙的概念，是不是跟Web端很像，后续再体验iPhone，Android，Xbox等设备，发现所有的App都采用这个形式，Netflix全平台用户体验十分统一，没有什么学习成本，所以下面的博文，就不会再单独iPhone和Android上的App，因为都差不多。
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/ios2.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/ios2.jpg)
 
 美国流行的电视剧、电影都有，电视剧中，毒枭、绿箭侠、铁杉树丛、女子监狱均属于高质量作品。
 
@@ -79,43 +79,43 @@ Netflix有一个家庭成员的概念，一个帐号，可以选择多个User，
 
 来自[全台Netflix洗版文章，這篇評測值得看！來台初登場只有600部舊電影、150部新但非大作電視影集，不過用52吋電視看環太平洋8K解析度真的爽！](https://www.upptune.com/archives/3351)
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/ios3.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/ios3.jpg)
 
 试播一下功夫熊猫，一开始的时候，视频初加载，画质会比较低，可以看出有明显的马赛克。
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/ios4.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/ios4.jpg)
 
 稍等一下，就自动切换到高清了，这也是Netflix的一个提升用户体验的策略，刚刚开始播放的时候，为了避免过长等待，先加载低画质的。
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/ios5.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/ios5.jpg)
 
 可以十分方便地切换配音和字幕，大多的电视剧和电影都有中文字幕。
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/ios8.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/ios8.jpg)
 
 上图是iPhone上的客户端，会自动同步你在其他设备上观看的记录，也可以让家庭成员在不同设备上观看不同的影片（不同的套餐有不同数量的限制）。
 
 #### Chromecast体验
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/ios6.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/ios6.jpg)
 
 Netflix是最先支持Google Chromecast的应用之一，完美支持推送到电视。有兴趣的朋友可以看我之前写的评测[目测这是第一个在大陆的谷歌Chromecast评测](https://luolei.org/chromecast-2-unboxing-and-review/)。
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/gr.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/gr.jpg)
 
 可以在手机上控制电视视频的播放，对于家庭用户来说，在客厅场景下，更多的还是会在电视上观看节目，一个方便的推送和控制，还是挺重要的。
 
 #### Xbox体验
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/x1.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/x1.jpg)
 
 家里有一个Xbox One，作为微软家庭娱乐中心的核心产品，Netflix在Xbox上也有自己独立的APP，可以直接在Xbox的商店中免费下载。
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/x3.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/x3.jpg)
 
 Xbox上的Netflix体验十分赞，依靠Xbox强大的性能，使用手柄操作起来十分方便，也符合Xbox用户的手柄操作习惯，就像原生一样的流畅体验。
 
-![](https://c2.llyz.xyz/blog/2016/01/netflix/x4.jpg)
+![](https://c2.is26.com/blog/2016/01/netflix/x4.jpg)
 
 Xbox上也能选择不同的音频和字幕。
 

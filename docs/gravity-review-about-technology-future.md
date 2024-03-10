@@ -1,12 +1,12 @@
 ---
 title: 地心引力:我们、科技、国家、未来
-date: '2013-11-23'
-cover: https://c2.llyz.xyz/wp-image/2013/11/gravity-movie-wallpaper-iphone.jpg
+date: "2013-11-23"
+cover: https://c2.is26.com/wp-image/2013/11/gravity-movie-wallpaper-iphone.jpg
 tags:
-- movies
+  - movies
 ---
 
-![Gravity](https://c2.llyz.xyz/wp-image/2013/11/gravity-movie-wallpaper-iphone.jpg)
+![Gravity](https://c2.is26.com/wp-image/2013/11/gravity-movie-wallpaper-iphone.jpg)
 
 今年早些的时候，在 Youtube 看到了《地心引力》预告片，当时第一眼惊叹这是纪录片么，配乐真赞，心中就留了这么个印象，当时就预着「这电影上映了一定要看，一定要去看 IMAX 3D」。等啊等，等过了北美上映国内开始话题讨论，等过了大陆即将上映国内宣传造势各种媒体平台预热。然后，等到了今天。
 
@@ -60,6 +60,6 @@ tags:
 
 我对未来充满希望，为什么，就一句话，一张图，这是上周我在国家会议中心参加 2013 MDCC 中国移动开发者大会，见到的四个来自深圳的高中生，应该是97后了（一下子90后都老了，咳咳，我说我是92年的），搞开源硬件，真是少年英杰呀。想想当年我们读高中时在干嘛呢，再看看他们。
 
-![shenzhen-student-mdcc](https://c2.llyz.xyz/wp-image/2013/11/shenzhen.jpg)
+![shenzhen-student-mdcc](https://c2.is26.com/wp-image/2013/11/shenzhen.jpg)
 
 我们怎么样，未来就这么样。在这也自勉一下，先 Code 去了，好歹也自称工(měi )程(gōng)师(zǎi )嘛。

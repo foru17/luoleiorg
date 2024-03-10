@@ -1,7 +1,7 @@
 ---
 title: "如何用 ChatGPT 助力开发: 已经有 15 万人看过的经验分享"
 date: "2023-06-09"
-cover: https://c2.llyz.xyz/blog/2023/06/chatgpt/c-0.jpg
+cover: https://c2.is26.com/blog/2023/06/chatgpt/c-0.jpg
 categories:
   - code
 tags:
@@ -18,7 +18,7 @@ tags:
 
 截图这个基本就是我目前工作时的桌面状态。一般就是左边小窗开一个 ChatGPT ，右边VSCode + GitHub Copilot 插件。接下来展开讲讲。
 
-![](https://c2.llyz.xyz/blog/2023/06/chatgpt/c-1.jpg)
+![](https://c2.is26.com/blog/2023/06/chatgpt/c-1.jpg)
 
 ## **一.门槛**
 
@@ -53,7 +53,7 @@ tags:
 
 以上截图是我的代理链路某层路由的策略，对于这些 OpenAI 相关的域名，我都强制转发到美国服务器，确保了落地 IP 的稳定性。
 
-![](https://c2.llyz.xyz/blog/2023/06/chatgpt/c-3.jpg)
+![](https://c2.is26.com/blog/2023/06/chatgpt/c-3.jpg)
 
 检测 ChatGPT 代理是否成功的技巧:
 
@@ -63,7 +63,7 @@ tags:
 
 这个接口会返回你的用户访问 IP 地址（代理IP）、访问到的 ChatGPT 的 Cloudflare 的节点 CDN ，以及 warp 网络状态等。这种方法非常方便用于调试。可以用于判断你是否使用预期的代理 IP 访问 ChatGPT。
 
-![](https://c2.llyz.xyz/blog/2023/06/chatgpt/c-4.jpg)
+![](https://c2.is26.com/blog/2023/06/chatgpt/c-4.jpg)
 
 API 层，建议不要直接使用 [https://api.openai.com](https://t.co/dDi4QesNCb) 官方接口，也可以使用 Cloudflare Worker 之类的转发方案套一层，前置域名固定，后面调整和负载什么的也都方便。我个人也用过腾讯云函数，但是我腾讯云转 OpenAI API 用没多久，就被腾讯说违规使用境外代理警告了，也不确定合规不。
 
@@ -79,13 +79,13 @@ API 层，建议不要直接使用 [https://api.openai.com](https://t.co/dDi4Qes
 
 - [Pandora: 潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。](https://github.com/pengzhile/pandora)
 
-![](https://c2.llyz.xyz/blog/2023/06/chatgpt/c-5.jpg)
+![](https://c2.is26.com/blog/2023/06/chatgpt/c-5.jpg)
 
 Pandora 这个十分适合团队初始阶段用，只需要一个人解决账号和网络问题，其他人可以跳过注册、支付、网络三个拦路虎。
 
 在数据脱敏和公司安规允许的前提下，强烈建议有条件的团队，可以先内部整一套，先让团队的人能方便的用起来，解决有无的问题先。虽然我们公司内部也有开发了基于 AI API 的对话网站，但不如这个好用。
 
-![](https://c2.llyz.xyz/blog/2023/06/chatgpt/c-6.jpg)
+![](https://c2.is26.com/blog/2023/06/chatgpt/c-6.jpg)
 
 除了一些 AI 应用使用自己的接口服务，许多产品都提供自定义 API key 或第三方代理接口。需要注意的是，在非开源项目中，提交 API Key 需谨慎。对于使用客户端产品的用户来说，建议抓包，检查客户端是否向第三方接口请求带有与 API Key 相关的参数。由于经过了第三方服务器，理论上存在泄漏、盗用风险。
 
@@ -121,13 +121,13 @@ Pandora 这个十分适合团队初始阶段用，只需要一个人解决账号
 
 自从年初开始关注这一波 AI 浪潮，我把 AI 加入自己的工作流已经有段时间，现在基本是逢人就安利，建议尽快把 AI 介入开发流程。
 
-![](https://c2.llyz.xyz/blog/2023/06/chatgpt/c-12.jpg)
+![](https://c2.is26.com/blog/2023/06/chatgpt/c-12.jpg)
 
-![](https://c2.llyz.xyz/blog/2023/06/chatgpt/c-7.jpg)
+![](https://c2.is26.com/blog/2023/06/chatgpt/c-7.jpg)
 
 还有一个高频的场景，就是已有的代码优化，把历史代码片段复制，让 ChatGPT 分析、优化代码，并给出优化的原因点在哪。这块只建议小范围代码使用，遇到过几次 AI 自作主张移除不起眼的代码情况。这种算是 AI 给你 CodeReview 了。
 
-![](https://c2.llyz.xyz/blog/2023/06/chatgpt/c-8.jpg)
+![](https://c2.is26.com/blog/2023/06/chatgpt/c-8.jpg)
 
 ## 四.感受
 
@@ -137,11 +137,11 @@ Pandora 这个十分适合团队初始阶段用，只需要一个人解决账号
 
 现在我就特别享受在 ChatGPT 里不断追问和探索深度问题，反正 AI 不会累，我再弱智的问题他也不会嘲笑。
 
-![](https://c2.llyz.xyz/blog/2023/06/chatgpt/c-10.jpg)
+![](https://c2.is26.com/blog/2023/06/chatgpt/c-10.jpg)
 
 至于其他的写写脚本，写写插件，写写命令行，也都属于 AI 擅长的领域，最近我就用 AI 辅助，用不到 30 分钟，完成了从生产环境运维日志捞取所有请求，过滤业务路由入口，删除代码库的废弃 html 文件的工作。运维同学他省事，我也省事，都开心。
 
-![](https://c2.llyz.xyz/blog/2023/06/chatgpt/c-9.jpg)
+![](https://c2.is26.com/blog/2023/06/chatgpt/c-9.jpg)
 
 断断续续写了这么点，这几个月用 AI 的微小经验和感受。
 

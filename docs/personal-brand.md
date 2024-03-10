@@ -1,12 +1,12 @@
 ---
 title: 打造你的「虚拟身份」
-date: '2012-08-20'
-cover: https://c2.llyz.xyz/wp-image/2012/08/peronal-air-brand.jpg
+date: "2012-08-20"
+cover: https://c2.is26.com/wp-image/2012/08/peronal-air-brand.jpg
 tags:
-- internet
+  - internet
 ---
 
-![](https://c2.llyz.xyz/wp-image/2012/08/peronal-air-brand.jpg)
+![](https://c2.is26.com/wp-image/2012/08/peronal-air-brand.jpg)
 
 > 你是谁？
 
@@ -48,7 +48,7 @@ tags:
 
 拥有一个良好的「虚拟身份」，于交流，可以有助于树立良好的个人形象，有助于交友；于交换，可以提高自己的信誉（跟淘宝店的评级一个道理），也节约了交易成本。
 
-说到这里，我得专门说说「网络信用」的重要性。![](https://c2.llyz.xyz/wp-image/2012/08/Trust.jpg)
+说到这里，我得专门说说「网络信用」的重要性。![](https://c2.is26.com/wp-image/2012/08/Trust.jpg)
 
 > Google搜索关键字「骗子」，你可以找到约19,900,000 条结果
 

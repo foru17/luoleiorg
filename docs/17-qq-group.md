@@ -1,7 +1,7 @@
 ---
 title: 一起『骑』迹 | 户外骑行QQ超级交流群
 date: "2012-07-03"
-cover: https://c2.llyz.xyz/blog/2018/11/tibet/tibet-3.JPG
+cover: https://c2.is26.com/blog/2018/11/tibet/tibet-3.JPG
 tags:
   - travel
 ---

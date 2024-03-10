@@ -1,9 +1,9 @@
 ---
 title: 看电影识音乐:电影中的经典古典乐
-date: '2014-05-05'
-cover: https://c2.llyz.xyz/wp-image/2014/05/titanic-screenshot-med.jpg
+date: "2014-05-05"
+cover: https://c2.is26.com/wp-image/2014/05/titanic-screenshot-med.jpg
 categories:
-- lifestyle
+  - lifestyle
 ---
 
 去年底，一个失眠夜晚，有幸翻开了多看阅读出品的[《将古典入门进行到底》](https://www.duokan.com/book/44179)，于是，一边开着 kindle,一边用手机的虾米音乐找歌，戴着耳机，跟着作者的步伐，来了一场古典音乐的入门之旅。
@@ -28,11 +28,11 @@ categories:
 
 而近些年来，一些音乐家，给古典音乐的传播带来了新的活力，例如克罗地亚钢琴家[马克西姆](https://www.xiami.com/artist/48597?spm=a1z1s.6928805.1561534521.33.pYxehV)（我们初中和高中时上课还特意欣赏过他的作品）
 
-![](https://c2.llyz.xyz/wp-image/2014/05/makesimu.jpg)
+![](https://c2.is26.com/wp-image/2014/05/makesimu.jpg)
 
 美籍华裔大提琴家[马友友](https://www.xiami.com/artist/733?spm=a1z1s.3521865.1997177593.2.hnut1Y&from=searchsubject)
 
-![](https://c2.llyz.xyz/wp-image/2014/05/mayoyo.jpg)
+![](https://c2.is26.com/wp-image/2014/05/mayoyo.jpg)
 
 意大利小提琴家 [David Garrett](https://www.xiami.com/artist/60577?spm=a1z1s.6928805.1561534521.39.pYxehV)
 
@@ -40,7 +40,7 @@ categories:
 
 乃至韩国少年吉他手[郑成河](https://www.xiami.com/artist/76822?spm=a1z1s.3521865.1997177593.2.sJuXgI&from=searchsubject)在网络上流行的民谣吉他和古典吉他演奏。
 
-![](https://c2.llyz.xyz/wp-image/2014/05/sungha-jung.jpg)
+![](https://c2.is26.com/wp-image/2014/05/sungha-jung.jpg)
 
 这些新古典音乐家的出现，作品更加贴近我们的时代，新的技法、新的组合、新的传播方式，在流行音乐、电影、 电视剧中，加上古典音乐自身的艺术魅力，我们可以发现古典音乐离我们也越来越近。
 
@@ -52,13 +52,13 @@ categories:
 
 #### 我的野蛮女友
 
-![](https://c2.llyz.xyz/wp-image/2014/05/wodeyemannvyou.jpg)
+![](https://c2.is26.com/wp-image/2014/05/wodeyemannvyou.jpg)
 
 首先从一部韩国经典爱情片[《我的野蛮女友》](https://movie.douban.com/subject/1292286/)说起。
 
 想当年，全智贤还是皮肤光滑鲜亮、嘟嘴耍小脾气的邻家小妹，还没成为来治猩猩的你中那位如日中天的大牌明星，也没遇到遇到外星人都教授，当车太贤饰演的满脸尴尬的牵牛走进教室穿过人群，全智贤的钢琴声在课室里响起，牵牛将准备已久的玫瑰送给全智贤，这段旋律想必让无数情窦初开的妹纸和男生们心花荡漾，感动不已。
 
-![](https://c2.llyz.xyz/wp-image/2014/05/quanzhixian.jpg)
+![](https://c2.is26.com/wp-image/2014/05/quanzhixian.jpg)
 
 如果你有心上网查找，尤其是你如果你用百度搜索的话，会发现这首钢琴曲叫「卡农」，但是，如果仅仅是这样那就不用写这篇文章了，这下我来分享一下这首歌背后的一些故事和历史。
 
@@ -68,13 +68,13 @@ categories:
 
 #### 七宗罪
 
-![](https://c2.llyz.xyz/wp-image/2014/05/se7en-poster.jpg)
+![](https://c2.is26.com/wp-image/2014/05/se7en-poster.jpg)
 
 说完了小清新，再来说一个重口味的电影，恐怖电影和古典音乐搭配，总能出来令人惊喜（悚）的神奇效果。[《七宗罪》](https://movie.douban.com/subject/1292223/)是一代悬疑电影大师[大卫·芬奇](https://movie.douban.com/celebrity/1012521/)的经典作品。
 
 「暴食、贪婪、懒惰、嫉妒、骄傲、淫欲、愤怒」，这是天主教教义所指的人性七宗罪。城市中发生的连坏杀人案，死者恰好都是犯有这些教义的人。凶手故弄玄虚的作案手法，令资深冷静的警员沙摩塞（摩根•弗里曼 Morgan Freeman 饰）和血气方刚的新扎警员米尔斯（布拉德•皮特 Brad Pitt 饰）都陷入了破案的谜团中。
 
-![](https://c2.llyz.xyz/wp-image/2014/05/maxresdefault.jpg)
+![](https://c2.is26.com/wp-image/2014/05/maxresdefault.jpg)
 
 两位警探去图书馆研读但丁的《神曲》，企图从文学作品中对人间地狱的描绘中找到线索，当弗里曼（嗯哼，就是那位曼德拉）走进图书馆时，背景音乐里响起了一段古典乐，一边是动人的音乐，一边是弗里曼和布拉德皮特面对恐怖凶杀案的材料苦思冥想，强烈对比之下，让人不免对人性之复杂感慨万千。
 
@@ -86,7 +86,7 @@ categories:
 
 在这里说个小趣事，世界上听过《G弦上的咏叹调》的听众要远远超过听过《乐队第三号组曲》，可是在现在大部分唱片封面上，《G弦上的咏叹调》的作者一栏并不会写"August Wilhelmj"威廉密，而大多是"J.S.BACH"巴赫，也倒让人感慨唏嘘下，替人做嫁衣出名了却还不能挂自己名字，想想还略可怜的感觉。
 
-![](https://c2.llyz.xyz/wp-image/2014/05/johann-sebastian-bach.jpg)
+![](https://c2.is26.com/wp-image/2014/05/johann-sebastian-bach.jpg)
 
 在这里在八卦介绍下「巴赫」，在西方音乐史上，巴赫的地位无人能及，其作品不仅伟大和经典，巴赫本人终其一生也都是一个高产的作曲家，后来的莫扎特、贝多芬，都对巴赫敬若神明。
 
@@ -106,7 +106,7 @@ categories:
 
 #### 猜火车
 
-![](https://c2.llyz.xyz/wp-image/2014/05/trainspotting.jpg)
+![](https://c2.is26.com/wp-image/2014/05/trainspotting.jpg)
 
 上面提到了「卡门」，不得不再提到运用到「卡门」的一首经典电影[《猜火车》](https://movie.douban.com/subject/1292528/)，猜火车是丹尼·鲍尔导演的著名犯罪剧情片，在电影开头不久，响起了比才的[《卡门》](https://www.xiami.com/song/play?ids=/song/playlist/id/1769346939/object_name/default/object_id/0#open)，仔细听一听，跟上一首巴赫的卡门节奏上的确有些类似呢。
 
@@ -114,19 +114,19 @@ categories:
 
 #### V字仇杀队
 
-![](https://c2.llyz.xyz/wp-image/2014/05/vmovie.jpg)
+![](https://c2.is26.com/wp-image/2014/05/vmovie.jpg)
 
 [V字仇杀队](https://movie.douban.com/subject/1309046/)是一部有深刻政治意味的反乌托邦电影，2006年公开上映后，V的微笑白面具成了一个符号，出现在各个国家反政府的游行和示威上。
 
 V字仇杀队中十分巧妙地运用到了古典音乐，其中柴可夫斯基的[《1812序曲》](https://www.xiami.com/song/1769288820)更是与电影相结合，伴随着剧情发展。尤其是在影片最后，国会大厦在爆炸声中，与1812 中交响曲中的炮声交织在一起，上演了一场可谓最牛逼的演奏会。
 
-![](https://c2.llyz.xyz/wp-image/2014/05/borodino.jpg)
+![](https://c2.is26.com/wp-image/2014/05/borodino.jpg)
 
 1812年,拿破仑调集六十万大军侵入俄境，势如破竹，逼近莫斯科。俄军采取坚壁清野的战略，随着冬天的到来，法军无法适应俄国冰天雪地的冬天，后勤保障也成了问题，在俄军的反击下，彻底溃散，只有两万人逃回法国。
 
 最后，俄国沙皇亚历山大一世率军进入巴黎，俄国作为反法同盟的盟主，第一次站到了世界舞台的中央，俄罗人民无不为这次战争的胜利而感到骄傲和自豪。
 
-![](https://c2.llyz.xyz/wp-image/2014/05/paris-original.jpg)
+![](https://c2.is26.com/wp-image/2014/05/paris-original.jpg)
 
 《1812序曲》是柴科夫斯基于 1880年 创作的一部管弦乐作品，该作品以曲中的炮火声闻名，在优酷搜一下 1812 的演出[视频](https://v.youku.com/v_show/id_XNjM5NzMxNg==.html)，你会发现不少演奏真的出动了大炮。
 
@@ -136,7 +136,7 @@ V字仇杀队中十分巧妙地运用到了古典音乐，其中柴可夫斯基�
 
 #### 泰坦尼克号
 
-![](https://c2.llyz.xyz/wp-image/2014/05/titanic.jpg)
+![](https://c2.is26.com/wp-image/2014/05/titanic.jpg)
 
 1997 年底，泰坦尼克号上映，第二年 1998 年春天在中国大陆公映，那一年，80 后们正是青年，90 后们我们还小，灾难和爱情，这部经典的电影应该给不少人留下青春的泪水。
 
@@ -144,7 +144,7 @@ V字仇杀队中十分巧妙地运用到了古典音乐，其中柴可夫斯基�
 
 席琳·狄翁一首 “My heart will go on”不知道唱哭多少男女，泰坦尼克号全片出现了各种风格的音乐：人声、舞曲、爱尔兰民歌、交响乐等等，接下来继续介绍一下片中出现的几首经典作品。
 
-![](https://c2.llyz.xyz/wp-image/2014/05/titanic-violin-played.gif)
+![](https://c2.is26.com/wp-image/2014/05/titanic-violin-played.gif)
 
 ##### 更近我主
 
@@ -163,13 +163,13 @@ V字仇杀队中十分巧妙地运用到了古典音乐，其中柴可夫斯基�
 - 低音提琴手J.F.P.克拉克
 - 钢琴师T.布拉利。
 
-![](https://c2.llyz.xyz/wp-image/2014/05/brand.png)
+![](https://c2.is26.com/wp-image/2014/05/brand.png)
 
 上图中央，为乐队长华莱士·哈特利。
 
 乐队长哈特利的遗体后被找到，并被送回了他的故乡英国兰开夏郡科恩镇。三万民众参加了他的葬礼。他被安葬在当地的贝瑟独立新教卫理公会教堂，他少年时参加唱诗班的地方。
 
-![](https://c2.llyz.xyz/wp-image/2014/05/wallace.jpg)
+![](https://c2.is26.com/wp-image/2014/05/wallace.jpg)
 
 这首《更近我主》是 19 世纪一位叫莎拉·亚当斯 Sarah Flower Adams 的女士与她的妹妹一起创作的，这首歌的背景是《创世纪》中的《雅各的枕石》。雅各是圣经中的人物，雅各和哥哥以扫是一对双胞胎，两人在娘胎里就不安分，一天到晚打架，出生后更是冲突连连，后来一个成了以色列，一个成了阿拉伯，也算是历史深处的积怨了。
 
@@ -179,13 +179,13 @@ V字仇杀队中十分巧妙地运用到了古典音乐，其中柴可夫斯基�
 
 ##### 奥芬巴赫:地狱中的奥菲欧
 
-![](https://c2.llyz.xyz/wp-image/2014/05/titanic-sink.jpg)
+![](https://c2.is26.com/wp-image/2014/05/titanic-sink.jpg)
 
 同样是在泰坦尼克号沉没时分的提琴演奏，出现一段不那么明显，却十分著名的管弦乐曲[《奥芬巴赫：地狱中的奥菲欧》](https://www.xiami.com/song/1770365587?spm=a1z1s.3521865.23309997.1.CAJ63A)，鉴于影片节奏变化，该曲出现的时间很短，只演奏了高潮部分的精简片段。在安置救生艇时，四人提琴协奏小乐队的乐师们相约以此曲作别，而当一曲结束，四人才发现音乐已然把他们紧密地凝聚在了一起，他们谁也离不开谁了。大家可以点击上面的链接，从 6 分 45 秒开始听起，曲终的高潮精彩纷呈，相信你之前一定在什么场合曾经听到这段旋律。
 
 #### 2001太空漫游
 
-![](https://c2.llyz.xyz/wp-image/2014/05/2001-l-odyssee-de-l-espace-196-g.jpg)
+![](https://c2.is26.com/wp-image/2014/05/2001-l-odyssee-de-l-espace-196-g.jpg)
 
 说完了几部大片，再来说一下科幻电影，说到科幻电影中的音乐，不得不提到的就是[《2001太空漫游》](https://movie.douban.com/subject/1292226/)中的[《查拉图斯特拉如是说》](https://www.xiami.com/song/1769223327?spm=a1z1s.3521865.23309997.24.Wk6TXZ)。
 

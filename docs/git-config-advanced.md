@@ -1,9 +1,9 @@
 ---
 title: Git log diff config高级进阶
-date: '2013-09-06'
-cover: https://c2.llyz.xyz/wp-image/2013/09/git_wallpaper_clean_by_black_pixel-d5wmjnw.jpg
+date: "2013-09-06"
+cover: https://c2.is26.com/wp-image/2013/09/git_wallpaper_clean_by_black_pixel-d5wmjnw.jpg
 tags:
-- tutorial
+  - tutorial
 ---
 
 前一段时间分享了一篇[《更好的 git log》](https://luolei.org/2013/08/better-git-log/)简要介绍怎么美化 git log 命令，其中提到了 `alias`命令，今天再继续谈谈 git相关， 看看如何通过配置自己的 git config 让自己的 git 用起来更顺手。
@@ -17,7 +17,7 @@ tags:
 git log --pretty =oneline`
 #显示每个文件的变化行数，其中后面跟的`
 # --start`参数是用来统计哪些文件被改动，有多少行被改动。
-git log --oneline --stat 
+git log --oneline --stat
 #图形化地显示 branch 的变化（方便查看 merge 变化）。
 git log --oneline --graph，则可以
 ```
@@ -55,28 +55,28 @@ git log --since ==2013-08.01 --until=2013-09-07 //某个时间段的 log
 
 ```bash
 #与上次 commit 之间的差别（爸爸）
-git diff HEAD 
+git diff HEAD
 #与上上次（爷爷）
-git diff HEAD^ 
+git diff HEAD^
 # 与上上上次（曾祖父）
-git diff HEAD^^ 
+git diff HEAD^^
 # 与前面第5次commit（好吧…祖先吧）
-git diff HEAD~5 
+git diff HEAD~5
 #中间是两个点比较(爸爸)和(爷爷)的差别
-git diff HEAD^..HEAD 
+git diff HEAD^..HEAD
 #比较 两个不同 hash 值记录之间的不同
 git diff f5fdjsalfjdskaf..4fdklsajfdksaf
 #比较 branch 之间的不同
-git diff master bird 
+git diff master bird
 # 根据时间来比较哦
-git diff --since=1.week.ago --until=1.minute.ago 
+git diff --since=1.week.ago --until=1.minute.ago
 ```
 
 ## git blame
 
 如果你想要看看某一个文件的相关历史记录，可以使用`git blame` 命令。 如`git blame index.html --date short`
 
-![2._git_blame__base.less_--date_short__git__and_New_Tab-3](https://c2.llyz.xyz/wp-image/2013/09/2._git_blame__base.less_-date_short__git__and_New_Tab-3.png)
+![2._git_blame__base.less_--date_short__git__and_New_Tab-3](https://c2.is26.com/wp-image/2013/09/2._git_blame__base.less_-date_short__git__and_New_Tab-3.png)
 
 ## git config进阶
 
@@ -96,23 +96,23 @@ config 就是配置的意思，git config 字如其意，就是 git 的配置文
 
 ```bash
 # 设置用户名
-git config --global user.name "will luo" 
+git config --global user.name "will luo"
 # 设置用户邮箱
-git config --global user.emal "i@luolei.org" 
+git config --global user.emal "i@luolei.org"
 
 ```
 
 对于我们日常常用的 git 命令，我们可以通过下面设置来缩写
 
 ```bash
-# status 缩写成 st  
-git config --global alias.st status 
-# checkout 缩写成 co  
-git config --global alias.co checkout 
+# status 缩写成 st
+git config --global alias.st status
+# checkout 缩写成 co
+git config --global alias.co checkout
 # branch 缩写成 br
-git config --global alias.br branch 
-# commit 缩写成 ci  
-git config --global alias.ci commit 
+git config --global alias.br branch
+# commit 缩写成 ci
+git config --global alias.ci commit
 
 ```
 

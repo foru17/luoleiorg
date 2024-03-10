@@ -1,7 +1,7 @@
 ---
 title: 深圳电信宽带 / 常用公共 DNS、VPS / 性能 & 稳定性 / 实时监控数据
 date: "2020-03-17"
-cover: https://c2.llyz.xyz/blog/2020/03/lan/net-1.jpg
+cover: https://c2.is26.com/blog/2020/03/lan/net-1.jpg
 categories:
   - code
 ---

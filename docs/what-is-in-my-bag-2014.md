@@ -1,10 +1,10 @@
 ---
 title: 罗罗磊磊#你的包里有什么
-date: '2014-11-11'
-cover: https://c2.llyz.xyz/wp-image/2014/11/whatisinmybag.jpg
+date: "2014-11-11"
+cover: https://c2.is26.com/wp-image/2014/11/whatisinmybag.jpg
 ---
 
-![img_1620.jpg](https://c2.llyz.xyz/wp-image/2014/11/whatisinmybag.jpg)
+![img_1620.jpg](https://c2.is26.com/wp-image/2014/11/whatisinmybag.jpg)
 
 本文为简书专题[【你的包里有什么】](https://www.jianshu.com/collection/2bffd335f746)
 
@@ -31,7 +31,7 @@ cover: https://c2.llyz.xyz/wp-image/2014/11/whatisinmybag.jpg
 - 护照 && 港澳通行证，反正我证件是喜欢随身带，貌似略危险不科学。
 - 钱包：身份证、信用卡、银行卡、不多的软妹币。
 - 帝都一卡通，咩咩城一卡通、山寨城一卡通，香港八达通
-- 眼镜布：擦眼镜，擦屏幕，大部分时候其实是直接用衣服擦了。╮(╯\_╰)╭
+- 眼镜布：擦眼镜，擦屏幕，大部分时候其实是直接用衣服擦了。╮(╯_╰)╭
 - 若干的零碎硬币：公司售卖机买饮料，偶尔忘带卡了投币啥的。
 - 乐泡充电宝:忘放里面了。
 - 一支普通的笔：很少用笔写字了，就是留一只以防万一。

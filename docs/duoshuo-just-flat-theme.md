@@ -1,7 +1,7 @@
 ---
 title: Justflat:多说评论扁平化主题
 date: "2013-09-04"
-cover: https://c2.llyz.xyz/wp-image/2013/09/Screen-Shot-2013-09-05-at-4.16.26-AM.png
+cover: https://c2.is26.com/wp-image/2013/09/Screen-Shot-2013-09-05-at-4.16.26-AM.png
 ---
 
 ```txt

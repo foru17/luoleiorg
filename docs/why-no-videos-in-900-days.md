@@ -1,7 +1,7 @@
 ---
 title: "好久不见: 我消失的 900 天"
 date: "2023-08-12"
-cover: https://c2.llyz.xyz/vlog/vlog71.jpg
+cover: https://c2.is26.com/vlog/vlog71.jpg
 categories:
   - zuoluotv
 tags:

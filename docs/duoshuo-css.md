@@ -1,26 +1,26 @@
 ---
 title: 多说评论也玩圆角头像动画「自定义CSS:无压力小白级教程」
 date: "2012-08-28"
-cover: https://c2.llyz.xyz/wp-image/2012/08/duoshuo-title.jpg
+cover: https://c2.is26.com/wp-image/2012/08/duoshuo-title.jpg
 ---
 
-![cover](https://c2.llyz.xyz/wp-image/2012/08/duoshuo-title.jpg)
+![cover](https://c2.is26.com/wp-image/2012/08/duoshuo-title.jpg)
 
 今年来，私密社交应用Path凭借其新颖的交互、出色的UI设计、良好的用户体验而大放光彩，其设计被众多其他应用「借鉴」和「抄袭」。
 
-![](https://c2.llyz.xyz/wp-image/2012/08/path.jpg)
+![](https://c2.is26.com/wp-image/2012/08/path.jpg)
 
 众多移动app蜂拥模仿其设计，腾讯的新版「微信」可以明显看到Path设计的影子。随着这股Path风，也带来了一场「头像圆角」的设计潮流，不少网站，都开始使用圆角头像。最近推出的微信公共平台，展示的公共账号默认就是圆角+上部加亮效果。
 
-![](https://c2.llyz.xyz/wp-image/2012/08/weixin.jpg)
+![](https://c2.is26.com/wp-image/2012/08/weixin.jpg)
 
 就连老罗@罗永浩可爱多 这几天也心血来潮换了一个圆角头像。（你猜他头像这人是谁？）
 
-![](https://c2.llyz.xyz/wp-image/2012/08/laoluo.jpg)
+![](https://c2.is26.com/wp-image/2012/08/laoluo.jpg)
 
 今天，我也来玩玩圆角头像，我的博客使用了社会化评论系统「多说」，做为多说的最早一批用户，见证了多说的成长，不断迭代更新，体验越来越好、功能越来越完善，强烈推荐给各个网站。
 
-![](https://c2.llyz.xyz/wp-image/2012/08/duoshuo-index.jpg)
+![](https://c2.is26.com/wp-image/2012/08/duoshuo-index.jpg)
 
 多亏了多说评论评论的出色的开放性和可定制性，让我们可以通过自定义CSS，给我们的评论栏带来更多的想象力：圆角头像、触发动画效果、阴影神马的当然不在话下。
 
@@ -36,7 +36,7 @@ cover: https://c2.llyz.xyz/wp-image/2012/08/duoshuo-title.jpg
 
 在哪可以自定义CSS？
 
-![](https://c2.llyz.xyz/wp-image/2012/08/duoshuo-setting.jpg)
+![](https://c2.is26.com/wp-image/2012/08/duoshuo-setting.jpg)
 
 登陆你的wordpress管理后台>多说评论>个性化设置>自定义CSS
 
@@ -50,9 +50,9 @@ cover: https://c2.llyz.xyz/wp-image/2012/08/duoshuo-title.jpg
 
 右键一个头像图像>审查元素。
 
-![](https://c2.llyz.xyz/wp-image/2012/08/image.png)
+![](https://c2.is26.com/wp-image/2012/08/image.png)
 
-![](https://c2.llyz.xyz/wp-image/2012/08/img-div.png)
+![](https://c2.is26.com/wp-image/2012/08/img-div.png)
 
 随后，Chrome下方就能显示相应的元素信息（上图）
 
@@ -62,7 +62,7 @@ cover: https://c2.llyz.xyz/wp-image/2012/08/duoshuo-title.jpg
 
 ，这下我们就能了解到，ds-avatar是包含在ID选择符:ds-reset之内的。
 
-![](https://c2.llyz.xyz/wp-image/2012/08/div-id.png)
+![](https://c2.is26.com/wp-image/2012/08/div-id.png)
 
 以上这个只是举例，衍生的其他元素均可以通过「审查元素」找到。
 

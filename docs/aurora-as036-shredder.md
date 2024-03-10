@@ -1,11 +1,11 @@
 ---
 title: 居家办公好物 | 震旦 AS036 桌面碎纸机开箱
-date: '2020-03-04'
-cover: https://c2.llyz.xyz/blog/2020/03/shredder/p-13.JPG
+date: "2020-03-04"
+cover: https://c2.is26.com/blog/2020/03/shredder/p-13.JPG
 categories:
-- tech
+  - tech
 tags:
-- digital
+  - digital
 ---
 
 2020，一场疫情，改变了很多人的生活、学习、工作方式，远程办公，上网课，不少被迫在家办公，脱离了办公室，没了办公的一些硬件环境，有时候也是挺不方便的。
@@ -31,75 +31,75 @@ tags:
 
 ## 开箱
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-3.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-3.JPG)
 
 物流从上海发货，由于疫情延误了两天，大前天下的单，今天收到了，第一次收到这个箱子的时候，心里还有点惊讶觉得好像跳坑了，怎么这么大。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-4.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-4.JPG)
 
 打开后，发现原来里面还有一个小箱子，为了避震才搞这么大。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-5.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-5.JPG)
 
 这碎纸机包装成套娃了，里面的箱子还有两个防震垫，露出了碎纸机全体。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-6.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-6.JPG)
 
 这就是碎纸机本体，大小尚可，有点像面包机，外表是塑料，但是分量挺重的，毕竟里面有机械原件。正面看颜值尚有，顶部的LOGO有点突兀，不够MUJI。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-7.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-7.JPG)
 
 打印机顶部，印着品牌LOGO和型号。上海有个震旦大厦大家知道么，以前在上海工作的时候，每次经过外滩，都能看到好大一个震旦。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-8.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-8.JPG)
 
 右侧是电源开关和指示灯，还有若干「警示标语」，纸张就从中间这条缝里塞进去，经过多次测试，手指是都塞不进去的，对于家里有小孩的用户来说，安全还是挺重要的，碎纸机变成绞肉器可不好玩。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-9.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-9.JPG)
 
 抽屉式的废纸箱，碎掉后的纸屑都会落在里面。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-11.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-11.JPG)
 
 背面没啥好看的，就一根电源线和铭牌，整体做工还是一般般，毕竟价格在这里。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-12.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-12.JPG)
 
 接上电源，黑色按钮推倒「自动」，机器就启动了，指示灯亮起，除了工作状态，还会有过热、过载、门开的提示。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-13.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-13.JPG)
 
 打印一张A4纸试试，把A4纸塞进去一点，碎纸机就会开始碎纸了，会自动把整张纸都抽进去。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-14.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-14.JPG)
 
 一张A4纸，经过5-7秒左右，就能完成碎纸，最终的形态如图，震旦AS306 碎纸标准达到了5级保密，最终出来的纸屑是 0.78×11㎜ 大小，最高的保密级别是6，5级对于日常办公完全够用了。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-17.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-17.JPG)
 
 把碎纸机翻过来，能看到碎纸的机械结构，经过碎纸后，已经有不少纸屑在上面。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-16.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-16.JPG)
 
 碎纸机正面有一个透明小孔，像船舷窗，能够直观了解碎纸箱里的当前碎纸量，这点还是挺实用的，方便用户及时知道当前碎纸机状态。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-18.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-18.JPG)
 
 一次性塞进去多张纸，机器会容易卡，碎纸速度也会变慢。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-15.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-15.JPG)
 
 AS036 说明每次最多只能随三张纸，经过多次测试，3-5 A4张均可，一次性5张以上后，由于纸张整体厚度，会容易卡机，这个时候能通过机器上面的反转退纸，建议还是按照官方建议，一次最多3张纸就好，对于一次性要费几十张、上百张纸的用户来说，3张一次的速度，每次5-7秒，还是需要点耐心。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-19.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-19.JPG)
 
 除了了十多张纸后，废纸箱里已经堆满了纸屑。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-20.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-20.JPG)
 
 如果一次性碎太多纸，抽出的时候需要注意下，免得碎纸洒出，否则你买个碎纸机后，可能又想买个吸尘器了。
 
-![](https://c2.llyz.xyz/blog/2020/03/shredder/p-21.JPG)
+![](https://c2.is26.com/blog/2020/03/shredder/p-21.JPG)
 
 把碎纸机放在打印机旁边，黑白双煞。不开心的时候，可以一边打印，一边碎纸。建议在其他人不在的时候才这么做，否则容易被人骂有病。
 

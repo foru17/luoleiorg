@@ -1,12 +1,12 @@
 ---
 title: ZEISS 三连：蔡司镜架、钻立方镜片、蔡司原厂加工近视眼镜
-date: '2020-07-05'
-cover: https://c2.llyz.xyz/blog/2020/07/zeiss/z-5.JPG
+date: "2020-07-05"
+cover: https://c2.is26.com/blog/2020/07/zeiss/z-5.JPG
 categories:
-- tech
+  - tech
 tags:
-- kai-xiang
-- 蔡司
+  - kai-xiang
+  - 蔡司
 ---
 
 前几周，给老婆在 TAPOLE 配了一副蔡司镜片的眼镜，花了1.6K多，当时选的是蔡司入门的莲花膜镜片，由于是线下实体店配的原因，价格并不便宜，甚至可以说配贵了。
@@ -44,13 +44,13 @@ tags:
 
 中国有几大眼镜生产地，比较著名的有丹阳和义乌，主要是低端产品为主，而「深圳横岗」以及周边的东莞，主要是做中高端眼镜，深圳这边有不少代工厂，给香港、欧美品牌做代工，看资料说是因为以前离香港比较近，上个世纪90年代，不少香港眼镜在深圳开厂，把技术带了过来。
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/M-1.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/M-1.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/M-2.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/M-2.JPG)
 
 横岗眼镜城位于横岗，有地铁直达，地铁出门就是「嘉宝眼镜城」，里面几层，全部是眼镜相关，深圳也真是一个神奇的地方，数码美妆有华强北，没想到眼镜还有横岗这种地方。
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-100.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-100.JPG)
 
 我在这里逛了两圈，挑了一个比较大的门店，直接买了一个蔡司的 75008 镜架，老板直接跟我说，蔡司镜架的代工厂就是在东莞，他们这里就是直接从厂里拿的货。
 
@@ -72,59 +72,59 @@ tags:
 
 ## 开箱
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-1.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-1.JPG)
 
 ​眼镜盒是眼镜城老板给的，跟天猫上同款晒单的蓝白三角眼镜盒并不一样，但是也无所谓了，我戴眼镜这么多年，也都从没用过眼镜盒。我选的镜架是蔡司ZS 75008，天猫原价要1500元左右，618期间单活动价也要1000多。
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-10.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-10.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-11.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-11.JPG)
 
 我本来想买无鼻托的镜架，后来试了下蔡司这个，发现很轻，整体设计还是挺正经的，带点商务风。
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-2.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-2.JPG)
 
 两个镜片，倾斜一定角度，都有蔡司独有的防伪标记，建议各位自己配眼镜的时候，可以跟店家说，磨镜片的时候，让操作人员注意下防伪标位置。
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-7.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-7.JPG)
 
 这次我选的是磨砂灰，带点半透明，当时我在现场第一眼看到这个镜架，就挺喜欢这个质感的。
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-9.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-9.JPG)
 
 镜架内测的信息，钛架，重量很轻，带在头上还挺舒服的，镜腿有 "Designed In Germany" 字样，虽说最终都是"Made In Dongguan"。
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-8.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-8.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-4.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-4.JPG)
 
 由于我的度数比较深，两只眼都有600度了，这次虽然选了1.74折射率的镜片，但是由于镜框有72mm的宽，边缘处镜片厚度还是出来了一点，如果换小框的话，边缘厚度控制应该会好点。
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-3.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-3.JPG)
 
 鼻托也是钛材质，银色设计，还是挺亮的。
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-12.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-12.JPG)
 
 镜腿尾部，也有 ZEISS 的银标。总之这个镜架，整体偏商务简约，但是细节处的做工还是挺多的。
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-13.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-13.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-5.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-5.JPG)
 
 镜片的通透度很高，新镜片嘛，没有磨损，看啥都清晰。
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-14.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-14.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-15.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-15.JPG)
 
 蔡司的镜片，加工完了后，都会把镜片包装送回来，当做保修凭证，上面有二维码，可以在官方微信公众号「卡尔蔡司光学」和小程序，扫码验证防伪。
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-0.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-0.JPG)
 
 这是我扫码后验证到的质保信息。
 
-![](https://c2.llyz.xyz/blog/2020/07/zeiss/z-16.JPG)
+![](https://c2.is26.com/blog/2020/07/zeiss/z-16.JPG)
 
 最后再分享一下「蔡司原厂加工」的认证书，我这次配眼镜，是「自购镜架 + 网购镜片」，一般商家都提供免费镜片加工，如果要选择蔡司原厂加工的话，一般要80到100元不等的加工费。
 

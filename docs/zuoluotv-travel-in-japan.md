@@ -1,12 +1,12 @@
 ---
 categories:
-- photography
-- travel
-- zuoluotv
-cover: https://c2.llyz.xyz/blog/2016/06/japan/blog-cover.jpg
-date: '2016-07-03'
+  - photography
+  - travel
+  - zuoluotv
+cover: https://c2.is26.com/blog/2016/06/japan/blog-cover.jpg
+date: "2016-07-03"
 tags:
-- travel
+  - travel
 title: 视频 | 遇见,日本:东京・仙台 Travel Film
 ---
 

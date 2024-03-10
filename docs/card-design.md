@@ -1,10 +1,10 @@
 ---
 title: 名片设计一枚
 date: "2011-06-16"
-cover: https://c2.llyz.xyz/wp-image/2011/06/j9OOA.jpg
+cover: https://c2.is26.com/wp-image/2011/06/j9OOA.jpg
 ---
 
-![](https://c2.llyz.xyz/wp-image/2011/06/j9OOA.jpg)
+![](https://c2.is26.com/wp-image/2011/06/j9OOA.jpg)
 
 学生会主席冒力同学叫我帮忙给学代会委员会设计名片，想着好久没有碰PS了，就想试一试，用了半个下午和晚上一点时间，做出这个。
 

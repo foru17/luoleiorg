@@ -1,7 +1,7 @@
 ---
 title: 我的Sublime Text 2配置
 date: "2013-08-09"
-cover: https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-09-at-9.23.58-PM.png
+cover: https://c2.is26.com/wp-image/2013/08/Screen-Shot-2013-08-09-at-9.23.58-PM.png
 ---
 
 这段时间有点忙（所谓忙都是借口），学校的事，工作室的外包工作balabala一堆，也忙里偷闲看了几本书，code最近在整node.js，近期项目还算多，正在搞一个fitbit自动发微博的服务，服务器端涉及ouath,数据库mongoDB之类，摸索折腾ing，对于俺这种小菜来说也算得上是步履艰难，各种search，这半个月倒也没写什么文章。这两天周末，过去这几天身体有点稀里糊涂，虽说每天坚持长跑，可拉肚子、咳嗽、鼻塞轮番上阵，到现在身体还处于「冰与火之歌」之中。最近作息倒是正常了，终于成了一个有早晨的人，早上起床后，查看下邮件，code下，看下书，效率倒也算高。
@@ -32,7 +32,7 @@ ST2自带不少主题，目前我用的是soda这个主题。开启控制台，�
 
 快捷键 Command + Shift + N，直接输入路径来创建文件。
 
-![advancedNewFile](https://c2.llyz.xyz/wp-image/2013/08/advancedNewFile.jpg)
+![advancedNewFile](https://c2.is26.com/wp-image/2013/08/advancedNewFile.jpg)
 
 2.[Alignment](https://wbond.net/sublime_packages/alignment)
 

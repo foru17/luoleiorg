@@ -1,12 +1,12 @@
 ---
 title: 第一次当伴郎是什么体验？
-date: '2016-05-07'
-cover: https://c2.llyz.xyz/blog/2016/05/w15.JPG
+date: "2016-05-07"
+cover: https://c2.is26.com/blog/2016/05/w15.JPG
 categories:
-- lifestyle
+  - lifestyle
 tags:
-- photography
-- shenzhen
+  - photography
+  - shenzhen
 ---
 
 ## 前记
@@ -17,7 +17,7 @@ tags:
 
 ZPQ是我高中同学，也是高中寄宿的时候「睡在我上铺的兄弟」，高中毕业之后，我去了广州，他留在了深圳，五六年联系虽少了，但是家靠得近，也算是缘分，看到这么一问题，我脑袋里一下子想到的就是「这丫结婚了」，于是我们之前发生了这么一场对话。
 
-![](https://c2.llyz.xyz/blog/2016/05/we1.jpg)
+![](https://c2.is26.com/blog/2016/05/we1.jpg)
 
 接下来的事就一气呵成了，订机票，确定行程。本来五一也没啥打算，既然老朋友邀请我去当伴郎，那么就恭敬不如从命了。
 
@@ -27,103 +27,103 @@ ZPQ是我高中同学，也是高中寄宿的时候「睡在我上铺的兄弟�
 
 4月30的航班回深，五一当天就是婚礼，一大早，我同卷哥和达哥去深大。
 
-![](https://c2.llyz.xyz/blog/2016/05/w4.JPG)
+![](https://c2.is26.com/blog/2016/05/w4.JPG)
 
 依照新郎官安排，伴郎们统一着白衬衫+吊带领结，回深之前，在上海采购了一套西装和鞋子，也算是剁手不少。
 
-![](https://c2.llyz.xyz/blog/2016/05/w7.JPG)
+![](https://c2.is26.com/blog/2016/05/w7.JPG)
 
 运气也真是好，30号还下着小雨，1号这天虽然有点小阴，但是一天都下雨，下午时分还出了太阳，算是天公作美。
 
-![](https://c2.llyz.xyz/blog/2016/05/w1.JPG)
+![](https://c2.is26.com/blog/2016/05/w1.JPG)
 
 新郎新娘、伴郎伴娘，一行人浩浩荡荡，游走在深大校园之中，新郎和新娘是大学校友，相识相爱快六年了，也是爱情长跑终于走进了婚姻的殿堂。跟着摄影师到处走走拍拍摄摄，搞怪不断。
 
-![](https://c2.llyz.xyz/blog/2016/05/w23.JPG)
+![](https://c2.is26.com/blog/2016/05/w23.JPG)
 
 雅俗共赏，少儿不宜。
 
-![](https://c2.llyz.xyz/blog/2016/05/w21.JPG)
+![](https://c2.is26.com/blog/2016/05/w21.JPG)
 
 今天我们伴郎装扮的一个亮点就是袜子，绿色骚爆全场。
 
-![](https://c2.llyz.xyz/blog/2016/05/w22.JPG)
+![](https://c2.is26.com/blog/2016/05/w22.JPG)
 
 有爱情，也不能少了基情。
 
-![](https://c2.llyz.xyz/blog/2016/05/w15.JPG)
+![](https://c2.is26.com/blog/2016/05/w15.JPG)
 
 这次带的相机依旧是理光GR和GW3广角，自拍毫不费力。
 
-![](https://c2.llyz.xyz/blog/2016/05/w9.JPG)
+![](https://c2.is26.com/blog/2016/05/w9.JPG)
 
 上午在深大拍摄完毕，下午就赶去了婚礼场所，今天的婚礼在华侨城租了一天的小独栋花园，开放的庭院，下午四五点，受邀嘉宾们也陆陆续续到达了，大家谈情叙旧。
 
-![](https://c2.llyz.xyz/blog/2016/05/w18.JPG)
+![](https://c2.is26.com/blog/2016/05/w18.JPG)
 
 忙上忙下，新郎官也是累坏了，满头大汗，化妆师一路跟着补妆。
 
-![](https://c2.llyz.xyz/blog/2016/05/w12.JPG)
+![](https://c2.is26.com/blog/2016/05/w12.JPG)
 
 访客们同新人不断合影，最帅莫过新郎官。
 
-![](https://c2.llyz.xyz/blog/2016/05/w19.JPG)
+![](https://c2.is26.com/blog/2016/05/w19.JPG)
 
 当然也少不了自拍合影，基本人手一部iPhone，群里各种自拍自拍。
 
-![](https://c2.llyz.xyz/blog/2016/05/w26.JPG)
+![](https://c2.is26.com/blog/2016/05/w26.JPG)
 
 一天各种精彩时刻，手机也常常是需要充电，也是辛苦了新郎官的小舅子，成了「移动充电站」。
 
-![](https://c2.llyz.xyz/blog/2016/05/w27.JPG)
+![](https://c2.is26.com/blog/2016/05/w27.JPG)
 
 高三(2)班集合，高中同学出国的不少也回来了，大多同学也都是在深圳或者周边发展，出去上海北京的还是没几个。
 
-![](https://c2.llyz.xyz/blog/2016/05/w10.JPG)
+![](https://c2.is26.com/blog/2016/05/w10.JPG)
 
 搞怪，搞怪，达哥自带逗逼属性。
 
-![](https://c2.llyz.xyz/blog/2016/05/w16.JPG)
+![](https://c2.is26.com/blog/2016/05/w16.JPG)
 
 逐渐入夜，大家也入座准备开始婚礼晚宴，今天也邀请了高中的班主任老师。一群学生开着各种段子，老师说我们不是她教的，也真是对不起老师了。
 
-![](https://c2.llyz.xyz/blog/2016/05/w5.JPG)
+![](https://c2.is26.com/blog/2016/05/w5.JPG)
 
 高中的同学00同学和水哥也来了，穿得很有范。
 
-![](https://c2.llyz.xyz/blog/2016/05/w13.JPG)
+![](https://c2.is26.com/blog/2016/05/w13.JPG)
 
 马上就要把新郎官送到新娘手上了，卷哥还有点舍不得，卷哥也是今晚的婚礼主持人。
 
-![](https://c2.llyz.xyz/blog/2016/05/w6.JPG)
+![](https://c2.is26.com/blog/2016/05/w6.JPG)
 
 好没见到这么多高中同学了，掐指一算相识也都十年了，工作之后成家的成家，结婚的结婚，都是忙呀。
 
-![](https://c2.llyz.xyz/blog/2016/05/w24.JPG)
+![](https://c2.is26.com/blog/2016/05/w24.JPG)
 
 每个来宾都有一份小礼物。
 
-![](https://c2.llyz.xyz/blog/2016/05/w14.JPG)
+![](https://c2.is26.com/blog/2016/05/w14.JPG)
 
 接下来的婚礼时刻，作为伴郎的我就负责站场和端酒了，卷哥主持技能加成，临场发挥深情，节奏把握得不错，我和达哥商量了下，以后我们的婚礼也请他了！
 
-![](https://c2.llyz.xyz/blog/2016/05/w11.JPG)
+![](https://c2.is26.com/blog/2016/05/w11.JPG)
 
 婚礼当然少不了抛绣球，幸运儿是大美女00。
 
-![](https://c2.llyz.xyz/blog/2016/05/w17.JPG)
+![](https://c2.is26.com/blog/2016/05/w17.JPG)
 
 婚宴结束，新郎和新娘首先来了一只舞，真是羡慕和祝福呀。
 
-![](https://c2.llyz.xyz/blog/2016/05/w25.JPG)
+![](https://c2.is26.com/blog/2016/05/w25.JPG)
 
 舞蹈之后，当然少不了游戏环节，「你话我猜」，关键字大多跟我们的高中生活有关，也是满满的回忆。
 
-![](https://c2.llyz.xyz/blog/2016/05/w2.JPG)
+![](https://c2.is26.com/blog/2016/05/w2.JPG)
 
 不醉不归，达哥也是醉了。
 
-![](https://c2.llyz.xyz/blog/2016/05/wt.JPG)
+![](https://c2.is26.com/blog/2016/05/wt.JPG)
 
 一场婚礼，预告这一对新人一生的幸福，也承载着我们这群兄弟和同学朋友的青春和回忆。
 

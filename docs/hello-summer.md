@@ -1,7 +1,7 @@
 ---
 title: Hello,summer 放假啦
 date: "2011-07-14"
-cover: https://c2.llyz.xyz/wp-image/2011/07/1day.jpg
+cover: https://c2.is26.com/wp-image/2011/07/1day.jpg
 ---
 
 2011年7月14日下午15点38分，写完最后一笔，交卷。

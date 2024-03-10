@@ -1,7 +1,7 @@
 ---
 title: Chrome，更好吃，更好用
 date: "2011-07-15"
-cover: https://c2.llyz.xyz/wp-image/2011/07/choose-chrome.jpg
+cover: https://c2.is26.com/wp-image/2011/07/choose-chrome.jpg
 tags:
   - chrome
   - google
@@ -15,11 +15,11 @@ tags:
 
 这篇文章，拒绝各种苦涩难懂的技术分析和比较，拒绝各种看不懂的专业名词，就从最普通的用户体验方面，跟大家说说聊聊。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/no-pingce.jpg)
+![](https://c2.is26.com/wp-image/2011/07/no-pingce.jpg)
 
 # 一.Who is chrome？Chrome是谁？
 
-![](https://c2.llyz.xyz/wp-image/2011/07/chrome-girl2.jpg)
+![](https://c2.is26.com/wp-image/2011/07/chrome-girl2.jpg)
 
 Chrome娘，全球是最伟大且中国最邪恶（Sorry，景德镇木有谷歌只有别有用心）的互联网公司google谷歌的亲女儿。
 
@@ -29,13 +29,13 @@ Chrome娘，全球是最伟大且中国最邪恶（Sorry，景德镇木有谷歌
 
 根据权威网站[StatCounter](https://gs.statcounter.com/)的统计，2011年6月，Chrome的全球市场份额已经突破20%了，仅次于微软的IE和Firefox火狐浏览器，大有取代Firefox成为老二的趋势。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/份额1.jpg)
+![](https://c2.is26.com/wp-image/2011/07/份额1.jpg)
 
 而在一些国家，例如阿根廷、智利、乌拉圭，Chrome娘的市场份额已经是第一，看来南美洲的人很喜欢她哦。
 
 那在我们伟大的瓷器之国“拆啦”，Chrome娘的市场份额又有多少呢？
 
-![](https://c2.llyz.xyz/wp-image/2011/07/china-mar.jpg)
+![](https://c2.is26.com/wp-image/2011/07/china-mar.jpg)
 
 厄，没错，在我们带三个表，代表先进生产力的中国，Chrome娘只有可怜的2.52%市场份额，前三牢牢地被几个IE内核的浏览器给霸占了。
 
@@ -45,7 +45,7 @@ Chrome娘，全球是最伟大且中国最邪恶（Sorry，景德镇木有谷歌
 
 想要快快认识她，想知道chrome娘到底有多强大，就先赶紧猛击下面的按钮去下载吧。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/download.jpg)
+![](https://c2.is26.com/wp-image/2011/07/download.jpg)
 
 # 二.爱Chrome娘的三个理由
 
@@ -67,11 +67,11 @@ Chrome娘，全球是最伟大且中国最邪恶（Sorry，景德镇木有谷歌
 
 ## 2.安全、先进
 
-![](https://c2.llyz.xyz/wp-image/2011/07/safe.png)
+![](https://c2.is26.com/wp-image/2011/07/safe.png)
 
 想必大家还对前几天的#新浪微博病毒风波#心有余悸。用chrome的我却表示毫无压力，因为中招的都是IE内核浏览器的用户。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/weibovi.jpg)
+![](https://c2.is26.com/wp-image/2011/07/weibovi.jpg)
 
 随着技术的发展、网络攻击手段的不断提高，老旧的IE浏览器的安全性日益下降，充满漏洞的IE内核浏览器很容易成为攻击对象。
 
@@ -81,7 +81,7 @@ Chrome娘，全球是最伟大且中国最邪恶（Sorry，景德镇木有谷歌
 
 ##  3.强大功能，自由定制、超级个性
 
-![](https://c2.llyz.xyz/wp-image/2011/07/6pbuo1.jpg)
+![](https://c2.is26.com/wp-image/2011/07/6pbuo1.jpg)
 
 > 古人有云： **工欲善其事，必先利其器**
 
@@ -93,7 +93,7 @@ Chrome娘，全球是最伟大且中国最邪恶（Sorry，景德镇木有谷歌
 
 就我自己感觉，国内的那些所谓什么极速什么安全浏览器可以比喻成一个什么都有但是什么都不强的大胖子，而chrome就可以当成一个小巧精干的忍者。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/vs.jpg)
+![](https://c2.is26.com/wp-image/2011/07/vs.jpg)
 
 胖子每次出征随身自带一大堆的工具，却总有些工具从来用不上，还不能随便删除。
 
@@ -101,19 +101,19 @@ Chrome娘，全球是最伟大且中国最邪恶（Sorry，景德镇木有谷歌
 
 网上应用商店和拓展中心，各种插件那是各种强大啊。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/webapp2.jpg)
+![](https://c2.is26.com/wp-image/2011/07/webapp2.jpg)
 
 发微博、搜索、查邮件，全球各地开发者为chrome开发了各种各样的精品插件。足以满足你的各种需要。
 
 弱弱地说一下，2011年谷歌给chrome推出了强大的web app在线应用商店，利用chrome强大的功能，你甚至可以在chrome上玩愤怒的小鸟。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/chrome-angry-birds.png)
+![](https://c2.is26.com/wp-image/2011/07/chrome-angry-birds.png)
 
 好了，经过我的简单介绍，想必你对chrome好感骤生，那么，你就赶紧接把chrome抱回家吧~
 
-![](https://c2.llyz.xyz/wp-image/2011/07/cgirl.jpg)
+![](https://c2.is26.com/wp-image/2011/07/cgirl.jpg)
 
-![](https://c2.llyz.xyz/wp-image/2011/07/download.jpg)
+![](https://c2.is26.com/wp-image/2011/07/download.jpg)
 
 随后，我会写一篇文章专门介绍优秀的chrome插件。欢迎关注~~
 

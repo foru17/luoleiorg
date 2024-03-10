@@ -1,7 +1,7 @@
 ---
 title: 数字时代工匠:创客
 date: "2013-06-15"
-cover: https://c2.llyz.xyz/wp-image/2013/06/maker-time.jpg
+cover: https://c2.is26.com/wp-image/2013/06/maker-time.jpg
 tags:
   - e7a1ace4bbb6
 ---

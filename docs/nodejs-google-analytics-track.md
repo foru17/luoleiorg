@@ -1,7 +1,7 @@
 ---
 title: NodeJS + Google Analytics追踪渠道页面浏览量
 date: "2015-09-12"
-cover: https://c2.llyz.xyz/blog/2015/09/ga/track3.jpg
+cover: https://c2.is26.com/blog/2015/09/ga/track3.jpg
 tags:
   - develop
 ---
@@ -120,7 +120,7 @@ app.get("/test", function (req, res) {
 
 试着访问一些`localhost:3000/test`页面，网页直接跳转到`https://this.is26.com`网站，同时在谷歌统计的实时后台，我们收到了一个`/somepage`的`pageview`和实时事件。
 
-![](https://c2.llyz.xyz/blog/2015/09/ga/track2.jpg)
+![](https://c2.is26.com/blog/2015/09/ga/track2.jpg)
 
 这时，市场的同事说，要统计**很多**渠道的数据。这个时候，我们干脆就做成接口的形式，让运营和市场的同事直接自己修改URL生成他们所需要的URL吧。
 

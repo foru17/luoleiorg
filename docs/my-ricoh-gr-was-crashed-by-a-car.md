@@ -1,17 +1,17 @@
 ---
 title: 我最喜欢的一台相机,今天被车压碎了 | RICOH GR | VLOG54
-date: '2019-07-05'
-cover: https://c2.llyz.xyz/blog/2019/07/ricoh/gr-6.jpg
+date: "2019-07-05"
+cover: https://c2.is26.com/blog/2019/07/ricoh/gr-6.jpg
 categories:
-- photography
-- tech
-- zuoluotv
+  - photography
+  - tech
+  - zuoluotv
 tags:
-- vlog
-- zuoluotv
-- photography
-- ricohgr
-- 视频
+  - vlog
+  - zuoluotv
+  - photography
+  - ricohgr
+  - 视频
 ---
 
 ## 视频
@@ -31,4 +31,4 @@ tags:
 
 顺便分享一下GR出车祸前最后一组照片。这么多年了，理光GR依旧是一台好机器。RIP.
 
-![](https://c2.llyz.xyz/blog/2019/07/ricoh/gr-1.jpg)![](https://c2.llyz.xyz/blog/2019/07/ricoh/gr-2.jpg)![](https://c2.llyz.xyz/blog/2019/07/ricoh/gr-3.jpg)![](https://c2.llyz.xyz/blog/2019/07/ricoh/gr-8.jpg)![](https://c2.llyz.xyz/blog/2019/07/ricoh/gr-6.jpg)
+![](https://c2.is26.com/blog/2019/07/ricoh/gr-1.jpg)![](https://c2.is26.com/blog/2019/07/ricoh/gr-2.jpg)![](https://c2.is26.com/blog/2019/07/ricoh/gr-3.jpg)![](https://c2.is26.com/blog/2019/07/ricoh/gr-8.jpg)![](https://c2.is26.com/blog/2019/07/ricoh/gr-6.jpg)

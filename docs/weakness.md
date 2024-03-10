@@ -1,7 +1,7 @@
 ---
 title: 软肋
-date: '2012-09-27'
-cover: https://c2.llyz.xyz/default.cover.jpg
+date: "2012-09-27"
+cover: https://c2.is26.com/default.cover.jpg
 ---
 
 在V2EX上看到有人发帖问「你在哪里写博客？」，进去一看，回复的多是独立博客，也有不少转到点点之类的轻博客写博客了。

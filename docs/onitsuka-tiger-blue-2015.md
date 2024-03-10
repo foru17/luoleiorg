@@ -1,9 +1,8 @@
 ---
 title: 开箱 | 鬼冢虎Onitsuka Tiger亮蓝
-date: '2015-07-10'
-cover: https://c2.llyz.xyz/blog/2015/07/t5.JPG
+date: "2015-07-10"
+cover: https://c2.is26.com/blog/2015/07/t5.JPG
 ---
-
 
 这是我第三次从6PM买鞋，也是海淘的第二双A家鬼冢虎，去年在美亚买了一双骚绿的鬼冢虎Runer，穿了大半年，健身、逛街感觉不错，又到年中，果断再入一双。
 
@@ -11,30 +10,30 @@ cover: https://c2.llyz.xyz/blog/2015/07/t5.JPG
 
 废话不说了，简单开箱。
 
-![](https://c2.llyz.xyz/blog/2015/07/t9.JPG)
+![](https://c2.is26.com/blog/2015/07/t9.JPG)
 
 低调的黑色纸壳，漂洋过海过来，有点损坏了。
 
-![](https://c2.llyz.xyz/blog/2015/07/t8.JPG)
+![](https://c2.is26.com/blog/2015/07/t8.JPG)
 
 鬼家的白字Logo安静地印在鞋盒上。
 
-![](https://c2.llyz.xyz/blog/2015/07/t7.JPG)
+![](https://c2.is26.com/blog/2015/07/t7.JPG)
 
 打开箱子，有一层纸包着，不像Timberland和Clarks的鞋子各种填充。
 
-![](https://c2.llyz.xyz/blog/2015/07/t6.JPG)
+![](https://c2.is26.com/blog/2015/07/t6.JPG)
 
 一对鞋实拍照片，颜色看个人喜好，还是挺喜欢过去的那双骚绿，好多人都说好看，本来想整双亮红的，结果无码。
 
-![](https://c2.llyz.xyz/blog/2015/07/t5.JPG)  
+![](https://c2.is26.com/blog/2015/07/t5.JPG)  
 鬼鞋经典的白条（同亚瑟士），就像Nike家的勾勾、阿迪家的三叶草、纽百伦家的大N。
 
-![](https://c2.llyz.xyz/blog/2015/07/t3.JPG)
+![](https://c2.is26.com/blog/2015/07/t3.JPG)
 
 鞋里面是红色的，鬼家的鞋子设计还是挺多样的，各种颜色搭配组合。
 
-![](https://c2.llyz.xyz/blog/2015/07/t2.JPG)
+![](https://c2.is26.com/blog/2015/07/t2.JPG)
 
 过去海淘一直买的都是美码10D，国内对应43，这双鬼冢虎也很合脚。鬼家的鞋子继承了A家跑鞋血统，加上走得是「带潮」路线，适合出街休闲，以前去健身房也常常穿，过去一年那双骚绿经常一直穿，最后是表面的线断了，好像鬼家的鞋子都是这种面料，好处就是透气，坏处就是不算太耐操（其实也是正常范围）。
 

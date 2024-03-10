@@ -1,9 +1,8 @@
 ---
 title: 打Uber的这一年
-date: '2015-07-17'
-cover: https://c2.llyz.xyz/blog/2015/07/uber.jpg
+date: "2015-07-17"
+cover: https://c2.is26.com/blog/2015/07/uber.jpg
 ---
-
 
 这两年打车、专车、拼车软件风风火火，说互联网改变生活，这交通出行方式的改变乃至「革命」，算是真真切切地给我等普通人带来了便利。
 
@@ -37,19 +36,19 @@ cover: https://c2.llyz.xyz/blog/2015/07/uber.jpg
 
 现在的主力打车工具，一个是价格优惠（人民优步），一个是自动派车，省得看着屏幕等车、选车的情况（其他叫车软件，不少有司机抢单的概念），绑定信用卡，美元消费，可以积分（现阶段对于我没什么用）。
 
-![](https://c2.llyz.xyz/blog/2015/07/uber4.PNG)
+![](https://c2.is26.com/blog/2015/07/uber4.PNG)
 
 Uber整体交互简单，基本就是进入软件，一键确认即可，会显示车辆距离你的位置，让你心里有数大概还需多久。
 
-![](https://c2.llyz.xyz/blog/2015/07/uber5.PNG)
+![](https://c2.is26.com/blog/2015/07/uber5.PNG)
 
 过去这一个多月，在上海奔波，叫的Uber次数也是很多。
 
-![](https://c2.llyz.xyz/blog/2015/07/uber2.jpg)
+![](https://c2.is26.com/blog/2015/07/uber2.jpg)
 
 行程结束后，会自动发送一封邮件到你的邮箱，会显示完整的行程信息（包含地图），我个人是比较喜欢邮件的这种Track方式，其他叫车软件大多是在APP内有订单系统。
 
-![](https://c2.llyz.xyz/blog/2015/07/uber3.PNG)
+![](https://c2.is26.com/blog/2015/07/uber3.PNG)
 
 #### 邀请机制
 

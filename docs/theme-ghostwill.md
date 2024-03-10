@@ -1,19 +1,18 @@
 ---
 title: Ghostwill 鬼才晓得
-date: '2014-04-27'
+date: "2014-04-27"
 categories:
-- tech
-cover: https://c2.llyz.xyz/wp-image/2014/04/ghostwill.jpg
+  - tech
+cover: https://c2.is26.com/wp-image/2014/04/ghostwill.jpg
 ---
-
 
 构思了一个多月，这个周末在公司加(tōu)班(lǎn)敲了20h+的代码，终于还是把博客从 wordpress 迁移到了去年新出来的 [Ghost](https://ghost.org/) 博客平台，Ghost其简单、快速、开源的特性，迅速地吸引了国内外不少开发者使用。
 
 简单地介绍一下 Ghost 的特征:
 
-* **Markdown**:使用 [Markdown](https://jianshu.io/p/q81RER)，过去一年多，自己已经转成使用 Markdown 写作，还是很方便的。Wordpress 虽然能通过插件的方式支持 MD ，可还是略不方便，每次都是在 Mac 上用 [Mou](https://mouapp.com/) 或者在[简书](https://jianshu.io)写完后再把 HTML 源码拷过来，方法略 low。
+- **Markdown**:使用 [Markdown](https://jianshu.io/p/q81RER)，过去一年多，自己已经转成使用 Markdown 写作，还是很方便的。Wordpress 虽然能通过插件的方式支持 MD ，可还是略不方便，每次都是在 Mac 上用 [Mou](https://mouapp.com/) 或者在[简书](https://jianshu.io)写完后再把 HTML 源码拷过来，方法略 low。
 
-* **Nodejs**: 速度超快，作为一个前端兼 JS 渣，还是了解 Nodejs 的性能强大之处，尤其是博客这种简单的需求，如果 Wordpress 是小恶魔的大斧头，又大，又粗，又黑（我说的是事实好么！！你看下面图好么）。
+- **Nodejs**: 速度超快，作为一个前端兼 JS 渣，还是了解 Nodejs 的性能强大之处，尤其是博客这种简单的需求，如果 Wordpress 是小恶魔的大斧头，又大，又粗，又黑（我说的是事实好么！！你看下面图好么）。
 
 那么Ghost就像是一把 [瓦雷利亚钢利刃](https://zh.asoiaf.wikia.com/wiki/%E7%93%A6%E9%9B%B7%E5%88%A9%E4%BA%9A%E9%92%A2?variant=zh) 。
 
@@ -27,7 +26,7 @@ cover: https://c2.llyz.xyz/wp-image/2014/04/ghostwill.jpg
 
 最新的 Wordpress 3.9设计和交互上已经扁平化，后台做了不小的更新，可谓说更加易用。
 
-![](https://c2.llyz.xyz/wp-image/2014/04/wordpress.png)
+![](https://c2.is26.com/wp-image/2014/04/wordpress.png)
 
 自己用着 WP 还算顺手，写过两个主题，其中一个[【WP原创主题】愿望盒子V1](https://luolei.org/will-box-one-theme/) 采用瀑布流，还被好几个网站用了，有段时间看百度统计有奇怪得的域名来源，点进去一看用的是我的主题，结果大家都不换代码，让我情何以堪，好吧，还是我懒的原因直接把自己网站的主题不改，放在 [Github](https://github.com/foru17/will-box) 上了。
 
@@ -43,7 +42,7 @@ cover: https://c2.llyz.xyz/wp-image/2014/04/ghostwill.jpg
 
 现在一个网站不是响应式都不好意思拿出手了。Ghostwill 针对移动设备做了优化，暂时是比较简单的处理，下一步将对菜单导航和交互做进一步优化和处理，详情请看 Github Commit log和该文章的更新日志 Update log 。
 
-![](https://c2.llyz.xyz/wp-image/2014/04/ghost-mobile.png)
+![](https://c2.is26.com/wp-image/2014/04/ghost-mobile.png)
 
 ### 自定义Cover image
 
@@ -72,9 +71,9 @@ PS:封面照片有视觉滚差效果。
 ### 代码优化
 
 ```css
-.hello{
-    postion:absolute;
-    color:red;
+.hello {
+  postion: absolute;
+  color: red;
 }
 ```
 
@@ -104,16 +103,16 @@ css 压缩,js 压缩，采用[又拍云](https://www.upyun.com/?md=luolei)CDN全
 
 2014.4月30日更新:
 
-* 图片延迟加载(这个要改 Ghost core 代码，略危险）
-* Menu 响应式处理
-* 中文搜索功能
-* iconfont 需添加更多的常用网站
-* 交互优化:加载动画、页面切换转场动画
-* 代码高亮优化:4月30日现在有点问题
-* 低版本浏览器和微信内置浏览器的兼容性问题（坑啊！！！）
-* 社交分享url分享方法
-* 后台编辑直接把图片上传到又拍云or七牛等第三方（需要等 Ghost 官方API开发迭代）。
-* 前端优化:进一步语义化 HTML 和 CSS，优化js逻辑，减少重绘，目前优化还粗放，线上版本还比较粗放。
+- 图片延迟加载(这个要改 Ghost core 代码，略危险）
+- Menu 响应式处理
+- 中文搜索功能
+- iconfont 需添加更多的常用网站
+- 交互优化:加载动画、页面切换转场动画
+- 代码高亮优化:4月30日现在有点问题
+- 低版本浏览器和微信内置浏览器的兼容性问题（坑啊！！！）
+- 社交分享url分享方法
+- 后台编辑直接把图片上传到又拍云or七牛等第三方（需要等 Ghost 官方API开发迭代）。
+- 前端优化:进一步语义化 HTML 和 CSS，优化js逻辑，减少重绘，目前优化还粗放，线上版本还比较粗放。
 
 嗯哼，这就是一个「鬼才晓得」的主题。
 

@@ -1,14 +1,14 @@
 ---
 title: 我的间隔年相关报道:《南方都市报》&《广州新闻台》
-date: '2012-07-10'
-cover: https://c2.llyz.xyz/wp-image/2012/07/318-debt.jpg
+date: "2012-07-10"
+cover: https://c2.is26.com/wp-image/2012/07/318-debt.jpg
 tags:
-- tibet
-- e997b4e99a94e5b9b4
-- e9aa91e8a18c
+  - tibet
+  - e997b4e99a94e5b9b4
+  - e9aa91e8a18c
 ---
 
-![](https://c2.llyz.xyz/wp-image/2012/07/318-debt.jpg)
+![](https://c2.is26.com/wp-image/2012/07/318-debt.jpg)
 
 今天在某知名门户看到一条川藏线相关的新闻《[晒川藏线蹭吃蹭喝攻略网友拍砖：“厚脸皮”](https://cd.qq.com/a/20120711/000045.htm)》。
 
@@ -16,25 +16,25 @@ tags:
 
 现在这个西安妹纸正在风口浪尖，她的一条微博在网上引起了很大的争议，招来骂声无数。搜索「川藏线蹭吃蹭喝」关键字，各大门户也都报道了这件事情，随便点了几个热门的门户看了看新闻下面的评论，也是批评、谩骂的声音占主流。
 
-![](https://c2.llyz.xyz/wp-image/2012/07/318-debt-news.png)
+![](https://c2.is26.com/wp-image/2012/07/318-debt-news.png)
 
 而这一切，都源于这个妹纸的一条微博和这条微博的图片。详情就不在这篇博文多说，大家看一眼就知道大概。
 
 > [@Captain-Saga](https://weibo.com/1785852940/yqBHKtKoM) 新浪微博地址 [https://weibo.com/1785852940/yqBHKtKoM](https://weibo.com/1785852940/yqBHKtKoM)
-> 
+>
 > _「这是川藏线蹭吃蹭喝的教学贴，我队是5月川藏线上最无耻的钢铁军，沿途打劫力度之强、成功率之高为其他队望尘莫及，所以特在此教导后来人——骑川藏，钱一点也不重要，重要的是心态 ~」_
-> 
+>
 > 微博配图相关文字：
-> 
+>
 > 其实，有个厚脸皮的妹子，足以成功70%。
-> 
+>
 > 垭口是丰收的好时机，这是十分钟内一般的战利品呦！
-> 
+>
 > 道班工人的饭点也不要错过呦，热乎乎的甜菜。
-> 
+>
 > ……
-> 
-> ![](https://c2.llyz.xyz/wp-image/2012/07/318-debt-weibo.png)
+>
+> ![](https://c2.is26.com/wp-image/2012/07/318-debt-weibo.png)
 
 #### 一路之缘
 

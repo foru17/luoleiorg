@@ -1,7 +1,7 @@
 ---
 title: 多卡宝 SIMBOX 评测 | 超越卡槽限制，让 iPhone 也能多卡多待  | VLOG41
 date: "2019-06-11"
-cover: https://c2.llyz.xyz/blog/2019/06/simbox/s-1.JPG
+cover: https://c2.is26.com/blog/2019/06/simbox/s-1.JPG
 categories:
   - tech
   - zuoluotv
@@ -37,41 +37,41 @@ tags:
 
 ## 开箱
 
-![](https://c2.llyz.xyz/blog/2019/06/simbox/s-1.JPG)
+![](https://c2.is26.com/blog/2019/06/simbox/s-1.JPG)
 
 SIMBOX 是深圳GlocalMe的产品，GlocalMe就是出「漫游超人」的那家公司，还算比较大的公司。
 
-![](https://c2.llyz.xyz/blog/2019/06/simbox/s-2.JPG)
+![](https://c2.is26.com/blog/2019/06/simbox/s-2.JPG)
 
 SIMBOX有黑色和白色两个配色，我买的是黑色。
 
-![](https://c2.llyz.xyz/blog/2019/06/simbox/s-3.JPG) 基本的功能和特色，都写在包装盒上面了。
+![](https://c2.is26.com/blog/2019/06/simbox/s-3.JPG) 基本的功能和特色，都写在包装盒上面了。
 
-![](https://c2.llyz.xyz/blog/2019/06/simbox/s-4.JPG) ![](https://c2.llyz.xyz/blog/2019/06/simbox/s-5.JPG) ![](https://c2.llyz.xyz/blog/2019/06/simbox/s-6.JPG) 打开包装盒后，里面的全部东西，黑色的SIMBOX有点像小一号的小米盒子，另外配有一个USB充电头、一个充电线，还有一根网线。
+![](https://c2.is26.com/blog/2019/06/simbox/s-4.JPG) ![](https://c2.is26.com/blog/2019/06/simbox/s-5.JPG) ![](https://c2.is26.com/blog/2019/06/simbox/s-6.JPG) 打开包装盒后，里面的全部东西，黑色的SIMBOX有点像小一号的小米盒子，另外配有一个USB充电头、一个充电线，还有一根网线。
 
-![](https://c2.llyz.xyz/blog/2019/06/simbox/s-7.JPG) ![](https://c2.llyz.xyz/blog/2019/06/simbox/s-8.JPG) 跟iPhone XS比较，很迷你，个人建议买黑色，耐脏。
+![](https://c2.is26.com/blog/2019/06/simbox/s-7.JPG) ![](https://c2.is26.com/blog/2019/06/simbox/s-8.JPG) 跟iPhone XS比较，很迷你，个人建议买黑色，耐脏。
 
-![](https://c2.llyz.xyz/blog/2019/06/simbox/s-10.JPG) SIMBOX 接口一览，有一个USB充电接口，一个标准网线接口，一个USB接口（但是好像没什么好用，我看新版后来取消掉这个USB接口了），四个SIM卡槽。
+![](https://c2.is26.com/blog/2019/06/simbox/s-10.JPG) SIMBOX 接口一览，有一个USB充电接口，一个标准网线接口，一个USB接口（但是好像没什么好用，我看新版后来取消掉这个USB接口了），四个SIM卡槽。
 
 SIMBOX的特色之一是能够插4张SIM卡，最多支持两个SIM卡待机。能够在软件里随时切换待机卡。
 
 需要注意的是，SIMBOX这个不管是拨打电话还是接发短信，都要有网络。SIMBOX实体可以留在家中，接上网线即可，自己出门在外，则需要使用APP，通过WIFI或者4G网络来使用。
 
-![](https://c2.llyz.xyz/blog/2019/06/simbox/s-12.JPG) 说明书里还配送了4个SIM卡托，里面就是简单的操作步骤，还是挺简单的，下载专门的APP，扫码绑定，激活就可以了。
+![](https://c2.is26.com/blog/2019/06/simbox/s-12.JPG) 说明书里还配送了4个SIM卡托，里面就是简单的操作步骤，还是挺简单的，下载专门的APP，扫码绑定，激活就可以了。
 
-![](https://c2.llyz.xyz/blog/2019/06/simbox/s-14.JPG) ![](https://c2.llyz.xyz/blog/2019/06/simbox/s-15.JPG) SIM卡插入效果。
+![](https://c2.is26.com/blog/2019/06/simbox/s-14.JPG) ![](https://c2.is26.com/blog/2019/06/simbox/s-15.JPG) SIM卡插入效果。
 
-![](https://c2.llyz.xyz/blog/2019/06/simbox/s-16.JPG) SIMBOX没有内置电池，没有WIFI，需要接上电话和WIFI才能使用，实测普通USB接口都行，直接接上路由器、NAS上的USB接口也行。
+![](https://c2.is26.com/blog/2019/06/simbox/s-16.JPG) SIMBOX没有内置电池，没有WIFI，需要接上电话和WIFI才能使用，实测普通USB接口都行，直接接上路由器、NAS上的USB接口也行。
 
 #### 使用体验
 
-![](https://c2.llyz.xyz/blog/2019/06/simbox/t-1.jpg) SIMBOX支持iOS和Android，iOS非国区AppStore的版本支持Callkit，下载GlocalMe Call这个就行了，国区的没有Callkit，建议下外区的版本，没有外区账号的可以找客服要企业版的下载地址。
+![](https://c2.is26.com/blog/2019/06/simbox/t-1.jpg) SIMBOX支持iOS和Android，iOS非国区AppStore的版本支持Callkit，下载GlocalMe Call这个就行了，国区的没有Callkit，建议下外区的版本，没有外区账号的可以找客服要企业版的下载地址。
 
 APP的界面跟普通的电话差不多，通讯录，拨号、短信这些都有。
 
-![](https://c2.llyz.xyz/blog/2019/06/simbox/t-2.jpg) 设置里能够显示SIM卡的状态，也能够切换待机SIM卡，录音、黑名单、呼叫转移这些设置也都有。
+![](https://c2.is26.com/blog/2019/06/simbox/t-2.jpg) 设置里能够显示SIM卡的状态，也能够切换待机SIM卡，录音、黑名单、呼叫转移这些设置也都有。
 
-![](https://c2.llyz.xyz/blog/2019/06/simbox/t-3.jpg) 图一是使用多卡宝 APP拨打电话出去的效果，跟一般的电话界面差不多，支持录音，对于iPhone用户来说，这个算是解决了痛点需求。
+![](https://c2.is26.com/blog/2019/06/simbox/t-3.jpg) 图一是使用多卡宝 APP拨打电话出去的效果，跟一般的电话界面差不多，支持录音，对于iPhone用户来说，这个算是解决了痛点需求。
 
 图三是，iPhone，通过Callkit，接到了电话的效果，**哪怕你的多卡宝APP没有打开，也能直接通过iOS原生电话接口接听电话**，Callkit这个很实用，我也是推荐iPhone使用这个。
 

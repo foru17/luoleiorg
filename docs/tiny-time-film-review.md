@@ -1,12 +1,12 @@
 ---
 title: 不是影评 | 我对不起你，小时代
-date: '2013-08-10'
-cover: https://c2.llyz.xyz/wp-image/2013/08/tiny-fool-time.jpg
+date: "2013-08-10"
+cover: https://c2.is26.com/wp-image/2013/08/tiny-fool-time.jpg
 tags:
-- movies
+  - movies
 ---
 
-![tiny-fool-time](https://c2.llyz.xyz/wp-image/2013/08/tiny-fool-time.jpg)
+![tiny-fool-time](https://c2.is26.com/wp-image/2013/08/tiny-fool-time.jpg)
 
 今天中午的时候看自己的[豆瓣](https://www.douban.com/people/foru17/)，发现已经mark「看过的电影」有399部了，没想到这还挺有点纪念意义的第400部电影，居然是这么一部让我一半时间起鸡皮疙瘩，一半时间用我颤抖的手抹平鸡皮疙瘩，关键是最后我还没看懂的电影，这，倒也是个符合情理的理由让我写这篇博文.
 

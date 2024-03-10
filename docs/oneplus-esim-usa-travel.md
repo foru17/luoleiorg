@@ -1,13 +1,13 @@
 ---
 title: 去美国旅行，不要用一加的国际上网|  eSIM境外上网跳坑记 | VLOG28
-date: '2019-01-11'
-cover: https://c2.llyz.xyz/vlog/vlog28.jpg
+date: "2019-01-11"
+cover: https://c2.is26.com/vlog/vlog28.jpg
 categories:
-- zuoluotv
+  - zuoluotv
 tags:
-- zuoluotv
-- travel
-- usa
+  - zuoluotv
+  - travel
+  - usa
 ---
 
 ## 视频

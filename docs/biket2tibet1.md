@@ -1,13 +1,13 @@
 ---
 title: 骑行去西藏.壹 | 谈死亡
-date: '2012-04-15'
-cover: https://c2.llyz.xyz/wp-image/2012/04/biketotibet.jpg
+date: "2012-04-15"
+cover: https://c2.is26.com/wp-image/2012/04/biketotibet.jpg
 categories:
-- lifestyle
+  - lifestyle
 tags:
-- travel
-- tibet
-- e9aa91e8a18c
+  - travel
+  - tibet
+  - e9aa91e8a18c
 ---
 
 ## 写在前面
@@ -48,7 +48,7 @@ tags:
 
 我倒不相信自己会RP那么好，成为每年死在路上的那两位数的人中的一位。
 
-![](https://c2.llyz.xyz/wp-image/2012/04/72guai.jpg)
+![](https://c2.is26.com/wp-image/2012/04/72guai.jpg)
 
 川藏线上著名的72拐
 

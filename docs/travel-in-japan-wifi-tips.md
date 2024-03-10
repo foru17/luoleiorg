@@ -1,7 +1,7 @@
 ---
 title: 日本旅行上网攻略:移动WIFI和SIM卡哪个好? | 左罗TV
 date: "2016-07-31"
-cover: https://c2.llyz.xyz/blog/2016/07/wifi-japan.jpg
+cover: https://c2.is26.com/blog/2016/07/wifi-japan.jpg
 categories:
   - travel
   - zuoluotv
@@ -10,7 +10,7 @@ tags:
   - japan
 ---
 
-![cover](https://c2.llyz.xyz/blog/2016/07/wifi-japan.jpg)
+![cover](https://c2.is26.com/blog/2016/07/wifi-japan.jpg)
 
 出国旅行，没有网络肯定是万万不行，上一次我与杨左的日本自由行，特意同时准备了无线随身WIFI和手机上网SIM卡两套上网设备。
 

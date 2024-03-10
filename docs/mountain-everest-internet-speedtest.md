@@ -1,9 +1,9 @@
 ---
 title: 中国网络基建有多厉害？我在珠峰测网速
-date: '2020-07-31'
-cover: https://c2.llyz.xyz/vlog/vlog66.jpg
+date: "2020-07-31"
+cover: https://c2.is26.com/vlog/vlog66.jpg
 categories:
-- zuoluotv
+  - zuoluotv
 ---
 
 ## 视频

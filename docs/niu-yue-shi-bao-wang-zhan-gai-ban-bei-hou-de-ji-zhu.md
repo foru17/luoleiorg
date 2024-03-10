@@ -1,7 +1,7 @@
 ---
 title: 纽约时报网站改版背后的技术
 date: "2014-04-27"
-cover: https://c2.llyz.xyz/wp-image/2014/02/nytimes-redesign.png
+cover: https://c2.is26.com/wp-image/2014/02/nytimes-redesign.png
 ---
 
 **原文地址**: [The Technology Behind the NYTimes.com Redesign](https://open.blogs.nytimes.com/2014/01/08/the-technology-behind-the-nytimes-com-redesign/?_php=true&_type=blogs&_php=true&_type=blogs&_r=1)

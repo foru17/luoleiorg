@@ -1,7 +1,7 @@
 ---
 title: 征集志愿者，奖励VPN
-date: '2011-06-10'
-cover: https://c2.llyz.xyz/default.cover.jpg
+date: "2011-06-10"
+cover: https://c2.is26.com/default.cover.jpg
 ---
 
 各位推友、博友、微友：
@@ -16,7 +16,7 @@ cover: https://c2.llyz.xyz/default.cover.jpg
 
 # 可是
 
-这个视频实在是太长了，170分钟，差不多3个小时， 一个”过长的“视频在网络上的传播效果往往不是很好，我想肯定有很多人看到这个时长就放弃了看这个视频，或者由于种种原因没有办法看完整个讲座，遗憾失去了一次思维的启迪，智慧的熏陶的机会。 
+这个视频实在是太长了，170分钟，差不多3个小时， 一个”过长的“视频在网络上的传播效果往往不是很好，我想肯定有很多人看到这个时长就放弃了看这个视频，或者由于种种原因没有办法看完整个讲座，遗憾失去了一次思维的启迪，智慧的熏陶的机会。
 
 刚刚开始整理视频资料，花了差不多半个小时，7分钟的视频整理出来1000余字，由于本人也有学习上和工作上的事情，也没有太多时间，感觉严重吃不消，在此想到了网络的力量，向推特、微博、人人网、北斗上面的各个热心的网友征集志愿者协同整理该讲座资料。
 
@@ -60,7 +60,7 @@ End
 
 google doc地址（需翻wall):
 
-[https://docs.google.com/document/d/1UCBbtpulJU0JibGayhtVkR9t9IQa-juUj7Ths52zcT4/edit?hl=zh\_CN](https://docs.google.com/document/d/1UCBbtpulJU0JibGayhtVkR9t9IQa-juUj7Ths52zcT4/edit?hl=zh_CN)
+[https://docs.google.com/document/d/1UCBbtpulJU0JibGayhtVkR9t9IQa-juUj7Ths52zcT4/edit?hl=zh_CN](https://docs.google.com/document/d/1UCBbtpulJU0JibGayhtVkR9t9IQa-juUj7Ths52zcT4/edit?hl=zh_CN)
 
 国内麦库地址:
 
@@ -78,7 +78,7 @@ google doc地址（需翻wall):
 
 本人的VPS在美国，速度还不错，流畅看youtube 480P毫无压力。
 
-## **传播美丽思想，体会分****享乐趣，欢迎您的加入**
+## **传播美丽思想，体会分\*\***享乐趣，欢迎您的加入\*\*
 
 若有疑问请加我twitter或者新浪微博联系
 

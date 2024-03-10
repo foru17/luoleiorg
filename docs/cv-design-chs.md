@@ -1,10 +1,10 @@
 ---
 title: 新设计中文简历一枚
 date: "2011-07-17"
-cover: https://c2.llyz.xyz/wp-image/2011/07/luoleicv.jpg
+cover: https://c2.is26.com/wp-image/2011/07/luoleicv.jpg
 ---
 
-![](https://c2.llyz.xyz/wp-image/2011/07/罗磊的图形化简历luolei.orgl.jpg)
+![](https://c2.is26.com/wp-image/2011/07/罗磊的图形化简历luolei.orgl.jpg)
 
 假期开始，赶紧做完了中文简历，投了出去。
 

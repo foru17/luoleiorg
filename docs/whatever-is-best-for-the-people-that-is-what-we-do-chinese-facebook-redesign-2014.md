@@ -1,10 +1,10 @@
 ---
 title: 我们的设计，一切为了用户-Facebook设计总监谈13年一个夭折的改版设计
-date: '2014-04-27'
-cover: https://c2.llyz.xyz/wp-image/2014/03/facebook.jpg
+date: "2014-04-27"
+cover: https://c2.is26.com/wp-image/2014/03/facebook.jpg
 ---
 
-![](https://c2.llyz.xyz/wp-image/2014/03/facebook.jpg)
+![](https://c2.is26.com/wp-image/2014/03/facebook.jpg)
 
 **原文地址**:[Whatever’s Best For The People, That’s What We Do](https://medium.com/p/ed75a0ee7641)
 

@@ -1,12 +1,12 @@
 ---
 title: 我在读什么:2015春季读书分享
-date: '2015-04-19'
-cover: https://c2.llyz.xyz/blog/2015/04/2015-book2.jpg
+date: "2015-04-19"
+cover: https://c2.is26.com/blog/2015/04/2015-book2.jpg
 tags:
-- read
+  - read
 ---
 
-![](https://c2.llyz.xyz/blog/2015/04/2015-book2.jpg)
+![](https://c2.is26.com/blog/2015/04/2015-book2.jpg)
 
 从2013年的[《2013年我看过哪些值得推荐的好书？》](https://luolei.org/books-i-read-in-2013/) 开始，每半年做一次读书总结，已经成了自己的一个习惯。
 

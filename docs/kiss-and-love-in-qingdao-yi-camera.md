@@ -1,13 +1,13 @@
 ---
 title: 青岛 | 一吻定「青」|  Travel Film | GOPRO
-date: '2015-04-06'
-cover: https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D22.JPG
+date: "2015-04-06"
+cover: https://c2.is26.com/blog/2015/04/qingdao/yicamera/D22.JPG
 categories:
-- travel
+  - travel
 tags:
-- digital
-- travel
-- qing-dao
+  - digital
+  - travel
+  - qing-dao
 ---
 
 ## 写在前面：如何让自己的旅途(至少)看起来更加精彩
@@ -64,72 +64,72 @@ tags:
 
 片头20秒，是拍了4个小时的日出延时摄影。视频全部是小蚁运动相机+自拍杠，日出延时摄影用的iMovie合成，全片用的Final Cut Pro剪辑。
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D22.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D22.JPG)
 
 3号下午，从帝都坐高铁到的青岛，去酒店Check In后，步行去了旁边的奥帆中心，日落时分拍照还是特别漂亮的，用理光GR拍了不少照片，下一篇博客分享。
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D1.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D1.JPG)
 
 浙江路天主教堂，很多人在这里拍婚纱照。
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D11.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D11.JPG)
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D5.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D5.JPG)
 
 作为一个拍照的，还是很拼的我。
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D2.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D2.JPG)
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D6.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D6.JPG)
 
 初春，树上的叶子刚刚出来，到了八大关发现一片小树林，仰拍一张林中照片。
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D3.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D3.JPG)
 
 八大关旁边的海水浴场，登上海边的一个碉石，拍下这张照片，风大，浪大，还挺冷的。
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D9.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D9.JPG)
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D10.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D10.JPG)
 
 防浪堤的终点，趁着没人，拍下只有两个人的合照。
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D8.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D8.JPG)
 
 对青岛的第一印象还是很好的。
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D12.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D12.JPG)
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D13.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D13.JPG)
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D14.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D14.JPG)
 
 第二天去了青岛南部的黄岛，住在银沙滩附近的酒店，相比金沙滩，银沙滩人少，今天好天气，蓝天，碧海。
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D15.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D15.JPG)
 
 气温还有点低，脱了鞋子下海，冻得我脚疼，妹纸没反应。
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D16.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D16.JPG)
 
 来一张高位俯拍。
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D17.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D17.JPG)
 
 低位视角，大脚丫和小脚丫。
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D18.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D18.JPG)
 
 打狗棍法看波涛。
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D20.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D20.JPG)
 
 去青岛啤酒博物馆的路上，妹纸随手拍。
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/D21.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/D21.JPG)
 
 啤酒街随便找了一家好像还挺有名的店吃饭。
 
-![](https://c2.llyz.xyz/blog/2015/04/qingdao/yicamera/yi-1.JPG)
+![](https://c2.is26.com/blog/2015/04/qingdao/yicamera/yi-1.JPG)
 
 这个小长假，这加上自拍杠500元不到的小蚁，还是给旅途增加了不少的乐趣。

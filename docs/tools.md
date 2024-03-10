@@ -1,7 +1,7 @@
 ---
 title: 我的大学用什么？-互联网产品服务推荐
 date: "2012-03-24"
-cover: https://c2.llyz.xyz/wp-image/2012/03/nobaidu1.jpg
+cover: https://c2.is26.com/wp-image/2012/03/nobaidu1.jpg
 tags:
   - internet
   - e5a4a7e5ada6
@@ -32,7 +32,7 @@ tags:
 
 #### 1.Google
 
-![nobaidu](https://c2.llyz.xyz/wp-image/2012/03/nobaidu1.jpg)
+![nobaidu](https://c2.is26.com/wp-image/2012/03/nobaidu1.jpg)
 
 你也许会感到奇怪，为什么我第一个标题写着Google，却放着一个大大的「NO 百度」的标志。
 
@@ -61,13 +61,13 @@ tags:
 
 以上内容仅供参考，凭我自己的亲自体验来说，在内容的精确度和数量来说，Google要比百度优秀很多。搜索英文资料、学术资料更加好。
 
-![image](https://c2.llyz.xyz/wp-image/2012/03/image15.png)
+![image](https://c2.is26.com/wp-image/2012/03/image15.png)
 
 改变自己的使用习惯第一步总是难以迈出的，在这里，只是推荐各位使用Google，都是免费的工具，为什么不用好一点的呢？
 
 #### 2.Google Reader
 
-![googlereader](https://c2.llyz.xyz/wp-image/2012/03/googlereader1.jpg)
+![googlereader](https://c2.is26.com/wp-image/2012/03/googlereader1.jpg)
 
 要说在所有的网络服务中，我使用最多并且改变我最大的是什么，我可以毫不犹豫地回答「[Google Reader 谷歌阅读器](https://www.google.com/reader/)」。
 
@@ -85,19 +85,19 @@ tags:
 
 **1)使用https加密**
 
-![image](https://c2.llyz.xyz/wp-image/2012/03/image7.png)
+![image](https://c2.is26.com/wp-image/2012/03/image7.png)
 
 由于众所周知的原因，国内互联网有一堵严重干扰用户体验的防火墙，使用Https加密，阅读敏感内容不会被重置（这也是我强烈推荐使用Google Reader而不是其他国内产品的原因）。
 
 **2.分类你的订阅**
 
-![readercat](https://c2.llyz.xyz/wp-image/2012/03/readercat1.jpg)
+![readercat](https://c2.is26.com/wp-image/2012/03/readercat1.jpg)
 
 根据内容、优先级分类，平时阅读的时候根据时间充裕程度阅读相应的内容。「条理」总能给你带来额外的效率。
 
 #### 3.Evernote（笔记软件）
 
-![Evernote-Logo](https://c2.llyz.xyz/wp-image/2012/03/Evernote-Logo1.png)
+![Evernote-Logo](https://c2.is26.com/wp-image/2012/03/Evernote-Logo1.png)
 
 > #### Evernote
 >
@@ -115,7 +115,7 @@ tags:
 
 不管是上课做笔记还是写什么东西，我都会用到Evernote，可以很方便地记录文字、图片，并且可以同步到各个终端上。
 
-![evernotexos](https://c2.llyz.xyz/wp-image/2012/03/evernotexos.jpg)
+![evernotexos](https://c2.is26.com/wp-image/2012/03/evernotexos.jpg)
 
 Evernote不仅支持常见的windows，也覆盖了各个桌面、移动系统，主流的android、IOS不在话下，小众的WP7和黑莓也均有支持。移动终端上用户体验良好的app，让你随时随地记录下你的灵感和想法。
 
@@ -127,7 +127,7 @@ Evernote对于我来说主要的用途还是做笔记，说到「做笔记」，
 
 说到这，我想起一副互联网上广为流传的图。
 
-![macschool](https://c2.llyz.xyz/wp-image/2012/03/macschool.jpg)
+![macschool](https://c2.is26.com/wp-image/2012/03/macschool.jpg)
 
 此图是美国的一个大学，人手一部mac，当然，此图有些夸张的成分（貌似是一个艺术学院），可是我看哈佛公开课（2003年），当年pc不便宜，也可以看到「挺不少」同学带笔记本上课记录。
 
@@ -143,7 +143,7 @@ Evernote对于我来说主要的用途还是做笔记，说到「做笔记」，
 
 除了国外的Evernote，国内的山寨「麦库」大家也可以试一下（免费空间更大，速度更快，分享更加方便，跨主流平台）
 
-![maiku](https://c2.llyz.xyz/wp-image/2012/03/maiku1.jpg)
+![maiku](https://c2.is26.com/wp-image/2012/03/maiku1.jpg)
 
 > 麦库记事让您快速，轻松地保存任何事情。比如：写日记见闻，创建任务，会议记录等，并与你的家人和  
 > 朋友分享。最重要的是，无论何处何时，麦库记事是保证您的数据无缝同步，永不丢失。
@@ -152,7 +152,7 @@ Evernote对于我来说主要的用途还是做笔记，说到「做笔记」，
 
 #### 4.谷歌日历
 
-![googlecal](https://c2.llyz.xyz/wp-image/2012/03/googlecal.jpg)
+![googlecal](https://c2.is26.com/wp-image/2012/03/googlecal.jpg)
 
 说来也尴尬，推荐的几乎都是谷歌的东西，没办法，谁叫谷歌的东西好呢。在这里，还要推荐一款「任务管理+时间管理」神器，[Google Calendar](https://www.google.com/calendar)。
 
@@ -178,11 +178,11 @@ Evernote对于我来说主要的用途还是做笔记，说到「做笔记」，
 
 同样再推荐两个GTD博客（用Google Reader订阅去吧＝,＝）
 
-> [**![tuimo](https://c2.llyz.xyz/wp-image/2012/03/tuimo1.jpg)褪墨**](https://www.mifengtd.cn/) [https://www.mifengtd.cn/](https://www.mifengtd.cn/)
+> [**![tuimo](https://c2.is26.com/wp-image/2012/03/tuimo1.jpg)褪墨**](https://www.mifengtd.cn/) [https://www.mifengtd.cn/](https://www.mifengtd.cn/)
 >
 > 褪墨关注时间管理、个人提升和演讲技巧。我们的目标是：把事情做到更好！
 
-> ![GTDlifeava](https://c2.llyz.xyz/wp-image/2012/03/GTDlifeava1.jpg)
+> ![GTDlifeava](https://c2.is26.com/wp-image/2012/03/GTDlifeava1.jpg)
 >
 > [**时间管理行动家**](https://www.gtdlife.com/) [https://www.gtdlife.com/](https://www.gtdlife.com/)
 >

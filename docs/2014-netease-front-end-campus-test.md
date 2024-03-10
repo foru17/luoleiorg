@@ -1,11 +1,11 @@
 ---
 title: 2014网易前端开发笔试题笔记
-date: '2013-10-07'
-cover: https://c2.llyz.xyz/default.cover.jpg
+date: "2013-10-07"
+cover: https://c2.is26.com/default.cover.jpg
 categories:
-- code
+  - code
 tags:
-- develop
+  - develop
 ---
 
 9月22日晚收到网易笔试通知，提示欢迎参加23号广州地区校招，详情笔试地点请等详细通知，结果一直到23日下午4点半，距离笔试开始只有2个半小时，才收到笔试地点的邮件和短信，这蛋疼得，于是赶在下班高峰期，赶往大学城华工。又是华工，看来各大企业都很偏爱大学城华工啊。投的岗位是杭州研发院的前端开发。
@@ -131,5 +131,11 @@ bind方法会创建一个新函数,称为绑定函数.当调用这个绑定函�
 4.参考给出的原型图和要求，手写 html，css和 js。
 
 ```html
-<iframe src="https://jsfiddle.net/foru17/cnvca/3/embedded/result,html,css,js" width="100%" height="300" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe
+  src="https://jsfiddle.net/foru17/cnvca/3/embedded/result,html,css,js"
+  width="100%"
+  height="300"
+  frameborder="0"
+  allowfullscreen="allowfullscreen"
+></iframe>
 ```

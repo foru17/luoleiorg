@@ -1,7 +1,7 @@
 ---
 title: 云图 | 万物皆联系
 date: "2013-01-29"
-cover: https://c2.llyz.xyz/wp-image/2013/01/cloud-atlas-hd-wallpaper.jpg
+cover: https://c2.is26.com/wp-image/2013/01/cloud-atlas-hd-wallpaper.jpg
 tags:
   - movies
 ---
@@ -28,4 +28,4 @@ tags:
 
 之前看《源代码》，其中故事的启发来源的「平行宇宙理念」，男主角「活」在一个由超级计算机模拟的虚拟世界中，不断的reborn和die，相同的世界中，每个事物的发展却也都存在细微的差别，与这种「自由」「随机」的理念，不是多么地相像。
 
-![49259](https://c2.llyz.xyz/wp-image/2013/01/49259.jpeg)
+![49259](https://c2.is26.com/wp-image/2013/01/49259.jpeg)

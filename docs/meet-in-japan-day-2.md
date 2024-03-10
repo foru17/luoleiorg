@@ -1,278 +1,278 @@
 ---
 title: 日本 | DAY2 :东京・皇宫・银座・筑地市场
-date: '2016-07-05'
-cover: https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01570.jpg
+date: "2016-07-05"
+cover: https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01570.jpg
 categories:
-- photography
-- travel
+  - photography
+  - travel
 tags:
-- dong-jing
-- photography
-- travel
-- japan
+  - dong-jing
+  - photography
+  - travel
+  - japan
 ---
 
 梅雨季节的东京，第一晚倒十分安静，没有什么车水马龙的喧闹，只有窗外静静的东京湾。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01339.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01339.jpg)
 
 一大早起床，东京今天的天气还是阴沉，整个的都是一片不饱和的灰色。今天起得倒挺早，阴天也有阴天的好，在这个夏季也不热，看窗外一艘游船准备靠岸了。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01354.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01354.jpg)
 
 早餐是在酒店吃的自助餐，西餐和日式的刺身都有。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01366.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01366.jpg)
 
 妹纸今天穿了一身粉红色的套装，淑女范。
 
 从酒店要走一小段才到地铁濱松町，天气虽阴，但整个天空都是柔光了，也还挺适合拍照。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01412.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01412.jpg)
 
 来到地铁，可以看到对面站台，没有什么防护的，要自杀什么的还是挺容易的。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01423.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01423.jpg)
 
 早上的行程安排的是先去皇居，坐地铁到达东京站，东京的交通属留，背后这座西洋风格的建筑，就是地标东京车站，被各种高楼包围着。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01426.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01426.jpg)
 
 在这里卸下背包，给妹纸低角度仰拍几张。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01449.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01449.jpg)
 
 开着Google Map导航，步行约15分钟前往皇居，距离不远，一路人不多，地面上真的是什么垃圾都没有，好干净的城市。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01437.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01437.jpg)
 
 皇居附近的一座奇怪的建筑，好像是一个酒店，外墙上连个LOGO标牌都没有。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01456.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01456.jpg)
 
 到达千代田的皇居，远远地就能看到一片绿色环绕。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01467.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01467.jpg)
 
 早晨的东京，没有人就是爽。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01473.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01473.jpg)
 
 时间尚早，皇居周围的行人道上，有不少跑步的晨练者，看到这群人我都忍不住想去跑一跑呢，日本还是有很繁荣的跑步文化的，马拉松的水准在世界上都很高。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01479.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01479.jpg)
 
 由于皇居每年只有固定的时节才对外开放，今天我们就进不去啦，皇居门口的广场铺满了灰色的碎小石子。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01542.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01542.jpg)
 
 不同于大部分的广场都是地板，皇居的这个石子广场倒也是有点意思。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01492.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01492.jpg)
 
 柔光的天空，皇居周围的护城河里飘满了黄色的花瓣还是叶子，总之挺雅致的。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01496.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01496.jpg)
 
 来到热门景点旅游，要摆脱到处都是人的「游客照」的一个方法就是早起！来得早，也没什么游客，特别适合拍这种包场了的照片。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01523.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01523.jpg)
 
 背后就是皇居的入口，门口还站着警卫，就只能到这里啦。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01556.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01556.jpg)
 
 离开了皇居，来到附近的一个公园，楠木正成的青铜雕塑树立在此，在这里引用一下[维基百科](https://zh.wikipedia.org/zh/%E6%A5%A0%E6%9C%A8%E6%AD%A3%E6%88%90)的介绍：
 
 > 楠木正成，幼名多闻丸，明治时代起尊称大楠公，为镰仓幕府末期到南北朝时期著名武将。楠木正成一生竭力效忠后醍醐天皇，在凑川之战阵殁。后世以其为忠臣与军人之典范，被视为武神。原官位正五位，1880年追赠正一位。此外楠木正成与战国末年的真田信繁、源平合战的源义经并列日本史中三大“末代”悲剧英雄。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01570.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01570.jpg)
 
 来到一片长满了青苔的绿墙，妹纸举着GR，拍下这张照片，妹纸笑容真的太美了，这也算得上是这次日本之行我最喜欢的照片之一。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01569.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01569.jpg)
 
 理光GR曾经是我的眼睛，现在就是妹纸的眼睛了。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/GR-D2-81606-2.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/GR-D2-81606-2.jpg)
 
 天阴，背着一身装备逛，我的衣服还是汗湿了。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01600.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01600.jpg)
 
 搜了一下地图，下一个目的就是银座，不远，跟妹纸就决定步行前往，一路挺多写字楼，路过一家挺有味道的餐厅。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01605.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01605.jpg)
 
 路边的紫色绣球在风中摇曳，抓拍一张。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01619.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01619.jpg)
 
 来到银座，行人道中央却没什么人，一定是因为还不到时间的缘故，逛街的人还没有出来，当然得抓住这种时机拍拍拍。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01627.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01627.jpg)
 
 转身抓拍。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01633.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01633.jpg)
 
 妹纸到了号称「购物天堂」的银座也是开心，一路拿着GR和小蚁4K拍。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01686.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01686.jpg)
 
 来到一家优衣库，十分大有六七层，进去逛了一下，价格跟国内差不多，店内设计有味道许多。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01675M.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01675M.jpg)
 
 好像还是来到东京第一次见到有人穿和服，没想到居然是在银座，后来修图的时候发现这个相机里有个小亮点，不知道你发现了没有。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/GR-D2-81719.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/GR-D2-81719.jpg)
 
 妹纸用GR给我拍了一张全身照，这全身装备，也就是我这次日本之行大部分时候的EDC全套，为了拍妹纸，我也是很努力的。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01704.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01704.jpg)
 
 哈哈，亮点就是理光GR的广告，离开银座前往筑地市场，居然路过了理光的总部，来，跟娘家合个影，带着GW-3广角头的理光GR。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01715.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01715.jpg)
 
 前往筑地的路上，东京一个特色就是路牌超多，好处就是不怕迷路，坏处就是很容易迷路，因为，真的让人有点眼花。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01719.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01719.jpg)
 
 走了约20分钟，到达筑地，一下子感受到了与银座不同的气氛，热闹了许多。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01770.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01770.jpg)
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01734.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01734.jpg)
 
 不像国内的市场，地面和街道虽然繁忙不少，却一点都不凌乱，道路上也很干净。一块牌子上写满了各种商店，据说日本对户外广告的管理还挺严格的，不能乱设计乱来影响城市形象。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01765.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01765.jpg)
 
 路旁有一队小朋友在呐喊，呼吁给熊本捐款。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/GR-D2-81739.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/GR-D2-81739.jpg)
 
 路边的磨刀人。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01757.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01757.jpg)
 
 肚子也差不多饿了，赶紧找一个饭店吃饭去。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01786.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01786.jpg)
 
 走进筑地市场里面，随便找了一家小饭店，点了两份刺身饭，也算是来到日本的第一餐日式料理，约人民币100多元一份，刺身和虾肉不错。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01790.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01790.jpg)
 
 妹纸此时也没忘了记录美食。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01809.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01809.jpg)
 
 利用[洲际大使](https://www.ihg.com/intercontinental/hotels/cn/zh/ambassador)的权益延迟到下午四点退房，下午三点多回到酒店，收拾下房间，看了下窗外，一艘中式装饰的游轮开了过来，这东京湾的船来船往也不少呀。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01799.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01799.jpg)
 
 跟东京湾暂时告别。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01817.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01817.jpg)
 
 洲际Checkout之后，我和妹纸分别拖着一大一小两个行李箱，坐JR去秋叶原。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01815.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01815.jpg)
 
 秋叶原也算是日本的一个符号地标了，数码、动漫，可惜这次没时间在这里逛。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01821.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01821.jpg)
 
 换乘之后下了地铁，前往酒店，在小巷里穿来穿去，电线杆在头上飞来飞去，据说日本的道路电线杆也是城市规划的有一个遗留问题，像中国的不少新城，城区的电路都是入地了。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01830.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01830.jpg)
 
 东京之行的第二晚住所叫「[庭之酒店](https://www.booking.com/hotel/jp/niwano-tokyo.zh-cn.html)」，看名字就是带一点东方文化风格，酒店靠近秋叶原，位置也挺不错，酒店大堂倒装修得还可以。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01850.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01850.jpg)
 
 入住到房间，这空间相比昨晚的洲际立马就显得感人多了，进门就是床，装饰带点日式风格。价格也挺不便宜的，性价比一般般。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01870.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01870.jpg)
 
 空间捉襟见肘，两个人暴走一天也挺累的，小歇一会。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01906.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01906.jpg)
 
 到了秋叶原，妹纸换上一套清爽打扮的夏日装，差不多下午五点，出门继续逛，楼下挺着一部红色的小车，妹纸一定要我在这里给她拍一张。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01912.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01912.jpg)
 
 妹纸这次穿的衣服、背的袋子，是我的朋友周泽军的独立品牌[少年ShounennStudio](https://weibo.com/shounenn)的作品，在这里安利和推荐一下。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01922.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01922.jpg)
 
 毕竟我也曾经是工作室的一员，周少的产品品质还是让人很放心的。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-01947.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-01947.jpg)
 
 此时已经天黑了，调了一下照片的亮度，也让大家感受一下索尼A7S2的弱光调色空间。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-02024.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-02024.jpg)
 
 太阳落下了，本来想去东京大学，走到半路发现了一个大大的摩天轮和游乐场，带着妹纸就进来玩了。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-02047.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-02047.jpg)
 
 上一次坐旋转木马还是在香港迪士尼，妹纸拿着小蚁进去，跟小朋友一起坐了一次旋转木马。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-02078.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-02078.jpg)
 
 继续前往东京大学，路过一家超市，进去感受一下东京市民的日常，感觉这价格也不贵呀。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-02127.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-02127.jpg)
 
 就这么走走逛逛拍拍，本来距离东大就2公里多的路，硬是让我两走了快两个小时，来到东大附近的居民区，在一个路灯下，跟妹纸玩起了摆拍。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-02142.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-02142.jpg)
 
 右上方有一盏白色的路灯，刚好打光下来，把闪光灯放在左侧引闪补光，最适合拍照不过了。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-02149.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-02149.jpg)
 
 行进在居民区里，一栋栋小房子典雅精致，好喜欢这种建筑，以后我们的家也能这样就好了。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-02166.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-02166.jpg)
 
 好不容易走到东大的门口，却发现夜间不允许游客进入，无奈就只能在门口拍两张照片，
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-02177.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-02177.jpg)
 
 在马路边，把闪光灯用八爪架固定在路边的栏杆上，闪拍一张街边的妹纸。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-02183.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-02183.jpg)
 
 想到这时还没吃饭，肚子一下子就咕咕叫了。走到东大对面的一家小餐厅，又是中华料理，也顾不上这么多了，填满肚子要紧。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-02187.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-02187.jpg)
 
 吃完饭已经九点多，想了想明天就要去仙台了，赶紧就趁夜去看一下东京塔吧，往地铁口走，一路都没什么人。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-02189.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-02189.jpg)
 
 坐了十多站地铁，前往南部的东京塔，一处地铁站，远远地就看到东京塔矗立在夜色之中，也颇为壮观和引人眼目。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-02192.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-02192.jpg)
 
 走进一家便利店买饮料，已经晚上10多半了，一个年轻人手握着笔在桌子上睡着，旁边一桌一个女人在跟女伴哭泣，每一座城市，每一个人都有自己的生活呀，遇见东京，除了游人的欢乐，也有多少的压力、挣扎呀。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-02347.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-02347.jpg)
 
 灯光微弱，这个场景下要拍人像还是很不容易的，闪了若干下，好不容易才拍出一张稍微满意点的照片，一路给妹纸拍拍拍，自己都没有在东京塔下拍一张照片，也没有拍一张合照，想想还挺可惜的。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-02389.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-02389.jpg)
 
 夜深了，时间也的确不早了，趁着地铁还没关，坐车返回酒店，这次东京只安排了两天的行程，对于我们两个初次到来的旅客，的确还是太匆忙了，酒店附近的天桥上，长曝光拍张街道的光影延时。
 
-![](https://c2.llyz.xyz/blog/2016/06/japan/day2/A7S2-D2-02380.jpg)
+![](https://c2.is26.com/blog/2016/06/japan/day2/A7S2-D2-02380.jpg)
 
 > 晚安东京。
 

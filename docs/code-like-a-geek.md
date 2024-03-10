@@ -1,9 +1,9 @@
 ---
 title: 非程序员别点:Geek Style开发思维、技巧、工具
-date: '2015-03-04'
-cover: https://c2.llyz.xyz/blog/2015/02/geek.jpg
+date: "2015-03-04"
+cover: https://c2.is26.com/blog/2015/02/geek.jpg
 tags:
-- develop
+  - develop
 ---
 
 首先忽略标题，不标题党点没人看。嗯哼，进入正题。
@@ -48,9 +48,9 @@ iMac放在公司，Macbook随身，前端项目多而杂，不知道什么时候
 
 很早之前，就养成用Evernote做笔记和整理资料的习惯，不管是读书笔记、技术学习摘要，正在进行的开发项目需求、代码片段，都会根据分类，摘要后记录到印象笔记。
 
-![](https://c2.llyz.xyz/blog/2015/02/yxbj.png)
+![](https://c2.is26.com/blog/2015/02/yxbj.png)
 
-![](https://c2.llyz.xyz/blog/2015/02/yxbj2.png)
+![](https://c2.is26.com/blog/2015/02/yxbj2.png)
 
 不是每个人的大脑都能记录长串的信息，对此，我的方法是这样的：**大脑负责浅索引，印象笔记进行深记忆**。
 
@@ -82,7 +82,7 @@ VIM同样安装了一些插件，过段时间分享下自己的Vim插件和配�
 
 Mac上的神器，可以自己写插件，来实现一系列操作。过去曾经写过一篇[《Mac效率工具 Alfred 本土搜索功能优化》](https://luolei.org/mac-alfred/)，供参考。下图就是我通过alfred直接调用Dash查询JavaScript文档（需要Alfred插件）。
 
-![](https://c2.llyz.xyz/blog/2015/02/alfred.png)
+![](https://c2.is26.com/blog/2015/02/alfred.png)
 
 #### 9.快捷键
 

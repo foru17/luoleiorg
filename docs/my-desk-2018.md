@@ -1,14 +1,14 @@
 ---
 title: 每个创作者都应该有张木桌:Timerecorder 时计 | VLOG18
-date: '2018-10-30'
-cover: https://c2.llyz.xyz/blog/2018/10/desk/desk-21.JPG
+date: "2018-10-30"
+cover: https://c2.is26.com/blog/2018/10/desk/desk-21.JPG
 categories:
-- tech
-- zuoluotv
+  - tech
+  - zuoluotv
 tags:
-- vlog
-- zuoluotv
-- photography
+  - vlog
+  - zuoluotv
+  - photography
 ---
 
 ## 视频
@@ -36,29 +36,29 @@ tags:
 
 ## 开箱&组装
 
-![](https://c2.llyz.xyz/blog/2018/10/desk/desk-22.JPG)
+![](https://c2.is26.com/blog/2018/10/desk/desk-22.JPG)
 
 木桌板用这个包装的，木架+硬木板，四角直接用绑带固定，没有用钉子，看样子还挺牢的，上次淘宝买了一个鞋柜，也打了木架，用的钉子固定，拆钉子没痛苦死我。这一次开箱使用的工具，就是左上角那个黑橙盒子，依旧是三年前的那个工具箱的东西，我带回了深圳，其实每个人家里也都应该得有个工具箱，能用10年。
 
-![](https://c2.llyz.xyz/blog/2018/10/desk/desk-25.JPG) 拆开，里面还有一层保护膜，有点像冷鲜外卖那种，保护桌板用，用刀刮开的时候比较小心，担心刮了桌面。
+![](https://c2.is26.com/blog/2018/10/desk/desk-25.JPG) 拆开，里面还有一层保护膜，有点像冷鲜外卖那种，保护桌板用，用刀刮开的时候比较小心，担心刮了桌面。
 
-![](https://c2.llyz.xyz/blog/2018/10/desk/desk-24.JPG) 桌子的安装也比较简单，直接把两个脚对上桌板上预留的孔位，上好螺丝就可以了。
+![](https://c2.is26.com/blog/2018/10/desk/desk-24.JPG) 桌子的安装也比较简单，直接把两个脚对上桌板上预留的孔位，上好螺丝就可以了。
 
-![](https://c2.llyz.xyz/blog/2018/10/desk/desk-4.JPG)
+![](https://c2.is26.com/blog/2018/10/desk/desk-4.JPG)
 
 装好了，效果不错，感觉拿来当餐桌都可以。
 
-![](https://c2.llyz.xyz/blog/2018/10/desk/desk-3.JPG)
+![](https://c2.is26.com/blog/2018/10/desk/desk-3.JPG)
 
 侧面来一张，整体设计十分简单，北欧风。
 
-![](https://c2.llyz.xyz/blog/2018/10/desk/desk-5.JPG)
+![](https://c2.is26.com/blog/2018/10/desk/desk-5.JPG)
 
-桌边角有做磨边处理，把尖锐的部分磨掉了，不刮手，摸起来挺滑的。 ![](https://c2.llyz.xyz/blog/2018/10/desk/desk-14.JPG) 底部的支架，中间这根横着的应该是承重和防止变形的，我之前的那个木桌用了三年后，有轻微变形。
+桌边角有做磨边处理，把尖锐的部分磨掉了，不刮手，摸起来挺滑的。 ![](https://c2.is26.com/blog/2018/10/desk/desk-14.JPG) 底部的支架，中间这根横着的应该是承重和防止变形的，我之前的那个木桌用了三年后，有轻微变形。
 
 在这里吐槽下，在支架上和桌底板面上，手写了两个字母A、B的记号笔记，要抹掉还得费点功夫，虽然在桌子下面看不到，但就两个支架而已，感觉有点多此一举了。
 
-![](https://c2.llyz.xyz/blog/2018/10/desk/desk-13.JPG)
+![](https://c2.is26.com/blog/2018/10/desk/desk-13.JPG)
 
 桌角采用这种万向平底，能够调节，由于桌子很重，桌子压下来，放在地面上特别稳。
 
@@ -68,21 +68,21 @@ tags:
 
 所有的照片都是索尼A73搭配腾龙2875拍摄，有后期和裁剪，大多是50mm或70mm焦段。
 
-![](https://c2.llyz.xyz/blog/2018/10/desk/desk-21.JPG) ![](https://c2.llyz.xyz/blog/2018/10/desk/desk-8.JPG) 正面效果，我买的这个木桌是3cm厚的，也能够选5cm的。请不要问「线放哪」，答案就是「还没放线」，我准备在桌板下面装一个宜家的电线收纳架。话说不管是什么桌子，电源线和数据线都能摧毁正面美感，也许是我们这代人被迫接受的命运吧。
+![](https://c2.is26.com/blog/2018/10/desk/desk-21.JPG) ![](https://c2.is26.com/blog/2018/10/desk/desk-8.JPG) 正面效果，我买的这个木桌是3cm厚的，也能够选5cm的。请不要问「线放哪」，答案就是「还没放线」，我准备在桌板下面装一个宜家的电线收纳架。话说不管是什么桌子，电源线和数据线都能摧毁正面美感，也许是我们这代人被迫接受的命运吧。
 
-![](https://c2.llyz.xyz/blog/2018/10/desk/desk-19.JPG)
+![](https://c2.is26.com/blog/2018/10/desk/desk-19.JPG)
 
 今天光线挺好，都是自然光。把卧室的盆栽搬出来拍两张。背后的那个有点迷魂的画，是我老婆买的一个瑞典设计师的作品，好吧，可能我没法GET到她的审美吧。
 
-![](https://c2.llyz.xyz/blog/2018/10/desk/desk-12.JPG) ![](https://c2.llyz.xyz/blog/2018/10/desk/desk-1.JPG) 摆拍一张，桌子表面上了一层清漆，这种木色也是我喜欢的色彩，拿来拍摄、开箱都很不错，以后应该会经常出境。桌面上是我的 Macbook 和用了小半年的一加6，话说一加6T今晚已经在纽约发布了，嗯，我不会换的。
+![](https://c2.is26.com/blog/2018/10/desk/desk-12.JPG) ![](https://c2.is26.com/blog/2018/10/desk/desk-1.JPG) 摆拍一张，桌子表面上了一层清漆，这种木色也是我喜欢的色彩，拿来拍摄、开箱都很不错，以后应该会经常出境。桌面上是我的 Macbook 和用了小半年的一加6，话说一加6T今晚已经在纽约发布了，嗯，我不会换的。
 
 麦克风是 Blue Yeti，一般配音我会用这个，算是性价比很高的桌面电容麦克风了。
 
-![](https://c2.llyz.xyz/blog/2018/10/desk/desk-9.JPG) ![](https://c2.llyz.xyz/blog/2018/10/desk/desk-11.JPG) ![](https://c2.llyz.xyz/blog/2018/10/desk/desk-17.JPG)
+![](https://c2.is26.com/blog/2018/10/desk/desk-9.JPG) ![](https://c2.is26.com/blog/2018/10/desk/desk-11.JPG) ![](https://c2.is26.com/blog/2018/10/desk/desk-17.JPG)
 
 头顶视角，学着 Ins 上常见的开箱角度，摆拍一张EDC，实木的颜色真的好看。绿植和HHKB也来凑个热闹。
 
-![](https://c2.llyz.xyz/blog/2018/10/desk/desk-10.JPG)
+![](https://c2.is26.com/blog/2018/10/desk/desk-10.JPG)
 
 万代的手办，日版，做工挺好的，还配送了几个武器，以前我一直把他放机箱里守护 Windows，现在放到桌面上守护绿植吧，当一个环保主义者。
 

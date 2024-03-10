@@ -1,13 +1,13 @@
 ---
-title: '蔡司 | 大地8x25ED 便携望远镜: 蓝标魅力,旅行神器'
-date: '2017-12-11'
-cover: https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-10.JPG
+title: "蔡司 | 大地8x25ED 便携望远镜: 蓝标魅力,旅行神器"
+date: "2017-12-11"
+cover: https://c2.is26.com/blog/2017/12/zeiss/zeiss-10.JPG
 categories:
-- tech
+  - tech
 tags:
-- kai-xiang
-- outsports
-- travel
+  - kai-xiang
+  - outsports
+  - travel
 ---
 
 眼凑着公司婚假有效期要到了，赶在年底，十天的婚假，加了两天年假，前后凑了半个月，去美国西部度了个蜜月，自驾15天，前后走了4,000公里，这是我正式工作之后，最长的一次旅行了。
@@ -42,7 +42,7 @@ tags:
 
 单筒和双筒就不解释了，在这里也不多说。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/Porro-vs-Roof-Binoculars.png)
+![](https://c2.is26.com/blog/2017/12/zeiss/Porro-vs-Roof-Binoculars.png)
 
 如图，左为屋脊镜，右为保罗镜。总结而言，保罗镜结构简单。
 
@@ -76,71 +76,71 @@ ED镜片主要是聚焦成像，消除色差。平场我理解成畸变矫正，
 
 大地8x25的详细规格如下:
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-treea-ed-8x25.jpg)
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-treea-ed-8x25.jpg)
 
 ## 开箱
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-1.JPG)
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-1.JPG)
 
 蔡司望远镜的包装纸盒，十分简单的白色盒子，贴了一个产品序号，不同于大多低价（千元级别）望远镜是"Made In China"，蔡司大地 8x25ED 这款是德国设计，日本制造，当时下定决心购买，「日本制造」这个还是一个挺重要的因素。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-2.JPG) ![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-5.JPG) 打开纸盒，里面还有一个流线型的塑料包装盒，全白色塑料，搭配蔡司蓝标，正面有个透明窗，展示出里面的蔡司望远镜。包装盒的质感还是挺不错的，反正我觉得比里面那个望远镜还好。
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-2.JPG) ![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-5.JPG) 打开纸盒，里面还有一个流线型的塑料包装盒，全白色塑料，搭配蔡司蓝标，正面有个透明窗，展示出里面的蔡司望远镜。包装盒的质感还是挺不错的，反正我觉得比里面那个望远镜还好。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-3.JPG)
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-3.JPG)
 
 侧面的封条，蔡司大陆这边是提供2年质保，有点短，我还想着这望远镜没电子元器件，能保个5年、10年呢。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-4.JPG)
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-4.JPG)
 
 塑料壳背后的序列号信息，跟外包装上的一样。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-6.JPG)
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-6.JPG)
 
 打开塑料盒，露出望远镜真身和说明书。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-8.JPG) ![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-9.JPG) 上面就是开箱的全部东西了，还送了两根肩带，可以绑在望远镜上（特别实用，建议绑上），出去旅游的时候可以挂在胸前，反正望远镜轻，也没啥负担，随手想看的时候，拿起来也方便。
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-8.JPG) ![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-9.JPG) 上面就是开箱的全部东西了，还送了两根肩带，可以绑在望远镜上（特别实用，建议绑上），出去旅游的时候可以挂在胸前，反正望远镜轻，也没啥负担，随手想看的时候，拿起来也方便。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-10.JPG) ![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-11.JPG)
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-10.JPG) ![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-11.JPG)
 
 大地8x25真身，专有的灰黑色，十分低调，塑料材质，防滑，手上出汗后，握持手感都还不错。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-22.JPG)
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-22.JPG)
 
 筒侧面的防滑纹理，一定程序上能防手滑跌落。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-14.JPG)
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-14.JPG)
 
 背部特写，大地8x25采收折叠设计，目镜也能旋转伸缩。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-17a.jpg) ![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-20.JPG) 正面的蔡司蓝标，还挺精致的。
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-17a.jpg) ![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-20.JPG) 正面的蔡司蓝标，还挺精致的。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-18.JPG)
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-18.JPG)
 
 调焦手轮，观测的时候能够**直接用食指拨动**调节，阻尼合适，对焦调节十分方便。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-21.JPG)
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-21.JPG)
 
 目镜旋转处的蓝色小环，写着 **TERRA ED**，**TERRA** 就是德语「土地、大地」的意思。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-16.JPG) ![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-23.JPG)
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-16.JPG) ![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-23.JPG)
 
 目镜，有点怕刮花，看样子得买个保护盖，安心点。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-25.JPG)
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-25.JPG)
 
 目镜伸出的样子，不戴眼镜观察就伸出来，戴眼镜时就不用伸，对于近视的同学(比如我）来说还算挺方便地。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-27.JPG) ![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-28.JPG) 与[一加3T](https://luolei.org/oneplus-3t-unboxing/)同台，便携小巧一下子体现出来了，单手把持毫无压力。
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-27.JPG) ![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-28.JPG) 与[一加3T](https://luolei.org/oneplus-3t-unboxing/)同台，便携小巧一下子体现出来了，单手把持毫无压力。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-32.JPG)
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-32.JPG)
 
 店家还送了一个收纳包，我这次旅行就带着这个包，望远镜一般就放包里丢驾驶座置物箱。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-29.JPG)
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-29.JPG)
 
 还送了一个手机小配件，可以用手机对准目镜拍摄，试了下iPhone8架上去，能拍出一个圆形效果，凑合了。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/zeiss-iphone.JPG)
+![](https://c2.is26.com/blog/2017/12/zeiss/zeiss-iphone.JPG)
 
 上图是 iPhone8 后置摄像头，通过蔡司大地8x25出来的效果，由于拍摄这天上海有点雾霾，所以远处看起来有点模糊，实际上显示效果十分棒，色差，畸变都控制得很好，对得起蔡司的品牌，在户外光线良好的实际体验，真的就太棒了。
 
@@ -152,10 +152,10 @@ ED镜片主要是聚焦成像，消除色差。平场我理解成畸变矫正，
 
 总之，我觉得这台蔡司大地8x25，给我的旅途带来了新的乐趣。我之前写大疆无人机的时候，评论过一句「如果说 Gopro 提供了一个上天下海的视角，那么无人机带来了上帝视角」，回想一下，上一次带给我旅行惊喜体验的物件，也就是无人机（我也有VR全景相机，但并不像无人机那么给我带来那么大的惊喜），这一次购买蔡司这款望远镜，也算是的的确确又带给我一个新的观察视角。在这里还是推荐一下经常旅游的朋友，尤其是户外旅游爱好者，可以买一个便携小巧的望远镜。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/tahoe.JPG) 在太浩湖滑雪的时候，山上没有信号，休息的时候，我还真的是用望远镜，找到了滑雪的老婆。
+![](https://c2.is26.com/blog/2017/12/zeiss/tahoe.JPG) 在太浩湖滑雪的时候，山上没有信号，休息的时候，我还真的是用望远镜，找到了滑雪的老婆。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/yosemite.jpg) 优胜美地徒步，带着望远镜，能够「更近」地观察到远处的山谷。
+![](https://c2.is26.com/blog/2017/12/zeiss/yosemite.jpg) 优胜美地徒步，带着望远镜，能够「更近」地观察到远处的山谷。
 
-![](https://c2.llyz.xyz/blog/2017/12/zeiss/z-1.JPG) ![](https://c2.llyz.xyz/blog/2017/12/zeiss/z-3.jpg)
+![](https://c2.is26.com/blog/2017/12/zeiss/z-1.JPG) ![](https://c2.is26.com/blog/2017/12/zeiss/z-3.jpg)
 
 最后放两张场景照，分别拍摄于拱门国家公园和优胜美地。这次美西自驾，拍了1.5T的照片和视频素材，6000多张照片，慢慢整理中，过段时间跟大家分享。

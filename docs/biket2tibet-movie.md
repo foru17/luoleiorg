@@ -1,7 +1,7 @@
 ---
 title: 骑行去西藏 | 高清原创短片《间隔年,骑行去西藏》
 date: "2012-06-17"
-cover: https://c2.llyz.xyz/wp-image/2012/06/bike2tibet-dream.png
+cover: https://c2.is26.com/wp-image/2012/06/bike2tibet-dream.png
 tags:
   - travel
   - tibet

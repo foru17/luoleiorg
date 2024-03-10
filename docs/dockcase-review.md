@@ -1,12 +1,12 @@
 ---
 title: DockCase P1:让 MacBook Pro 电源适配器秒变拓展坞
-date: '2019-09-11'
-cover: https://c2.llyz.xyz/blog/2019/09/dockcase/dc-18.JPG
+date: "2019-09-11"
+cover: https://c2.is26.com/blog/2019/09/dockcase/dc-18.JPG
 categories:
-- tech
-- zuoluotv
+  - tech
+  - zuoluotv
 tags:
-- digital
+  - digital
 ---
 
 上周，DockCase的工作人员联系到我，问我有没有兴趣试用他们的 MacBook Pro DockCase 拓展坞 。
@@ -30,33 +30,33 @@ DockCase这个产品，之前是在国外发售，有不少外网的媒体已经
 
 ## 开箱
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-1.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-1.JPG)
 
 DockCase有两个HDMI和QC两个版本，针对15寸和13寸MBP的电源头都有。由于我的另外一个拓展坞有HDMI接口了，这次我就选择了QC版本的。
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-2.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-2.JPG)
 
 包装盒很低调，封面上标注了一些基本接口和功能。
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-4.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-4.JPG)
 
 盒子内的说明书，不用看系列。
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-5.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-5.JPG)
 
 这就是盒子里的全部东西了，一个 DockCase 本体，一个说明书。DockCase 整体是白色塑料，有一定的磨砂质感。
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-6.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-6.JPG)
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-19.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-19.JPG)
 
 DockCase 内有附送一个 TypeC 线，能够传输数据的那种，电源线略粗，比MBP自带的电源线要硬不少。
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-7.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-7.JPG)
 
 DockCase 真身，底部印有产品信息，全名叫"DockCase Adapter QC for MacBook Pro 15"，适用于15寸MBP的87W电源适配器，下面的小字密密麻麻印着电压、接口信息相关的参数。
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-9.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-9.JPG)
 
 DockCase 正面接口一览，从上往下分别是:
 
@@ -67,49 +67,49 @@ DockCase 正面接口一览，从上往下分别是:
 - USB-A 3.0接口
 - USB-A 3.0接口
 
-3.0接口是蓝色的，跟2.0白色有区分。接上设备的时候，最上面的D字会亮。
+  3.0接口是蓝色的，跟2.0白色有区分。接上设备的时候，最上面的D字会亮。
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-8.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-8.JPG)
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-11.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-11.JPG)
 
 DockÇase与MBP 87W原装电源对比，高出了一个头。
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-12.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-12.JPG)
 
 直接把MBP原装的电源塞进去，DockCase里面有一个TypeC公头。
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-15.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-15.JPG)
 
 DockCase上面还有一个小卡扣，用于固定MBP电源。
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-17.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-17.JPG)
 
 做工还是挺不错的，贴合很紧密，塞进去刚好，不松不紧。
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dockcase.gif)
+![](https://c2.is26.com/blog/2019/09/dockcase/dockcase.gif)
 
 官网有一个示意图，很清晰地说明了DockCase的结构原理。
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-13.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-13.JPG)
 
 合体之后，变成了一个大号的电源头。
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-18.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-18.JPG)
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-20.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-20.JPG)
 
 MBP原来的87W电源重量就不轻，合体后分量还是挺足的。
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-22.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-22.JPG)
 
 使用起来也很简单，接上电源后，直接把TypeC线，接上MBP就可以了,MBP正常充电，但是这个时候DockCase在充电的同时，也变成了一个拓展坞，能够正常使用上面的USB接口。
 
 在这里说明一下，DockCase不仅可以在通电情况下使用，在不通电（不接电源）的情况下，能够启动"Dock Mode"，直接变成 MacBook 的拓展坞。
 
-![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-23.JPG)
+![](https://c2.is26.com/blog/2019/09/dockcase/dc-23.JPG)
 
-## ![](https://c2.llyz.xyz/blog/2019/09/dockcase/dc-24.JPG)
+## ![](https://c2.is26.com/blog/2019/09/dockcase/dc-24.JPG)
 
 有时候，电源插头可能要插到墙上，不方便，在这里有一个技巧，其实MBP的电源转换头，是可以拆下来的，使用的通用的8字电源线，淘宝上面10块钱一根，MBP电源专用的延长线（如图这种）也就小几十元。这样就能够解决插墙上不方便的问题了。
 

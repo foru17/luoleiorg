@@ -1,11 +1,11 @@
 ---
 title: 编程三年:我的程序员成长经历
-date: '2016-11-06'
-cover: https://c2.llyz.xyz/blog/2016/11/qq3.jpg
+date: "2016-11-06"
+cover: https://c2.is26.com/blog/2016/11/qq3.jpg
 categories:
-- code
+  - code
 tags:
-- code
+  - code
 ---
 
 很久没有聊工作相关的话题。最近有不少朋友在微博、知乎或者博客留言，其中有不少在校学生，询问我职业相关的建议。
@@ -155,4 +155,4 @@ Sivagao和郭宇是我大学校友，江昪是我入职猎豹最先认识的朋�
 
 最后，我会不定期地收集各位的问题:关于工作、关于学习、关于成长、关于旅行。会挑选一些问题统一在我的博客和公众号回答。
 
-![](https://c2.llyz.xyz/wechat.png)
+![](https://c2.is26.com/wechat.png)

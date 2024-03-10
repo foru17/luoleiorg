@@ -1,13 +1,13 @@
 ---
 title: 旅拍伴侣:智云Z1-Smooth-C 2三轴稳定器
-date: '2016-04-09'
-cover: https://c2.llyz.xyz/blog/2016/04/zhiyun/z10.JPG
+date: "2016-04-09"
+cover: https://c2.is26.com/blog/2016/04/zhiyun/z10.JPG
 tags:
-- photography
-- digital
+  - photography
+  - digital
 ---
 
-![cover](https://c2.llyz.xyz/blog/2016/04/zhiyun/z10.JPG)
+![cover](https://c2.is26.com/blog/2016/04/zhiyun/z10.JPG)
 
 在上一篇[用iPhone能拍出什么样的旅行视频?](https://luolei.org/meet-in-seoul-a-iphone-travel-video/)，我分享了三月底在首尔旅行拍摄的小视频。
 
@@ -21,15 +21,15 @@ DJI的osmo就是一个摄像头和云台一体的三轴稳定器，可是osmo三
 
 DJI的[osmo](https://www.dji.com/cn/product/osmo)就是一个摄像头和云台一体的三轴稳定器。
 
-![](https://c2.llyz.xyz/blog/2016/04/zhiyun/z10.JPG)
+![](https://c2.is26.com/blog/2016/04/zhiyun/z10.JPG)
 
 从广西发货，三天后到手，拆开之后，是一个白色的盒子，正面上有稳定器的信息。
 
-![](https://c2.llyz.xyz/blog/2016/04/zhiyun/z4.JPG)
+![](https://c2.is26.com/blog/2016/04/zhiyun/z4.JPG)
 
 背面有稳定器的附件清单和基本结构。
 
-![](https://c2.llyz.xyz/blog/2016/04/zhiyun/z3.JPG)
+![](https://c2.is26.com/blog/2016/04/zhiyun/z3.JPG)
 
 掀开盖子，就是我们的稳定器正身了，中英日文说明书、保修卡、客服信息等均齐全。配件含:
 
@@ -39,17 +39,17 @@ DJI的[osmo](https://www.dji.com/cn/product/osmo)就是一个摄像头和云台�
 - USB充电数据线
 - 稳定器配重
 
-![](https://c2.llyz.xyz/blog/2016/04/zhiyun/z2.JPG)
+![](https://c2.is26.com/blog/2016/04/zhiyun/z2.JPG)
 
 俯视照。
 
-![](https://c2.llyz.xyz/blog/2016/04/zhiyun/z12.JPG)
+![](https://c2.is26.com/blog/2016/04/zhiyun/z12.JPG)
 
 相比Z1-Smooth-C，二代最大的变化就是摇杆，下图为一代的三点控制。这种无极摇杆，操作起来更加自然。
 
-![](https://c2.llyz.xyz/blog/2016/04/zhiyun/z16.jpg)
+![](https://c2.is26.com/blog/2016/04/zhiyun/z16.jpg)
 
-![](https://c2.llyz.xyz/blog/2016/04/zhiyun/z11.JPG)
+![](https://c2.is26.com/blog/2016/04/zhiyun/z11.JPG)
 
 Z1-Smooth C-2使用的是18350电池，但是可以通过购买[18650 加长套筒](https://s.taobao.com/search?q=%E6%99%BA%E4%BA%91+18650&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20160409)使用相对而言更加常见的18650电池，以获得更长时间的续航。
 
@@ -57,17 +57,15 @@ Z1-Smooth C-2使用的是18350电池，但是可以通过购买[18650 加长套�
 
 > 你的手机、Gopro、小蚁之类的肯定会更早没电。
 
-![](https://c2.llyz.xyz/blog/2016/04/zhiyun/z15.JPG)
+![](https://c2.is26.com/blog/2016/04/zhiyun/z15.JPG)
 
 电池是通过底部插入，做工还是挺不错的。
 
-![](https://c2.llyz.xyz/blog/2016/04/zhiyun/z1.JPG)
+![](https://c2.is26.com/blog/2016/04/zhiyun/z1.JPG)
 
 顶部就是云台和卡槽，可以放下5到6.5寸的设备，iPhone6和Plus都完美适配。
 
 #### 演示视频
-
- 
 
 大部分都是通过iPhone6拍摄的旅行视频，画面稳定性相比以前自拍杆搭配Gopro或者小蚁的组合，好的可不是一丢丢。
 

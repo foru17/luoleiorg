@@ -1,7 +1,7 @@
 ---
 title: 比特素养:信息过载时代的生产力
 date: "2013-07-25"
-cover: https://c2.llyz.xyz/wp-image/2013/07/dna-nano-tech-desktop.jpg
+cover: https://c2.is26.com/wp-image/2013/07/dna-nano-tech-desktop.jpg
 tags:
   - read
 ---

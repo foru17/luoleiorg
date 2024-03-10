@@ -1,22 +1,22 @@
 ---
 title: Filco 圣手二代蓝牙版:开箱体验
-date: '2017-03-06'
-cover: https://c2.llyz.xyz/blog/2017/03/flico-12.jpg
+date: "2017-03-06"
+cover: https://c2.is26.com/blog/2017/03/flico-12.jpg
 categories:
-- tech
+  - tech
 tags:
-- digital
+  - digital
 ---
 
 ## 前言
 
 2012年末，省了一个多星期的生活费，买了人生第一块机械键盘：国产的凯酷87键红轴，几年下来，这块键盘陪着我，在大学的宿舍里玩了一盘又一盘使命召唤，写下了在猎豹移动实习的第一段代码，陪着我来到了上海，也算是见证了我程序员职业生涯的开始。
 
-![](https://c2.llyz.xyz/blog/2017/03/taobao.png)
+![](https://c2.is26.com/blog/2017/03/taobao.png)
 
 2015年光棍节，当时还是女朋友的杨左送了我一块白色的HHKB Pro2[:参考《Review of 2015:剁手篇》](https://luolei.org/review-or-2015-gadget/),从那以后，已经很久没有关注过外设了。
 
-![](https://c2.llyz.xyz/blog/2016/01/buy/hhkb1.JPG)
+![](https://c2.is26.com/blog/2016/01/buy/hhkb1.JPG)
 
 HHKB作为一款「传说中的退烧神器」，60键的小巧身段，挺不错的手感，适合程序员的按键布局，某种程度上，的确让我不再对其他键盘产品抱有什么兴趣。
 
@@ -28,55 +28,55 @@ HHKB作为一款「传说中的退烧神器」，60键的小巧身段，挺不�
 
 ## 开箱
 
-![](https://c2.llyz.xyz/blog/2017/03/flico-1.jpg)
+![](https://c2.is26.com/blog/2017/03/flico-1.jpg)
 
 拆开包装，露出圣手二代黑蓝色的包装盒，Flico是日本品牌，外设领域高端品牌，挺不便宜的价格背后，也是一个高端的品质保证，外设领域，数得上的牌子也屈指可数。
 
-![](https://c2.llyz.xyz/blog/2017/03/flico-2.jpg)
+![](https://c2.is26.com/blog/2017/03/flico-2.jpg)
 
 正面映有圣手二代的英文符号，还有大大的蓝牙标识，没错，蓝牙版是这款键盘的一大特色，也是我最看重的功能。由于我的桌子上面有两个显示器、一台PC一台Mac，两个键盘，两个鼠标，一堆线缆也的确让人有点抓狂。
 
-![](https://c2.llyz.xyz/blog/2017/03/flico-3.jpg)
+![](https://c2.is26.com/blog/2017/03/flico-3.jpg)
 
 感谢极果网提供的体验机会，大家也可以登录极果网申请其他产品的体验，种类还挺多的。
 
-![](https://c2.llyz.xyz/blog/2017/03/flico-6.jpg)
+![](https://c2.is26.com/blog/2017/03/flico-6.jpg)
 
 这次收到的104键茶轴版本，很久没有收到过全尺寸键盘了，从凯酷87键到HHKB的60键，由于工作敲代码，大部分时间只需要用到左侧的主键盘区域，对小键盘倒还算是喜欢，我以前都背着键盘上下班。
 
-![](https://c2.llyz.xyz/blog/2017/03/flico-7.jpg)
+![](https://c2.is26.com/blog/2017/03/flico-7.jpg)
 
 掀起盖头，见到了键盘真身，第一眼看到这崭新的全黑色键盘的时候，倒有点感动，想到自己拿已经有点奶黄的白色HHKB，掩面。
 
-![](https://c2.llyz.xyz/blog/2017/03/flico-8.jpg)
+![](https://c2.is26.com/blog/2017/03/flico-8.jpg)
 
 键盘盒子里内附两个SONY的五号电池，原来大法家还出电池。
 
-![](https://c2.llyz.xyz/blog/2017/03/flico-9.jpg)
+![](https://c2.is26.com/blog/2017/03/flico-9.jpg)
 
 摆到工位的桌子上，这下没有一根线拖着了，桌面倒清爽了点。
 
-![](https://c2.llyz.xyz/blog/2017/03/flico-10.jpg)
+![](https://c2.is26.com/blog/2017/03/flico-10.jpg)
 
 键盘这几十年走来，基本布局没有发生过多大变化，圣手二代作为一代经典产品，我想用小米的那句「没有设计就是最好的设计」来总结就足够了。
 
-![](https://c2.llyz.xyz/blog/2017/03/flico-12.jpg)
+![](https://c2.is26.com/blog/2017/03/flico-12.jpg)
 
 中间的功能键区和右侧的小键盘区，对于程序员来说用得机会倒不多，但是对于文案、财务和游戏玩家来说，就实用多了。
 
-![](https://c2.llyz.xyz/blog/2017/03/flico-13.jpg)
+![](https://c2.is26.com/blog/2017/03/flico-13.jpg)
 
 再远远地来一张照片，我的工位上面除了iMac还有一个显示器，没有支架，只能拿电池收纳盒临时充当一下。
 
-![](https://c2.llyz.xyz/blog/2017/03/flico-14.jpg)
+![](https://c2.is26.com/blog/2017/03/flico-14.jpg)
 
 背后的铭牌和模式调节（蓝色部分），Made In Taiwan，台湾的其他几个外设品牌品质倒也不错。
 
-![](https://c2.llyz.xyz/blog/2017/03/flico-15.jpg)
+![](https://c2.is26.com/blog/2017/03/flico-15.jpg)
 
 侧颜照。
 
-![](https://c2.llyz.xyz/blog/2017/03/flico-16.jpg)
+![](https://c2.is26.com/blog/2017/03/flico-16.jpg)
 
 底部也有调节支架，可以调节键盘高低，我一般喜欢平放。
 

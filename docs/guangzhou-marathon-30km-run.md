@@ -1,13 +1,13 @@
 ---
 title: 跑步 | 广州马拉松30km训练小记
-date: '2013-10-14'
-cover: https://c2.llyz.xyz/wp-image/2013/10/run-prepare.jpeg
+date: "2013-10-14"
+cover: https://c2.is26.com/wp-image/2013/10/run-prepare.jpeg
 categories:
-- lifestyle
+  - lifestyle
 tags:
-- run
-- sports
-- e9a9ace68b89e69dbe
+  - run
+  - sports
+  - e9a9ace68b89e69dbe
 ---
 
 今天这篇文章，不谈技术、不谈互联网，就谈谈自己最近的生活和跑步。
@@ -26,15 +26,15 @@ tags:
 
 在一位身材颇好的大哥的带领下，大家首先做热身运动，大家欢声笑语，认识的没认识的相互勾搭调侃，好不热闹。
 
-![run-ready](https://c2.llyz.xyz/wp-image/2013/10/run-prepare.jpeg)
+![run-ready](https://c2.is26.com/wp-image/2013/10/run-prepare.jpeg)
 
-![run-ready-jump](https://c2.llyz.xyz/wp-image/2013/10/prepare-2.jpeg)
+![run-ready-jump](https://c2.is26.com/wp-image/2013/10/prepare-2.jpeg)
 
 距离广州马拉松(11月23日)还有一个多月的时间，今天来的跑友中有不少报名参加了今年的广马，跑步路线也就是按照广马的路线来，有兴趣的同学可以看一下广马今年官方公布的[路线图](https://www.guangzhou-marathon.com/index/race_road)。今天的训练，也当做了提前适应时间（广马7点30开跑）和路线。
 
 按照强度，今天分为16km，21km（半马），30km 三组，我今天就是奔着挑战30km 来的。刚刚在百度地图上标记了一下，路线如下（基本符合了广马路线:有些路段沿着江边人行道跑没上马路），显示是27.5km，应该是有误差了，队伍中我们有几个队友开着手机全程导航，肯定是达到了30+km 的。
 
-![run-road-map](https://c2.llyz.xyz/wp-image/2013/10/run-road.png)
+![run-road-map](https://c2.is26.com/wp-image/2013/10/run-road.png)
 
 将近7点50开跑，一开跑队伍就分成了三波，16km 和21km 的高手一下子就到了前头，我们这些跑30的就在后面慢慢的跟跑。今天广州天气还不错，25度-29度的样子，太阳照着有点热。
 
@@ -74,13 +74,13 @@ tags:
 
 _[Moves](https://www.wandoujia.com/apps/com.protogeo.moves)_
 
-![moves-app](https://c2.llyz.xyz/wp-image/2013/10/moves.png)
+![moves-app](https://c2.is26.com/wp-image/2013/10/moves.png)
 
 免费，一款十分简约的计步应用，利用手机的陀螺仪，依靠智能算法判断你的运动状态（走路、跑步、骑行），还能开启 GPS 记录路径，曾经获得豌豆荚设计奖。(话说，有没有觉得 Moves 的 icon 很像摩托罗拉)。
 
 _[咕咚运动](https://www.wandoujia.com/apps/com.codoon.gps)_
 
-![gudong-app](https://c2.llyz.xyz/wp-image/2013/10/gudong.png)
+![gudong-app](https://c2.is26.com/wp-image/2013/10/gudong.png)
 
 免费，一款国内的运动 app，利用 GPS，记录每天的运动，可选择不同的运动种类，还有社交群组功能。遗憾的是，不知道是咕咚的问题还是我手机的问题，经常遇到跑了一段时间运动还在进行，GPS 停止运动里程不再添加的 bug。
 

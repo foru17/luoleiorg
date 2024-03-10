@@ -1,7 +1,7 @@
 ---
 title: 川藏线上「蹭吃蹭喝」不可耻
 date: "2012-07-12"
-cover: https://c2.llyz.xyz/wp-image/2012/07/318-debt.jpg
+cover: https://c2.is26.com/wp-image/2012/07/318-debt.jpg
 ---
 
 今天在某知名门户看到一条川藏线相关的新闻 [晒川藏线蹭吃蹭喝攻略网友拍砖：“厚脸皮”](https://cd.qq.com/a/20120711/000045.htm)。
@@ -10,7 +10,7 @@ cover: https://c2.llyz.xyz/wp-image/2012/07/318-debt.jpg
 
 现在这个西安妹纸正在风口浪尖，她的一条微博在网上引起了很大的争议，招来骂声无数。搜索「川藏线蹭吃蹭喝」关键字，各大门户也都报道了这件事情，随便点了几个热门的门户看了看新闻下面的评论，也是批评、谩骂的声音占主流。
 
-![](https://c2.llyz.xyz/wp-image/2012/07/318-debt-news.png)
+![](https://c2.is26.com/wp-image/2012/07/318-debt-news.png)
 
 而这一切，都源于这个妹纸的一条微博和这条微博的图片。详情就不在这篇博文多说，大家看一眼就知道大概。
 
@@ -28,7 +28,7 @@ cover: https://c2.llyz.xyz/wp-image/2012/07/318-debt.jpg
 >
 > ……
 >
-> ![](https://c2.llyz.xyz/wp-image/2012/07/318-debt-weibo.png)
+> ![](https://c2.is26.com/wp-image/2012/07/318-debt-weibo.png)
 
 ## 一路之缘
 

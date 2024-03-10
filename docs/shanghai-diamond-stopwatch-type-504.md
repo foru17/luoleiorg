@@ -1,50 +1,50 @@
 ---
 title: 200块买了块国产表:上海钻石牌504机械秒表
-date: '2017-12-08'
-cover: https://c2.llyz.xyz/blog/2017/12/stopwatch/watch-12.JPG
+date: "2017-12-08"
+cover: https://c2.is26.com/blog/2017/12/stopwatch/watch-12.JPG
 categories:
-- tech
-- lifestyle
+  - tech
+  - lifestyle
 ---
 
 一秒，意味着什么，一天有86400秒，一年有31536000秒，有时候心里觉得自己还挺年轻的，也希望自己「真」的挺年轻，突然看到现在的小年轻都是95后乃至00后，微博或者八卦上面出现的小鲜肉我不认识后，才揭破了自欺欺人的假象，知道自己真的是「不小」了。
 
 今年过得十分快，发生了很多事情，二月第一次去美国，在洛杉矶求了婚；回国后，回深圳领了结婚证；上半年由于种种缘由，各种事务，过得并不是很顺利；下半年，公司上了市；上个月，跟老婆去美国度了一个蜜月；上个周日回到上海，这一周，每天下班回家，吃完饭就睡觉，不看书，不修照片，不剪视频，不写公众号文章，每天早上7点自然醒，没有压力，觉得两人生活，没有啥追求的话，真的是可以活得好轻松，当一个懒人真幸福。
 
-![](https://c2.llyz.xyz/blog/2017/12/stopwatch/youtube-stopwatch.jpg)
+![](https://c2.is26.com/blog/2017/12/stopwatch/youtube-stopwatch.jpg)
 
-今天给大家做一个开箱，这次去美国之前，看国外一个Youtube博主的视频 [S A L T](https://www.youtube.com/watch?v=Jet37X1vG4U&t=5s)，看到某个镜头出现了一个机械秒表，很带感，一下子勾起了自己的兴趣，搜了搜，发现上海星钻（原上海秒表厂）这块型号504的机械秒表有在网上售卖，做工和设计很「国产」 。不到200的价格，就直接下单，没啥用途，当摆拍道具了。京东的链接:[https://zuoluo.tv/stopwatch](https://zuoluo.tv/stopwatch) 。 ![](https://c2.llyz.xyz/blog/2017/12/stopwatch/watch-1.JPG)
+今天给大家做一个开箱，这次去美国之前，看国外一个Youtube博主的视频 [S A L T](https://www.youtube.com/watch?v=Jet37X1vG4U&t=5s)，看到某个镜头出现了一个机械秒表，很带感，一下子勾起了自己的兴趣，搜了搜，发现上海星钻（原上海秒表厂）这块型号504的机械秒表有在网上售卖，做工和设计很「国产」 。不到200的价格，就直接下单，没啥用途，当摆拍道具了。京东的链接:[https://zuoluo.tv/stopwatch](https://zuoluo.tv/stopwatch) 。 ![](https://c2.is26.com/blog/2017/12/stopwatch/watch-1.JPG)
 
 秒表采用黑色的盒子，现在上海秒表厂已经改名叫「上海星钻秒表公司」。
 
-![](https://c2.llyz.xyz/blog/2017/12/stopwatch/watch-2.JPG) ![](https://c2.llyz.xyz/blog/2017/12/stopwatch/watch-4.JPG)
+![](https://c2.is26.com/blog/2017/12/stopwatch/watch-2.JPG) ![](https://c2.is26.com/blog/2017/12/stopwatch/watch-4.JPG)
 
 打开盒子，盒子内有一个机械秒表、一根黑色的挂绳、一本小说明书。
 
-![](https://c2.llyz.xyz/blog/2017/12/stopwatch/watch-5.JPG)
+![](https://c2.is26.com/blog/2017/12/stopwatch/watch-5.JPG)
 
 说明书很有「国产」的味道，上面简单写了一些秒表的基本参数。
 
-![](https://c2.llyz.xyz/blog/2017/12/stopwatch/watch-6.JPG)
+![](https://c2.is26.com/blog/2017/12/stopwatch/watch-6.JPG)
 
 这就是504秒表本身，钻石秒表有504、505、803、806几个型号，504和803最小读秒值是0.1秒，分针是15分一圈、秒针是30秒一圈；其中505、806多了一个暂定按钮，考虑到我买这个机械秒表是为了摆拍，还是喜欢对称点的造型，最终选择了504。
 
-![](https://c2.llyz.xyz/blog/2017/12/stopwatch/watch-7.JPG) ![](https://c2.llyz.xyz/blog/2017/12/stopwatch/watch-13.JPG) 开始计时按钮顶部是蓝色的。
+![](https://c2.is26.com/blog/2017/12/stopwatch/watch-7.JPG) ![](https://c2.is26.com/blog/2017/12/stopwatch/watch-13.JPG) 开始计时按钮顶部是蓝色的。
 
-![](https://c2.llyz.xyz/blog/2017/12/stopwatch/watch-10.JPG)
+![](https://c2.is26.com/blog/2017/12/stopwatch/watch-10.JPG)
 
-![](https://c2.llyz.xyz/blog/2017/12/stopwatch/watch-12.JPG)
+![](https://c2.is26.com/blog/2017/12/stopwatch/watch-12.JPG)
 
 来几张微距，相比手表，做工上的差距还是挺明显的，表盘上还有明显看得到的瑕疵，老字号传统「国货」即时感。机械秒表更多是体育教学用，在电子表普及之前更为常见，有印象中小学（90年代)体育老师基本都会有一个，等到了2000年后，体育老师基本都用上电子秒表了。
 
-![](https://c2.llyz.xyz/blog/2017/12/stopwatch/watch-14.JPG)
+![](https://c2.is26.com/blog/2017/12/stopwatch/watch-14.JPG)
 
 顶部开始按键，顺时针波动就是上发条，第一次按下后就开始计时，第二次按下停止，再按下就归位；计时的时候，能够听到秒针跳动的声音，盯着看也挺带感的。
 
-![](https://c2.llyz.xyz/blog/2017/12/stopwatch/watch-15.JPG)
+![](https://c2.is26.com/blog/2017/12/stopwatch/watch-15.JPG)
 
 要说这秒表的准确性，忽略吧，手机基本都自带计时器功能，现在买机械秒表的，实用性可能真的没多少了。情怀收藏是一个，买来当道具摆卖（比如我）是一个，另外唯一我能想到的就是户外旅行或者勘探，在电子设备没电的情况下做个兜底备份？
 
-![](https://c2.llyz.xyz/blog/2017/12/stopwatch/stopwatch-model.jpg)
+![](https://c2.is26.com/blog/2017/12/stopwatch/stopwatch-model.jpg)
 
 本来买这个表是想着拍视频用，物流送到公司那天，刚好公司安排拍形象照，就顺手用这个表当成了一个道具，原图未修，不饶人，已经被好多朋友吐槽成了一个胖子了。

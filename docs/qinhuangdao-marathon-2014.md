@@ -1,11 +1,11 @@
 ---
 title: 马拉松 | 2014秦皇岛马拉松 | 人生第一次全程马拉松
-date: '2014-09-12'
-cover: https://c2.llyz.xyz/wp-image/2014/10/marathon2.jpg
+date: "2014-09-12"
+cover: https://c2.is26.com/wp-image/2014/10/marathon2.jpg
 categories:
-- lifestyle
+  - lifestyle
 tags:
-- run
+  - run
 ---
 
 > 42.195公里，4小时46分钟的欢声，笑语，汗水，泪水，痛苦，麻木，坚持......迟到了一年的奖牌，拿到啦。想想自己的名字要刻在海滨秦皇岛的纪念碑上，还有点小得瑟呢（其实很得瑟 ﾉ( ´ ▽ \` )ﾉ )
@@ -20,7 +20,7 @@ tags:
 
 ## 首先亮个证
 
-![](https://c2.llyz.xyz/wp-image/2014/10/2014qinhuangdao.png)
+![](https://c2.is26.com/wp-image/2014/10/2014qinhuangdao.png)
 
 ## 前言
 
@@ -78,7 +78,7 @@ tags:
 
 这是我的第一场马拉松赛事，一个人在秦皇岛也玩了两天，也当做是来北京工作后第一次外出散心。怕工作有急事，带了笔记本，但也没怎么开过，两天的时光，也就是看了看书，逛了逛城市，看了看宾馆窗外的安安静静的河和河畔的柳树。
 
-![](https://c2.llyz.xyz/wp-image/2014/10/marathon4.jpg)
+![](https://c2.is26.com/wp-image/2014/10/marathon4.jpg)
 
 工作之后，自己一直处在一种很「忙」的状态，满是欲望，满是动力。这次马拉松，即是自己「跑之欲」的一种达成和释放，也是其他欲望的一种放空，暂时地享受这个海边城市的一个周末的宁静。
 
@@ -98,4 +98,4 @@ tags:
 
 「加油，小伙子」
 
-![](https://c2.llyz.xyz/wp-image/2014/10/marathon2.jpg)
+![](https://c2.is26.com/wp-image/2014/10/marathon2.jpg)

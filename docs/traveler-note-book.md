@@ -1,7 +1,7 @@
 ---
 title: 做一本Traveler's Notebook
 date: "2012-04-21"
-cover: https://c2.llyz.xyz/wp-image/2012/04/tbook2.jpg
+cover: https://c2.is26.com/wp-image/2012/04/tbook2.jpg
 tags:
   - DIY
 ---
@@ -12,15 +12,15 @@ tags:
 
 半个月过去了，小本子里的东西也开始逐渐地丰富了起来：朋友的明信片，女朋友的照片，西藏之行所需的资料和证件，自己还随手PS做了一张「户外紧急联络卡」，写上自己的相关信息，以防意外。
 
-![card318](https://c2.llyz.xyz/wp-image/2012/04/card318.jpg)
+![card318](https://c2.is26.com/wp-image/2012/04/card318.jpg)
 
-![tbook2](https://c2.llyz.xyz/wp-image/2012/04/tbook2.jpg)
+![tbook2](https://c2.is26.com/wp-image/2012/04/tbook2.jpg)
 
-![tbook3](https://c2.llyz.xyz/wp-image/2012/04/tbook3.jpg)
+![tbook3](https://c2.is26.com/wp-image/2012/04/tbook3.jpg)
 
 #### 什么是Traveler’s Notebook
 
-> ![Midori-Travelers-Notebook](https://c2.llyz.xyz/wp-image/2012/04/Midori-Travelers-Notebook.jpg)
+> ![Midori-Travelers-Notebook](https://c2.is26.com/wp-image/2012/04/Midori-Travelers-Notebook.jpg)
 > Traveler's Notebook是日本文具品牌Midori的旗舰产品，全球有无数的拥趸，旅行笔记、写作灵感、绘画手稿、规划日程，它都是你的好帮手。可以放进口袋的护照尺寸。请更加自由轻快的记录下您的想法重要的记录制成小剪报，让它成为Traveler's Notebook的记忆吧！
 
 [https://www.travelers-notebook.com/](https://www.travelers-notebook.com/)
@@ -43,11 +43,11 @@ tags:
 
 上面那句话开玩笑的。说到DIY，不由感慨一下中国学生动手能力之差，从小到大，大部分学生就是读书！读书！读书！！！经济发展带来商品的丰富和廉价，中国低廉的人力成本耶让大家没有动力去学一门「手工活」。
 
-![toolroom](https://c2.llyz.xyz/wp-image/2012/04/toolroom.jpg)看美国影视作品，经常被里面家庭男主人的「车库」里的工具墙所吸引，上至修汽车建木屋，下到通马桶换灯泡，玩弄各种千奇百怪的工具于手掌之中，解决居家各种问题。
+![toolroom](https://c2.is26.com/wp-image/2012/04/toolroom.jpg)看美国影视作品，经常被里面家庭男主人的「车库」里的工具墙所吸引，上至修汽车建木屋，下到通马桶换灯泡，玩弄各种千奇百怪的工具于手掌之中，解决居家各种问题。
 
 想当初，现在众多人的「偶像」乔布斯，也是在车库中，跟苹果公司1号员工沃兹尼亚克用车库里的工具，自己做出电路板蓝盒，赚得人生第一桶金，鼓励「折腾」的「车库文化」，小美们从小就要学会自己动手解决问题，不难想象为什么美国高中生就能搞出核反应堆了。
 
-> ### ![usachild](https://c2.llyz.xyz/wp-image/2012/04/usachild.jpg)《美国14岁少年造出核反应堆》
+> ### ![usachild](https://c2.is26.com/wp-image/2012/04/usachild.jpg)《美国14岁少年造出核反应堆》
 >
 > 美国17岁少年泰勒·威尔逊看上去和普通高中生没有什么两样，他的最大梦想就是要成为一个明星，而这个梦想在他14岁的时候便已实现。泰勒目前是全球最年轻的核科学家，他在14岁时就完成了核聚变，而且总是不断地将惊奇带给身边的人，有关他的超凡故事还在继续。
 >
@@ -61,4 +61,4 @@ tags:
 >
 > \------@毛泽东 延安生产动员大会提出的动员口号
 
-![maodiy](https://c2.llyz.xyz/wp-image/2012/04/maodiy.jpg)
+![maodiy](https://c2.is26.com/wp-image/2012/04/maodiy.jpg)

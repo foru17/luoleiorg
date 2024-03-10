@@ -1,7 +1,7 @@
 ---
 title: 骑行去西藏.貳 | 出发前
 date: "2012-05-04"
-cover: https://c2.llyz.xyz/wp-image/2012/05/head55.jpg
+cover: https://c2.is26.com/wp-image/2012/05/head55.jpg
 tags:
   - travel
   - tibet
@@ -19,11 +19,11 @@ tags:
 
 都忘了自己是因为什么东西，不知道哪一次「心血来潮」，居然想着要骑川藏，潮来潮往，从最初的看论坛里其他人的游记，到此时此刻自己马上踏上川藏路，2012，我21岁的这波潮，的确有点不同凡响。
 
-![bike55](https://c2.llyz.xyz/wp-image/2012/05/bike55.jpg)
+![bike55](https://c2.is26.com/wp-image/2012/05/bike55.jpg)
 
 折腾近两个月，我的座驾终于装备齐全了，驮包、货架、脚撑、副把，买骑行需要的户外装备，一套下来，花了不少钱。这两天，临近出发，「身在威尼斯，心在318」，心中就在计量着还有多少小时出发。
 
-![bikebag](https://c2.llyz.xyz/wp-image/2012/05/bikebag.jpg)
+![bikebag](https://c2.is26.com/wp-image/2012/05/bikebag.jpg)
 
 行李不多，一个驮包，一个腰包（可以挂车首）。称了一下，没放单反和充电器进去，驮包加行李才5KG，一问同队的其他骑友，不少人都是10KG甚至15KG以上，不由让我紧张，心想到底是他们带多了，还是我带少了。
 

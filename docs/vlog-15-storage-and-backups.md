@@ -1,16 +1,16 @@
 ---
 title: 我的摄影储存解决方案 | ZUOLUOTV | VLOG15
-date: '2018-07-31'
-cover: https://c2.llyz.xyz/vlog/vlog15.jpg
+date: "2018-07-31"
+cover: https://c2.is26.com/vlog/vlog15.jpg
 categories:
-- zuoluotv
+  - zuoluotv
 tags:
-- zuoluotv
-- photography
-- e7a1ace4bbb6
+  - zuoluotv
+  - photography
+  - e7a1ace4bbb6
 ---
 
-![cover](https://c2.llyz.xyz/vlog/vlog15.jpg)
+![cover](https://c2.is26.com/vlog/vlog15.jpg)
 
 ## 视频
 

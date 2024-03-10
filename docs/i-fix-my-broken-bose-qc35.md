@@ -1,13 +1,13 @@
 ---
 title: 我花20元修好了2000块的 BOSE 降噪耳机  | VLOG53
-date: '2019-07-03'
-cover: https://c2.llyz.xyz/vlog/vlog53.jpg
+date: "2019-07-03"
+cover: https://c2.is26.com/vlog/vlog53.jpg
 categories:
-- tech
-- zuoluotv
+  - tech
+  - zuoluotv
 tags:
-- vlog
-- digital
+  - vlog
+  - digital
 ---
 
 ## 视频

@@ -1,13 +1,13 @@
 ---
 title: 在中国大陆免费体验 iPhone 手机 eSIM | VLOG36
-date: '2019-03-31'
-cover: https://c2.llyz.xyz/blog/2019/04/esim/v-1.jpg
+date: "2019-03-31"
+cover: https://c2.is26.com/blog/2019/04/esim/v-1.jpg
 categories:
-- zuoluotv
+  - zuoluotv
 tags:
-- zuoluotv
-- digital
-- ke-ji
+  - zuoluotv
+  - digital
+  - ke-ji
 ---
 
 ## 视频
@@ -38,7 +38,7 @@ tags:
 
 ## Club eSIM
 
-![](https://c2.llyz.xyz/blog/2019/04/esim/v-1.jpg)
+![](https://c2.is26.com/blog/2019/04/esim/v-1.jpg)
 
 这次视频中我体验的是 Club eSIM，直接在线申请，申请时需要一个香港的手机号码收验证码，有香港手机号的朋友可以试试。
 
@@ -54,13 +54,13 @@ tags:
 
 漫游支持中国大陆地区，网络是香港IP，支持访问Google、IG、Facbeook等服务，跟Cuniq UK和HK之类的香港漫游卡一样，适合应急。
 
-![](https://c2.llyz.xyz/blog/2019/04/esim/v-2.jpg)
+![](https://c2.is26.com/blog/2019/04/esim/v-2.jpg)
 
 **注意**:激活之后需要在 Club SIM 的 APP 中绑定eSIM(通过扫描邮件中的第二个二维码的形式）才能购买套餐之类，会提示你需要身份认证，可以直接联系客服提交身份资料。
 
 ## iPhone eSIM
 
-![](https://c2.llyz.xyz/blog/2019/04/esim/v-3.jpg) 申请成功后 Club Sim 会发一封带QR的邮件到你的邮箱，直接在`iPhone>蜂窝移动网络>添加蜂窝移动号码>扫描二维码`就能直接添加eSIM，**iPhone 最多支持存储8个eSIM号码**。
+![](https://c2.is26.com/blog/2019/04/esim/v-3.jpg) 申请成功后 Club Sim 会发一封带QR的邮件到你的邮箱，直接在`iPhone>蜂窝移动网络>添加蜂窝移动号码>扫描二维码`就能直接添加eSIM，**iPhone 最多支持存储8个eSIM号码**。
 
 添加完毕后，跟双卡iPhone设置类似，可以分别讲主副号设置为通话或者数据，也能只用eSIM不插实体SIM卡使用。
 

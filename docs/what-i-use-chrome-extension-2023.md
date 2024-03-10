@@ -1,7 +1,7 @@
 ---
 title: 我正在使用的 30 个 Chrome 插件
 date: "2023-10-04"
-cover: https://c2.llyz.xyz/blog/2023/10/chrome/c-3.jpg
+cover: https://c2.is26.com/blog/2023/10/chrome/c-3.jpg
 categories:
   - code
 tags:

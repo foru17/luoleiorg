@@ -1,10 +1,10 @@
 ---
 title: 我的云账单:2020年
-date: '2020-06-02'
-cover: https://c2.llyz.xyz/blog/2020/06/cloud/cloud1.jpg
+date: "2020-06-02"
+cover: https://c2.is26.com/blog/2020/06/cloud/cloud1.jpg
 categories:
-- lifestyle
-- code
+  - lifestyle
+  - code
 ---
 
 我分别在2015年和2017年，写过两篇有关「云账单」的文章，记录我在各种云服务、订阅上所花的钱：
@@ -14,7 +14,7 @@ categories:
 
 3年又过去了，各种云服务、会员服务已经遍布我们的生活，今天这篇文章，更新一下，2020年，我的云账单。这一次为了方便整理，特意学习使用Notion，整理了一份订阅管理列表。
 
-![](https://c2.llyz.xyz/blog/2020/06/cloud/cloud1.jpg)
+![](https://c2.is26.com/blog/2020/06/cloud/cloud1.jpg)
 
 整理完了之后发现，每个月的固定花销还是挺大的，不算那几个已经预付款买了几年的服务器，后续其他服务，每个月还要定时交的钱也有一千多，我的这个花销，应该算不小了。
 

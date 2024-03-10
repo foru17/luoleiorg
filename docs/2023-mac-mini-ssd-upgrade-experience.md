@@ -1,7 +1,7 @@
 ---
 title: "2023 Mac mini 外挂硬盘升级方案: 打造 2TB 苹果电脑"
 date: "2023-06-18"
-cover: https://c2.llyz.xyz/blog/2023/06/mini/mac-5.jpg
+cover: https://c2.is26.com/blog/2023/06/mini/mac-5.jpg
 categories:
   - tech
   - 开箱
@@ -44,33 +44,33 @@ tags:
 - 📼 硬盘盒: WERO 雷电 3/伪 USB4 双协议💰 ¥ 662
 - 💵 价格总计 ¥ 6257
 
-![](https://c2.llyz.xyz/blog/2023/06/mini/order-1.jpg)
+![](https://c2.is26.com/blog/2023/06/mini/order-1.jpg)
 
 除了 Mac mini 是通过北京消费券优惠满 6000-600，再叠加店铺满 6000-200  稍微麻烦的方案，其他硬件都是 618 优惠价格。
 
 ## 开箱
 
-![](https://c2.llyz.xyz/blog/2023/06/mini/mac-1.jpg)
+![](https://c2.is26.com/blog/2023/06/mini/mac-1.jpg)
 
 这就是今天的配件主角，WERO 的雷电硬盘盒和海力士 Solidigm P44 Pro 。现在 SSD 价格极其优惠，虽然甚至不到 600 就能买到国产的高速固态硬盘，但是由于我是打算给 Mac mini 用作系统盘，所以比较看着稳定性和质量，海力士这块 P44 Pro 算是第一梯队的高档产品，也不便宜。
 
-![](https://c2.llyz.xyz/blog/2023/06/mini/mac-2.jpg)
+![](https://c2.is26.com/blog/2023/06/mini/mac-2.jpg)
 
 这个就是 WERO 硬盘盒，采用雷电 3 和外挂 USB4 协议的双芯片方案，最高支持 40Gbps 传输速率，我也有看过阿卡西斯 acasis 的 TB405 硬盘盒，但是两个品牌优惠后价格并没有差太多，最终选择了 WERO。如果预算有限，并且只给 Mac 使用，也可以选择单雷电 3 芯片的盒子，价格会便宜不少。
 
-![](https://c2.llyz.xyz/blog/2023/06/mini/mac-3.jpg)
+![](https://c2.is26.com/blog/2023/06/mini/mac-3.jpg)
 
 很久没有关注硬件市场了，一开始看到 SOLIDIGM 这个牌子我还纳闷这是啥，后来查了下资料发现原来是海力士收购英特尔固态硬盘业务后成立的品牌，也算是第一梯队。我是在京东自营店购买的这款硬盘，其包装盒上标明其制造工厂位于美国特拉华州。
 
-![](https://c2.llyz.xyz/blog/2023/06/mini/mac-4.jpg)
+![](https://c2.is26.com/blog/2023/06/mini/mac-4.jpg)
 
 盒子插入 WERO 硬盘盒，WERO 盒子有附赠螺丝刀和散热贴。M2 硬盘发热量大，WERO 这种盒子铝合金散热还是有必要的。
 
-![](https://c2.llyz.xyz/blog/2023/06/mini/mac-5.jpg)
+![](https://c2.is26.com/blog/2023/06/mini/mac-5.jpg)
 
 安装好后，将盒子连接到 Mac mini 背面靠近 HDMI 的雷雳 4 接口，就可以跑满速度了。WERO 这个盒子我看评价说颜值在线，实际观感还可以，我买的雾面银色。
 
-![](https://c2.llyz.xyz/blog/2023/06/mini/mac-7.jpg)
+![](https://c2.is26.com/blog/2023/06/mini/mac-7.jpg)
 
 安装系统到外接硬盘的步骤也比较简单：
 
@@ -78,11 +78,11 @@ tags:
 - 在 App Store 下载最新 macOS
 - 安装 macOS 到外接硬盘即可
 
-![](https://c2.llyz.xyz/blog/2023/06/mini/mac-9.jpg)
+![](https://c2.is26.com/blog/2023/06/mini/mac-9.jpg)
 
 安装完成后，重启电脑并设定全新的系统环境。此时，系统已经运行在外接硬盘上，测速读写速度可达 2700MB/s。
 
-![](https://c2.llyz.xyz/blog/2023/06/mini/mac-8.jpg)
+![](https://c2.is26.com/blog/2023/06/mini/mac-8.jpg)
 
 再放一张 mini 内置自带 256GB 和外接 2TB 硬盘的读写速度对比。
 

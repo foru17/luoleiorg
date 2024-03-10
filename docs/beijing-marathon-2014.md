@@ -1,18 +1,18 @@
 ---
 title: 马拉松 | 2014北京国际马拉松 | 雾霾中的跑马
-date: '2014-10-26'
-cover: https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon/7.jpg
+date: "2014-10-26"
+cover: https://c2.is26.com/wp-image/2014/10/beijing-marathon/7.jpg
 categories:
-- lifestyle
+  - lifestyle
 tags:
-- run
+  - run
 ---
 
 关注了我微博的朋友上个周末应该被我刷屏了:2014年10月19日，北京马拉松，从天安门前起跑，穿越了笼罩在PM2.5数值超过400的雾霾之中的大半个城市，我创造了第一个PB( Personal best )，全程净成绩4小时28分43秒，达成了赛前自己订下的430的目标，跑友赛后见我祝贺我进入了430俱乐部。
 
 ## 先亮证
 
-![](https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon-2014.jpg)
+![](https://c2.is26.com/wp-image/2014/10/beijing-marathon-2014.jpg)
 
 今年8月31日，在秦皇岛，完成人生的第一个马拉松赛事[(《跑一场大概42.195公里的步》)](https://luolei.org/qinhuangdao-marathon-2014/)，首马成绩4小时46分12秒，也算得上是一个不错的成绩，一个半月后，虽然带伤上阵，但仍然将成绩提高了15多分钟，个人还是很满意和骄傲的。
 
@@ -56,7 +56,7 @@ tags:
 
 人不是为他人活着，我奔跑，我流汗，我流泪，我痛苦，我开心，我为自己奔跑！
 
-![](https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon-3.jpg)
+![](https://c2.is26.com/wp-image/2014/10/beijing-marathon-3.jpg)
 
 **运动嘛，就是这样，该得瑟的时候就得瑟，得瑟完了，下面说一下自己对于这次北马雾霾的一些看法**
 
@@ -64,27 +64,27 @@ tags:
 
 谢邀。 比赛前，我拍了张「定装照」黑色幽默了下，黑下北马。
 
-![](https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon/1.jpg)
+![](https://c2.is26.com/wp-image/2014/10/beijing-marathon/1.jpg)
 
 第二天实际跑起来还是正常装备上阵，最后创造PB 4小时28分完赛。跑步时就是下图这样啦，路过毛主席相前，怕其他时候没什么机会在这里自拍吧。
 
-![](https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon/2.jpg)
+![](https://c2.is26.com/wp-image/2014/10/beijing-marathon/2.jpg)
 
 天气是真的太差了
 
-![](https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon/3.jpg)
+![](https://c2.is26.com/wp-image/2014/10/beijing-marathon/3.jpg)
 
 跑完后就这样了，中途膝盖伤发，比什么雾霾对自己的影响严重多了，就不多说有多痛苦balabala了。
 
-![](https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon/4.jpg)
+![](https://c2.is26.com/wp-image/2014/10/beijing-marathon/4.jpg)
 
 ## 关于雾霾
 
 1.这次也算是运气不好啊，刚好这天雾霾，还这么严重 2.说怎么不改期的和取消的，你们体会下一个这么大型赛事的准备和安排的难度，多少人是请假调休才有机会来北京跑的好么。 3.雾霾：是大环境问题，我们跑者也很不满意！！！政府为了个APEC可以弄一堆安排限行，就为了国际上那几天面子？！平时我们老百姓的健康就呵呵了。 4.关于选择：弃跑的表示理解，坚持跑的也都是勇士，人嘛，自由选择。怕的不是说雾霾天一群所谓的SB为人民服雾，而是下面这种
 
-![](https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon/5.jpg)
+![](https://c2.is26.com/wp-image/2014/10/beijing-marathon/5.jpg)
 
-![](https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon/6.jpg)
+![](https://c2.is26.com/wp-image/2014/10/beijing-marathon/6.jpg)
 
 （十一帝都某天的少先队入队仪式）
 
@@ -102,11 +102,11 @@ tags:
 
 就像刷副本和打成就，这次北马只是一个环境伤害比较高的任务，反正我下次也不打算来了，拿了装备（奖牌）走人
 
-![](https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon/7.jpg)
+![](https://c2.is26.com/wp-image/2014/10/beijing-marathon/7.jpg)
 
 再吐槽个事，昨天发了条带 北京马拉松 tag的微博，成了热门，结果评论里亮瞎我。
 
-![](https://c2.llyz.xyz/wp-image/2014/10/beijing-marathon/8.jpg)
+![](https://c2.is26.com/wp-image/2014/10/beijing-marathon/8.jpg)
 
 我就呵呵了，道不同，志不和，你忽略别看不就得了，何必上纲上线用人身攻击这么low的方法。
 

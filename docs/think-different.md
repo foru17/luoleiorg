@@ -1,7 +1,7 @@
 ---
 title: Think Different
 date: "2011-10-06"
-cover: https://c2.llyz.xyz/wp-image/2011/10/think-different.jpg
+cover: https://c2.is26.com/wp-image/2011/10/think-different.jpg
 ---
 
 北京时间2011年10月6日，昨晚熬夜的我11点才起床。

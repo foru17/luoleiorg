@@ -1,7 +1,7 @@
 ---
 title: Mattew是个好干事，社联是个好组织
 date: "2011-06-23"
-cover: https://c2.llyz.xyz/wp-image/2011/06/shelian.jpg
+cover: https://c2.is26.com/wp-image/2011/06/shelian.jpg
 tags:
   - jnu
 ---
@@ -26,7 +26,7 @@ tags:
 
 **Mattew是个好干事**
 
-**![](https://c2.llyz.xyz/wp-image/2011/06/she-lian.jpg)  
+**![](https://c2.is26.com/wp-image/2011/06/she-lian.jpg)  
 **
 
 影协被撤在人人网和微博上引起了很大的反响，号称一场革命，革命就谈不上，暨大没有这个力量，迟早指导老师会说：”洗洗睡复习吧“。
@@ -97,4 +97,4 @@ tags:
 
 欢迎在[](https://blog.guoyu.me/boycott-sau-of-jnu/)[https://blog.guoyu.me/boycott-sau-of-jnu](https://blog.guoyu.me/boycott-sau-of-jnu)/ 签名抵制社联强权
 
-![](https://c2.llyz.xyz/wp-image/2011/06/vote-say-no.jpg)
+![](https://c2.is26.com/wp-image/2011/06/vote-say-no.jpg)

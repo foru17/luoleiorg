@@ -1,7 +1,7 @@
 ---
 title: 珠海马拉松:时隔五年,我又跑了一个马拉松
 date: "2023-11-30"
-cover: https://c2.llyz.xyz/blog/2023/11/marathon/t-21.jpg
+cover: https://c2.is26.com/blog/2023/11/marathon/t-21.jpg
 categories:
   - lifestyle
 tags:
@@ -64,7 +64,7 @@ tags:
 - 每周 2-3 次的 5 公里跑步机快跑
 - 马拉松前一个月：两次 10+ 公里的小长跑
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-2.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-2.jpg)
 
 我每周固定在周二和周四的晚上，以及一个周末的任意一天去健身房跑步机训练。由于时间有限，每次只跑 5 公里。我的成绩从最开始恢复跑步时的 30 多分钟逐渐提高，最后能够稳定地在 25-26 分钟内完成 5 公里。
 
@@ -78,36 +78,36 @@ tags:
 
 原本我今年是没打算跑全马的，首先报名的是「深圳南山半程马拉松」，家门口的马拉松，结果抽签没中，心有不甘，后来看到参赛助手里珠海马拉松也开始报名了，就直接报了，也需要抽签，但是应该总人数不多，抽签成功了。
 
-全程马拉松总长`42.195公里`，这次珠海马拉松的线路图在[这里](https://c2.llyz.xyz/blog/2023/11/marathon/map.jpg)。
+全程马拉松总长`42.195公里`，这次珠海马拉松的线路图在[这里](https://c2.is26.com/blog/2023/11/marathon/map.jpg)。
 
 ### 赛前
 
 珠海马拉松比赛日是 11 月 26 日周日，上海马拉松也是这一天，提前一天，同老婆开车，前往珠海。检录和领取物资的地方在珠海博物馆。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/m-1.jpg)
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-3.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/m-1.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-3.jpg)
 很久没有参加马拉松赛事了，现在每年中国各地会举行上千场大大小小的马拉松，这些赛事的组织和流程都越来越成熟了。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/m-4.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/m-4.jpg)
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/m-3.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/m-3.jpg)
 
 除了参赛服、参赛背包，还有一些能量胶之类的东西，这次我的号码是**B1129**，属于 B 区起跑。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/m-5.jpg)
-![](https://c2.llyz.xyz/blog/2023/11/marathon/m-9.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/m-5.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/m-9.jpg)
 
 跟老婆合照一张，感谢老婆这次又陪我来跑马。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/m-2.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/m-2.jpg)
 
 在检录的时候，工作人员给佩戴一个蓝色的手环，提醒我比赛结束之前不能取下，否则明天可能无法参加比赛，这个手环采用单向扣，只能紧不能松，应该是为了防止有人替跑。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-4.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-4.jpg)
 
 检录完后，和老婆就回酒店了，这次起跑的地方在珠海体育中心，距离我之前的大学校区不远，发现我们学校附近居然开了一个「珠海暨南大学希尔顿花园酒店」，这次就住在这里，路过校园门口的时候，还拍了一张照片。大一的之后，曾经短暂在珠海校区学习过一年，弹指之间，已经是13年前的事情了。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-6.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-6.jpg)
 
 晚餐去外面吃了个煲仔饭，再买了两袋面包，早早地就回到酒店休息了，上面这就是我这次跑马的全部装备。这次的跑鞋是双11新买的索康尼胜利20，前两周在松山湖小跑穿着磨了磨，我的脚是44码，买大了半码，刚刚好。
 
@@ -115,41 +115,41 @@ tags:
 
 ## 比赛日
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/m-10.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/m-10.jpg)
 
 比赛起跑时间是 7 点 30，检录时间是 6 点到 7 点 15 分，前一天晚上我10点不到就睡了，早上 5 点 45 分起床后，我穿好头一天准备好的装备，吃了四个面包，能量胶，然后就和老婆开车去体育中心了。停好车，步行了10分钟，到达起跑点附近。这个时候已经有很多人了。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/m-11.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/m-11.jpg)
 
 存包的车，每个人的号码步上有对应的车编号，跑完之后在终点找到对应的车，就可以取回自己的包。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-7.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-7.jpg)
 
 距离开跑还有 40 多分钟，很多跑友在热身。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-8.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-8.jpg)
 
 距离开跑还有 20 分钟，大家开始陆续进入起跑区域。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-9.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-9.jpg)
 
 我的号码是B1129，属于B区，距离起跑线还有一段距离，这个时候已经有很多人了。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-10.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-10.jpg)
 
 逐渐地人变得越来越多，主持人也在带动气氛，此时的天空也不错，感觉会是一个不错的天气。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-11.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-11.jpg)
 
 7 点 30 分，准时开跑，珠海马拉松相比之前我参加过的其他城市马拉松，人数不多，参赛的高水平选手也少，所以起跑的时候并没有太拥挤，很快就跑过了起跑线。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-12.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-12.jpg)
 
 这次跑马，我属于佛系选手，目标是完赛即可，预估自己的成绩，半马大概率在 2 小时 10 分到 2 小时 20 分内，全马 5 个半小时左右。只要半程正常跑完，后半程走走跑跑即可，都是过去 7 次马拉松的经验总结。
 
 珠海马拉松，除了开头的 10 公里，后面基本全程都是在海边。头 10 几公里，我的状态十分好，配速也很稳定，很享受这种时刻，为了不打乱自己的跑步节奏，头两个小时我基本没有拿手机拍照。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-13.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-13.jpg)
 
 今年我跑过的最远的距离是 16 公里，直到 19 公里，我的整个身体状态都还是挺好的，心率、配速都很稳定。直到 19 公里，我的配速还保持在 6 分出头的样子，这个时候我还在想，没想到今年自己的身体状态恢复得还行，跟以前年轻的时候跑全马的状态差不多（10 公里配速在 6 分）。
 
@@ -157,51 +157,51 @@ tags:
 
 上完厕所出来，停了几分钟，节奏也乱了，到达 20 公里的时候，我用时 2 小时 10 分，到达 21.0975 公里半程的时候，用时 2 小时 19 分。后面的半程，就开始我的走走跑跑之旅了。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-14.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-14.jpg)
 
 珠海马拉松后面基本都是沿海，风景很不错，22 公里左右，路过珠海渔女，珠海的形象地标，后面 25 公里，则上了野狸岛。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-15.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-15.jpg)
 
 半程之后，我就开始走走停停了，不久我就被 500 的兔子超了过去，到达 30 公里的时候，用时差不多 3 个半小时，平均下来居然跟我头 20 公里差不多。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-16.jpg)
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-17.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-16.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-17.jpg)
 
 随着时间的推移，天气越来越热，这个时候我也不太想跑了，开始数路上的公里牌，每隔 2 公里一个补给点还是挺爽的，我基本上每进一个补给点，都会喝半杯能量饮料，一两杯水，如果有香蕉也会补充两根。过了 30 多公里，路上的人也越来越少，大家也多是走走停停。路上还见到了金山的珠海总部，也算是我的前司吧。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-18.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-18.jpg)
 
 马拉松真正开始的时候是 30 公里之后，30 到 40 公里这一段，我全程属于快走的阶段，到达 40 公里的时候，手表计时是 5 小时，但手表和实际线路有点差异，现实我到达 40 公里的时候要慢 10 分钟左右。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-19.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-19.jpg)
 
 经过 41 和 42 公里的路牌，最后的 200 米，已经到了最后的终点，这个时候我的身体状态除了腿酸，倒也不痛，既然都最后了，抬起脚，冲刺最后这段路。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-20.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-20.jpg)
 
 在终点之前，自拍一张，枪声成绩 5 小时 23分，比起年轻时最好的成绩，慢了将近 1 个小时。但是此时此刻，不同于彼时彼刻，经过这一年多的减肥、跑步，能够恢复到现在这个状态，也是值得真心高兴的。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-21.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-21.jpg)
 
 跑过终点后，也有一些志愿者在这里，让一个志愿者给我拍了张照片。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-22.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-22.jpg)
 
 过了终点之后，就是领取完赛物资，除了奖牌，还有可乐、水、香蕉、毛毯之类。过了终点计时毯后，官方的成绩也直接通过短信发给了我，5 小时 21 分 49 秒。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/m-15.jpg)
-![](https://c2.llyz.xyz/blog/2023/11/marathon/m-16.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/m-15.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/m-16.jpg)
 
 这就是这次珠海马拉松的奖牌，中间可以旋转，背后是珠海渔女的图案，还是挺有特色的。
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/m-13.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/m-13.jpg)
 
 老婆刚好这个时候也到了，再合照一张。这次老婆陪我跑马，回程的路上她开车，上车不久，我就在车上睡着了。
 
 ## 成绩证书
 
-![](https://c2.llyz.xyz/blog/2023/11/marathon/t-23.jpg)
+![](https://c2.is26.com/blog/2023/11/marathon/t-23.jpg)
 
 第二天，收到了官方最终的成绩证书，也找到了几张官方的照片，选了一张冲线的照片，使用 AI 工具放大了下，效果还行。
 

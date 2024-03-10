@@ -1,11 +1,11 @@
 ---
 title: 前端开发应该避免的10大 CSS 糟糕用法
-date: '2013-11-11'
-cover: https://c2.llyz.xyz/wp-image/2013/11/css-specifity-1.png
+date: "2013-11-11"
+cover: https://c2.is26.com/wp-image/2013/11/css-specifity-1.png
 categories:
-- code
+  - code
 tags:
-- develop
+  - develop
 ---
 
 今天在回广州的火车上看到一篇["10 CSS mistakes every web designer must avoid"](https://www.creativebloq.com/css3/avoid-css-mistakes-10135080)，想着还不错，就翻译给大家。
@@ -29,9 +29,15 @@ CSS 中的权重取决于你如何使用具体的css 规则。
 CSS 权重的高低取决于你使用什么样的选择器：`id`,`class 类`,`tags 标签`。举个栗子：
 
 ```css
-#my-link{color: red}
-.my-link{color: yellow}
-a{ colour: blue}
+#my-link {
+  color: red;
+}
+.my-link {
+  color: yellow;
+}
+a {
+  colour: blue;
+}
 ```
 
 来做这么一个小测试，有这么一个超链接如下，如果我们没有其定义其他样式，浏览器渲染出来的最终结果会是什么颜色？
@@ -40,7 +46,7 @@ a{ colour: blue}
 <a href="#" id="my-link" class="my-link">举个栗子</a>
 ```
 
-![](https://c2.llyz.xyz/wp-image/2013/11/css-specifity-1.png)
+![](https://c2.is26.com/wp-image/2013/11/css-specifity-1.png)
 
 最终的颜色会是红色，因为 id 属性是三者之中权重最高的（id在网页中只能使用一次，他得权重值为100），所以红色葫芦娃成功击败了其他娃娃，举起了栗子。
 
@@ -49,13 +55,17 @@ a{ colour: blue}
 当然啦，像上面我们举的栗子这种「同时使用 id/calss/tag 」的情况在实际应用中还是很少见的，在日常开发中，我们更多的情况是会遇到如下情况：
 
 ```css
-#header a { border:2px dashed #000 }
+#header a {
+  border: 2px dashed #000;
+}
 ```
 
 假设这是我们的一个项目，现在我们决定要把一个在 header 的 link设置成无边框，随手一写，我们添加了：
 
 ```css
-.special-link { border:none }
+.special-link {
+  border: none;
+}
 ```
 
 然后再在 html 中添加了一个 `special-link` 的class 类，这下解决我们的问题了吗？ 答案是：没有！ 由于 id 的权重如此之高，我们需要更高权重的声明才能实现我们的需求。下面这样写才是正确的：
@@ -64,7 +74,7 @@ a{ colour: blue}
 #header .special-link { border: none }
 ```
 
-![](https://c2.llyz.xyz/wp-image/2013/11/css-specifity-2.png)
+![](https://c2.is26.com/wp-image/2013/11/css-specifity-2.png)
 
 假如说这种情景在我们的 code 过程中不断地出现：设置 header 区域另外一个特殊的超链接 link 为某特殊的样式，你该怎么处理呢？ id 的高权重特性意味着滥用 id 绝对是一个很糟的做法！
 
@@ -73,7 +83,9 @@ a{ colour: blue}
 ###### 02.大串的 css 选择器（多层级）
 
 ```css
-#header #title .left-side img.logo { opacity: 0.5 }
+#header #title .left-side img.logo {
+  opacity: 0.5;
+}
 ```
 
 上面这个栗子不仅仅乱用 id，他还很长，正如同乱用 id导致的高权重麻烦，如果你使用一大串选择器（超过三个层级）你同样会造成过高权重，导致你陷入到高权重和更高权重的汪洋大海之中。
@@ -88,7 +100,7 @@ a{ colour: blue}
 
 下面举例怎么解决内联样式的问题，就两步 1.复制删除 2.粘贴 。剔除内联样式，转移到样式表之中吧。
 
-![](https://c2.llyz.xyz/wp-image/2013/11/css-specifity-3.jpg)
+![](https://c2.is26.com/wp-image/2013/11/css-specifity-3.jpg)
 
 ###### 04.从上至下式的粗放命名
 
@@ -101,8 +113,13 @@ a{ colour: blue}
 冗余意味着你写 css 的过程中不断重复某些代码。在使用编程语言的时候， 我们很好理解重复（造轮子）意味着浪费时间，我们在 code 中应该遵循 DRY 原则(Don't repeat yourself)。什么情况下我们会重复造轮子呢？举个栗子：
 
 ```css
-.some-title { font-weight: bold; }
-.some-other-title { font-weight: bold; color: red }
+.some-title {
+  font-weight: bold;
+}
+.some-other-title {
+  font-weight: bold;
+  color: red;
+}
 ```
 
 实际上，我们可以有个更好的解决办法
@@ -115,7 +132,7 @@ a{ colour: blue}
 比如说我们要添加一个不同颜色的标题，我们可以使用一个常用的命名，或者添加一个具体的 class 类。
 
 ```html
-<h3> class="some-title pop">我的标题</h3>
+<h3>class="some-title pop">我的标题</h3>
 ```
 
 这个有点**[面向对象的CSS](https://www.qianduan.net/object-oriented-css.html)**的思想在里面，使用 Sass 中的 `@extend` 特性可以很好地解决我们这个问题。
@@ -130,8 +147,13 @@ a{ colour: blue}
 当CSS预处理编译器将`.scss`转换成`.css`文件时，我们最终输出的样式是：
 
 ```css
-.some-title, .some-other-title { font-weight: bold; }
-.some-other-title { color: red; }
+.some-title,
+.some-other-title {
+  font-weight: bold;
+}
+.some-other-title {
+  color: red;
+}
 ```
 
 最终输出的是一模一样的效果，解决重复和冗余的问题，要求我们在写 css 的时候心中对 html 层级结构要有个大致的规划，思考不同的设计元素之间的层级和关系，我们规划得越清晰，最终输出的 css 也越精简。
@@ -159,28 +181,28 @@ a{ colour: blue}
 Harry Roberts的[Code smells in CSS](https://csswizardry.com/2012/11/code-smells-in-css/)是关于 css 糟糕用法的经典文章。他举了几个可有可无的不起作用样式的栗子：
 
 ```css
-h2{
-font-size:2em;
-margin-bottom:0.5em;
-padding-bottom:0.5em;
-border-bottom:1px solid #ccc;
+h2 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #ccc;
 }
-.no-border{
-padding-bottom:0;
-border-bottom:none;
+.no-border {
+  padding-bottom: 0;
+  border-bottom: none;
 }
 ```
 
 Roberts 推荐的重构精简方法是删掉属性为`0`和`none`的属性值。
 
 ```css
-h2{
-font-size:2em;
-margin-bottom:0.5em;
+h2 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
 }
-.headline{
-padding-bottom:0.5em;
-border-bottom:1px solid #ccc;
+.headline {
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #ccc;
 }
 ```
 
@@ -208,9 +230,9 @@ Harry Roberts是 [inuit.css](https://inuitcss.com/) 框架的作者。
 
 [Nabors](https://rachelnabors.com/) 曾说「我曾YY：如果我今天写完一个项目的 css 但是明儿我却挂掉了，有一个人幸运地接手我这个项目，那他看得懂我的这些代码是什么意思吗？」。尽量地让我们的样式表中的结构清晰，如果不能让人立马知道你的选择器指的是哪里的样式，可以尝试添加注释（什么！你还说注释增加css 文件大小！难道你不知道压缩工具么！）。
 
-第一步是在必须的地方做好注释，第二步是使用工具把css文件中的这些注释转换成一个合适的文档。推荐可以使用[css\_doc](https://github.com/tkadauke/css_doc)和[KSS](https://github.com/kneath/kss)。
+第一步是在必须的地方做好注释，第二步是使用工具把css文件中的这些注释转换成一个合适的文档。推荐可以使用[css_doc](https://github.com/tkadauke/css_doc)和[KSS](https://github.com/kneath/kss)。
 
-css\_doc 跟 JavaDoc类似，他的转换原理基于 CSSDOC. KSS（Knyle Style Sheets），对于前端和设计师来说都十分有益。
+css_doc 跟 JavaDoc类似，他的转换原理基于 CSSDOC. KSS（Knyle Style Sheets），对于前端和设计师来说都十分有益。
 
 #### 总结
 
@@ -222,4 +244,4 @@ css\_doc 跟 JavaDoc类似，他的转换原理基于 CSSDOC. KSS（Knyle Style 
 
 这是第二次翻译技术相关文章，不得不说，还是低估了翻译的难度。要把技术类的文章翻译得语言流畅、通俗易懂，还是挺有挑战性的。译文中加入了自己的理解，配图也是自己通过 codepen 重新截图演示，这篇文章的译稿我放在了 google docs 上，如果对于某些翻译你有更好的用法，可以直接建议修改。
 
-[https://docs.google.com/document/d/11Ly6z0dlVVPzIL-W22L\_U6waoU7Pid4-KdDmEx6D0c8/edit?usp=sharing](https://docs.google.com/document/d/11Ly6z0dlVVPzIL-W22L_U6waoU7Pid4-KdDmEx6D0c8/edit?usp=sharing)
+[https://docs.google.com/document/d/11Ly6z0dlVVPzIL-W22L_U6waoU7Pid4-KdDmEx6D0c8/edit?usp=sharing](https://docs.google.com/document/d/11Ly6z0dlVVPzIL-W22L_U6waoU7Pid4-KdDmEx6D0c8/edit?usp=sharing)

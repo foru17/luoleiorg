@@ -1,12 +1,12 @@
 ---
 title: 年終卷 | 2015年我读了哪些书？
-date: '2015-12-10'
-cover: https://c2.llyz.xyz/blog/2015/12/book.jpg
+date: "2015-12-10"
+cover: https://c2.is26.com/blog/2015/12/book.jpg
 tags:
-- read
+  - read
 ---
 
-![cover](https://c2.llyz.xyz/blog/2015/12/book.jpg)  
+![cover](https://c2.is26.com/blog/2015/12/book.jpg)  
 匆匆匆匆，换了两份工作，长了五斤肥肉，2015就这么又即将成了历史。这时光，对于我们来说，某种程度上变成了一种由信息、数据组成的记忆碎片。
 
 熟悉我的朋友，看到这个标题，应该知道这是我每年两次的读书总结。这个总结，也是我坚持了三年的老习惯了。

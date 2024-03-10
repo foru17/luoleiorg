@@ -1,12 +1,12 @@
 ---
 title: 我在读什么:2016春季读书分享
-date: '2016-05-08'
-cover: https://c2.llyz.xyz/blog/2016/05/read.jpg
+date: "2016-05-08"
+cover: https://c2.is26.com/blog/2016/05/read.jpg
 tags:
-- read
+  - read
 ---
 
-![cover](https://c2.llyz.xyz/blog/2016/05/read.jpg)
+![cover](https://c2.is26.com/blog/2016/05/read.jpg)
 
 老主题，老习惯，这个标题，每年两度的读书总结，春季分享又来了。
 

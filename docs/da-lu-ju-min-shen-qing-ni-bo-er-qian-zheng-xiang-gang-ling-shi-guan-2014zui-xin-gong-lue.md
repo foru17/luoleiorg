@@ -1,10 +1,10 @@
 ---
 title: 大陆居民申请尼泊尔签证（香港领事馆）2014最新攻略
 date: "2014-04-27"
-cover: https://c2.llyz.xyz/wp-image/2014/02/visa-n.jpg
+cover: https://c2.is26.com/wp-image/2014/02/visa-n.jpg
 ---
 
-![visa-nepal-hongkong](https://c2.llyz.xyz/wp-image/2014/02/visa-n.jpg)
+![visa-nepal-hongkong](https://c2.is26.com/wp-image/2014/02/visa-n.jpg)
 
 2014这个春节，没在家过年，去了趟尼泊尔，这个国家的确承得起这个「离天堂最近的国家」的称号。
 
@@ -32,7 +32,7 @@ cover: https://c2.llyz.xyz/wp-image/2014/02/visa-n.jpg
 
 `香港九龍尖沙咀東 科學館道 1 號 康宏廣場北座 715 室`，坐地铁到红磡、尖沙咀、尖东均可，红磡最近，就在香港历史博物馆的对面，康宏廣場正门进去上扶手电梯再往左手边。
 
-![nepal-hk-map](https://c2.llyz.xyz/wp-image/2014/02/nepal-hongkong-map.jpeg)
+![nepal-hk-map](https://c2.is26.com/wp-image/2014/02/nepal-hongkong-map.jpeg)
 
 ### 上班时间
 
@@ -47,11 +47,11 @@ cover: https://c2.llyz.xyz/wp-image/2014/02/visa-n.jpg
 3.签证**申请表**：国内的领事馆领取的签证申请表格与香港的有所不同。香港如下，大家按照我的示例填写即可。  
 注意：尼泊尔签证还是很好办理的，如果你的表格上有些小问题，工作人员都可以自己帮你修改，对细节要求也没那么严格。不需要你在尼泊尔当地的地址什么的，国内的地址大家翻译成英文就好了。
 
-![visa](https://c2.llyz.xyz/wp-image/2014/02/example-nepal-visa.png)
+![visa](https://c2.is26.com/wp-image/2014/02/example-nepal-visa.png)
 
 ## 费用
 
-![fee](https://c2.llyz.xyz/wp-image/2014/02/nepal_visa_fees.jpeg)  
+![fee](https://c2.is26.com/wp-image/2014/02/nepal_visa_fees.jpeg)  
 根据签证有效期的不同，分别有三个有效期长度的签证，费用如图，大家根据自己的安排办理就好，我办理的是15天，200港币（约人民币160元）。
 
 ## 时间
@@ -65,7 +65,7 @@ cover: https://c2.llyz.xyz/wp-image/2014/02/visa-n.jpg
 
 最终的 visa 的盖章如下，这下我们就领到了「离天堂最近的国家」的门票啦！
 
-![visa-stamp](https://c2.llyz.xyz/wp-image/2014/02/visa-stamp.jpg)
+![visa-stamp](https://c2.is26.com/wp-image/2014/02/visa-stamp.jpg)
 
 在这里更新一下2014年公安部的一个最新消息[《45国或地区对中国公民实施免签落地签证》](https://news.sina.com.cn/c/2014-01-28/213829370715.shtml)，现在诸如泰国、尼泊尔是可以实施落地签，今年起，持空白护照（即无签证）也可以只需要「护照+机票」就可以出境。
 

@@ -1,7 +1,7 @@
 ---
 title: 贵的不一定好，便宜也不一定差:vivick迷你路由器Q-W501简单评测
 date: "2012-10-09"
-cover: https://c2.llyz.xyz/wp-image/2012/10/jingdong.png
+cover: https://c2.is26.com/wp-image/2012/10/jingdong.png
 tags:
   - e8af84e6b58b
 ---
@@ -12,7 +12,7 @@ tags:
 
 这段时间，买了两个路由器，家里的无线设备多，好几台电脑，原来老的54M的路由器实在是吃不消，于是欲图换一个
 
-![jingdong](https://c2.llyz.xyz/wp-image/2012/10/jingdong.png)
+![jingdong](https://c2.is26.com/wp-image/2012/10/jingdong.png)
 
 稳定的、300M的家用路由器，不想折腾那么十几块钱的差距，直接上京东商城看了看，发现销量第二的TL-WR841N这款路由器貌似还不错，外观还算漂亮，Tp-link也算大牌，质量应该有保证，价格130也不算太贵，也懒得比较什么性能了（家庭用，无所谓），直接下单。京东速度也快，9月18号晚上下的单，9月19号下午就送到了。
 
@@ -40,7 +40,7 @@ tags:
 
 #### 路由器二：vivick Q-501 迷你路由器
 
-![vivick Q-501](https://c2.llyz.xyz/wp-image/2012/10/SI_00335758_2.jpg)
+![vivick Q-501](https://c2.is26.com/wp-image/2012/10/SI_00335758_2.jpg)
 
 经常往学校图书馆跑，无奈图书馆电源口多，网线口少，而图书馆自己的公共wifi速度实在是惨不忍睹。遂生自己买一个迷你路由器的想法（平时去宾馆酒店，上网的话也方便）。
 
@@ -58,15 +58,15 @@ tags:
 
 这款路由器接连上有线网络，转换成独立的无线网络。现在我在图书馆。插上墙上的网线，自动转换成无线信号，测试成功。
 
-连接上无线之后，使用WifiInspector 无线监测软件，看到Vendor下显示的是「Teanda technology」腾达科技，看样子果然是腾达的产品。![router-tenda](https://c2.llyz.xyz/wp-image/2012/10/router-tenda.png)
+连接上无线之后，使用WifiInspector 无线监测软件，看到Vendor下显示的是「Teanda technology」腾达科技，看样子果然是腾达的产品。![router-tenda](https://c2.is26.com/wp-image/2012/10/router-tenda.png)
 
 在浏览器输入192.168.2.1进入路由器界面，如下。
 
-![vivick-router](https://c2.llyz.xyz/wp-image/2012/10/vivick-router1.png)
+![vivick-router](https://c2.is26.com/wp-image/2012/10/vivick-router1.png)
 
 在系统工具>升级 里查看固件信息为V5.07.21_cn_DFC
 
-![router-sys](https://c2.llyz.xyz/wp-image/2012/10/router-sys.png)
+![router-sys](https://c2.is26.com/wp-image/2012/10/router-sys.png)
 
 登陆腾达官方网站 [https://www.tenda.com.cn/tendacn/DownLoads/show.aspx?downid=738](https://www.tenda.com.cn/tendacn/DownLoads/show.aspx?downid=738)
 
@@ -74,7 +74,7 @@ tags:
 
 解压之后，在路由器里升级，提示「升级ing」后重启。原来的信息均保存，logo由vivick换成了腾达，升级成功。
 
-![tenda-sys](https://c2.llyz.xyz/wp-image/2012/10/tenda-sys6.png)
+![tenda-sys](https://c2.is26.com/wp-image/2012/10/tenda-sys6.png)
 
 至于其他的性能，设置评测，在这里发一个淘宝「试用中心」的腾达A5评测。
 

@@ -1,79 +1,79 @@
 ---
 title: 深圳 | 曾经的游轮，如今的海上世界
-date: '2015-02-23'
-cover: https://c2.llyz.xyz/blog/2015/02/shenzhen/w2.JPG
+date: "2015-02-23"
+cover: https://c2.is26.com/blog/2015/02/shenzhen/w2.JPG
 categories:
-- photography
-- travel
+  - photography
+  - travel
 tags:
-- photography
-- travel
-- ricohgr
+  - photography
+  - travel
+  - ricohgr
 ---
 
-![cover](https://c2.llyz.xyz/blog/2015/02/shenzhen/w2.JPG)
+![cover](https://c2.is26.com/blog/2015/02/shenzhen/w2.JPG)
 
 眼看着假期越剩越少，带着妹纸在深圳继续闲逛，在自己成长的地方。今天天气尚好，最近海上世界有灯光秀，想着也去那边凑凑热闹，下午四点多，就带着相机和三脚架出发了。
 
 蛇口半岛的交通是越来越方便，地铁、公交、穿梭小巴，基本上去任何一个地方半个小时都能搞定，二月入尾，深圳春天的味道也越来越浓了。
 
-![](https://c2.llyz.xyz/blog/2015/02/shenzhen/w10.JPG)
+![](https://c2.is26.com/blog/2015/02/shenzhen/w10.JPG)
 
 到了育才，依旧是不给进，学校里面放寒假是没什么人，门口还挂着「深圳市2009年高考工作先进单位」的牌子，这块牌子背后应该也有自己的一份小小功劳吧。
 
-![](https://c2.llyz.xyz/blog/2015/02/shenzhen/w1.JPG)
+![](https://c2.is26.com/blog/2015/02/shenzhen/w1.JPG)
 
 地图导航了一下，从学校走到海上世界大概就1.2公里，我同妹纸决定步行前往，天灰蒙蒙，清爽无风，路两边绿树成瘾，妹纸倒也是一路自拍。
 
-![](https://c2.llyz.xyz/blog/2015/02/shenzhen/w9.JPG)
+![](https://c2.is26.com/blog/2015/02/shenzhen/w9.JPG)
 
 绿草从中见到一朵紫色的小花，妹纸拍花，我拍妹纸。
 
-![](https://c2.llyz.xyz/blog/2015/02/shenzhen/w5.JPG)
+![](https://c2.is26.com/blog/2015/02/shenzhen/w5.JPG)
 
 路边的店铺大多关门了，这一块是蛇口的高端住宅区，也没什么其他车辆，安静，走在大街上十分安全。
 
-![](https://c2.llyz.xyz/blog/2015/02/shenzhen/w4.JPG)
+![](https://c2.is26.com/blog/2015/02/shenzhen/w4.JPG)
 
 路过南海意库，地上的落叶被扫在路边，上次与高中同学聚餐就是在这里，想想高中的那批同学，大多都在南方，出国留学的也大多回国回家了，在北方漂的好像也就我一个了。
 
-![](https://c2.llyz.xyz/blog/2015/02/shenzhen/w6.JPG)
+![](https://c2.is26.com/blog/2015/02/shenzhen/w6.JPG)
 
-妹纸忍不住嘴馋，买了三个蛋糕，我现在倒发现妹纸的几个特征了，一爬山的时候就啰嗦，一饿的时候也啰嗦 ╮(╯\_╰)╭ 。
+妹纸忍不住嘴馋，买了三个蛋糕，我现在倒发现妹纸的几个特征了，一爬山的时候就啰嗦，一饿的时候也啰嗦 ╮(╯_╰)╭ 。
 
-![](https://c2.llyz.xyz/blog/2015/02/shenzhen/w3.JPG)
+![](https://c2.is26.com/blog/2015/02/shenzhen/w3.JPG)
 
 后面这里也算是深圳的暨世界之窗之外的另一个地标景点了，明华轮，80年代搁浅在蛇口港的一艘游轮，三十年来周围是沧海桑田，原本是在海边的一艘船，现在已经是在内陆了。高中的时候还常来这边玩，这几天进行整体升级，成了一个大型的综合购物中心。想想南山这边的商业中心，以我家为中心算一算，五公里内都已经有茂业、海岸城、海雅、花园城、海上世界、太古城六家大型的Mall，想想深圳的「消费城市」的称号真的是名副其实。
 
-![](https://c2.llyz.xyz/blog/2015/02/shenzhen/w2.JPG)
+![](https://c2.is26.com/blog/2015/02/shenzhen/w2.JPG)
 
 含着哈根达斯，终于不再啰嗦了 ﾉ( ´ ▽ \` )ﾉ 。
 
-![](https://c2.llyz.xyz/blog/2015/02/shenzhen/w8.JPG)
+![](https://c2.is26.com/blog/2015/02/shenzhen/w8.JPG)
 
 又到了秀恩爱系列。
 
-![](https://c2.llyz.xyz/blog/2015/02/shenzhen/w13.JPG)
+![](https://c2.is26.com/blog/2015/02/shenzhen/w13.JPG)
 
 时间尚早，看着不少人往海边走，想着自己还没去过那边（是今年新建成的栈道），几步走到，倒也是一阵小惊讶，居然有一个游艇码头，海水也没有了过去的那种腥味，西部海滨的升级，终于见到了一点眉目，想想20年后，碧海蓝天，千戈白帆，一大蛇口码头，一小游轮码头，商业地产发达，蛇口倒的确是一块宝地。
 
-![](https://c2.llyz.xyz/blog/2015/02/shenzhen/w15.JPG)
+![](https://c2.is26.com/blog/2015/02/shenzhen/w15.JPG)
 
 海面上还有不少渔船，蛇口这边出产蚝等海鲜，以前倒经常跟朋友们来吃，可是这珠江入海口，繁忙港口，污染还是挺严重的，环境治理之路还是很漫长的。
 
-![](https://c2.llyz.xyz/blog/2015/02/shenzhen/w14.JPG)
+![](https://c2.is26.com/blog/2015/02/shenzhen/w14.JPG)
 
 海边垂钓的大叔。
 
-![](https://c2.llyz.xyz/blog/2015/02/shenzhen/w7.JPG)
+![](https://c2.is26.com/blog/2015/02/shenzhen/w7.JPG)
 
 七点钟，海上世界的水上灯光秀就开始了，年假已末，今天人倒不是特别多，到了廊桥，找了一个位置，支起三脚架，感受下光。
 
-![](https://c2.llyz.xyz/blog/2015/02/shenzhen/w11.JPG)
+![](https://c2.is26.com/blog/2015/02/shenzhen/w11.JPG)
 
 灯光的颜色随时变化。
 
-![](https://c2.llyz.xyz/blog/2015/02/shenzhen/w12.JPG)
+![](https://c2.is26.com/blog/2015/02/shenzhen/w12.JPG)
 
 跟着音乐起舞、扭动的喷泉，其实倒的确是挺精彩的，有机会的朋友来深圳的话的确可以看看。
 

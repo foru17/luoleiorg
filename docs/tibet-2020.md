@@ -1,13 +1,13 @@
 ---
 title: 西藏 | 五日自驾三千里，叹祖国壮美边疆 | 拉萨・羊湖・日喀则・珠峰
-date: '2020-08-04'
-cover: https://c2.llyz.xyz/blog/2020/07/tibet/t-67.JPG
+date: "2020-08-04"
+cover: https://c2.is26.com/blog/2020/07/tibet/t-67.JPG
 categories:
-- travel
+  - travel
 tags:
-- photography
-- travel
-- tibet
+  - photography
+  - travel
+  - tibet
 ---
 
 上个月，东航周末随心飞的首飞，给了云南昆明和抚仙湖，也算是不错的周末旅行和体验，那篇文章发出之后，得知有好几个网友参考我的路线，也去抚仙湖，尽微薄之力，也算是为祖国旅游业复苏出一点点小力。
@@ -18,7 +18,7 @@ tags:
 
 ## GUIDE 路书
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/guide.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/guide.JPG)
 
 这一次西藏之行，从拉萨开始计算，在西藏一共呆了5天，其中4天自驾，行程约1500-1800公里，由于这次行程还有一些在途工作，并非纯旅游性质，**这一次的有些线路安排，对于大多数旅行者来说可能并不合适，路书仅供参考**。
 
@@ -46,7 +46,7 @@ tags:
 
 ## 用药指南
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-AID.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-AID.JPG)
 
 去西藏担心高反，大部分人会买「红景天」「高原灵」之类的保健品（研究证明那些就是安慰剂没卵用），不想交智商税，经过我大量查阅资料、阅读权威科研论文，谷歌搜英文关键字Altitude sickness medicine知道Acetazolamide 乙醯唑胺，治疗青光眼的处方药，是验证过对预防和治疗高反有效的药，美帝疾控中心有建议，去医院挂眼科，找医生开了同类药「醋甲唑胺」，医生说我是第一个这样找他开药的人。
 
@@ -59,681 +59,681 @@ tags:
 
 ## TIBET GO
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-2.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-2.JPG)
 
 这一次去拉萨要在昆明转机，第二次来长水国际机场了，昆明进入了雨季，下起了雨。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-3.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-3.JPG)
 
 整个天都是雾蒙蒙的，机场大巴满满一排。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-4.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-4.JPG)
 
 这次来昆明，没有去市区，选择的是官渡区的全季，离云南省博物馆只有几百米，上次没去成博物馆，第二天下午的航班飞拉萨，刚好上午可以去博物馆逛逛。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-5.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-5.JPG)
 
 过去连锁酒店住假日比较多，这是我第一次住全季，这个全季还挺新的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-6.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-6.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-8.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-8.JPG)
 
 酒店房间很大，设施也不错，价格还便宜（￥300不到），超过了我的预期。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-10.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-10.JPG)
 
 雨停了，还没吃饭，酒店离官渡古镇不远，旁边还有一个云南文学博物馆。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-11.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-11.JPG)
 
 官渡古镇算是一个打着「古镇」名头的商业街了，全国各地这种都很多了，来这里打个卡，属于来都来了性质。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-12.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-12.JPG)
 
 由于今天下雨，官渡古镇人也不多，在门口拍了张照，这个牌坊还挺不错的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-13.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-13.JPG)
 
 找了一家餐厅，倒还挺古色古香，去吃云南当地菜。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-14.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-14.JPG)
 
 餐厅在古镇里面，里面的建筑也挺有特色的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-15.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-15.JPG)
 
 店家推荐的一个菌菇鸡汤，挺贵的，很油，不太合我胃口，感觉有点亏。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-16.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-16.JPG)
 
 一个云南小甜食，蘸着花酱吃，还算有特色。这家店感觉属于那种做游客生意的店，价格偏贵，菜色一般，以后还是要避开这种在景区的餐厅。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-17.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-17.JPG)
 
 第二天一大早，昆明又下起了大雨，老婆不想起床，我就一个人冒雨跑去了云南省博物馆。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-18.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-18.JPG)
 
 云南省博物馆新馆很大，里面也很气派。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-22.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-22.JPG)
 
 由于我来得早，加上下雨，整个博物馆都没什么人，云南省博物馆有三层，比较遗憾的是这次有两个大馆都关闭了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-19.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-19.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-21.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-21.JPG)
 
 鉴于篇幅，在这个博文里就不放太多博物馆的东西了，我旅游的时候，每到一个城市，都希望去这个城市的博物馆逛一逛，国内逛过北京国博、南京、西安、广州、成都、苏州东南西北几个大的博物馆，云南省博物馆虽然是「省」字头，但是偏居二线，比较知名的有「元谋人」，元谋人算是重大的人类学考古发现，比较尴尬的是遇到一个事情，我看展台有些是空的，于是问保安有没有其他元谋人的化石，保安说「就这些呀」，我追问「那有没有头骨那些呀？」，保安回了我一句「那些好像在北京的博物馆，元谋人不是在北京那边发现的么」，我「…………」，厄，这可是云南省博物馆。
 
 后来在群里跟群友聊起这个事，有朋友说「人家只是保安，要求太高了」，我倒能理解，现在不少博物馆的保安都是外包，文化水平良莠不齐，但是这还是可以看出一些培训上的缺失吧，不求博物馆的工作人员对知识了解有多深入，但是基本的关于「镇馆之宝」这种级别的认知还是需要有的，就好像如果一个不熟悉中国历史的外国人去兵马俑，问那里的保安说「这是哪个朝代的」，结果保安如果回答「是明朝的」，就有点啼笑皆非了。在这里特意写下这段，并非嘲讽，也是希望国内文化机构，能够完善培训，提高水平。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-20.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-20.JPG)
 
 在博物馆逛的时候，遇到一个古代人类群落的建模型，比较喜感的是屋子下面有一堆纸币，全世界人民，真是都喜欢往各种奇怪的地方丢硬币丢钱啥的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-23.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-23.JPG)
 
 从早上9点逛到接近中午12点，除了自然化石，云南省博物馆的近代馆也值得一看，很多民国时期的历史文物。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-24.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-24.JPG)
 
 下午三点的飞机去拉萨，临近降落，看到下方的山脉，上一次来西藏已经是8年前了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-25.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-25.JPG)
 
 西藏机场很小，人很多，出入机场扫码、登记，从中风险地区来的乘客还被单独拉出去了，防疫还是挺严格的。出了机场，直接坐机场大巴到拉萨市区，距离比较远，要一个半小时。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-29.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-29.JPG)
 
 这次住的酒店位于布达拉宫旁边，步行5分钟就到布达拉宫广场，酒店的大厅不错，价格也不贵。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-26.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-26.JPG)
 
 第二天一大早，起了一个大早，趁着太阳才刚刚出来，一个人拿着相机，去布达拉宫广场，广场上空无一人，国旗已经升起来了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-28.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-28.JPG)
 
 西藏和平解放50周年纪念碑，2001年所建，长者题的字。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-27.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-27.JPG)
 
 远处的山上用汉藏双语写着「祖国万岁」。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-33.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-33.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-31.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-31.JPG)
 
 趁着没人，出动长焦，给老婆来一张打卡照。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-32.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-32.JPG)
 
 视觉重点都被那个「都是诈骗」给抢去了，这些年网络诈骗的确挺猖狂的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-34.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-34.JPG)
 
 站岗的武警同志，现在拉萨的治安和社会氛围已经比以前好很多了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-35.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-35.JPG)
 
 人渐渐多起来，祖国万岁。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-36.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-36.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-38.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-38.JPG)
 
 布达拉宫远看特别宏伟，比较遗憾的是由于我的失误，昨天没有订票，今天就没法去参观了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-verse.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-verse.JPG)
 
 2012年到2020，同一个地点，同一个角度，人还是那个人，冲锋衣还是那件冲锋衣，这次来西藏，特意带了这件冲锋衣，也算是延续下年轻时曾经未完成的梦，凯乐石请给我打广告费。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-39.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-39.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-41.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-41.JPG)
 
 布达拉宫门口的群众，大家都还是很配合防疫要求，大多数人都戴着口罩。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-43.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-43.JPG)
 
 布达拉宫门口草地的一棵树，虽然今天多云，但是太阳还是挺刺眼的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-40.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-40.JPG)
 
 草地上也有不少花，花期已经过了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-45.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-45.JPG)
 
 来到布达拉宫侧面，发现一个小寺庙。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-47.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-47.JPG)
 
 转经的大姐。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-44.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-44.JPG)
 
 斑驳的白墙。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-48.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-48.JPG)
 
 布达拉宫后面的一堵墙，还挺喜欢这个黄色的，很艳丽。
 
 ## **DAY1:拉萨-日喀则**
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-day1.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-day1.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-49.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-49.JPG)
 
 第三天，正式开始我们的自驾行程，也算是这篇博文「西藏自驾」正式行程的开始了。这次租了一辆现代ix35，挺便宜的合资SUV，四天加上保险，总共1750元，在这里不推荐各位使用携程租车，这次我就被坑了，车和服务倒没什么问题，保险的有个坑爹的条款让人有点不爽，最后一天我还车的时候，晚节不保，出停车场时蹭到了保险杠，最后租车公司说「保险只管车损，因为车损（掉漆）导致的误工成本，需要你承担」，跟我说特么喷个漆要3-5天，一天算我375，最后我投诉到携程，最后还要算我两天，赔了600元。
 
 一般神州租车、一嗨租车小剐蹭，如果有保险的话都是覆盖的，携程上面有些租车公司，还是挺不靠谱的，各位以后还是要注意这个坑。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-50.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-50.JPG)
 
 取了车，采购完两箱矿泉水和红牛，开车离开拉萨，今天的目的地是羊湖、卡若拉冰川和日喀则，也算是从拉萨出发的经典一日线路。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-51.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-51.JPG)
 
 G318国道，8年前从成都出发，骑行到拉萨，就是全程318，这次自驾，继续318的行程。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-52.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-52.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-53.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-53.JPG)
 
 到达羊湖景区入口，外地牌照车辆，在这里需要买票，60一人，医生护士免费。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-54.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-54.JPG)
 
 从这里开始，就是蔓延不断的盘山公路了，羊湖的海拔4400多米。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-56.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-56.JPG)
 
 让我比较惊讶的是，这一路的公路都很好，没有坑坑洼洼。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-57.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-57.JPG)
 
 行进路上，偶尔看到山坡上有一些牛在吃草。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-58.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-58.JPG)
 
 由于是山路，区间限速30KM/h，快到山顶了，休息一下，回望过去走过的山路，一路弯弯绕绕，也开了一个小时多。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-59.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-59.JPG)
 
 登上山顶，第一次见到羊湖。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-62.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-62.JPG)
 
 湖水碧蓝，湖边有些地方种上了油菜花。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-61.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-61.JPG)
 
 远远望去，羊湖一片静谧。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-63.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-63.JPG)
 
 这一路也遇上不少摩旅，全国各地的都有，深圳禁摩，挺羡慕能骑摩托车的城市。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-67.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-67.JPG)
 
 羊湖真美，羊湖这条自驾线路，我打90分，太赞了，不管是风景还是路况基建，完全都不输一号公路。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-68.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-68.JPG)
 
 下山，开车到了湖边，近看湖水，也是一片碧蓝，很漂亮的颜色。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-66.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-66.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-65.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-65.JPG)
 
 下车在湖边走走，还有人在这边放牛，也不怕人，走过去也不躲。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-69.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-69.JPG)
 
 中途路过一个村庄，去了一个川菜馆吃饭，跟老板聊了聊，今年由于疫情，游客少了很多，他们生意也不好做，老板娘是重庆的，他们来这边已经4年了，租了当地藏民的地自己建房子，一年1万5的租金。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-70.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-70.JPG)
 
 村庄里的电线、网络、照明之类的基础设施都很完善，这次西藏之行，我发现西藏农村的基建都很好，可以看出花了不少钱。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-71.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-71.JPG)
 
 羊湖很大，沿着湖边公路一直开，天空是蓝的，湖水也是蓝的，很惬意。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-72.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-72.JPG)
 
 离开羊湖，开往卡若拉冰川，第一次遇到粤B的车，后来我们在珠峰大本营又遇到了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-74.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-74.JPG)
 
 开始驶向山区，见到了雪山。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-73.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-73.JPG)
 
 在山间行驶，虽然是7月了，山顶还是有不少雪。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-76.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-76.JPG)
 
 中间路过一片小冰川。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-78.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-78.JPG)
 
 这个不知名小冰川距离卡若拉冰川还有一段距离，是一个冷门的小众景点，停了车，我和老婆准备徒步，去这个冰川下的小湖看一年（之前那个重庆老板娘给我们推荐的）。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-80.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-80.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-79.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-79.JPG)
 
 有一条小溪从山上流下
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-81.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-81.JPG)
 
 往冰川小湖去的路上，还看到有人在这里露营。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-84.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-84.JPG)
 
 终于看到了小湖，冰川融水，在山谷里行程了一个天然的小湖。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-82.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-82.JPG)
 
 湖边有一些石头堆起的玛尼堆。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-83.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-83.JPG)
 
 这个小湖比较偏僻，一般游客不会专门过来这里，如果有时间，倒建议大家可以花个半个小时，来这里看一看，轻度徒步。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-86.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-86.JPG)
 
 继续往前开约10公里，终于来到了卡若拉冰川，海拔5000多米，在这里爬山有点喘。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-85.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-85.JPG)
 
 参观冰川要门票，可是我们到达的时候已经是下午6点多了，售票处都关门了。在路边找了一处空地停车，这是我第一次这么近距离看冰川，还是挺震撼的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-88.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-88.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-87.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-87.JPG)
 
 山腰上有一座亭子，拿出长焦，有一种冰川扑面而来的冲击感，可惜有点虚焦了，6500对焦还是有点捉急。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-90.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-90.JPG)
 
 小爬了一段路，近看就百来米，却走了我差不多10分钟，在高海拔爬山，真是太辛苦了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-91.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-91.JPG)
 
 夏天冰川还稍微有点消融，冬天来看的话一定更壮观，好些年前看新闻说由于气候变化，不少冰川都缩小了，不知道这些冰川还能存在多久。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-92.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-92.JPG)
 
 白天耽误的时间有点多，离开卡若拉冰川，已经是晚上7点多，接下来还要驱车将近4个小时，这里给大家做一个反面例子，高原，山区，夜间行车，挺危险的，大家要尽量避免。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-93.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-93.JPG)
 
 到达日喀则已经是凌晨，入住当地一家藏式酒店，四星级，价格还挺便宜的。
 
 ## **DAY2:日喀则-珠峰大本营**
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-day2.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-day2.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-94.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-94.JPG)
 
 这一次我们的行程也比较随意，到达日喀则后，想着是往西南去珠峰，还是往东北去纳木错，最终想着都来日喀则了，不去珠峰有点可惜，于是中午12点出发，准备去珠峰。在这里埋了一个坑，一般从日喀则出发去珠峰，都是早上7点就走，我们中午才走有点晚了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-95.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-95.JPG)
 
 在路上见到一个从西安骑行过来的大叔，我特意靠边停车，给他一瓶水，还聊了聊骑行的事，毕竟自己也曾经骑过西藏，知道骑行的人这路上也挺不容易的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-99.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-99.JPG)
 
 到达318国道5000米的里程碑，算是318的新里程了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-ROAD.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-ROAD.JPG)
 
 之前走318的时候，一路上遇到路碑也会拍照纪念下。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-101.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-101.JPG)
 
 前往珠峰的路上，海拔越来越高，路边的风景也慢慢变成了高山草甸。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-102.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-102.JPG)
 
 中途经过海拔5100多米的山口，下车停了一会，风好大吹得人冷。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-103.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-103.JPG)
 
 加措拉山口，海拔5200米。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-104.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-104.JPG)
 
 漫漫长路，从这里就正式进入了珠峰保护区了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-105.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-105.JPG)
 
 珠峰属于边防区，去这里要办理「边防证」，建议大家在自己的户籍所在地办理，在拉萨办理有点麻烦还很贵。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-106.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-106.JPG)
 
 所有人都要下车，刷身份证，验边防证。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-163.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-163.JPG)
 
 登记之后会给一个条子，记录车牌号，人数等等，现在边境形势有点紧张，严格点也挺好的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-107.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-107.JPG)
 
 到达珠峰国家公园门口，进这里就要门票了，一辆车360元（包含司机门票），另外的一人120，我和老婆两个人共480元的门票。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-108.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-108.JPG)
 
 去珠峰路上要经过著名的「珠峰108拐」，海拔高，弯道多，好在路况不错，道路栏杆也健全，但是依旧不建议新手司机自驾这条线路。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-157.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-157.JPG)
 
 大家可以感受下地图上的弯道。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-109.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-109.JPG)
 
 去珠峰的这条路上，车辆就比较少了，基本都是自驾的车辆。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-112.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-112.JPG)
 
 到达加乌拉山口，有一个小路，沿着土路直接开上观景台，我们运气超好，刚好珠峰的云散开，见到了珠峰。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-117.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-117.JPG)
 
 加乌拉山口海拔又创新高。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-158.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-158.JPG)
 
 这个观景台还见到了基站，4G信号满格。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-110.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-110.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-111.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-111.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-116.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-116.JPG)
 
 世界第一高峰就这样出现在我们面前，远远地望着，倒没有太激动，心里挺平静的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-114.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-114.JPG)
 
 这次出行，依旧带了我的蔡司望远镜，拿来看远方的珠峰，值了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-115.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-115.JPG)
 
 山顶近有经幡，远处是珠穆朗玛。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-121.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-121.JPG)
 
 时候也不早了，距离珠峰大本营还有60多公里，开车下山，继续向珠峰靠近。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-122.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-122.JPG)
 
 太阳慢慢落山了，阳光撒在山谷中，切出一条分隔线。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-123.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-123.JPG)
 
 慢慢又靠近村庄，路边见到不少羊，想吃。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-124.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-124.JPG)
 
 银河斜穿天空。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-125.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-125.JPG)
 
 到达珠峰大本营已经是晚上9点，已经没有去营地的穿梭巴士，晚上我们住在距离大本营20公里的一个村庄的民宿，晚上出来拍了下星空，好久没有见到这么多星星了，还有银河。由于就我和老婆两个人，有点怕，没有拍太久就回去睡觉了。
 
 ## **DAY3:珠峰大本营-日喀则**
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-day3.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-day3.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-126.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-126.JPG)
 
 第二天早上9点多，从民宿出发驱车前往珠峰大本营。羊们也出来吃草了，想吃。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-127.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-127.JPG)
 
 现在珠峰大本营已经不允许自驾车辆进入，统一从这里换乘「环保车」，额外收费120元一人，不想交钱也可以，也可以选择徒步20公里去大本营。说好听点，叫环保，说难听点，咳咳。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-128.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-128.JPG)
 
 进入珠峰大本营区域后，地貌愈发荒芜。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-130.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-130.JPG)
 
 中途见到了中国移动的信号塔，中国移动在这里已经覆盖了5G信号，这一次西藏自驾，一路电信、联通的4G信号都挺好的，让我挺惊讶的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-144.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-144.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-141.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-141.JPG)
 
 到达珠峰大本营，运气不错，珠峰没有被云挡着。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-139.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-139.JPG)
 
 高耸入云，珠峰说第一，没有山说第二了吧。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-132.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-132.JPG)
 
 趁着云还没有过来，拿出长焦，咔嚓两张，每年5月都有好多人去爬这山，曾经我的梦想也是爬珠峰。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-135.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-135.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-136.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-136.JPG)
 
 找好角度，给老婆拍上两张照片。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-140.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-140.JPG)
 
 当然，来都来了，合照还是不能少的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-143.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-143.JPG)
 
 海拔8844，加上冰层那些海拔应该还是8848，今年中国又爬了登山队上去重新测了新高度，精确的数据还没出。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-149.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-149.JPG)
 
 珠峰脚下，也有世界上海拔最高的寺庙绒布寺。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-150.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-150.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-147.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-147.JPG)
 
 门票30一人，也能在这里住宿过夜，淡季人不多，门口有不少鸽子。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-145.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-145.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-148.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-148.JPG)
 
 这里也有世界海拔最高的邮局。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-146.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-146.JPG)
 
 明信片90一套，里面有24张，我们买了一套，寄了十多封给家人朋友。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-152.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-152.JPG)
 
 回去的路上，见到山坡上的岩羊，国家保护动物。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-153.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-153.JPG)
 
 远处的山峰，云好低，仿佛就盖在上面。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-154.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-154.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-155.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-155.JPG)
 
 回到停车场，解决中午伙食，方便面和自热米饭是藏区伙食神器，尤其是吃不惯当地食物的，强烈推荐带几盒自热米饭，太方便了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-156.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-156.JPG)
 
 离开珠峰，今天要返回日喀则，走回头路，回程途中见到一辆卡车在弄什么东西，堵了10多分钟。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-160.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-160.JPG)
 
 从珠峰108拐下来，这次来回，总共拐了216下，头都晕了，终于又到了珠峰国家公园的门口。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-161.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-161.JPG)
 
 见到一辆装满了氧气的车，问了下一罐要600人民币，见到不少旅游车都会搞几瓶，看样子用氧气的人还是不少的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-162.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-162.JPG)
 
 珠峰公园门口的标牌，挺有意思的，发现西藏这边有个特色，喜欢在路边放假警察吓人，还挺提神的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-164.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-164.JPG)
 
 慢慢悠悠往回开，一路依旧没什么车，按理来说7月应该是西藏旅游的旺季，今年由于疫情原因，的确是少了好多人，旅游体验倒也好了不少。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-165.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-165.JPG)
 
 西藏这一路的标语不少，但是有一个特征，就是离开了拉萨周边后，基本没有「商业广告」，我见到的大部分广告牌和标语，都是政策性或者环保相关。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-167.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-167.JPG)
 
 随着海拔慢慢下降，路边的油菜花又丰盛起来。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-169.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-169.JPG)
 
 从珠峰大本营离开是中午1点，越靠近日喀则，路边的农作物也越来越丰富，到达日喀则是晚上9点，不用赶夜路了，住回上次那家酒店。
 
 ## **DAY4:日喀则-羊八井-拉萨**
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-day4.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-day4.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-170.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-170.JPG)
 
 西藏自驾的最后一天，从日喀则回拉萨，但是今天走了一条比较小众的路线，离开日喀则市区上高速，走一段 318国道后，到达大竹卡，拐一个弯，进入304省道。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-171.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-171.JPG)
 
 304省道是一条比较小众的线路，人少，车少，景观却很不错，十分有美国西部的感觉。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-173.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-173.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-175.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-175.JPG)
 
 304省道途径不少草原，郁郁葱葱。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-174.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-174.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-172.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-172.JPG)
 
 山顶戴着雪帽，身上披着绿衣，让我想起了内华达州。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-177.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-177.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-180.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-180.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-176.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-176.JPG)
 
 和老婆找了一个地方停了车，向草原里走了约500米，一条小溪，不少牛在这里吃草。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-178.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-178.JPG)
 
 很久没见草原了，同老婆在这里拍了一组照片。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-179.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-179.JPG)
 
 远处的山上下起了雨，远远地就能看到一片雨云。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-182.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-182.JPG)
 
 随着海拔渐渐升高，远处雪山慢慢多了起来，天空也飘起了小雨，路上没什么车，在这里开车，特别放松安静。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-183.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-183.JPG)
 
 304省道前两年刚刚重修，这一段路是我开过的所有公路中最好的一段（没错，我说的就是包含国内外在内的所有公路），可能也是因为路新，加上车上，路上基本都没有坑洼，车开起来都没怎么颠过。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-184.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-184.JPG)
 
 路边不远处有一条小河，河水很清澈也很冰凉，应该也是冰川融水，河边还有不少土拨鼠的洞，见到我们过来躲进洞里。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-185.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-185.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-186.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-186.JPG)
 
 中途经过雪格拉山，海拔5411米，这也是我自驾到过海拔最高的地方了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-187.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-187.JPG)
 
 从雪格拉山下山没多久，经过一段路时，天空突然下起了冰雹，有一段路上也结满了冰，还有一小段山体滑坡，路中央落了一些碎石头，当时老婆被吓到了，小心地开过这段路，高原气候就是这样，十里不同天，7月也能下冰雹。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-188.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-188.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-189.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-189.JPG)
 
 下了山，又到了草原，接下来就是一路开向羊八井。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-190.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-190.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-192.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-192.JPG)
 
 由于开始接近城镇，也开始接近纳木错，路上车也慢慢多了起来。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-191.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-191.JPG)
 
 在路上还见到解放军的车队，好像在部署啥东西，边境的军人也挺辛苦的，致敬。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-194.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-194.JPG)
 
 羊八井是一个以温泉和地热为名的地方，在这里还有个地热发电厂。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-195.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-195.JPG)
 
 这里面冒着蒸汽应该就是温泉，这里有不少温泉度假村，如果有时间，可以在这里住一晚泡个温泉。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-196.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-196.JPG)
 
 进入羊八井镇，由于羊八井是前往拉萨和纳木错的交汇点，车一下子多了很多，甚至会堵车，在镇上遇到了东方猛士，矮矮壮壮的还挺好看的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-197.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-197.JPG)
 
 从羊八井向南，就是回拉萨了，向东则是前往纳木错，老婆还有一组照片要拍，于是准备再往纳木错方向开一开，结果没开多久，遇到了堵车，想了下就不继续走了，停在了路边。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-198.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-198.JPG)
 
 我们停车的地方，刚好也碰到了一队科研队，好像是北京什么学校的。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-200.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-200.JPG)
 
 登上半山腰，对面就是念青唐古拉山脉，这个雪山背后，就是纳木错。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-201.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-201.JPG)
 
 如果这次行程再多一天时间，倒可以去纳木错玩玩，看来再去纳木错只能下次了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-199.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-199.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-202.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-202.JPG)
 
 山顶上还有一些羊，想吃。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-204.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-204.JPG)
 
 青藏铁路，一辆和谐号列车经过，高原火车都经过了专门的改装，2012年的时候，我就是从拉萨坐火车回的广州，青藏段的风光还是很不错的，就是50多个小时没折腾死我。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-205.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-205.JPG)
 
 山坡上的一处风帆，不知道是干嘛用的，这次的西藏之行，到这里也告以尾声了。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-206.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-206.JPG)
 
 第二天一大早，到机场，离开拉萨。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-207.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-207.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-208.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-208.JPG)
 
 再见西藏。
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-209.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-209.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-210.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-210.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/07/tibet/t-211.JPG)
+![](https://c2.is26.com/blog/2020/07/tibet/t-211.JPG)
 
 由于在西安转机，在西安呆了一晚，西安咸阳机场对于中转旅游有一个福利，会提供免费一餐、免费住宿一晚（一张床位）和免费往返市区机场大巴，算是鼓励大家来西安中转的一个政策，这次我也撸了这个羊毛，用半天时间，去鼓楼、回民街逛了逛，距离上次来西安已经十多年了，西安的变化也是挺大的，下次有机会，再专门来西安和周边玩一玩吧。
 

@@ -1,7 +1,7 @@
 ---
 title: 左罗TV | 遇见,东极岛:夏季舟山团建视频节目
 date: "2016-07-24"
-cover: https://c2.llyz.xyz/blog/2016/07/dongji/dongji-island.jpg
+cover: https://c2.is26.com/blog/2016/07/dongji/dongji-island.jpg
 tags:
   - travel
 ---

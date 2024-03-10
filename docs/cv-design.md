@@ -1,7 +1,7 @@
 ---
 title: 图形化简历一枚
 date: "2011-07-12"
-cover: https://c2.llyz.xyz/wp-image/2011/07/cv2.jpg
+cover: https://c2.is26.com/wp-image/2011/07/cv2.jpg
 categories:
   - tech
 ---

@@ -1,7 +1,7 @@
 ---
 title: 2013年我看过哪些值得推荐的好书？
 date: "2013-08-19"
-cover: https://c2.llyz.xyz/wp-image/2013/08/kindle-read.jpg
+cover: https://c2.is26.com/wp-image/2013/08/kindle-read.jpg
 tags:
   - kindle
   - read

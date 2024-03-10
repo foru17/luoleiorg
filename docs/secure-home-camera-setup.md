@@ -1,7 +1,7 @@
 ---
 title: "我的智能家居监控方案:打造自主、安全、可控的摄像头"
 date: "2024-02-12"
-cover: https://c2.llyz.xyz/blog/2024/02/camera/c-1.jpg
+cover: https://c2.is26.com/blog/2024/02/camera/c-1.jpg
 categories:
   - lifestyle
 tags:
@@ -114,7 +114,7 @@ iptables -I FORWARD -s 10.0.0.12 -j REJECT
 
 我家使用的是小米路由器，网关使用的是 OpenWrt，除了在小米的控制台关闭外网权限，同时在防火墙设置里，通过添加过滤摄像头IP和MAC地址的规则，禁止摄像头访问外网。
 
-![](https://c2.llyz.xyz/blog/2024/02/camera/c-2.jpg)
+![](https://c2.is26.com/blog/2024/02/camera/c-2.jpg)
 
 设置完毕后，可以看到这个时候再访问TP-Link自带的App，提示是设备离线状态。但是如果你是在局域网通过内网 IP 访问，依旧可以正常访问。
 
@@ -144,7 +144,7 @@ iptables -I FORWARD -s 10.0.0.12 -j REJECT
 
 **由于监控的过程中一直会写入硬盘，会对硬盘寿命造成严重影响。强烈建议非专业需求，不要将监控视频与其他数据混存。**
 
-![](https://c2.llyz.xyz/blog/2024/02/camera/c-18.jpg)
+![](https://c2.is26.com/blog/2024/02/camera/c-18.jpg)
 
 为了解决这个问题，我使用了一块没用的`240G`的`SSD`，通过`USB3.0`接口外接到群晖上，作为监控的存储盘。上图就是我目前实际挂载的样子，这样有个好处:
 
@@ -157,11 +157,11 @@ iptables -I FORWARD -s 10.0.0.12 -j REJECT
 
 - 参考教程: [NAS群晖DSM进阶教程：保护硬盘 使用外接设备下载资源](https://post.smzdm.com/p/559269/)
 
-![](https://c2.llyz.xyz/blog/2024/02/camera/c-7.jpg)
+![](https://c2.is26.com/blog/2024/02/camera/c-7.jpg)
 
 首先登录群晖的`SurveillanceStation`，在`网络摄像机`>`编辑摄像机`>`录制` 里添加新的存储器，这里默认是只能在群晖主硬盘空间上存储，这里我命名`camera_storage`。
 
-![](https://c2.llyz.xyz/blog/2024/02/camera/c-5.jpg)
+![](https://c2.is26.com/blog/2024/02/camera/c-5.jpg)
 
 接下来需要通过`SSH`登录到群晖，进入跟路径，找到当前挂载的盘符，这个时候可以看到外接的硬盘已经被挂载到了`/volumeUSB1/`目录下。
 
@@ -188,15 +188,15 @@ ln -s /volumeUSB1/usbshare/ /volume2/camera_storage
 
 截止到一步，家庭监控的`接入`、`录制`、`存储`、`实时监控`、`回放`等功能都已经实现了。目前我主要就是通过群晖的`DS Cam`来进行实时监控和回放。
 
-![](https://c2.llyz.xyz/blog/2024/02/camera/c-8.jpg)
+![](https://c2.is26.com/blog/2024/02/camera/c-8.jpg)
 
 `DS Cam`有网页版和 App 版，使用起来还是很方便的，在监控画面有动静的时候，在时间轴上也有标记，方便快速定位。
 
-![](https://c2.llyz.xyz/blog/2024/02/camera/c-9.jpg)
+![](https://c2.is26.com/blog/2024/02/camera/c-9.jpg)
 
 出门在外时，一般我就使用 App 查看监控，TP-Link 这个摄像头本身支持语音通话，但是通过`ONVIF`接入群晖这么一圈后，就没有了，暂时还没找到解决方案，没法远程逗狗了，算是一个小小的不方便。
 
-![](https://c2.llyz.xyz/blog/2024/02/camera/c-17.jpg)
+![](https://c2.is26.com/blog/2024/02/camera/c-17.jpg)
 
 同样的，通过 iOS 自动的`Home`也能看到监控画面，但是 HomeKit 的实时监控画面延迟也是比较大的，大概是每10秒刷新一次。通过`Home Assistant`，则是可以实现更低延迟的监控画面。
 
@@ -218,7 +218,7 @@ ln -s /volumeUSB1/usbshare/ /volume2/camera_storage
 
 一句话来介绍这个的原理: **通过自定义规则，触发`webhook`，来切换摄像头的开关和触发通知。**
 
-![](https://c2.llyz.xyz/blog/2024/02/camera/c-10.jpg)
+![](https://c2.is26.com/blog/2024/02/camera/c-10.jpg)
 
 群晖 SurveillanceStation 支持自定义`操作规则`，在这里我设置了三个规则:
 
@@ -226,13 +226,13 @@ ln -s /volumeUSB1/usbshare/ /volume2/camera_storage
 - 离家模式: 人员离家时，开启摄像头
 - 动静通知: 监控画面出现动静时，发送通知
 
-![](https://c2.llyz.xyz/blog/2024/02/camera/c-11.jpg)
-![](https://c2.llyz.xyz/blog/2024/02/camera/c-12.jpg)
+![](https://c2.is26.com/blog/2024/02/camera/c-11.jpg)
+![](https://c2.is26.com/blog/2024/02/camera/c-12.jpg)
 
 这个的原理也十分简单，以`在家模式`举例，通过设置`事件源`为`WebHook/外部设备`，群晖暴露了一个`WebHook`接口，通过普通的网络请求触发这个接口，就可以关闭摄像头。
 
-![](https://c2.llyz.xyz/blog/2024/02/camera/c-13.jpg)
-![](https://c2.llyz.xyz/blog/2024/02/camera/c-14.jpg)
+![](https://c2.is26.com/blog/2024/02/camera/c-13.jpg)
+![](https://c2.is26.com/blog/2024/02/camera/c-14.jpg)
 
 而`动静通知`模式，则是反过来的操作，当监控画面出现动静时，群晖会主动向我的第三方`Node-Red`定义的接口触发请求，`Node-Red`会执行抓取当前画面、推送画面到`Telegram`、`Bark`等通知渠道的动作。
 
@@ -242,7 +242,7 @@ ln -s /volumeUSB1/usbshare/ /volume2/camera_storage
 
 `Home Assistant`里的`设置`>`自动化与场景`支持自己创建自动化。可以通过设置不同的`if` `then` 逻辑来控制不同的设备和流程。
 
-![](https://c2.llyz.xyz/blog/2024/02/camera/c-15.jpg)
+![](https://c2.is26.com/blog/2024/02/camera/c-15.jpg)
 
 以我的需求为例，当我的手机离开家时（地理围栏)，就会自动发送一条通知到我的手机，并请求我的群晖的`WebHook API`开启摄像头。
 
@@ -280,7 +280,7 @@ rest_command:
 
 群晖本身自带的`动静通知`功能，也能通过`DS Cam`接受通知，这里我没有使用自动的方案，而是通过`Node-Red`来实现。
 
-![](https://c2.llyz.xyz/blog/2024/02/camera/c-16.jpg)
+![](https://c2.is26.com/blog/2024/02/camera/c-16.jpg)
 
 首先放流程图，整个的流程逻辑是这样的:
 
@@ -570,7 +570,7 @@ rest_command:
 - [NodeRed + Surveillance Station Web API + goCQhttp 监控动检自动推送](https://bbs.hassbian.com/thread-21241-1-1.html)
 - [node-red-contrib-telegrambot](https://flows.nodered.org/node/node-red-contrib-telegrambot)
 
-![](https://c2.llyz.xyz/blog/2024/02/camera/c-19.jpg)
+![](https://c2.is26.com/blog/2024/02/camera/c-19.jpg)
 
 配置好了之后，建议在群晖摄像头的`事件检测`那里再精确配置下`动作检测区域`和灵敏度，避免误报。
 

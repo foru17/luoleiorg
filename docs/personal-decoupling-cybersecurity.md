@@ -1,7 +1,7 @@
 ---
 title: "脱钩: 我的个人网络安全策略"
 date: "2023-09-16"
-cover: https://c2.llyz.xyz/blog/2023/09/decoupling/t-0.jpg
+cover: https://c2.is26.com/blog/2023/09/decoupling/t-0.jpg
 categories:
   - code
 tags:
@@ -28,7 +28,7 @@ tags:
 
 趁着着这波互联网法治完善的浪潮，我也稍微研究了一下相关的法律法规，尤其是看了下这些法规中，对于个人隐私、数据的强制要求。
 
-![](https://c2.llyz.xyz/blog/2023/09/decoupling/t-1.jpg)
+![](https://c2.is26.com/blog/2023/09/decoupling/t-1.jpg)
 
 大家可以打开你日常使用最多的几个国内 APP，看看这些 APP 的用户协议，一般都会在APP的「隐私」栏里，在过去几年监管层的要求下，目前主流大厂的应用基本基本都强制公开了。
 
@@ -279,7 +279,7 @@ export default {
 
 作为一个使用 [印象笔记](https://www.yinxiang.com/) 超过十年的用户，鉴于印象笔记这几年越来越劣化的用户体验（全客户端的广告），我现在也逐渐开始转向使用 [Obsidian](https://obsidian.md/) 自托管的方案。
 
-![](https://c2.llyz.xyz/blog/2023/09/decoupling/t-2.jpg)
+![](https://c2.is26.com/blog/2023/09/decoupling/t-2.jpg)
 
 Obsidian 是基于 Markdown 的知识管理软件，MD文件我通过 [remotely-save](https://github.com/remotely-save/remotely-save) 同步到 OneDrive 上，这样就实现了多设备同步。
 
@@ -293,7 +293,7 @@ Obsidian 是基于 Markdown 的知识管理软件，MD文件我通过 [remotely-
 
 密码和 2FA 是个人隐私和安全的最后一道防线，也是最重要的一道防线。
 
-![](https://c2.llyz.xyz/blog/2023/09/decoupling/t-3.jpg)
+![](https://c2.is26.com/blog/2023/09/decoupling/t-3.jpg)
 
 我并没有使用 [1Password](https://1password.com/) 之类的成熟产品，目前我使用的密码管理工具是开源的 [Bitwarden](https://github.com/bitwarden)，同样是托管在自己的服务器上，只能通过内网或者VPN访问。
 

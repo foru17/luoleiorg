@@ -1,7 +1,7 @@
 ---
 title: 我们的数字记忆
 date: "2013-07-11"
-cover: https://c2.llyz.xyz/wp-image/2013/07/data-memorry.jpg
+cover: https://c2.is26.com/wp-image/2013/07/data-memorry.jpg
 ---
 
 首先说声抱歉，过去的这半个月，很忙：毕业旅游、毕业典礼、蛋疼复习周、考试周，忙忙碌碌，我:一个伪大四的学生，这半个月，说真的挺不好受，送别四年同窗，哭过，笑过，醉过，大唱过，拥抱过，……

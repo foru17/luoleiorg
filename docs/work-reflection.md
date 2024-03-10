@@ -1,7 +1,7 @@
 ---
 title: 最近的反思
-date: '2014-06-28'
-cover: https://c2.llyz.xyz/wp-image/2014/06/workreview.jpg
+date: "2014-06-28"
+cover: https://c2.is26.com/wp-image/2014/06/workreview.jpg
 ---
 
 > 本来考虑要不要把这封邮件写出来，想着当做是自己的一个警醒，还是记在这里了。

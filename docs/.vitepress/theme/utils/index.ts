@@ -14,7 +14,7 @@ export function formatDate(d: any, fmt = "yyyy-MM-dd hh:mm:ss") {
   if (/(y+)/.test(fmt)) {
     fmt = fmt.replace(
       RegExp.$1,
-      `${d.getFullYear()}`.substr(4 - RegExp.$1.length)
+      `${d.getFullYear()}`.substr(4 - RegExp.$1.length),
     );
   }
   // eslint-disable-next-line no-restricted-syntax
@@ -22,34 +22,34 @@ export function formatDate(d: any, fmt = "yyyy-MM-dd hh:mm:ss") {
     if (new RegExp(`(${k})`).test(fmt))
       fmt = fmt.replace(
         RegExp.$1,
-        RegExp.$1.length === 1 ? o[k] : `00${o[k]}`.substr(`${o[k]}`.length)
+        RegExp.$1.length === 1 ? o[k] : `00${o[k]}`.substr(`${o[k]}`.length),
       );
   }
   return fmt;
 }
 
 export function getFaviconUrl(domain: string) {
-  return `https://img.llyz.xyz/https://static.is26.com/favicon/${domain}/w=32`;
+  return `https://img.is26.com/https://static.is26.com/favicon/${domain}/w=32`;
 }
 
 export function getOriginalImage(url: string) {
-  return `https://img.llyz.xyz/${url}`;
+  return `https://img.is26.com/${url}`;
 }
 
 export function getPreviewImage(url: string) {
-  return `https://img.llyz.xyz/${url}/w=800`;
+  return `https://img.is26.com/${url}/w=800`;
 }
 
 export function getBannerImage(url: string) {
-  return `https://img.llyz.xyz/${url}/w=800`;
+  return `https://img.is26.com/${url}/w=800`;
 }
 
 export function getArticleLazyImage(url: string) {
-  return `https://img.llyz.xyz/${url}/w=1200`;
+  return `https://img.is26.com/${url}/w=1200`;
 }
 
 export function getArticleBlurImage(url: string) {
-  return `https://img.llyz.xyz/${url}/w=800,blur=10`;
+  return `https://img.is26.com/${url}/w=800,blur=10`;
 }
 
 export function getFormatNumber(num: number) {

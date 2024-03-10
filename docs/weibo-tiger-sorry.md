@@ -1,7 +1,7 @@
 ---
 title: 就《围脖猛于虎》此文造成的误会道歉
-date: '2011-06-05'
-cover: https://c2.llyz.xyz/wp-content/uploads/2011/06/sorry.jpg "sorry"
+date: "2011-06-05"
+cover: https://c2.is26.com/wp-content/uploads/2011/06/sorry.jpg "sorry"
 ---
 
 昨天写了篇[《围脖猛于虎》](https://luolei.org/2011/06/weibo-tiger/)，发表在人人网和微博上，有好几个同学找我说明了关于“女厕色狼”的一些细节。
@@ -24,4 +24,4 @@ cover: https://c2.llyz.xyz/wp-content/uploads/2011/06/sorry.jpg "sorry"
 
 最后还是对那些因为此文感到不悦的人说一声抱歉。
 
-![](https://c2.llyz.xyz/wp-content/uploads/2011/06/sorry.jpg )
+![](https://c2.is26.com/wp-content/uploads/2011/06/sorry.jpg)

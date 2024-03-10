@@ -1,12 +1,12 @@
 ---
 title: 每个创作者都应该有张人体工学梯:西昊M60
-date: '2018-12-05'
-cover: https://c2.llyz.xyz/blog/2018/12/sihoo/chair-2.jpg
+date: "2018-12-05"
+cover: https://c2.is26.com/blog/2018/12/sihoo/chair-2.jpg
 categories:
-- zuoluotv
+  - zuoluotv
 tags:
-- zuoluotv
-- kai-xiang
+  - zuoluotv
+  - kai-xiang
 ---
 
 我是一个前程序员，现在是一个视频制作人，也是一个内容创业者。程序员从业五年，每天都要花费大量的时间在办公桌前久坐，很久之前，我就给自己买了一张办公椅，那张椅子，陪伴我几年，不知道缓解了多少腰间酸痛。
@@ -20,41 +20,41 @@ tags:
 
 #### 简单开箱
 
-![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-2.jpg)
+![](https://c2.is26.com/blog/2018/12/sihoo/chair-2.jpg)
 
 椅子通过快递送达，大大的一个正方体箱子。
 
-![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-3.jpg) 箱子内部，分装了椅子的不同配件。
+![](https://c2.is26.com/blog/2018/12/sihoo/chair-3.jpg) 箱子内部，分装了椅子的不同配件。
 
-![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-5.jpg) 全部拿出来后，就是这么些东西了，椅子本体用泡沫膜包好，防止刮伤。
+![](https://c2.is26.com/blog/2018/12/sihoo/chair-5.jpg) 全部拿出来后，就是这么些东西了，椅子本体用泡沫膜包好，防止刮伤。
 
-![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-4.jpg) ![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-1.jpg) 比较贴心地是附送了手套和工具。
+![](https://c2.is26.com/blog/2018/12/sihoo/chair-4.jpg) ![](https://c2.is26.com/blog/2018/12/sihoo/chair-1.jpg) 比较贴心地是附送了手套和工具。
 
-![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-65.jpg) 安装十分简单，一个人花费10分钟左右就全部弄好了。
+![](https://c2.is26.com/blog/2018/12/sihoo/chair-65.jpg) 安装十分简单，一个人花费10分钟左右就全部弄好了。
 
-![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-7.jpg)
+![](https://c2.is26.com/blog/2018/12/sihoo/chair-7.jpg)
 
 椅子装好的效果，我收到的是静雅灰，现代简约设计，跟我家风格也比较搭。
 
-![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-25.jpg)
+![](https://c2.is26.com/blog/2018/12/sihoo/chair-25.jpg)
 
 椅子整体设计大量采用流线，背后的西昊LOGO。
 
-![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-9.jpg)
+![](https://c2.is26.com/blog/2018/12/sihoo/chair-9.jpg)
 
 西昊M60采用进口恩特斯网布，网布是透气性最好的材质，韧性强，抗拉性良好，坐久了不会热，面料表面，采用横向蓝色相间的线条，人体接触下来，保持一定的摩擦同时，也能够保持良好的触感。
 
-![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-14.jpg) ![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-21.jpg) 采用了尼龙注塑框架，比较有特色的是，坐垫处采用了双层一体设计， 比较有科技感，我还是挺喜欢这种设计的。我的体重75公斤，坐上去十分稳当。
+![](https://c2.is26.com/blog/2018/12/sihoo/chair-14.jpg) ![](https://c2.is26.com/blog/2018/12/sihoo/chair-21.jpg) 采用了尼龙注塑框架，比较有特色的是，坐垫处采用了双层一体设计， 比较有科技感，我还是挺喜欢这种设计的。我的体重75公斤，坐上去十分稳当。
 
-![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-17.jpg) ![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-18.jpg) 坐垫的高度会影响舒适度，如果腿部太高没有支撑，坐久了容易酸痛，过低了，也会让脚不能舒适伸张。M60椅子下方，有升降调节系统，方便根据不同的身高，调节座椅高度，有7cm的调节空间，坐垫离地能够在46cm到53cm之间进行调整。
+![](https://c2.is26.com/blog/2018/12/sihoo/chair-17.jpg) ![](https://c2.is26.com/blog/2018/12/sihoo/chair-18.jpg) 坐垫的高度会影响舒适度，如果腿部太高没有支撑，坐久了容易酸痛，过低了，也会让脚不能舒适伸张。M60椅子下方，有升降调节系统，方便根据不同的身高，调节座椅高度，有7cm的调节空间，坐垫离地能够在46cm到53cm之间进行调整。
 
-![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-24.jpg) 椅子后方，提供了调节腰枕高度的卡扣，能够根据需要，调节腰枕高度，支撑腰部，满足人体的生理弯度。除此之外，椅子能够进行105度到130度的后仰调节，对于需要在椅子上偶尔进行小躺休息的人来说，还是很实用的。
+![](https://c2.is26.com/blog/2018/12/sihoo/chair-24.jpg) 椅子后方，提供了调节腰枕高度的卡扣，能够根据需要，调节腰枕高度，支撑腰部，满足人体的生理弯度。除此之外，椅子能够进行105度到130度的后仰调节，对于需要在椅子上偶尔进行小躺休息的人来说，还是很实用的。
 
-![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-22.jpg) 座椅下方，采用的是高强度五脚钢脚，表面采用了电镀层，能够耐潮、抗腐蚀，对于南方的朋友，春夏两季雨水多，防潮还是很有必要的。
+![](https://c2.is26.com/blog/2018/12/sihoo/chair-22.jpg) 座椅下方，采用的是高强度五脚钢脚，表面采用了电镀层，能够耐潮、抗腐蚀，对于南方的朋友，春夏两季雨水多，防潮还是很有必要的。
 
-![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-23.jpg) 另外还采用了黑色的静音椅轮，滑动的时候很安静，不会对其他人造成干扰。
+![](https://c2.is26.com/blog/2018/12/sihoo/chair-23.jpg) 另外还采用了黑色的静音椅轮，滑动的时候很安静，不会对其他人造成干扰。
 
-![](https://c2.llyz.xyz/blog/2018/12/sihoo/chair-15.jpg) 比较遗憾的是，由于采用了一体式设计，扶手是固定的，无法调节，我使用的时候，基本不会把手靠在扶手上，所以对于我来说影响不大。
+![](https://c2.is26.com/blog/2018/12/sihoo/chair-15.jpg) 比较遗憾的是，由于采用了一体式设计，扶手是固定的，无法调节，我使用的时候，基本不会把手靠在扶手上，所以对于我来说影响不大。
 
 #### 总结
 

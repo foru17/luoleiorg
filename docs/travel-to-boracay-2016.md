@@ -1,7 +1,7 @@
 ---
 title: 视频 | 长滩岛:亚洲最美白沙滩
 date: "2016-10-13"
-cover: https://c2.llyz.xyz/blog/2016/09/pilipinas/boracay-cover.jpg
+cover: https://c2.is26.com/blog/2016/09/pilipinas/boracay-cover.jpg
 categories:
   - photography
   - travel
@@ -39,7 +39,7 @@ tags:
 
 最后在这里也公开一下自己的微信公众账号「罗磊啰嗦」，已经积累了一段时间，扫描下方二维码即可关注，如果你是从我的博客知道我的公众账号的，欢迎跟我打招呼，暗号就叫「罗磊啰嗦」就可以了。
 
-![](https://c2.llyz.xyz/wechat.png)
+![](https://c2.is26.com/wechat.png)
 
 截至10月13日，已经有900多位朋友在里面，第1000位关注者（你关注了就知道自己的序号）我会赠送你一个小礼物。
 

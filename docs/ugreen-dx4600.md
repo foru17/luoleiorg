@@ -1,12 +1,12 @@
 ---
 title: 不想折腾：绿联 DX4600 国产 NAS 开箱体验
-date: '2022-11-07'
-cover: https://c2.llyz.xyz/blog/2022/11/ugreen/dx-26.JPG
+date: "2022-11-07"
+cover: https://c2.is26.com/blog/2022/11/ugreen/dx-26.JPG
 categories:
-- tech
+  - tech
 tags:
-- kai-xiang
-- digital
+  - kai-xiang
+  - digital
 ---
 
 **利益相关，这是一篇没有内容要求的合作文章（要不然也不会过了一个多月也没人催稿）。**
@@ -58,43 +58,43 @@ DX4600 ，算是刚好满足了我这个阶段「 返璞归真，不想折腾」
 
 ## 开箱
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-1.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-1.JPG)
 
 回到那个早晨，隔天就送到的盒子。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-2.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-2.JPG)
 
 这次送来的是一个套装，盒子贴了一个红色帖子，正面写着「网络私有云存储」。当时我在自己小蓝鸟发了一张照片，让大家猜是什么品牌，LOGO的露出有点少。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-3.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-3.JPG)
 
 再打开一层，露出 DX4600 的本体包装，黑色的箱体上有一个提手。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-4.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-4.JPG)
 
 这就是 DX4600 包装盒正面，包装盒外观倒做得不错，大厂品质。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-5.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-5.JPG)
 
 继续开箱，里面的机器、电源、配件分别由几个小盒子分装。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-6.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-6.JPG)
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-7.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-7.JPG)
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-8.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-8.JPG)
 
 附送的所有配件，包含电源适配器、电源线、两根网线、M2固态硬盘散热垫片、硬盘固定螺丝和螺丝刀。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-12.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-12.JPG)
 
 机器正面，机体采用银灰色金属，质感很不错。正面有电源、网络状态、硬盘读写状态灯。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-9.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-9.JPG)
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-17.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-17.JPG)
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-16.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-16.JPG)
 
 转过身来到背面，做工极佳，硕大的蜂窝防尘网。底部接口从左到右分别是：
 
@@ -105,49 +105,49 @@ DX4600 ，算是刚好满足了我这个阶段「 返璞归真，不想折腾」
 - 重置 RESET 按扭
 - 电源插口
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-10.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-10.JPG)
 
 我和小曹老师对这个防尘网的做工和质感一致好评。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-11.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-11.JPG)
 
 拆下防尘网后，后面的大风扇和格栅。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-13.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-13.JPG)
 
 前置的面版采用磁性吸附设计，还是挺方便的。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-14.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-14.JPG)
 
 DX4600 是4盘位NAS，采用卡扣式可抽拉硬盘仓。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-18.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-18.JPG)
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-20.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-20.JPG)
 
 底部面版卸下后，就能看到内存和M2卡槽，DX4600 支持双通道内存和2根M2固态硬盘，标配金士顿8G DDR4内存条。我的群晖和N5105软路由也都是配的8G内存，对于大部分场景来说都足够了。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-21.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-21.JPG)
 
 接下来上盘了，说来也惭愧，我家除了群晖里的两块西部数据红盘长期使用，额外还有7块东芝的硬盘，这几块硬盘放在其他硬盘盒或者阵列，长期闲置，几年下来，通电时间甚至不到700小时。这次刚好把阵列的5快硬盘拆下来，放到 DX4600 里发挥余热。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-22.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-22.JPG)
 
 硬盘盒卡扣也比较精准，支持无螺丝固定。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-23.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-23.JPG)
 
 全部塞好硬盘后，NAS份量立马就变得重了好多。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-26.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-26.JPG)
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-24.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-24.JPG)
 
 相信不少朋会把NAS放在电视柜，我也摆到家里柜子上，讲真 DX4600 相比传统的NAS品牌，颜值数一数二，能很好融入家居。上面这张是摆排，当然后面要接上电源线网线后，还是得遮挡下才行。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-30.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-30.JPG)
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/dx-29.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/dx-29.JPG)
 
 由于我有一个专门的定指厨柜放和开放式机柜，这次我就选择放到机柜中了。相比一下左右的其他品牌的NAS和硬盘盒，颜值还是很突出吧。
 
@@ -161,17 +161,17 @@ DX4600 是4盘位NAS，采用卡扣式可抽拉硬盘仓。
 
 其中Windows 和 macOS 客户端均是用的 Electron 套壳，功能差异不大，所以本文中的桌面端相关均以 macOS 版本为主。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-1.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/s-1.JPG)
 
 客户端采用左右布局，菜单和项目还是比较少的。首页会展示目前的存储相关信息，目前我在 DX4600 插满了4块硬盘、1根M2固态，还外接了一个希捷8TB的硬盘盒。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-2.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/s-2.JPG)
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-4.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/s-4.JPG)
 
 设备和硬盘相关信息，DX4600 支持多种阵列模式，我用4块硬盘组了一个 RAID5。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-3.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/s-3.JPG)
 
 来到功能模块，绿联的功能目前来说，只能说够用。虽说这个模块有十几个图标，但是真正实用的不多，我常用的有下面几个（按重要性排名）
 
@@ -181,25 +181,25 @@ DX4600 是4盘位NAS，采用卡扣式可抽拉硬盘仓。
 - **时间机器**：macOS 时光机备份
 - 文件整理：找到 NAS 中重复的文件，清理出多余空间
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-8.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/s-8.JPG)
 
 迅雷下载这个很实用，每个客户端（包括手机）上面都支持，能够跑满宽带（我家宽带500M），在外面看到新剧，远程操作一下把链接丢远程下载，回到家就能看剧了。其他的功能对于我来说不常用，就不多说了。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-5.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/s-5.JPG)
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-6.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/s-6.JPG)
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-9.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/s-9.JPG)
 
 Docker 对于很多「想折腾」的玩家来说，属于很重要的功能，绿联DX4600 也支持 Docker，整体操作还是很简单的。常用的镜像管理、存储空间、网络环境配置、终端等都有，算傻瓜操作了。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-10.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/s-10.JPG)
 
 不像群晖每个功能是单独的 App，绿联云手机客户端把所有的功能都集中在一个 App，比较适合国内用户习惯吧。上面截图是 iOS 客户端，纯工具向应用，无广告（希望坚持），桌面客户端有的功能这边基本都有，支持用户直接通过手机创建、管理存储空间，进行常见操作。
 
 绿联DX4600 默认是支持云端管理的，但是也支持本地帐号登陆。只要你的 NAS 没断网，就允许你通过外网远程通过 App 访问和管理家里的数据。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-11.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/s-11.JPG)
 
 对于手机用户来说，比较痛点的需求就是相册备份，我就把我和老婆 iPhone 的所有照片都备份到了 DX4600 上面。绿联云 App 内的相册管理还算比较方便，支持智能分类（采用本地算法），像我手机里有上万张照片，通过时间、关键字找过去的照片还是挺方便的。
 
@@ -211,19 +211,19 @@ Docker 对于很多「想折腾」的玩家来说，属于很重要的功能，�
 
 在这个月，我让她把视频素材都直接保存在 DX4600 上面，通过 2.5G 网卡连接 NAS  直接进行剪辑相关的操作。
 
-**![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-12.JPG)**
+**![](https://c2.is26.com/blog/2022/11/ugreen/s-12.JPG)**
 
 DX4600 有两个2.5G的网口，为了解决家庭的网络瓶颈，我另外购买了一个 TP-Link 的2.5G交换机，让家里的 PC（万兆网卡）和 MacBook（USB 2.5G网卡）能够达到 2.5G速率连接NAS。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-13.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/s-13.JPG)
 
 首先测试下网络速率，通过 Docker 在 DX4600 上面部署了一个 iPerf 服务端，我的 MacBook 通过2.5G USB网卡接入网络，iPerf 测速达到了2.35Gbits/s，基本达到了网卡瓶颈。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-14.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/s-14.JPG)
 
 同样通过 Docker 在 DX4600 上面部署了一个 LibreSpeed 测速服务，内网测速达到 2500Mbps，接近带宽极限。
 
-![](https://c2.llyz.xyz/blog/2022/11/ugreen/s-15.JPG)
+![](https://c2.is26.com/blog/2022/11/ugreen/s-15.JPG)
 
 接下来再来一个大文件拷贝实战，从 DX4600 里的M2硬盘里，拷贝一个37.73GB的电影到我的 MacBook，只需要2分钟左右的时间，通过观察磁盘读写，可以看到读取速度达到 310MB/s 以上，接近极限。
 

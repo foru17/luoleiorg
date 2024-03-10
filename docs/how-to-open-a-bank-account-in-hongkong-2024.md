@@ -1,7 +1,7 @@
 ---
 title: 香港银行开户：2024 年更新 | 中银、汇丰、众安开户经验分享
 date: "2024-01-01"
-cover: https://c2.llyz.xyz/blog/2024/01/hongkong/hk-1.jpg
+cover: https://c2.is26.com/blog/2024/01/hongkong/hk-1.jpg
 categories:
   - lifestyle
 tags:
@@ -129,7 +129,7 @@ tags:
 - 询问了我的开户用途。
 - 填写了我的家庭资料，收入和工作单位。
 
-![](https://c2.llyz.xyz/blog/2024/01/hongkong/hk-2.jpg)
+![](https://c2.is26.com/blog/2024/01/hongkong/hk-2.jpg)
 
 我的开户过程大概用时 30 分钟，最后汇丰的工作人员当场给了我一张红色的银联卡（红狮子），拿到卡后，出门去 ATM 机存入`$100`港币激活，并修改密码，就此搞定汇丰开户。
 
@@ -151,7 +151,7 @@ tags:
 
 由于 ZA Bank 是虚拟卡，开户成功之后，立马就可以使用了，也可以在 App 里单独申请 VISA 的实体卡，寄送到内地地址是`$25`港币的快递费用。有关 ZA Bank 的更多信息，大家可以自行搜索，这个卡相比传统的银行卡，除了开户方便，并没有太多优势，交易也有额外的费用，我就是拿来当一个备用卡，聊胜于无。
 
-![](https://c2.llyz.xyz/blog/2024/01/hongkong/hk-3.jpg)
+![](https://c2.is26.com/blog/2024/01/hongkong/hk-3.jpg)
 
 如果你想要开立 ZA Bank 虚拟卡，可以使用我的邀请码: `E3HJW9`，你我都可以获得港币奖励。
 
@@ -159,7 +159,7 @@ tags:
 
 ## 总结
 
-![](https://c2.llyz.xyz/blog/2024/01/hongkong/hk-1.jpg)
+![](https://c2.is26.com/blog/2024/01/hongkong/hk-1.jpg)
 
 最后再来一张目前我的港卡全家福，两个实体银行，一个虚拟银行，共4张实体卡
 

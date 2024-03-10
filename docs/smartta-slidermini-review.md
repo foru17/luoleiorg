@@ -1,13 +1,13 @@
 ---
 title: SliderMini:可能是2018最值得期待的便携滑轨  | ZUOLUOTV | VLOG17
-date: '2018-10-23'
-cover: https://c2.llyz.xyz/vlog/vlog17.jpg
+date: "2018-10-23"
+cover: https://c2.is26.com/vlog/vlog17.jpg
 categories:
-- zuoluotv
+  - zuoluotv
 tags:
-- vlog
-- zuoluotv
-- digital
+  - vlog
+  - zuoluotv
+  - digital
 ---
 
 ## 视频

@@ -1,10 +1,10 @@
 ---
 title: 台风来临:延时摄影
-date: '2015-07-13'
-cover: https://c2.llyz.xyz/blog/2015/07/shanghai1.jpg
+date: "2015-07-13"
+cover: https://c2.is26.com/blog/2015/07/shanghai1.jpg
 ---
 
-![cover](https://c2.llyz.xyz/blog/2015/07/shanghai1.jpg)
+![cover](https://c2.is26.com/blog/2015/07/shanghai1.jpg)
 
 7月，中国东南沿海接连来了三场台风，用小蚁运动相机，在公司，拍了一下台风来临之前的变天场景。
 

@@ -1,18 +1,18 @@
 ---
 title: 最容易获得的境外驾照:内地驾照免试换取香港十年驾照攻略
-date: '2020-06-07'
-cover: https://c2.llyz.xyz/blog/2020/06/hongkong/license.jpg
+date: "2020-06-07"
+cover: https://c2.is26.com/blog/2020/06/hongkong/license.jpg
 categories:
-- travel
+  - travel
 tags:
-- e9a699e6b8af
+  - e9a699e6b8af
 ---
 
 我拿到香港驾照已经有大半年时间了，由于疫情封关和香港的社会运动，现在要去香港难度还不小，今天看到钱包里的香港驾照，想着也不拖延了，整理一下「内地驾照换香港驾照」的一些经验和攻略，分享给大家，希望对大家有帮助。
 
 ## 为什么需要香港驾照？
 
-![](https://c2.llyz.xyz/blog/2020/06/hongkong/hk-1.jpg)
+![](https://c2.is26.com/blog/2020/06/hongkong/hk-1.jpg)
 
 现在上淘宝搜索「香港 驾照」，能够看到大量的中介代办的业务，价格在1000元人民币左右，算是一个很成熟的代办业务了。对于中介宣传来说，办理香港驾照的好处大概是如下几点：
 
@@ -34,7 +34,7 @@ tags:
 
 ## 申请条件&&资料
 
-- 填写「[TD 63A 免試簽發香港正式駕駛執照申請表](https://www.td.gov.hk/filemanager/common/td63a(2017.11)_e-fillable_chi.pdf)」
+- 填写「[TD 63A 免試簽發香港正式駕駛執照申請表](<https://www.td.gov.hk/filemanager/common/td63a(2017.11)_e-fillable_chi.pdf>)」
 - 持**有效内地驾照**，且证件时间颁发大于一年（不在实习期）
 - 持有**中国护照**，或者**港澳通行证（建议用护照）**
 - **有效内地地址证明**：近三个月中的地址证明原件（信用卡对账单、水电气账单灯）。
@@ -66,35 +66,35 @@ tags:
 
 - 运输署地址:**香港金鐘道九十五號統一中心三樓(鄰近港鐵金鐘站D)**
 
-![](https://c2.llyz.xyz/blog/2020/06/hongkong/l-12.JPG)
+![](https://c2.is26.com/blog/2020/06/hongkong/l-12.JPG)
 
 坐港铁到金钟站,从D出口出来就能看到这个统一中心.
 
-![](https://c2.llyz.xyz/blog/2020/06/hongkong/l-3.JPG)
+![](https://c2.is26.com/blog/2020/06/hongkong/l-3.JPG)
 
 运输署在统一中心3楼.
 
-![](https://c2.llyz.xyz/blog/2020/06/hongkong/l-4.JPG)
+![](https://c2.is26.com/blog/2020/06/hongkong/l-4.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/06/hongkong/l-5.JPG)
+![](https://c2.is26.com/blog/2020/06/hongkong/l-5.JPG)
 
 运输署门面很小，里面办事的人很多。
 
-![](https://c2.llyz.xyz/blog/2020/06/hongkong/l-10.JPG)
+![](https://c2.is26.com/blog/2020/06/hongkong/l-10.JPG)
 
 可以现场填写这个申请表，我的是中介提前帮我填好了。
 
-![](https://c2.llyz.xyz/blog/2020/06/hongkong/l-7.JPG)
+![](https://c2.is26.com/blog/2020/06/hongkong/l-7.JPG)
 
 把护照、地址证明交给中介后，中介就去排队了，我等了一会。
 
 ## 驾照到手
 
-![](https://c2.llyz.xyz/blog/2020/06/hongkong/license.jpg)
+![](https://c2.is26.com/blog/2020/06/hongkong/license.jpg)
 
 大概过了一周，中介给我发了顺丰，顺利收到了我的香港驾照。驾照很简单，就是一张薄纸片，外面有个塑封保护。
 
-![](https://c2.llyz.xyz/blog/2020/06/hongkong/license2.jpg)
+![](https://c2.is26.com/blog/2020/06/hongkong/license2.jpg)
 
 证件上有拼音姓名，右上角是我的护照号和驾照有效期，**个人建议使用护照来申请香港驾照**，毕竟如果是在国外旅游，万一需要出示证件，同时出示护照+香港驾照，证件号对得上，说不定能省点麻烦。
 

@@ -1,10 +1,10 @@
 ---
 title: 四月谈:简历，杂想，未来
-date: '2013-04-09'
-cover: https://c2.llyz.xyz/wp-image/2013/05/profile.jpg
+date: "2013-04-09"
+cover: https://c2.is26.com/wp-image/2013/05/profile.jpg
 ---
 
-![profile](https://c2.llyz.xyz/wp-image/2013/05/profile.jpg)
+![profile](https://c2.is26.com/wp-image/2013/05/profile.jpg)
 
 好久没有写博客了，这篇博文，不出意外是目前这个wordpress主题下的最后一篇博文了，这一个多月，也算是放鸽子和跳票了几次，自己正在开发一款响应式、定制后台的wordpress主题，顺便当作是进阶学习php的一个练手案例，遇到不少问题，也是在不断地摸索、搜索、debug、optimize之中学习和提升。即将公开share的这个主题，有几个特点：响应式（对移动设备优化）、增强阅读体验、后台可定制、优化(SEO+速度优化），可谓也算困难重重，现在是算85%完工，还缺的就是最后的debug和兼容（包括针对IE7的兼容:其实挺不想做针对IE7的兼容的），昨天最后上传到位于linode的VPS，结果发现出现500 error，各种google，依旧没有解决，无奈上传到另外一个hostigation的VPS，结果完全正常，后来才发现应该是linode VPS服务器设置的问题（话说昨天看了一下服务器的log，apache没做优化，那log的大小，都不好意思说出来了）。
 

@@ -1,11 +1,11 @@
 ---
 title: 创业笔记 | 从0到1开公司是什么体验
-date: '2019-02-15'
-cover: https://c2.llyz.xyz/blog/2019/02/startup/c2.jpg
+date: "2019-02-15"
+cover: https://c2.is26.com/blog/2019/02/startup/c2.jpg
 categories:
-- lifestyle
+  - lifestyle
 tags:
-- chuang-ye
+  - chuang-ye
 ---
 
 上次写完[《编程五年:我辞职了》](https://luolei.org/new-journey/)后，这几个月一直在忙着处理各种杂事。18年12月底，注册了公司，这个星期，去办了公账，把我们的事业向着正规化的方向发展。
@@ -23,11 +23,11 @@ tags:
 
 基本上所有的流程，都是在上面这两个政府网站操作完成了，广东电子政务这边还是很不错的，流程也算是十分清晰，按照官网上的说明来就没错了。
 
-![](https://c2.llyz.xyz/blog/2019/02/startup/c1.jpg) ![](https://c2.llyz.xyz/blog/2019/02/startup/c2.jpg)
+![](https://c2.is26.com/blog/2019/02/startup/c1.jpg) ![](https://c2.is26.com/blog/2019/02/startup/c2.jpg)
 
 整个流程比想象中要简单不少，申请前期流程，基本上都是网络操作就好，填表、审核都是在线操作，就最后领营业执照要法人本人去到政务大厅。
 
-![](https://c2.llyz.xyz/blog/2019/02/startup/c3.jpg) 其中要填写的资料还挺多的，法人资料、股东资料、公司地址等等，填写完了之后，系统会生成一个PDF文件，然后法人、股东要使用指定银行（工行、招行、中行等等都有）的U盾进行数字签名。法人和全部股东签名确认后，在PDF上直接提交，就算完成申请了。
+![](https://c2.is26.com/blog/2019/02/startup/c3.jpg) 其中要填写的资料还挺多的，法人资料、股东资料、公司地址等等，填写完了之后，系统会生成一个PDF文件，然后法人、股东要使用指定银行（工行、招行、中行等等都有）的U盾进行数字签名。法人和全部股东签名确认后，在PDF上直接提交，就算完成申请了。
 
 提交之后，政府会在线审核你的资料是否通过，公司名字是否合规等等，通过后，直接就有营业执照的电子版了。
 
@@ -90,4 +90,4 @@ tags:
 
 - ZUOLUOTV电报群:[t.me/zuoluotv](https://t.me/zuoluotv)
 - ZUOLUOTV电报频道:[t.me/zuoluotvOfficial](https://t.me/zuoluotvofficial)
-- ZUOLUOTV\_BOT机器人:[t.me/zuoluotv\_bot](https://t.me/zuoluotv_bot)
+- ZUOLUOTV_BOT机器人:[t.me/zuoluotv_bot](https://t.me/zuoluotv_bot)

@@ -1,9 +1,8 @@
 ---
 title: 谷歌I/O 2014:移动端网页优化建议
-date: '2014-07-04'
-cover: https://c2.llyz.xyz/wp-image/2014/07/googleio-web-lesson1.jpg
+date: "2014-07-04"
+cover: https://c2.is26.com/wp-image/2014/07/googleio-web-lesson1.jpg
 ---
-
 
 2014年，移动端已经是前端不可忽视的领域，越来越多的用户使用手机、平板来浏览网页，今年谷歌 I/O 上，谷歌工程师 Paul Kinlan做了题为 "Mobile web lessons learned from analyzing websites at scale(基于数据看移动网页前端实践优化)" 的分享。
 
@@ -21,21 +20,21 @@ cover: https://c2.llyz.xyz/wp-image/2014/07/googleio-web-lesson1.jpg
 
 现在移动端网页存在问题
 
-* 内容无法适配屏幕
-* 难以阅读的文字
-* 禁用缩放
-* 关于这点，我持保留态度，我们的产品项目中，默认都是禁用缩放的，在做好适配的基础上，一般用户也不会需要用到放大缩小。
-* 糟糕的交互
-* 复杂的输入
-* 还使用 Flash 等插件
+- 内容无法适配屏幕
+- 难以阅读的文字
+- 禁用缩放
+- 关于这点，我持保留态度，我们的产品项目中，默认都是禁用缩放的，在做好适配的基础上，一般用户也不会需要用到放大缩小。
+- 糟糕的交互
+- 复杂的输入
+- 还使用 Flash 等插件
 
 ## 谷歌的建议
 
-* 使用 viewport 标签
-* 避免让用户左右滑动
-* 允许用户使用缩放
-* 保持文字的可读性和易读性
-* 慎用 web font
-* 增加点击、触控区域的交互面积
-* 优化输入框
-* 使用PageSpeed来优化
+- 使用 viewport 标签
+- 避免让用户左右滑动
+- 允许用户使用缩放
+- 保持文字的可读性和易读性
+- 慎用 web font
+- 增加点击、触控区域的交互面积
+- 优化输入框
+- 使用PageSpeed来优化

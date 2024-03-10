@@ -1,12 +1,12 @@
 ---
 title: 罗磊啰嗦 | 谈谈网络教育和学习
-date: '2013-05-28'
-cover: https://c2.llyz.xyz/wp-image/2014/10/learn-online.jpg
+date: "2013-05-28"
+cover: https://c2.is26.com/wp-image/2014/10/learn-online.jpg
 tags:
-- ispeakl
+  - ispeakl
 ---
 
-![](https://c2.llyz.xyz/wp-image/2014/10/learn-online.jpg)
+![](https://c2.is26.com/wp-image/2014/10/learn-online.jpg)
 
 今天，来啰嗦下网络教育，同时从我做为一个学生的角度，来谈谈网络学习。分享一下自己这几年的一些网络学习经验。
 

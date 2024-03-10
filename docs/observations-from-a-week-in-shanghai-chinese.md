@@ -1,14 +1,14 @@
 ---
 title: 移动中国 | Facebook 设计总监上海见闻
 date: "2013-12-05"
-cover: https://c2.llyz.xyz/wp-image/2013/12/shanghai-streed.jpeg
+cover: https://c2.is26.com/wp-image/2013/12/shanghai-streed.jpeg
 tags:
   - internet
 ---
 
 Medium原文：["Mobile in China : Observations from a week in Shanghai"](https://medium.com/the-year-of-the-looking-glass/92593edde29e)
 
-![](https://c2.llyz.xyz/wp-image/2013/12/Julie-Zhuo.png)
+![](https://c2.is26.com/wp-image/2013/12/Julie-Zhuo.png)
 
 作者[Julie Zhuo](https://www.juliezhuo.com/)，美籍华人，出生于上海，12岁随家人移民美国，毕业于斯坦福大学，现就职于[Facebook](https://www.facebook.com/julie) ，任产品设计总监 Director of Product Design 。
 
@@ -24,7 +24,7 @@ Medium原文：["Mobile in China : Observations from a week in Shanghai"](https:
 
 Wechat 微信毋庸置疑是当今中国即时通讯的王者，我的表妹就是一个微信控，我的大伯阿姨平时通讯也离不开它了。我见到人们用的最多的是「语音」功能，也许是因为大家不喜欢打字的缘故，简单地一按主界面的「按住说话」按钮然后松开，就可以成功地把语音发送给了对方，可谓超级便利，就像过去我们使用的对讲机。另外，微信的贴纸表情也更丰富。
 
-![line-shanghai](https://c2.llyz.xyz/wp-image/2013/12/shanghai-sub-line.jpeg)
+![line-shanghai](https://c2.is26.com/wp-image/2013/12/shanghai-sub-line.jpeg)
 
 Line（连我）正在上海大力推广，我甚至见到了一整辆地铁车厢印上了Line 的表情。在Hello Kitty 和 Rilakkuma 旁边的玩具店，你也可以买到 Line毛茸茸的兔子吉祥物玩偶。
 
@@ -34,7 +34,7 @@ Apple 苹果产品在这里是一个身份象征。哪怕中国人的平均收�
 
 最让我想不通的是中国的大部分 iphone 用户会开启「辅助功能按钮」(Assistive Touch)，换句话说，这意味着，大部分用户的屏幕上常常会浮着一个虚拟按钮（虽说你可以随时移动这个按钮的位置）。我以前甚至都不知道 iphone 有这个功能，但是很明显如果使用这个辅助按钮，你可以减少使用 Home 键的频率。带着好奇和疑惑，我问我的表妹为什么大家要用这个辅助按钮，她向我解释说：因为大家担心使用 home 键太多会造成失灵，维修又贵又麻烦（后来大部分人都强调了这个原因，看来这就是真正的谜底了吧）。
 
-![iphone-plugin](https://c2.llyz.xyz/wp-image/2013/12/iphone-plugin.jpeg)
+![iphone-plugin](https://c2.is26.com/wp-image/2013/12/iphone-plugin.jpeg)
 
 第二个让我不解的就是各种 iphone 的配件（贴膜、手机壳等等）。在数码相关的商铺中，常常可以看到一面墙的iphone 配件，home 按键上的个性贴纸，插在耳机孔的鸭子、轻松熊、忍者（只要能插进iphone 的耳机孔）小玩偶，甚至连 Lightning 孔都有防尘塞，其实我挺疑惑：当用户要充电时，频繁拔插这些防尘塞，如何才能不容易弄丢它们。
 

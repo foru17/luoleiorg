@@ -1,12 +1,12 @@
 ---
 title: 左罗TV:我们的一大步
-date: '2016-06-20'
-cover: https://c2.llyz.xyz/blog/2016/06/zuoluotv/zuoluo.jpg
+date: "2016-06-20"
+cover: https://c2.is26.com/blog/2016/06/zuoluotv/zuoluo.jpg
 tags:
-- zuoluotv
+  - zuoluotv
 ---
 
-![cover](https://c2.llyz.xyz/blog/2016/06/zuoluotv/zuoluo.jpg)
+![cover](https://c2.is26.com/blog/2016/06/zuoluotv/zuoluo.jpg)
 
 #### 一些简单的话
 
@@ -16,7 +16,7 @@ tags:
 
 #### 关于左罗TV
 
-一档关于****旅行****、****生活****、****科技与数码****，以及我和杨左对于各种****杂七杂八****领域的经验、见闻和分享，会不断探索和尝试，希望跟大家能多多交流。
+一档关于\***\*旅行\*\***、\***\*生活\*\***、\***\*科技与数码\*\***，以及我和杨左对于各种\***\*杂七杂八\*\***领域的经验、见闻和分享，会不断探索和尝试，希望跟大家能多多交流。
 
 欢迎各位点击下面的链接关注或者订阅我们，多谢:
 

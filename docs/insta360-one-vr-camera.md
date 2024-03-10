@@ -1,13 +1,12 @@
 ---
 title: Insta360 Nano:一个让我对VR感兴趣的全景相机
-date: '2017-09-19'
-cover: https://c2.llyz.xyz/blog/2017/09/insta/insta-1.JPG
+date: "2017-09-19"
+cover: https://c2.is26.com/blog/2017/09/insta/insta-1.JPG
 categories:
-- tech
+  - tech
 tags:
-- digital
+  - digital
 ---
-
 
 ## 写在前面
 
@@ -36,101 +35,101 @@ Insta360 Nano是Insta360公司去年发布的产品，已经上市一年，就�
 
 ## 开箱
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-1.JPG)
+![](https://c2.is26.com/blog/2017/09/insta/insta-1.JPG)
 
 Insta360 Nano包装比较小，正面就是少数派的Logo啦。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-4.JPG)
+![](https://c2.is26.com/blog/2017/09/insta/insta-4.JPG)
 
 背面写了产品的一些基本参数。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-6.JPG)
+![](https://c2.is26.com/blog/2017/09/insta/insta-6.JPG)
 
 抽开，里面还有一个奇怪的小盒子。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-7.JPG) ![](https://c2.llyz.xyz/blog/2017/09/insta/insta-8.JPG)
+![](https://c2.is26.com/blog/2017/09/insta/insta-7.JPG) ![](https://c2.is26.com/blog/2017/09/insta/insta-8.JPG)
 
 Insta360直接把包装盒做成了VR眼镜，有点萌。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-15.JPG) ![](https://c2.llyz.xyz/blog/2017/09/insta/insta-16.JPG) 直接把手机塞进去，架在鼻梁上，就成了一个简单的VR眼睛，做得十分巧妙，也节省了空间。
+![](https://c2.is26.com/blog/2017/09/insta/insta-15.JPG) ![](https://c2.is26.com/blog/2017/09/insta/insta-16.JPG) 直接把手机塞进去，架在鼻梁上，就成了一个简单的VR眼睛，做得十分巧妙，也节省了空间。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-10.JPG)
+![](https://c2.is26.com/blog/2017/09/insta/insta-10.JPG)
 
 打开盒子，见到我们的的Insta360 Nano真身。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-24.JPG)
+![](https://c2.is26.com/blog/2017/09/insta/insta-24.JPG)
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-12.JPG) ![](https://c2.llyz.xyz/blog/2017/09/insta/insta-13.JPG)
+![](https://c2.is26.com/blog/2017/09/insta/insta-12.JPG) ![](https://c2.is26.com/blog/2017/09/insta/insta-13.JPG)
 
 上图就是包装盒内的全部物品啦，一个纸质VR眼镜，说明书，一个Nano相机，一个拿来收纳相机的小布袋（特别实用），还有一个标准的MiniUSB充电线。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-18.JPG) ![](https://c2.llyz.xyz/blog/2017/09/insta/insta-17.JPG)
+![](https://c2.is26.com/blog/2017/09/insta/insta-18.JPG) ![](https://c2.is26.com/blog/2017/09/insta/insta-17.JPG)
 
 Insta 360 Nano的正反面，表面采用跟iPhone一样的材质，显得十分有苹果味，做工很精致，放在Apple Store里面卖的话，我觉得很多人会觉得这就是苹果出的产品。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-19.JPG) ![](https://c2.llyz.xyz/blog/2017/09/insta/insta-20.JPG)
+![](https://c2.is26.com/blog/2017/09/insta/insta-19.JPG) ![](https://c2.is26.com/blog/2017/09/insta/insta-20.JPG)
 
 正反两面各有一个210度广角，光圈F2.0的鱼眼镜头，再通过机身处理，最终录制出我们想要的360度全景效果。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-22.JPG)
+![](https://c2.is26.com/blog/2017/09/insta/insta-22.JPG)
 
 Insta360 Nano是iPhone Only设备，通过lighting接口连接iPhone，Android设备就比较遗憾不能支持了。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-21.JPG) ![](https://c2.llyz.xyz/blog/2017/09/insta/insta-29.JPG) 底部有一个TF卡槽和USB充电口。
+![](https://c2.is26.com/blog/2017/09/insta/insta-21.JPG) ![](https://c2.is26.com/blog/2017/09/insta/insta-29.JPG) 底部有一个TF卡槽和USB充电口。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-25.JPG) Nano整个机器的尺寸十分小巧。
+![](https://c2.is26.com/blog/2017/09/insta/insta-25.JPG) Nano整个机器的尺寸十分小巧。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-26.JPG) ![](https://c2.llyz.xyz/blog/2017/09/insta/insta-27.JPG) 插上iPhone6后的效果，需要倒过来操作。
+![](https://c2.is26.com/blog/2017/09/insta/insta-26.JPG) ![](https://c2.is26.com/blog/2017/09/insta/insta-27.JPG) 插上iPhone6后的效果，需要倒过来操作。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-31.JPG)
+![](https://c2.is26.com/blog/2017/09/insta/insta-31.JPG)
 
 Insta360有专门的Insta360 Nano的APP，将Nano插上iPhone，连上后，Nano的顶部指示灯变蓝。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-34.JPG)
+![](https://c2.is26.com/blog/2017/09/insta/insta-34.JPG)
 
 由于iPhone的接口在顶部，接上相机后，进入Insta360 Nano的APP，屏幕是反过来的，需要把iPhone倒立握持。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-37.JPG)
+![](https://c2.is26.com/blog/2017/09/insta/insta-37.JPG)
 
 刚开始使用的时候，由于使用习惯，习惯性地去按下面的HOME键，每次都按了一个空，需要一个短暂的适应过程。但是大部分的操作都是通过屏幕触控操作，也用不到什么按钮，所以实际影响不大。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-ios-all-1.jpg)
+![](https://c2.is26.com/blog/2017/09/insta/insta-ios-all-1.jpg)
 
 Insta360 Nano的APP设计简洁，分为三大模块，首页是每日精选，能够看其他Insta360产品用户的VR作品，用户遍布全世界，探索下还是挺有趣的。
 
 相册里面可以回看自己过去所拍摄的照片和视频。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-ios-all-2.jpg)
+![](https://c2.is26.com/blog/2017/09/insta/insta-ios-all-2.jpg)
 
 设置里面能够进行简单的设置，Nano的定位应该是消费级VR相机，设置选项不多，但是对于普通用户来说也完全够了，比较相比过去那种后期先上下左右前后拍好几张照片，再通过后期专业软件处理VR照片的工作来说，Nano这种一键拍摄全景相片，是容易太多了。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-ios-all-3.jpg)
+![](https://c2.is26.com/blog/2017/09/insta/insta-ios-all-3.jpg)
 
 拍照模式下，可以在手机预览360全景，通过手指触摸，能够看到Nano所拍摄的全方位视角。能够设置白平衡，滤镜，美肤等功能，娱乐和傻瓜相机的定位十分明显了。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-33.JPG)
+![](https://c2.is26.com/blog/2017/09/insta/insta-33.JPG)
 
 自带几个滤镜，能够选择美颜成都，能够满足日常微博、朋友圈分享的需求，尤其是妹纸们的需求。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-ios-all-5.jpg)
+![](https://c2.is26.com/blog/2017/09/insta/insta-ios-all-5.jpg)
 
 APP里面有个好玩的3D贴纸功能，可以挡一下脸。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-ios-all-4.jpg)
+![](https://c2.is26.com/blog/2017/09/insta/insta-ios-all-4.jpg)
 
 能够直接通过APP将VR照片分享到常用的社交网站，覆盖国内外主流社交APP。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-ios-all-7.jpg) 国内新浪微博已经支持全景照片了。
+![](https://c2.is26.com/blog/2017/09/insta/insta-ios-all-7.jpg) 国内新浪微博已经支持全景照片了。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-ios-all-6.jpg)
+![](https://c2.is26.com/blog/2017/09/insta/insta-ios-all-6.jpg)
 
 用户也可以上传到Insta的网站，通过H5网页的形式进行分享，其他用户点击进来，也能通过手机预览你的全景照片了。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-ios-all-8.jpg)
+![](https://c2.is26.com/blog/2017/09/insta/insta-ios-all-8.jpg)
 
 分享照片的时候有一个动画模式，可以通过APP自动把照片转成一个动画，有三种模式。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/VR-360-1.gif)
+![](https://c2.is26.com/blog/2017/09/insta/VR-360-1.gif)
 
 最有趣的还是这个小行星环绕模式，生成10秒的视频，专门为朋友圈分享而生。
 
@@ -138,15 +137,15 @@ APP里面有个好玩的3D贴纸功能，可以挡一下脸。
 
 在这里分享一个链接[INSTA360-越南芽庄-VR视频](https://s.insta360.com/p/16cadf947c135d1b3276ab99a14c9db3?from=singlemessage&isappinstalled=0)，点进去后，就能看到我拍的一段VR短片了。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-38.JPG)
+![](https://c2.is26.com/blog/2017/09/insta/insta-38.JPG)
 
 除了VR照片，视频，最让我惊喜的倒是这个VR直播功能，某种程度上，我觉得光拼这一点，就足够吸引我购买这样这样一部VR相机。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-ios-all-9.jpg)
+![](https://c2.is26.com/blog/2017/09/insta/insta-ios-all-9.jpg)
 
 Nano支持通过APP，VR直播到Youtube、Facebook、Periscope、微博等平台，我体验了一下，帧率在20fps左右，WIFI条件下清晰度尚可，不足的就是，直播的过程中，Nano相机和iPhone都发热明显，电量也掉得飞快，要长时间直播肯定吃不消，十几分钟还是比较合适的。
 
-![](https://c2.llyz.xyz/blog/2017/09/insta/insta-android-all-1.jpg)
+![](https://c2.is26.com/blog/2017/09/insta/insta-android-all-1.jpg)
 
 以微博为例，绑定好新浪微博后，点击LIVE直播，新浪微博会自动发送一条直播的LIVE推送。但是这里有个问题，iPhone在直播的时候，是无法退出APP的，也无法看到直播里的弹幕和评论，这个时候如果要跟粉丝互动的话，你就得考虑多准备一个手机了。
 

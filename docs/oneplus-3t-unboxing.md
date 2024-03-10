@@ -1,9 +1,9 @@
 ---
 title: 一加3T:简单开箱 + 第一印象
-date: '2016-12-02'
-cover: https://c2.llyz.xyz/blog/2016/12/oneplus/one-04555.jpg
+date: "2016-12-02"
+cover: https://c2.is26.com/blog/2016/12/oneplus/one-04555.jpg
 tags:
-- digital
+  - digital
 ---
 
 上一台iPhone 6用了两年，水果系统也是用得有点腻了，这几个月一直在考虑把主力手机切换到Android体系，从国外的媒体上面关注到了一加3，不得不佩服下这么一个还是挺「小众」的品牌，居然在一众国外科技媒体获得了如此好评。就留下了这么一个印象。
@@ -12,46 +12,46 @@ tags:
 
 ## 开箱
 
-![](https://c2.llyz.xyz/blog/2016/12/oneplus/one-04477.jpg)
+![](https://c2.is26.com/blog/2016/12/oneplus/one-04477.jpg)
 
 简单的白色盒子和红色一加Logo，挺喜欢一加的Logo设计的。
 
-![](https://c2.llyz.xyz/blog/2016/12/oneplus/one-04481.jpg)
+![](https://c2.is26.com/blog/2016/12/oneplus/one-04481.jpg)
 
 红色的背面。
 
-![](https://c2.llyz.xyz/blog/2016/12/oneplus/one-04483.jpg)
+![](https://c2.is26.com/blog/2016/12/oneplus/one-04483.jpg)
 
 打开后手机直接躺在最上层。
 
-![](https://c2.llyz.xyz/blog/2016/12/oneplus/one-04486.jpg)  
-![](https://c2.llyz.xyz/blog/2016/12/oneplus/one-04489.jpg)
+![](https://c2.is26.com/blog/2016/12/oneplus/one-04486.jpg)  
+![](https://c2.is26.com/blog/2016/12/oneplus/one-04489.jpg)
 
 拿开盒子，是一个手机壳设计的隔层，做得十分精致，让人错觉以为是附送的手机壳。
 
-![](https://c2.llyz.xyz/blog/2016/12/oneplus/one-04493.jpg)
+![](https://c2.is26.com/blog/2016/12/oneplus/one-04493.jpg)
 
-![](https://c2.llyz.xyz/blog/2016/12/oneplus/one-04522.jpg)
+![](https://c2.is26.com/blog/2016/12/oneplus/one-04522.jpg)
 
 一加3T依旧有好评挺多的DASH快充技术，官方称30分钟充63%的电量，可以改变用户使用手机的习惯。
 
-![](https://c2.llyz.xyz/blog/2016/12/oneplus/one-04537.jpg)
+![](https://c2.is26.com/blog/2016/12/oneplus/one-04537.jpg)
 
 一加3T单机照，这一次买了个黑色的PVC板，在家拍拍静物立马感觉不一样了。大众脸，但是给人感觉是做工很精致，自带一个贴膜，拍的时候先是忘记撕了，然后就是懒得撕了。
 
-![](https://c2.llyz.xyz/blog/2016/12/oneplus/one-04538.jpg)
+![](https://c2.is26.com/blog/2016/12/oneplus/one-04538.jpg)
 
 一加3T特有的枪灰色的配色，不同于iPhone的太空灰，这个灰色带一点铜，有点小骚。
 
-![](https://c2.llyz.xyz/blog/2016/12/oneplus/one-04531.jpg)
+![](https://c2.is26.com/blog/2016/12/oneplus/one-04531.jpg)
 
 下方的USB TYPE-C接口，以后出去又要带多一根数据线了，也是麻烦。
 
-![](https://c2.llyz.xyz/blog/2016/12/oneplus/one-04553.jpg)
+![](https://c2.is26.com/blog/2016/12/oneplus/one-04553.jpg)
 
 给人感觉质感还是挺好的。
 
-![](https://c2.llyz.xyz/blog/2016/12/oneplus/one-04578.jpg)
+![](https://c2.is26.com/blog/2016/12/oneplus/one-04578.jpg)
 
 亮屏照来一张，使用的是比较贴近原生的氢OS，但是我晚点会刷机换成氧OS，还是想体验更多的谷歌原味。
 

@@ -1,7 +1,7 @@
 ---
 title: 实习笔记-笨鸟总得先飞
 date: "2011-07-27"
-cover: https://c2.llyz.xyz/wp-image/2011/07/weibojob.jpg
+cover: https://c2.is26.com/wp-image/2011/07/weibojob.jpg
 ---
 
 我从来没有想到自己的第一份工作来得这么出乎意料。
@@ -12,7 +12,7 @@ cover: https://c2.llyz.xyz/wp-image/2011/07/weibojob.jpg
 
 在其中发了一条[#微求职#](https://weibo.com/1250829960/eDyB4I7cu93)，立马在场就有三家公司联系了我，叫我投简历。
 
-![](https://c2.llyz.xyz/wp-image/2011/07/weibojob.jpg)
+![](https://c2.is26.com/wp-image/2011/07/weibojob.jpg)
 
 随后，如果你关注我之前的几篇博客，想必你也知道。
 

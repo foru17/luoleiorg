@@ -1,9 +1,8 @@
 ---
 title: 年終卷 | 2014年我没干成什么
-date: '2014-12-28'
-cover: https://c2.llyz.xyz/wp-image/2014/12/review-2014-fail.jpg
+date: "2014-12-28"
+cover: https://c2.is26.com/wp-image/2014/12/review-2014-fail.jpg
 ---
-
 
 接着「罗磊啰嗦」，继续年终回顾，上一篇回顾写了[《2014年我读了哪些书？》](https://luolei.org/what-i-read-in-2014/)。
 

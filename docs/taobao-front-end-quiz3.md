@@ -1,7 +1,7 @@
 ---
 title: 淘宝前端智勇大闯关第三季:相关知识点
 date: "2013-08-15"
-cover: https://c2.llyz.xyz/wp-image/2013/08/Screen-Shot-2013-08-16-at-2.35.41-AM.png
+cover: https://c2.is26.com/wp-image/2013/08/Screen-Shot-2013-08-16-at-2.35.41-AM.png
 categories:
   - code
 tags:
@@ -16,7 +16,7 @@ tags:
 
 #### **第二关：棱镜（难道在黑美帝么）**
 
-![quiz-2-a](https://c2.llyz.xyz/wp-image/2013/08/quiz-2-a.png)
+![quiz-2-a](https://c2.is26.com/wp-image/2013/08/quiz-2-a.png)
 
 这关简单，考察css3的rotae属性值，修改一下两个镜子的 left,top 和 -webkit-transform 就好。
 
@@ -24,17 +24,17 @@ tags:
 
 展示一堆数字，做这题的时候表示的确是不会，第一次做的时候，就在这里卡住了直接time up game over。
 
-![quiz-2](https://c2.llyz.xyz/wp-image/2013/08/quiz-2.png)
+![quiz-2](https://c2.is26.com/wp-image/2013/08/quiz-2.png)
 
 #### **第四关：看图猜东西**
 
 给你展示五张logo或者软件截图，有sublime，github，npm，ubuntu，grunt, less balabala平时前端开发涉及得到的软件和网站。
 
-![quiz-4](https://c2.llyz.xyz/wp-image/2013/08/quiz-4.png)
+![quiz-4](https://c2.is26.com/wp-image/2013/08/quiz-4.png)
 
 #### **第五关：猜房子**
 
-![quiz-5](https://c2.llyz.xyz/wp-image/2013/08/quiz-5.png)
+![quiz-5](https://c2.is26.com/wp-image/2013/08/quiz-5.png)
 
 我猜出了过程，却没写出代码，555，提示用jquery，这到底思路倒是正确了，通过 $('#id').html() 或者 .txt() 抓去#next-room里的数字，然后获得当前页面的url，修改最后的那个数字。第一次做这题的时候，脑袋短路，没注意到url，view source看了好久每个着落，后来console提示注意url，结果哥还是没看到那room号。思路是对的，查了下jquery的文档，知道了get current page url的几个函数，然后用ajax抓去新界面中的新数字，一直到最后的房间出来为止。
 

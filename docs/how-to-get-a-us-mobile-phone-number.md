@@ -1,7 +1,7 @@
 ---
 title: 如何拥有真实的美国手机号 | 从免费到超贵，三种实用方案推荐 | VLOG32
 date: "2019-01-24"
-cover: https://c2.llyz.xyz/blog/2019/01/phone/sim-card.jpg
+cover: https://c2.is26.com/blog/2019/01/phone/sim-card.jpg
 categories:
   - zuoluotv
   - hot
@@ -78,7 +78,7 @@ Google Voice每9个月也需要发送一条短信，保持活跃状态，号码�
 
 Lycamobile是美国一个虚拟运营商，在美国用的是T-mobile的网络，是有实体预付费卡的，
 
-![](https://c2.llyz.xyz/blog/2019/01/phone/sim-card.jpg)
+![](https://c2.is26.com/blog/2019/01/phone/sim-card.jpg)
 
 这张卡很便宜，是Pay As You Go的 Prepiad 预付费卡。如果海淘的话，只要1美元就能买到，淘宝上也就几十块钱，拿到卡后，我是在美国直接插卡打电话622，然后根据语音提示输入邮编激活的。
 

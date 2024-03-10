@@ -1,7 +1,7 @@
 ---
 title: "旧不去新不来: 派美特 PaMu Quiet 真无线降噪耳机"
 date: "2020-11-26"
-cover: https://c2.llyz.xyz/blog/2020/11/pamu/e-9.JPG
+cover: https://c2.is26.com/blog/2020/11/pamu/e-9.JPG
 categories:
   - tech
   - zuoluotv
@@ -22,13 +22,13 @@ categories:
 
 > 对比类似硬件规格产品，PaMu Quiet 是一款高CP值的降噪耳机。
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/e-1.JPG)
+![](https://c2.is26.com/blog/2020/11/pamu/e-1.JPG)
 
 派美特是成立于2011年的国内品牌，主打耳机类产品，收到的快递盒子是线条画包装，废话不多说，开箱。
 
 ## **开箱**
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/e-2.JPG)
+![](https://c2.is26.com/blog/2020/11/pamu/e-2.JPG)
 
 抽出真身，就是今天的主角派美特 PaMu Quiet 真无线降噪耳机，采用黑白包装，这也是目前派美特的旗舰降噪耳机，不同平台优惠价格在600到700之间。
 
@@ -42,53 +42,53 @@ categories:
 - LED流光无线充电盒
 - IPX4防水
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/e-3.JPG)
+![](https://c2.is26.com/blog/2020/11/pamu/e-3.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/e-4.JPG)
+![](https://c2.is26.com/blog/2020/11/pamu/e-4.JPG)
 
 打开盒子，耳机真身，膜还没撕掉。
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/e-5.JPG)
+![](https://c2.is26.com/blog/2020/11/pamu/e-5.JPG)
 
 这就是盒内的所有配件，除了耳机本体、充电盒，还送了两对不同大小的可替换耳塞，一个收纳袋，一根挂绳和充电线。
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/e-6.JPG)
+![](https://c2.is26.com/blog/2020/11/pamu/e-6.JPG)
 
 不同于大部分其他降噪耳机最常见的高亮漆面塑料材质， PaMu Quiet 采用的是黑色纹理的P U 皮、锌合金、塑料组合设计，设计像一个过去的怀表，走的是复古路线。
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/e-7.JPG)
+![](https://c2.is26.com/blog/2020/11/pamu/e-7.JPG)
 
 都2020年了，typeC是必须的。
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/e-8.JPG)
+![](https://c2.is26.com/blog/2020/11/pamu/e-8.JPG)
 
 耳机盒的打开方式也很特别，按一下顶部的扣子按钮，就弹开了，露出了耳机真身。
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/e-11.JPG)
+![](https://c2.is26.com/blog/2020/11/pamu/e-11.JPG)
 
 耳机通过金属触点的方式与耳机盒接触充电，在降噪模式下，耳机的续航约为 3个半小时，充电盒能提供约10个半小时的续航，一般这种入耳式耳机戴久了，间隔一段时间也要休息，刚好充电。
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/e-9.JPG)
+![](https://c2.is26.com/blog/2020/11/pamu/e-9.JPG)
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/e-10.JPG)
+![](https://c2.is26.com/blog/2020/11/pamu/e-10.JPG)
 
 耳机采用入耳式设计，黑色比较低调，不知道以后会不会出白色款式。两个耳机都支持触摸调节，分别单次触摸、多次触摸、长按触摸，可以进行上一首、下一首切换、模式切换等操作。
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/e-12.JPG)
+![](https://c2.is26.com/blog/2020/11/pamu/e-12.JPG)
 
 耳机后壳处有一个蓝色的指示灯，有一个功能很巧妙，像我经常喜欢在睡觉的时候戴着耳机听歌，有时候夜晚不小心把耳机掉床上了，只要你触摸到一个耳机，两个耳机都会同时发出蓝色的闪烁，方便寻找。
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/e-14.JPG)
+![](https://c2.is26.com/blog/2020/11/pamu/e-14.JPG)
 
 有关这个充电盒，最酷炫的是环绕盒子半圈的蓝色LED设计，充电的时候，会有流光效果，看起来比较科幻，男孩子应该会比较喜欢。不知道以后会不会出RGB版本的Pro版啥的。
 
 ## **手机APP**
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/s-1.JPG)
+![](https://c2.is26.com/blog/2020/11/pamu/s-1.JPG)
 
 来到手机控制部分， PaMu Quiet 的APP就比较简单了，首页只有简单的添加设备，模式切换功能。
 
-![](https://c2.llyz.xyz/blog/2020/11/pamu/s-2.JPG)
+![](https://c2.is26.com/blog/2020/11/pamu/s-2.JPG)
 
 设置里面，主要就是触摸按键的设定，并不支持均衡器相关的调节，对于有这部分需求的朋友来说，就比较遗憾了，希望以后更新后能支持。
 

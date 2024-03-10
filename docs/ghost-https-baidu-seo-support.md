@@ -1,9 +1,9 @@
 ---
 title: 要加密,也要熊掌:让Ghost支持https并被百度正常收录
-date: '2015-05-17'
-cover: https://c2.llyz.xyz/blog/2015/05/baidu3.jpg
+date: "2015-05-17"
+cover: https://c2.is26.com/blog/2015/05/baidu3.jpg
 categories:
-- code
+  - code
 ---
 
 #### 更新:百度开放收录https站点
@@ -12,7 +12,7 @@ categories:
 
 > 亲爱的网站管理员:从今天开始，百度放开对https站点的收录，https站点不需要再做任何额外的工作就可以被百度顺利抓收。在此之前，百度站长学院曾发表文章，指导https站点制作http可访问版便于百度抓收。技术升级后，百度视同一个域名的http版和https版为一个站点，优先收录https版。建议站长关闭http版，或者将http页面直接跳转到对应的https页面。
 
-这篇文章算是我失效最快的一篇文章了 ╮(╯\_╰)╭ 。
+这篇文章算是我失效最快的一篇文章了 ╮(╯_╰)╭ 。
 
 #### 下面供参考
 
@@ -88,11 +88,11 @@ server {
 
 要检查自己的https站点是否能被百度正常收录，可以使用百度的[《百度站长工具:抓取诊断》](https://zhanzhang.baidu.com/crawltools/index?site=https://luolei.org/)。
 
-![](https://c2.llyz.xyz/blog/2015/05/baidu3.jpg)
+![](https://c2.is26.com/blog/2015/05/baidu3.jpg)
 
 利用这个工具，可以测试指定页面的抓取结果，也可以测试PC端和移动端爬虫不同的抓取结果。
 
-![](https://c2.llyz.xyz/blog/2015/05/baidu2.jpg)
+![](https://c2.is26.com/blog/2015/05/baidu2.jpg)
 
 桌面端百度爬虫的UA是
 
@@ -102,7 +102,7 @@ Mozilla/5.0 (compatible; Baiduspider/2.0; +https://www.baidu.com/search/spider.h
 
 如果正常抓取，会返回HTTP头和页面内容。
 
-![](https://c2.llyz.xyz/blog/2015/05/baidu1.jpg)
+![](https://c2.is26.com/blog/2015/05/baidu1.jpg)
 
 需要注意的是，移动端爬虫的UA有所差异：
 

@@ -1,12 +1,12 @@
 ---
 title: 注册成了苹果开发者
-date: '2015-03-09'
-cover: https://c2.llyz.xyz/blog/2015/02/apple-bg2.jpg
+date: "2015-03-09"
+cover: https://c2.is26.com/blog/2015/02/apple-bg2.jpg
 tags:
-- apple
+  - apple
 ---
 
-![](https://c2.llyz.xyz/blog/2015/02/apple-bg2.jpg)
+![](https://c2.is26.com/blog/2015/02/apple-bg2.jpg)
 
 2010年，购买了人生的第一台苹果设备iPad，2012年，购买了第一台MacBook Air，2014年，购买了一台iPad Mini，2015年一月，卖肾买了一台iPhone 6。
 

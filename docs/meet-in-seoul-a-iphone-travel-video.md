@@ -1,13 +1,13 @@
 ---
 title: 用iPhone能拍出什么样的旅行视频?
-date: '2016-04-02'
-cover: https://c2.llyz.xyz/blog/2016/04/seoul/travel-seoul.jpg
+date: "2016-04-02"
+cover: https://c2.is26.com/blog/2016/04/seoul/travel-seoul.jpg
 categories:
-- photography
-- travel
+  - photography
+  - travel
 tags:
-- photography
-- travel
+  - photography
+  - travel
 ---
 
 啊，终于把「遇见,首尔」系列的博客和视频都整完了。

@@ -1,7 +1,7 @@
 ---
 title: 大学 | 致青春，致朋友
 date: "2013-05-21"
-cover: https://c2.llyz.xyz/wp-image/2013/05/graduate-dinner.jpg
+cover: https://c2.is26.com/wp-image/2013/05/graduate-dinner.jpg
 categories:
   - lifestyle
 tags:

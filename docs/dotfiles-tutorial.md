@@ -1,7 +1,7 @@
 ---
 title: dotfiles新手教程
 date: "2013-09-01"
-cover: https://c2.llyz.xyz/wp-image/2013/09/dotfiles.jpg
+cover: https://c2.is26.com/wp-image/2013/09/dotfiles.jpg
 tags:
   - tutorial
 ---

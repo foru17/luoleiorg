@@ -1,7 +1,7 @@
 ---
 title: 罗磊啰唆 | 谈谈自媒体和个人品牌
 date: "2013-05-30"
-cover: https://c2.llyz.xyz/wp-image/2013/05/learn-online.jpg
+cover: https://c2.is26.com/wp-image/2013/05/learn-online.jpg
 tags:
   - ispeakl
 ---
@@ -104,4 +104,4 @@ tags:
 
 以后会断断续续地保持博客更新的频率，大家可以关注我的微信公共帐号「罗磊啰嗦」，扫扫下面二维码就能关注了，大家有什么问题也可以通过微信直接交流。
 
-> ![weixin-code](https://c2.llyz.xyz/wp-image/2013/05/weixin-code.jpg)罗磊啰嗦 微信号: speakl (意为speak loud) 「坚持优质原创内容，致力于传播美好的思想，分享有价值的信息」」
+> ![weixin-code](https://c2.is26.com/wp-image/2013/05/weixin-code.jpg)罗磊啰嗦 微信号: speakl (意为speak loud) 「坚持优质原创内容，致力于传播美好的思想，分享有价值的信息」」

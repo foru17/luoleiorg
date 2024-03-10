@@ -1,14 +1,14 @@
 ---
 title: 2019年，我使用的加强版 VLOG 摄影装备 | 实用配件分享 | VLOG50
-date: '2019-06-11'
-cover: https://c2.llyz.xyz/vlog/vlog50.jpg
+date: "2019-06-11"
+cover: https://c2.is26.com/vlog/vlog50.jpg
 categories:
-- tech
-- zuoluotv
+  - tech
+  - zuoluotv
 tags:
-- vlog
-- photography
-- digital
+  - vlog
+  - photography
+  - digital
 ---
 
 很久没跟大家分享摄影器材相关了，2019年，我的 VLOG 摄影装备从光、声音、续航三方面，也进行了一些小升级，有了明显的加强。

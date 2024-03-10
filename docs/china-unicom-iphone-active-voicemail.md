@@ -1,13 +1,13 @@
 ---
 title: 如何在 iPhone 开通中国联通 Voicemail 语音邮箱 | VLOG35
-date: '2019-03-27'
-cover: https://c2.llyz.xyz/blog/2019/03/voicemail/v-1.jpg
+date: "2019-03-27"
+cover: https://c2.is26.com/blog/2019/03/voicemail/v-1.jpg
 categories:
-- tech
-- zuoluotv
+  - tech
+  - zuoluotv
 tags:
-- zuoluotv
-- digital
+  - zuoluotv
+  - digital
 ---
 
 ## 视频
@@ -37,13 +37,13 @@ tags:
 
 ## 注册和激活
 
-![](https://c2.llyz.xyz/blog/2019/03/voicemail/v-1.jpg)
+![](https://c2.is26.com/blog/2019/03/voicemail/v-1.jpg)
 
 这个的激活比较简单，直接在联通的微信公众号登录激活就可以了，目前激活时直接免费3个月，不需要支付。激活后，会有一条短信通知，然后iPhone里直接进 `电话>更改语音信箱密码`里设置下就好了。
 
 ## 使用体验
 
-![](https://c2.llyz.xyz/blog/2019/03/voicemail/v-2.jpg)
+![](https://c2.is26.com/blog/2019/03/voicemail/v-2.jpg)
 
 在以下情况下，电话均会转入进语音邮箱:
 
@@ -54,7 +54,7 @@ tags:
 
 在这里有一个功能属于十分实用的，就是语音邮箱会默认把留言的**语音识别转文字**，在你不方便接听的时候，直接瞄一眼就能大概知道对方讲什么了。
 
-![](https://c2.llyz.xyz/blog/2019/03/voicemail/v-3.jpg) 其实在iOS12.2更新之前，这个「沃留言」也能用，只不过别人给你的留言，你只能在微信公众号或者网站里听，这次更新对iPhone用户而言是直接集成在了iPhone Visual Voicemail 可视化语音邮箱里面。
+![](https://c2.is26.com/blog/2019/03/voicemail/v-3.jpg) 其实在iOS12.2更新之前，这个「沃留言」也能用，只不过别人给你的留言，你只能在微信公众号或者网站里听，这次更新对iPhone用户而言是直接集成在了iPhone Visual Voicemail 可视化语音邮箱里面。
 
 在iPhone默认的`电话`里出现多了一个`语音留言`的按钮，进入之后就能直接读取你的留言，也能通过左上角的`应答语`设置个性化的留言提示。从体验的角度而言，这种肯定要比你进去微信，或者进入网站听留言要好得多。
 
@@ -72,4 +72,4 @@ tags:
 
 - ZUOLUOTV电报群:[t.me/zuoluotv](https://t.me/zuoluotv)
 - ZUOLUOTV电报频道:[t.me/zuoluotvOfficial](https://t.me/zuoluotvofficial)
-- ZUOLUOTV\_BOT机器人:[t.me/zuoluotv_bot](https://t.me/zuoluotv_bot)
+- ZUOLUOTV_BOT机器人:[t.me/zuoluotv_bot](https://t.me/zuoluotv_bot)
