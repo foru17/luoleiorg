@@ -49,7 +49,7 @@ const goToTweet = () => {
 <template>
   <div class="px-2 mb-12 tweet-card rounded-xl">
     <div
-      class="relative m-auto flex h-full w-full max-w-[32rem] flex-col gap-2 overflow-hidden rounded-xl border p-4 backdrop-blur-md shadow-xl hover:shadow-2xl transition ease-in-out"
+      class="relative m-auto flex h-full w-full max-w-[32rem] flex-col gap-2 overflow-hidden rounded-xl border p-4 backdrop-blur-md shadow-xl hover:shadow-2xl transition ease-in-out dark:border-gray-500"
       @click="goToTweet"
     >
       <div class="flex flex-row justify-between tracking-tight">
@@ -101,7 +101,7 @@ const goToTweet = () => {
         {{ content }}
       </div>
       <p
-        class="py-0 text-base !leading-none !my-4 text-gray-500 dark:text-gray-400"
+        class="py-0 text-sm !leading-none !my-4 text-gray-500 dark:text-gray-400"
       >
         {{ time }}
       </p>

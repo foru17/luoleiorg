@@ -28,7 +28,7 @@
 .dark:root {
   --vp-c-bg: #1e1e20;
   --vp-c-mute: #9ca3af;
-  --vp-code-bg: #1e1e20;
+  --vp-code-bg: #0f0f0f;
 }
 
 html {
