@@ -17,7 +17,20 @@ tags:
 - [哔哩哔哩:美国银行开户攻略](https://www.bilibili.com/video/av40985033)
 - [YOUTUBE:美国银行开户攻略](https://www.youtube.com/watch?v=Or7euv5dfMQ)
 
-那些博文和视频发布已有一段时间了。现在，跨入2024年，结合最近的变化和实践，我想更新一下关于香港开户的相关内容。
+那些博文和视频发布已有一段时间了。跨入2024年，结合最近的变化和实践，我也更新下香港开户的相关内容。
+
+这篇文章在推特上发布后成了热门，有不少的留言和讨论，建议大家也可以去看看:
+
+<TweetCard
+    tweetId="1741747965838954869"
+    twitterId="luoleiorg"
+    author="luolei"
+    time="下午12:47 · 2023年5月9日"
+    content="香港银行开户: 2024 年更新  | 中银、汇丰、众安开户经验分享 https://luolei.org/how-to-open-a-bank-account-in-hongkong-2024 跨入新一年，有关香港开户， 一些新鲜的微小经验分享。😀"
+    avatar="https://pbs.twimg.com/profile_images/1550157622300786688/672YmCpB_400x400.jpg"
+    comment=102
+    like=2181
+  />
 
 ## 香港银行开户难吗？
 
