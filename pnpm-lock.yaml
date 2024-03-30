@@ -18,8 +18,8 @@ dependencies:
     specifier: ^10.7.1
     version: 10.7.1(vue@3.4.5)
   artalk:
-    specifier: ^2.7.3
-    version: 2.7.3
+    specifier: ^2.8.3
+    version: 2.8.3
   medium-zoom:
     specifier: ^1.1.0
     version: 1.1.0
@@ -1071,13 +1071,13 @@ packages:
     dependencies:
       sprintf-js: 1.0.3
 
-  /artalk@2.7.3:
-    resolution: {integrity: sha512-9SdnI4OuMhQERYE9DI6wx5PzbFG8Eb+e9TTZewVIPbMIdESCO3BkR999skyD1EU69AAosM08Yof3zXdkZbJSQw==}
+  /artalk@2.8.3:
+    resolution: {integrity: sha512-AaBPo4LEyikJmJIj2kZ3YgLP3mT/8CuLdbyNffsmdpiMES1Kmn/Jlno2L3cXhON9jPXLuUqZVWz6oJOFQDSLWQ==}
     dependencies:
       abortcontroller-polyfill: 1.7.5
       hanabi: 0.4.0
       insane: 2.6.2
-      marked: 7.0.5
+      marked: 11.2.0
     dev: false
 
   /assignment@2.0.0:
@@ -1621,9 +1621,9 @@ packages:
     resolution: {integrity: sha512-1I+1qpDt4idfgLQG+BNWmrqku+7/2bi5nLf4YwF8y8zXvmfiTBY3PV3ZibfrjBueCByROpuBjLLFCajqkgYoLQ==}
     dev: true
 
-  /marked@7.0.5:
-    resolution: {integrity: sha512-lwNAFTfXgqpt/XvK17a/8wY9/q6fcSPZT1aP6QW0u74VwaJF/Z9KbRcX23sWE4tODM+AolJNcUtErTkgOeFP/Q==}
-    engines: {node: '>= 16'}
+  /marked@11.2.0:
+    resolution: {integrity: sha512-HR0m3bvu0jAPYiIvLUUQtdg1g6D247//lvcekpHO1WMvbwDlwSkZAX9Lw4F4YHE1T0HaaNve0tuAWuV1UJ6vtw==}
+    engines: {node: '>= 18'}
     hasBin: true
     dev: false
 
