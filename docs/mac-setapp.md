@@ -68,15 +68,15 @@ Setapp上所有的软件，均是在自己的独立桌面APP进行管理，安�
 
 ![](https://c2.is26.com/blog/2018/setapp/setapp8.jpg)
 
-[Disk Drill](https://www.cleverfiles.com/cn/)，有免费版（限制功能），专业版价格是**$89美元**，Mac下专业的数据恢复软件，推荐给摄影爱好者用。我是一个摄影爱好者，有十多张SD卡，遇到过好几次SD损坏的情况，数据一定程度上能够靠Disk Drill来恢复。数据丢失和损坏这东西，遇到一次就能让你苦不堪言，拿一个正版的数据软件，有备无患。
+[Disk Drill](https://www.cleverfiles.com/cn/)，有免费版（限制功能），专业版价格是 **$89美元**，Mac下专业的数据恢复软件，推荐给摄影爱好者用。我是一个摄影爱好者，有十多张SD卡，遇到过好几次SD损坏的情况，数据一定程度上能够靠Disk Drill来恢复。数据丢失和损坏这东西，遇到一次就能让你苦不堪言，拿一个正版的数据软件，有备无患。
 
 ### 6.Archiver
 
-[archiverapp](https://archiverapp.com/)，原价**$19.99**美元，Mac下一款简单实用的压缩解压工具，支持的格式也比较齐全。
+[archiverapp](https://archiverapp.com/)，原价 **$19.99** 美元，Mac下一款简单实用的压缩解压工具，支持的格式也比较齐全。
 
 ### 7.Dowine
 
-[Dowine](https://software.charliemonroe.net/downie.php)，原价**$19.99**美元，直接复制Youtube的链接，就能够下载Youtube上的视频到本地，过去我一直实用[youtube-dl](https://rg3.github.io/youtube-dl/)命令行工具来进行下载，Dowine更加适合小白用户，能够选择分辨率。适合需要经常从Youtube上面扒视频的用户。
+[Dowine](https://software.charliemonroe.net/downie.php)，原价 **$19.99** 美元，直接复制Youtube的链接，就能够下载Youtube上的视频到本地，过去我一直实用[youtube-dl](https://rg3.github.io/youtube-dl/)命令行工具来进行下载，Dowine更加适合小白用户，能够选择分辨率。适合需要经常从Youtube上面扒视频的用户。
 
 ## 其他
 
