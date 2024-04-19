@@ -9,7 +9,7 @@ tags:
   - digital
 ---
 
-今天来分享一个我已经订阅了 7 年的 Mac 软件服务: Setapp，上一次介绍 Setapp 已经是 7 年前的 2018 年的 1 月。
+今天来分享一个我已经订阅了 7 年的 Mac 软件服务: Setapp，上一次介绍 Setapp 已经是 2018 年的 1 月。
 
 - [Setapp 体验:每个月 $9.9 订阅 Mac 软件](https://luolei.org/mac-setapp)
 
@@ -22,13 +22,13 @@ tags:
 
 ## Setapp 是什么？
 
-从 2013 年开始使用，我就使用 macOS 作为自己的主力机器，平时干活、写作、娱乐大多也是在 Mac 设备上。
+从 2012 年开始，我就使用 Mac 作为自己的主力机器，平时工作、娱乐大多也是在 macOS。
 
 Mac 平台上有不少优秀的应用和服务，有些是买断制，有些是订阅制。Setapp 是一个包括了 240 多款应用的订阅服务，只要你订阅了 Setapp ，就可以使用其中的应用，不用再额外购买了。
 
 ![](https://c2.is26.com/blog/2024/03/setapp/c-18.jpg)
 
-这是当前 Setapp 中评价最高的一些应用，还是有许多熟悉的面孔。范围涉及效率、开发、设计、工具等等，基本覆盖了大多数人的需求。
+这是当前 Setapp 中评价最高的一些应用，还是有许多熟悉的面孔。范围涉及效率、开发、设计、工具等等，基本覆盖了大多数人的需求。2020 年后，Setapp 也开始支持 iOS 应用了，如果在 iOS 上也有对应的 App，可以 1 Mac + 1 iOS 同时享受订阅服务。
 
 ## 套餐和价格
 
@@ -36,11 +36,17 @@ Mac 平台上有不少优秀的应用和服务，有些是买断制，有些是�
 
 目前 Setapp 提供了个人、团队和家庭三种套餐方案，除此之外，也提供了教育优惠，具体的大家可以自己去官网比较。
 
-目前 Setapp 针对新用户，提供免费试用，有需要的朋友，可以点击我的邀请链接注册:
+目前 Setapp 针对新用户，提供免费试用，**目前官方默认提供的是 7 天的免费试用，如果使用下面我的邀请链接，则可以获得 30 天的免费试用。**
 
-- [Setapp:免费试用](https://zuoluo.tv/setapp)
+- [Setapp:免费试用 30 天](https://zuoluo.tv/setapp)
+- [Setapp:LUOLEIORG 专属优惠](https://my.setapp.com/redeem?irgwc=1&clickid=T7xRy1X9LxyPWRYSwpxMq15EUkHU-x3BW3T7280&iradid=1995747&irpid=5259812&utm_content=TEXT_LINK&utm_campaign=Luo%20Lei&sharedid=&utm_medium=affiliate&mpaid=3&utm_source=impactradius&campaign=impactradius&code=LUOLEIORG)
 
 首先说结论，如果想要最划算的套餐，**建议找人拼团，一起使用家庭套餐**，$19.99 美元 4 个人，年付是`$215.88`,算下来每人约`¥388/年`，如果是叠加教育优惠 50% 折扣，则差不多`¥200/年`。
+
+有关订阅和价格的资料，可以参考下面的几篇文章:
+
+- [Setapp 更新了付费机制，怎么订阅更划算？](https://sspai.com/post/62547)
+- [用 300 元订阅总价超过 4000 元的 App，这可能是最划算的 iOS 订阅服务](https://www.ifanr.com/app/1451858)
 
 ## 我现在使用的套餐
 
@@ -164,6 +170,7 @@ CloudMounter 可以将云盘以目录的形式挂载到本地，方便直接在 
 - [Renamer](https://renamer.com/): 文件重命名工具
 - [Wifi Explorer](https://www.intuitibits.com/products/wifiexplorer/): Mac 下的 WiFi 网络扫描和分析工具
 - [Disk Drill](https://www.cleverfiles.com/): 数据和文件恢复工具
+- [AIDente Pro](https://apphousekitchen.com/): Mac 电源管理和优化工具
 
 ## 总结
 
