@@ -26,8 +26,8 @@ export const rss: RssGenerator = async (config) => {
 
   const posts: ContentData[] = await createContentLoader("/*.md", {
     excerpt: false,
-    render: true,
-    transform: (rawData) => {
+    render: (rawData, env) => {
+      env.isRSS = true; // 添加 env.isRSS 标志
       return rawData.sort((a, b) => {
         return +new Date(b.frontmatter.date) - +new Date(a.frontmatter.date);
       });

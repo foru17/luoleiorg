@@ -8,7 +8,7 @@
     "url": "https://github.com/foru17/luoleiorg"
   },
   "scripts": {
-    "docs:dev": "vitepress dev docs",
+    "docs:dev": "vitepress dev docs --host --port 5177",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },

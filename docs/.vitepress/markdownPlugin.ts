@@ -3,11 +3,16 @@ import { getArticleBlurImage, getOriginalImage } from "./theme/utils";
 const markdownImagePlugin: MarkdownIt.PluginSimple = (md) => {
   const defaultRender = md.renderer.rules.image;
   md.renderer.rules.image = (tokens, idx, options, env, self) => {
+    // 检查是否在生成 RSS
+    if (env && env.isRSS) {
+      return defaultRender!(tokens, idx, options, env, self); // 如果是 RSS，直接返回默认渲染
+    }
+
     tokens[idx].attrSet("data-src", tokens[idx].attrs![0][1]);
     tokens[idx].attrSet("data-original-src", tokens[idx].attrs![0][1]);
     tokens[idx].attrSet(
       "data-zoom-src",
-      getOriginalImage(tokens[idx].attrs![0][1])
+      getOriginalImage(tokens[idx].attrs![0][1]),
     );
     tokens[idx].attrs![0][1] = getArticleBlurImage(tokens[idx].attrs![0][1]); // 清除 src 属性
     return defaultRender!(tokens, idx, options, env, self);
