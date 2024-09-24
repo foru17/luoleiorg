@@ -188,7 +188,57 @@ span.lang {
 .custom-block.tip:before {
   color: #42b883;
 }
+.loading-placeholder {
+  width: 100%; /* 设置宽度为100% */
+  padding-top: 75%; /* 4:3 高宽比 */
+  background-color: var(--vp-c-mute); /* 设置背景色 */
+  transition: background-color 0.3s; /* 添加过渡效果 */
+  opacity: 0.5;
+  border-radius: 30px;
+  position: relative; /* 使子元素绝对定位 */
+  overflow: hidden; /* 隐藏溢出内容 */
+}
 
+.loading-placeholder::before {
+  content: "Loading..."; /* 显示加载文本 */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* 居中显示 */
+  color: var(--vp-c-bg); /* 文本颜色 */
+  font-size: 16px; /* 文本大小 */
+  font-weight: bold; /* 文本加粗 */
+  z-index: 1; /* 确保文本在最上层 */
+}
+
+.loading-placeholder::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(
+    45deg,
+    rgba(255, 255, 255, 0.2),
+    rgba(0, 0, 0, 0.2)
+  ); /* 渐变背景 */
+  animation: loadingAnimation 1.5s infinite;
+  z-index: 0; /* 确保背景在文本下层 */
+}
+
+/* 动画效果 */
+@keyframes loadingAnimation {
+  0% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 0.8;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
 /* 自定义样式 */
 
 @font-face {

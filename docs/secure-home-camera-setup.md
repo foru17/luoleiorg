@@ -169,9 +169,20 @@ iptables -I FORWARD -s 10.0.0.12 -j REJECT
 # 通过 SSH 登录群晖,通过软链将外挂硬盘挂载到共享文件夹,突破群晖的限制
 ssh  luolei@10.0.0.5
 ln -s /volumeUSB1/usbshare/ /volume2/camera_storage
+#DSM 7.0 后，上述挂载的方法需要做一些调整,具体方法见下
 ```
 
 接下来再去`编辑摄像机`>`录制`里，把`录制存储器`选择为刚刚创建的`camera_storage`，这样后续监控视频都会默认直接保存在外接硬盘上了。
+
+### 重要更新
+
+DSM 7.0 后，上述挂载的方法需要做一些调整，不能再通过软链接`ln -s`的方式映射盘符。简要说明新的步骤
+
+- 依旧同上添加新的存储器
+- 在**控制面板** > **任务计划** > **新增触发的任务**
+- 创建任务:用户选择**root** (必须使用root)，事件选择:**开机**
+- **任务设置** > **用户定义的脚本** : mount -o bind /volumeUSB1/usbshare /volume2/camera_storage
+- 重启之后，再去 SurveillanceStation 里设置即可
 
 ## 接入 HomeKit
 
