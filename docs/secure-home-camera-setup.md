@@ -156,6 +156,7 @@ iptables -I FORWARD -s 10.0.0.12 -j REJECT
 由于**群晖默认不允许外接硬盘作为存储盘**，这里需要一定的小技巧，外接硬盘挂载成正常的文件路径，需要通过`SSH`登录到群晖，配合`ln -s`软链的方式挂载外接硬盘。
 
 - 参考教程: [NAS群晖DSM进阶教程：保护硬盘 使用外接设备下载资源](https://post.smzdm.com/p/559269/)
+- [Surveillance Station should allow external USB Disk as Storage](https://community.synology.com/enu/forum/3/post/132261?page=2&sort=oldest)
 
 ![](https://c2.is26.com/blog/2024/02/camera/c-7.jpg)
 

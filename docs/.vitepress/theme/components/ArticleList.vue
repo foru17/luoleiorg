@@ -166,7 +166,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <div class="px-4 mx-auto -mt-4 md:px-0 max-w-7xl">
+  <div class="px-4 mx-auto -mt-4 max-w-7xl md:px-0">
     <div
       class="w-full text-xl leading-normal text-gray-800 rounded-t md:text-2xl"
     >
@@ -174,7 +174,7 @@ onMounted(() => {
         class="flex flex-wrap justify-between pt-6 -mx-3 md:pt-12 sm:mx-1 md:mx-0"
       >
         <li
-          class="flex flex-col flex-grow flex-shrink w-full px-4 py-3 w-1/1 sm:w-1/2 md:w-1/4 sm:px-3 h-100 md:h-100 ld:h-40"
+          class="flex flex-col flex-grow flex-shrink px-4 py-3 w-full w-1/1 sm:w-1/2 md:w-1/4 sm:px-3 h-100 md:h-100 ld:h-40"
           v-for="{ url, title, date, cover, categories, hit } of articleList"
           :key="url"
         >
@@ -200,11 +200,11 @@ onMounted(() => {
               ? 'bg-white dark:bg-zinc-800 text-neutral-500 hover:bg-neutral-100 dark:hover:bg-zinc-800'
               : 'bg-gray-100 dark:bg-zinc-900 text-neutral-300'
           "
-          class="inline-block bg-white dark:text-slate-300 shadow-md rounded px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal transition duration-150 ease-in-out"
+          class="inline-block px-6 pt-2.5 pb-2 text-xs font-medium leading-normal uppercase bg-white rounded shadow-md transition duration-150 ease-in-out dark:text-slate-300"
         >
           {{ !hasPrevPage ? "第一页" : "上一页" }}
         </button>
-        <p class="text-center font-medium md:text-sm mt-2.5 w-12">
+        <p class="mt-2.5 w-12 font-medium text-center md:text-sm">
           <a
             class="inline-block underline decoration-pink-500 text-neutral-500 dark:text-neutral-500"
             >{{ pageKey }}</a
@@ -224,7 +224,7 @@ onMounted(() => {
             'bg-white dark:bg-zinc-800 text-neutral-500 hover:bg-neutral-100 dark:hover:bg-zinc-800 ':
               hasNextPage,
           }"
-          class="inline-block bg-white rounded dark:text-slate-300 shadow-md px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-neutral-800 transition duration-150 ease-in-out"
+          class="inline-block px-6 pt-2.5 pb-2 text-xs font-medium leading-normal uppercase bg-white rounded shadow-md transition duration-150 ease-in-out dark:text-slate-300 text-neutral-800"
         >
           {{ !hasNextPage ? "结束" : "下一页" }}
         </button>
