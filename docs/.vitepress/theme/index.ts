@@ -14,14 +14,19 @@ export default {
   Layout: customConfigProvider(Layout),
   enhanceApp({ app }) {
     Sentry.init({
-      app: app,
-      dsn: "https://28535f00024737c373688b8451acd0ce@sentry.is26.com/2",
+      dsn: "https://4fb5844861dc52c0f94cbf2c1aa5cec2@sentry.is26.com/2",
       integrations: [
-        new Integrations.BrowserTracing({
-          tracingOrigins: ["luolei.org", /^\//], // replace 'your-website.com' with your actual domain
+        new Sentry.BrowserTracing({
+          tracePropagationTargets: ["https://luolei.org", /^\/api\//],
+        }),
+        new Sentry.Replay({
+          maskAllText: false,
+          blockAllMedia: false,
         }),
       ],
-      tracesSampleRate: 1.0,
+      tracesSampleRate: 1.0, //  Capture 100% of the transactions
+      replaysSessionSampleRate: 0.1, // This sets the sample rate at 10%. You may want to change it to 100% while in development and then sample at a lower rate in production.
+      replaysOnErrorSampleRate: 1.0, // If you're not already sampling the entire session, change the sample rate to 100% when sampling sessions where errors occur.
     });
 
     app.component("ArticleComment", ArticleComment);
