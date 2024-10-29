@@ -1,4 +1,4 @@
-import * as Sentry from "@sentry/vue";
+import * as Sentry from "@sentry/browser";
 import { Theme } from "vitepress";
 import { Integrations } from "@sentry/tracing";
 import DefaultTheme from "vitepress/theme";
@@ -16,10 +16,8 @@ export default {
     Sentry.init({
       dsn: "https://4fb5844861dc52c0f94cbf2c1aa5cec2@sentry.is26.com/2",
       integrations: [
-        new Sentry.BrowserTracing({
-          tracePropagationTargets: ["https://luolei.org", /^\/api\//],
-        }),
-        new Sentry.Replay({
+        Sentry.browserTracingIntegration(),
+        Sentry.replayIntegration({
           maskAllText: false,
           blockAllMedia: false,
         }),

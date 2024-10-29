@@ -75,25 +75,26 @@ export default defineConfig({
   themeConfig: {
     logo: "./logo.svg",
     nav: [
-      { text: "ZUOLUOTV™", link: "https://youtube.com/zuoluotv" },
+      { text: "ZUOLUOTV™", link: "https://zuoluo.tv/youtube" },
       {
         text: "视频",
         items: [
-          { text: "YouTube", link: "https://youtube.com/zuoluotv" },
-          { text: "哔哩哔哩", link: "https://space.bilibili.com/7388950" },
+          { text: "YouTube", link: "https://zuoluo.tv/youtube" },
+          { text: "哔哩哔哩", link: "https://zuoluo.tv/bilibili" },
         ],
       },
+      { text: "RSS", link: "https://luolei.org/rss" },
       { text: "关于", link: "https://github.com/foru17" },
     ],
     socialLinks: [
-      { icon: "twitter", link: "https://x.com/luoleiorg" },
+      { icon: "twitter", link: "https://zuoluo.tv/twitter" },
       { icon: "github", link: "https://github.com/foru17" },
     ],
 
     outlineTitle: "本文导览",
     lastUpdatedText: "最后更新时间",
     footer: {
-      message: `Powered By <a href="https://github.com/foru17/luoleiorg">VitePress</a>`,
+      message: `Powered By <a href="https://zuoluo.tv/vitepress">VitePress</a>`,
       copyright: `Copyright © 2024 | <a href="https://luolei.org/">LUOLEI.ORG</a><br/>
       <a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow" class="d-none d-lg-inline-block">粤ICP备14004235号</a>
       `,
