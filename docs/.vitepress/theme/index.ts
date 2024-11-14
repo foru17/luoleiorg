@@ -8,6 +8,7 @@ import "./style.css";
 // import ThemeLayout from "./components/Layout.vue";
 import ArticleComment from "./components/ArticleComment.vue";
 import TweetCard from "./components/TweetCard.vue";
+import GearCard from "./components/GearCard.vue";
 import { customConfigProvider } from "./configProvider";
 export default {
   ...DefaultTheme,
@@ -29,5 +30,6 @@ export default {
 
     app.component("ArticleComment", ArticleComment);
     app.component("TweetCard", TweetCard);
+    app.component("GearCard", GearCard);
   },
 } as Theme;

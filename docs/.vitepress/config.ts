@@ -1,7 +1,7 @@
 import { defineConfig, HeadConfig } from "vitepress";
 import { RssPlugin, RSSOptions } from "vitepress-plugin-rss";
 import { rss } from "./genFeed";
-
+import svgLoader from "vite-svg-loader";
 import markdownImagePlugin from "./markdownPlugin";
 
 const RSS: RSSOptions = {
@@ -26,7 +26,7 @@ export default defineConfig({
     },
   },
   vite: {
-    // plugins: [RssPlugin(RSS)],
+    plugins: [svgLoader()],
   },
   head: [
     [
