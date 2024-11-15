@@ -3,6 +3,7 @@ import { data as posts } from "../posts.data.js";
 import { useData, withBase, useRoute, useRouter } from "vitepress";
 const { frontmatter } = useData();
 import { watch, nextTick, ref, onMounted, computed } from "vue";
+import IconTwitter from "../icons/twitter.svg?component";
 import { getPreviewImage, getFormatNumber } from "../utils";
 
 const props = defineProps({
@@ -111,7 +112,6 @@ const goToTweet = () => {
         <img :src="previewImage" alt="image" class="pt-2 w-full h-auto rounded-xl border-0" />
       </div>
 
-      
       <p
         class="py-0 text-sm !leading-none !my-4 text-gray-500 dark:text-gray-400"
       >
