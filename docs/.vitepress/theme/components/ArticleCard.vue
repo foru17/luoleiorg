@@ -183,10 +183,14 @@ onMounted(() => {
 
       <div class="flex justify-items-end items-center">
 
-        <IconLoading  v-if="!isArticleListHitsFetched" class="w-3 h-3 text-gray-200 animate-spin dark:text-gray-600 fill-blue-600"/>
-        <IconEye   v-if="isArticleListHitsFetched && hit <= hotArticleViews" class="inline-block mr-1 w-3 h-3 text-gray-400 dark:text-slate-400" />
-        <IconFire   v-if="isArticleListHitsFetched && hit > hotArticleViews" class="-mt-0 text-red-400 icon dark:text-red-500 fill-blue-600" />
-          
+        <IconLoading v-if="!isArticleListHitsFetched" 
+          class="w-3 h-3 text-gray-200 animate-spin dark:text-gray-600 fill-blue-600"/>
+        <template v-else>
+          <IconEye v-if="hit <= hotArticleViews" 
+            class="inline-block mr-1 w-3 h-3 text-gray-400 dark:text-slate-400" />
+          <IconFire v-else 
+            class="-mt-0 text-red-400 icon dark:text-red-500 fill-blue-600" />
+        </template>
         <p
           v-if="isArticleListHitsFetched"
           class="ml-px text-sm text-gray-400 sd:text-sm md:text-sm"
