@@ -23,7 +23,7 @@ Hoarder 是一个**基于 AI 的书签管理工具，可以自动摘录、识别
 - 仓库: [Github: Hoarder](https://github.com/hoarder-app/hoarder)
 - 体验网站: [Hoarder Demo](https://try.hoarder.app/)
 
-有关这个项目的介绍，大家可以直接看官网和官方文档，对于有一定动手能力的开发者来说，还是很容易上手的。
+有关这个项目的介绍，大家可以直接看官网和官方文档，官方的文档写得很详细。
 
 ![](https://c2.is26.com/blog/2024/11/hoarder/h-0.jpg)
 
@@ -38,7 +38,7 @@ Hoarder 是一个**基于 AI 的书签管理工具，可以自动摘录、识别
 
 ## Raycast Hoarder
 
-我部署完这个插件之后，感觉整个产品的完成度很高，加上有 API 支持，所以就顺手开发了一个 Raycast 插件，方便管理和使用 Hoarder。
+我部署完 Hoarder 之后，也安装了浏览器插件和 iOS 应用，感觉整个产品的完成度很高，加上有 API 支持，所以就顺手开发了一个 Raycast 插件，方便管理和使用 Hoarder。
 
 ![](https://c2.is26.com/blog/2024/11/hoarder/h-1.jpg)
 列表直接查看书签，支持网址、图片、文本三种格式的预览。

@@ -73,7 +73,7 @@ export default defineConfig({
     return head;
   },
   themeConfig: {
-    logo: "./logo.svg",
+    logo: "./logo.png",
     nav: [
       { text: "ZUOLUOTV™", link: "https://zuoluo.tv/youtube" },
       {
