@@ -29,10 +29,9 @@
 <template>
   <div class="w-auto">
     <div
-      class="relative px-5 py-5 rounded-md border md:px-5 md:py-5 border-zinc-300 dark:border-zinc-500">
+      class="relative px-5 py-5 border rounded-md md:px-5 md:py-5 border-zinc-300 dark:border-zinc-500">
       <section class="flex flex-col gap-y-[8px] text-sm md:text-sm">
-        <IconCopyright class="absolute right-3 w-4 h-4 md:h-6 md:w-6 text-black-100 md:right-5"/>
-       
+        <IconCopyright class="absolute w-4 h-4 right-3 md:h-6 md:w-6 text-black-100 md:right-5"/>
         <div>
           <span class="mr-1 font-medium">作者:</span>
           <span>
@@ -55,7 +54,7 @@
               rel="noreferrer"
               target="_blank">
               {{ title
-              }}<IconMarkdown class="inline-block -mt-1 ml-2 w-5 h-5" />
+              }}<IconMarkdown class="inline-block w-5 h-5 ml-2 -mt-1" />
             </a>
           </span>
         </div>
