@@ -13,7 +13,7 @@ tags:
 昨天又开发了一个基于 Hoarder 的书签管理插件，有了上次的开发经验，这次从初始化项目到最后提交上架，只花了一天时间。同样开源到了我的 Github 上。
 
 - [Github:Raycast Hoarder](https://github.com/foru17/raycast-hoarder)
-- [Raycast Store: Hoarder Bookmark](https://zuoluo.tv/hoarder)
+- [Raycast Store: Hoarder](https://www.raycast.com/luolei/hoarder)
 
 ## Hoarder 简介
 

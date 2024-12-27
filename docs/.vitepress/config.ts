@@ -18,7 +18,9 @@ export default defineConfig({
   appearance: false,
   ignoreDeadLinks: true,
   base: "/",
-  buildEnd: rss,
+  buildEnd: async (config) => {
+    await rss(config);
+  },
   markdown: {
     lineNumbers: true,
     config: (md) => {
@@ -42,7 +44,7 @@ export default defineConfig({
       {
         name: "description",
         content:
-          "我叫罗磊，来自中国深圳，程序员，前端工程师，视频节目 ZUOLUOTV 制作人，旅行摄影玩家和内容创作者，中文 Vlog 拍摄者，内容主题涉及科技、数码、互联网、摄影、旅行、生活方式等领域。",
+          "我是罗磊，来自中国深圳，程序员，前端工程师，视频节目 ZUOLUOTV 制作人，旅行摄影玩家和内容创作者，中文 Vlog 拍摄者，内容主题涉及科技、数码、互联网、摄影、旅行、生活方式等领域。",
       },
     ],
     [
@@ -60,15 +62,13 @@ export default defineConfig({
   ],
   transformHead: ({ pageData }) => {
     const head: HeadConfig[] = [];
+    const title = pageData?.frontmatter?.title || "罗磊的独立博客";
+    const description = pageData?.frontmatter?.description || "罗磊的独立博客";
+    const cover = pageData?.frontmatter?.cover || "/logo.png";
 
-    head.push([
-      "meta",
-      { property: "og:title", content: pageData.frontmatter.title },
-    ]);
-    head.push([
-      "meta",
-      { property: "og:description", content: pageData.frontmatter.title },
-    ]);
+    head.push(["meta", { property: "og:title", content: title }]);
+    head.push(["meta", { property: "og:description", content: description }]);
+    head.push(["meta", { property: "og:image", content: cover }]);
 
     return head;
   },
@@ -95,7 +95,7 @@ export default defineConfig({
     lastUpdatedText: "最后更新时间",
     footer: {
       message: `Powered By <a href="https://zuoluo.tv/vitepress">VitePress</a>`,
-      copyright: `Copyright © 2024 | <a href="https://luolei.org/">LUOLEI.ORG</a><br/>
+      copyright: `Copyright 2025 | <a href="https://luolei.org/">LUOLEI.ORG</a><br/>
       <a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow" class="d-none d-lg-inline-block">粤ICP备14004235号</a>
       `,
     },
