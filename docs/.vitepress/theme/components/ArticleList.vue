@@ -38,7 +38,7 @@ const pageSize = computed(() => {
       return Math.max(rowsPerPage * 4, minArticles); 
   } else if (pageWidth.value >= 640 && pageWidth.value <= 1024) {
     // 屏幕宽度在 640 px 到 1024px 之间，每行显示 3 篇文章
-    const rowsPerPage = Math.floor(usableHeight / articleHeight);
+    const rowsPerPage = Math.max(Math.floor(usableHeight / articleHeight),1);
     return rowsPerPage * 3; // 每页显示的文章数量
   } else {
     // 屏幕宽度小于 768px，每行显示 1 篇文章
