@@ -10,7 +10,8 @@
   "scripts": {
     "docs:dev": "vitepress dev docs --host --port 5177",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "generate-map": "node scripts/generateMap.js"
   },
   "devDependencies": {
     "@types/markdown-it": "^12.2.3",
