@@ -131,15 +131,6 @@ Twitter 被封的时候，我没什么反应，因为当时要高考也少上网
 
 使用 Google 进行搜索，至少你搜索一个关键字被屏蔽的时候，你还能知道什么被屏蔽了。
 
-附上一个小tips给暨大的同学，可以稳定地使用 Google 的服务
-
-~~[https://note.sdo.com/my#/my/notedetail/uPUSw~jr5OKFnM01I00Ajn](https://note.sdo.com/my#/my/notedetail/uPUSw~jr5OKFnM01I00Ajn)~~
-
-如果你有兴趣翻墙，可以提供技术协助。
-
-- 我的twiter [@foru17](https://x.com/luoleiorg)
-- 我的新浪微博: [@罗罗磊磊](https://weibo.com/foru17)
-
 汶川地震三周年，我们的孩子死去的那片校舍废墟已经被推为平地，不知道这群孩子的亡灵会不会知道有个人用书包堆了一座墙来纪念他们。同样是墙，一个是以思想为代价，一个是以生命为代价。
 
 发一个”魔“给大家。不知道这个”魔“什么时候会成为敏感词。
